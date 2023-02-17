@@ -1,0 +1,76 @@
+.container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+.bg_icon{
+    position:fixed;
+    width: 40%;
+    opacity: 0.1;
+    margin-top: 300px;
+    margin-left: -150px;
+    rotate: -30deg;
+}
+
+
+.cards_container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    gap: 20px;
+}
+
+.cards{
+    display: grid;
+    place-content: center;
+    padding: 30px;
+}
+
+.title{
+    font-weight: 900;
+    font-size: clamp(1.875rem, -0.0658rem + 6.5789vw, 4.375rem);
+}
+
+.text{
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(48, 48, 48);
+}
+
+.socials{
+    display: grid;
+    grid-template-columns: repeat(3, 40px);
+}
+
+.opensea{
+    
+}
+.icon{
+    font-size: 26px;
+}
+
+
+@media screen and (max-width: 767px) {
+    .container{
+        width: 90%;
+    }
+
+    .cards_container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .cards{
+        padding: 0;
+    }
+
+    .img{
+        margin-top: -20px;
+    }
+
+}
+
+@media screen and (max-width: 428px) {
+    .container{
+        width: 90%;
+    }
+
+}

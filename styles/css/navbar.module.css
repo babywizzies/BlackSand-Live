@@ -1,0 +1,106 @@
+.header{
+  position: sticky;
+  z-index: 30;
+  top: 0;
+  margin-bottom: 20px;
+}
+
+#nav{
+  display: flex;
+  padding: 0 50px 0 50px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+}
+
+.logo{
+  color: white;
+}
+
+.connect__button{
+  color: white;
+}
+
+.nav__menu__bar{
+  display: flex;
+  flex-direction: column;
+  row-gap: 6px;
+  font-size: 2rem;
+  cursor: pointer;
+  color: white;
+}
+
+.nav__menu__list{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  place-items: center;
+  top: 60px;
+  width: 100%;
+  row-gap: 24px;
+  left: -100%;
+  transition: all 0.2s;
+  min-height: calc(100vh - 60px);
+  color: white;
+  background-color: black;
+}
+
+.nav__menu__list.active{
+  left: 0;
+}
+
+.nav__item:hover{
+  color: #C2B280;
+}
+
+.connect__button:hover{
+  color: #C2B280;
+}
+
+@media screen and (min-width: 768px) {
+  .nav__menu__bar{
+    display: none;
+  }
+
+  .nav__menu__list{
+    position: unset;
+    flex-direction: row;
+    min-height: fit-content;
+    width: fit-content;
+    column-gap: 24px;
+    align-items: center;
+  }
+
+  .nav__link::before{
+    content: '';
+    position: absolute;
+    width: 0%;
+    height: 6px;
+    bottom: -16px;
+    left: 0;
+    background-color: black;
+    transition: all 0.2s;
+  }
+  
+  .nav__link:hover:before{
+   width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .nav__menu__list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 900;
+  }
+
+  .nav__menu__bar{
+    font-size: 24px;
+  }
+
+  #nav{
+    padding: 0 20px 0 20px;
+  }
+}

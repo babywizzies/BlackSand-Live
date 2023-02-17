@@ -1,0 +1,135 @@
+.container{
+    
+}
+
+.banner{
+    
+}
+
+.about{
+
+}
+
+.cards_container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.cards_container1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.cards{
+    display: grid;
+    padding: 20px;
+}
+
+.title{
+    display: grid;
+    place-items: center;
+    font-weight: 900;
+    font-size: clamp(2rem, 1.2599rem + 2.7668vw, 3.75rem);
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0 auto;
+    animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
+}
+
+.text{
+    font-weight: 500;
+    font-size: clamp(0.875rem, 0.7164rem + 0.5929vw, 1.25rem);
+    margin: 0;
+    letter-spacing: 0.5px;
+}
+
+.info{
+    text-align: center;
+    font-size: clamp(0.9125rem, 0.0847rem + 1.8671vw, 1.5rem);
+    color: rgb(43, 43, 43);
+    font-weight: 500; 
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+
+
+.subtitle{
+    font-size: clamp(0.995rem, 0.3898rem + 1.6447vw, 1.5rem);
+    font-weight: 700;
+    width: 70%;
+    
+}
+
+.divider{
+    width: 70%;
+}
+
+.subtext{
+    width: 70%;
+    font-weight: 500;
+    letter-spacing: 0.02rem;
+    color: rgb(43, 43, 43);
+    font-size: clamp(0.875rem, 0.6809rem + 0.6579vw, 1.125rem);
+}
+
+.read_more_less{
+    width: 70%;
+}
+
+.read_button{
+    all: unset;
+    font-weight: 700;
+    cursor: pointer;
+    color: red;
+    font-size: clamp(0.875rem, 0.6809rem + 0.6579vw, 1.125rem);
+}
+
+#more {
+    display: none;
+}
+
+@keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+}
+
+
+@media screen and (max-width: 764px){
+    .about{
+        padding: 20px;
+    }
+
+    .subtitle,
+    .divider,
+    .subtext{
+        width: 90%;
+    }
+
+    .read_more_less{
+        width: 90%;
+    }
+
+    .cards_container{
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .cards_container1{
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+
+    .info{
+        width: 100%;
+    }
+}

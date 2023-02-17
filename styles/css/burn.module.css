@@ -1,0 +1,98 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.subcontainer{
+}
+
+.text{
+    width: 90%;
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: clamp(0.875rem, 0.7164rem + 0.5929vw, 1.25rem);
+    color:rgb(29, 29, 29);
+    margin-top: 1rem;
+    text-align: center;
+}
+
+.sub_title{
+    font-weight: 900;
+    font-size: clamp(2rem, 1.207rem + 2.9644vw, 3.875rem);
+    text-align: center;
+    margin: 0;
+}
+
+.owned_container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 100px;
+    margin-top: 40px;
+}
+
+.owned_card{
+}
+
+.owned_title{
+    font-weight: 800;
+    text-align: center;
+}
+
+.owned{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.mint_button{
+    display: grid;
+    place-items: center;
+    margin-top: 30px;
+}
+
+.selected{
+    margin: 0 auto;
+    font-size: clamp(1rem, 0.8414rem + 0.5929vw, 1.375rem);
+    font-weight: 700;
+    margin-top: 30px;
+    text-align: center;
+    width: 80%;
+}
+
+@media screen and (max-width: 992px) {
+
+}
+
+
+@media screen and (max-width: 768px){
+    .owned{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+        width: 90%;
+    }
+
+}
+  
+
+@media screen and (max-width: 576px) {
+    .owned{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+        width: 90%;
+    }
+}
+
+
+@media screen and (max-width: 428px) {
+    .owned{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        width: 90%;
+        margin: 0 auto;
+        margin-top: 40px;
+    }
+}
+

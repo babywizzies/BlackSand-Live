@@ -1,0 +1,221 @@
+.container{
+    padding-top: 20px;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.subcontainer{
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 80%;
+    gap: 30px;
+    margin: 0 auto !important;
+}
+
+.title{
+    margin: 0;
+    font-size: clamp(1.375rem, 1.0365rem + 2.7607vw, 3rem);
+    font-weight: 900;
+    margin-bottom: 0.5rem;
+}
+
+.text{
+    margin: 0;
+    font-weight: 500;
+    font-size: 15px;
+    color:rgb(29, 29, 29);
+    margin-bottom: 0.5rem;
+}
+
+.price{
+    font-size: 24px;
+    font-weight: 600;
+    margin:0;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.bold{
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.mint{
+    display: grid;
+    place-items: center;
+}
+
+.mint_card_button{
+    display: grid;
+    grid-template-columns: repeat(3,1fr); 
+    gap: 50px;
+    place-items: center;
+    margin-bottom: 0.5rem;
+}
+
+.minusbutton,
+.incrementbutton{
+    background-color: transparent;
+    border: none;
+    font-size: clamp(1.25rem, 1.0385rem + 0.7905vw, 1.75rem);
+    cursor: pointer;
+}
+
+
+.plus,
+.minus{
+    font-size: clamp(0.625rem, 0.2147rem + 1.5337vw, 1.25rem);
+    margin: 0;
+}
+
+.number{
+    margin: 0;
+    font-weight: 900;
+    font-size: clamp(3rem, 2.6828rem + 1.1858vw, 3.75rem);
+}
+
+.mintbutton{
+    font-size: clamp(0.875rem, 0.6288rem + 0.9202vw, 1.25rem);
+    padding: 10px 100px 10px 100px;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    font-weight: 900;
+    cursor: pointer;
+}
+
+.sub_title{
+    font-weight: 900;
+    font-size: clamp(1.5rem, 0.5153rem + 3.681vw, 3rem);
+    text-align: center;
+}
+
+.owned{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.supply_price{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+
+}
+
+.supply,
+.price_mint{
+ 
+}
+
+.supply_title{
+    margin: 0;
+    text-align: center;
+    font-size: clamp(1rem, 0.7885rem + 0.7905vw, 1.5rem);
+    font-weight: 800;
+}
+
+.supply_text{
+    margin: 0;
+    margin-top: 10px;
+    text-align: center;
+    font-size: clamp(1rem, 0.7885rem + 0.7905vw, 1.5rem);
+    font-weight: 700;
+}
+
+.supply_subtext{
+    font-weight: 600;
+    text-align: center;
+}
+
+.totalcost{
+    margin: 0;
+    font-weight: 700;
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+@media screen and (max-width: 992px) {
+    .subcontainer{
+        width: 80%;
+    }
+    .title{
+        margin: 0.2rem;
+    }
+
+    .text{
+        margin: 0.2rem;
+    }
+
+    .price{
+        margin: 0.2rem;
+    }
+
+    .mint_button{
+        padding: 7px 70px 7px 70px;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+    .subcontainer{
+        width: 95%;
+    }  
+}
+
+@media screen and (max-width: 576px) {
+    .subcontainer{
+        width: 100%;
+        gap: 20px;
+    }
+
+    .mint_button{
+        padding: 5px 50px 5px 50px;
+    }
+
+    .mint_card_button{
+        margin-bottom: 0.2rem;
+        gap: 30px;
+    }
+
+    .card{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .owned{
+        grid-template-columns: repeat(3, 1fr);
+        width: 90%;
+        gap: 10px;
+    }
+}
+
+
+@media screen and (max-width: 428px) {
+    .subcontainer{
+        grid-template-columns: repeat(1,1fr);
+        width: 100%;
+    }
+
+    .img{
+        width: 350px;
+        height: 350px;
+        margin: 0 auto;
+    }
+
+    .supply_title{
+        width: 80%;
+        margin: 0 auto;
+    }
+}
+

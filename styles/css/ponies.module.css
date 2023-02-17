@@ -1,0 +1,123 @@
+.container{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.header {
+  display: grid;
+  grid-template-columns: 80% 20%;
+}
+
+.origin,
+.runes,
+.level,
+.exp{
+  margin: 0;
+  font-weight: 700;
+  font-size: clamp(0.875rem, 0.7693rem + 0.3953vw, 1.125rem);
+  display: flex;
+}
+
+.sub_header{
+  display: grid;
+  
+}
+
+.subcontainer{
+  display: grid;
+  align-items: center;
+}
+
+.subcontainer_1{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+}
+
+.portrait{
+  width: 100%;
+  border-radius: 10px;
+}
+
+.name{
+  margin: 0;
+  font-weight: 900;
+  font-size: clamp(2rem, 1.3127rem + 2.5692vw, 3.625rem);
+}
+
+.owner{
+  margin: 0;
+  font-weight: 700;
+  font-size: clamp(1rem, 0.8414rem + 0.5929vw, 1.375rem);
+}
+
+.pony_img{
+  display: grid;
+  place-items: center;
+}
+
+.card_container{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  place-content: center;
+  margin-top: 50px;
+}
+
+.card{
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.31);
+}
+
+.grid{
+  margin: 0 20px 0 20px;
+}
+
+.container_title{
+  margin: 0;
+  font-weight: 800;
+  letter-spacing: 1px;
+  margin: 10px 20px 10px 20px;
+  font-size: clamp(1.125rem, 0.8607rem + 0.9881vw, 1.75rem);
+}
+
+.container_text{
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  font-size: clamp(0.875rem, 0.7693rem + 0.3953vw, 1.125rem);
+  margin-top: 5px;
+  padding-bottom: 10px;
+}
+
+@media screen and (max-width: 428px) {
+  .container{
+    width: 90%
+  }
+
+  .header {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+  }
+
+  .sub_header{
+    gap: 10px;
+  }
+
+  .portrait{
+    width: 100%;
+  }
+
+  .card_container{
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+
+  .card{
+    padding: 20px 10px 20px 10px;
+  }
+}
