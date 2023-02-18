@@ -2,7 +2,7 @@ import '@rainbow-me/rainbowkit/styles.css';
 import '../styles/css/globals.css';
 import type { AppProps } from 'next/app';
 import { RainbowKitProvider, getDefaultWallets } from '@rainbow-me/rainbowkit';
-import { chain, configureChains, createClient, WagmiConfig } from 'wagmi';
+import { configureChains, createClient, goerli, mainnet, WagmiConfig } from 'wagmi';
 import { alchemyProvider } from 'wagmi/providers/alchemy';
 import { publicProvider } from 'wagmi/providers/public';
 import NavBar from '../components/NavBar/NavBar'
@@ -10,10 +10,9 @@ import Footer from '../components/Footer/Footer'
 
 const { chains, provider, webSocketProvider } = configureChains(
   [
-    chain.mainnet,
-
+    mainnet,
     ...(process.env.NEXT_PUBLIC_ENABLE_TESTNETS === 'true'
-      ? [chain.goerli, chain.kovan, chain.rinkeby, chain.ropsten]
+      ? [goerli]
       : []),
   ],
   [

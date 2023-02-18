@@ -28,7 +28,7 @@ const Main = () => {
               <div className={styles.socials}>
               <a target="_blank" href="https://twitter.com/the_BlackSand?s=20&t=GbO6icozR7BmHK3853VSfA" rel="noopener noreferrer"><FaTwitter className={styles.icon}/></a>
               <a target="_blank" href="https://discord.gg/B49CuHY8TT" rel="noopener noreferrer"><FaDiscord className={styles.icon}/></a>
-              <a target="_blank" href="https://opensea.io/collection/blacksandmounts" rel="noopener noreferrer"><Image width={28} height={28} src={Opensea}/></a>
+              <a target="_blank" href="https://opensea.io/collection/blacksandmounts" rel="noopener noreferrer"><Image alt="Opensea" width={28} height={28} src={Opensea}/></a>
               </div>
               
             </div>

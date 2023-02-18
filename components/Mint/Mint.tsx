@@ -6,13 +6,13 @@ import Baobob from '../../styles/img/baobob.png'
 import Pony from '../../styles/img/ponies/ponies1.png'
 import MerkleTree from "merkletreejs";
 import keccak256 from "keccak256";
-import { ethers } from 'ethers';
+import { BigNumber, ethers } from 'ethers';
 import {useAccount, useContractRead, useContractWrite, usePrepareContractWrite, useWaitForTransaction,} from 'wagmi';
 import contractInterface from '../../contract-abi.json';
 
 const contractConfig = {
-  addressOrName: '0x701d0D1aAE9B50e22641A8c60681bc1A1E311601',
-  contractInterface: contractInterface,
+  address: '0x701d0D1aAE9B50e22641A8c60681bc1A1E311601',
+  abi: contractInterface,
 };
 
 function generateLeaf(address: string): Buffer {
@@ -24,14 +24,6 @@ function generateLeaf(address: string): Buffer {
     "hex"
   );
 }
-
-
-
-
-
-
-
-
 
 const Mint = () => {
   const [totalMinted, setTotalMinted] = React.useState(0);
@@ -81,12 +73,12 @@ const Mint = () => {
 
 const { config: contractWriteConfig } = usePrepareContractWrite({
   ...contractConfig,
-  functionName: 'generalAdoption',
-  args: [`${mintCount}`],
-  overrides: {
-     value: ethers.utils.parseEther(`${mintPrice}`),
-  },
-}
+    functionName: 'generalAdoption',
+    args: [`${mintCount}`],
+    overrides: {
+       value: ethers.utils.parseEther(`${mintPrice}`),
+    },
+  }
 );
 
 const freeLeafNodes = freeMintAddresses.map(addr => keccak256(addr));
@@ -138,8 +130,8 @@ const {
 });
 
 React.useEffect(() => {
-    if (totalSupplyData) {
-      setTotalMinted(totalSupplyData.toNumber());
+    if (totalSupplyData && totalSupplyData as BigNumber) {
+      setTotalMinted((totalSupplyData as BigNumber).toNumber());
     }
 }, [totalSupplyData]);
 

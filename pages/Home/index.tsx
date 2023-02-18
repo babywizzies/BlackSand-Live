@@ -5,14 +5,14 @@ import { FaMinus, FaPlus } from 'react-icons/fa'
 import type { NextPage } from 'next';
 import MerkleTree from "merkletreejs";
 import keccak256 from "keccak256";
-import { ethers } from 'ethers';
+import { BigNumber, ethers } from 'ethers';
 import {useAccount, useContractRead, useContractWrite, usePrepareContractWrite, useWaitForTransaction,} from 'wagmi';
 import contractInterface from '../contract-abi.json';
 import { ConnectButton } from '@rainbow-me/rainbowkit';
 
 const contractConfig = {
-  addressOrName: '0xf486f696B80164B5943191236ECa114f4EfAb2FF',
-  contractInterface: contractInterface,
+  address: '0xf486f696B80164B5943191236ECa114f4EfAb2FF',
+  abi: contractInterface,
 };
 
 function generateLeaf(address: string): Buffer {
@@ -48,9 +48,9 @@ const { address, isConnected } = useAccount();
 const { config: contractWriteConfig } = usePrepareContractWrite({
     ...contractConfig,
     functionName: 'generalMinting',
-    args: `${mintCount}`,
+    args: [`${mintCount}`],
     overrides: {
-       value: ethers.utils.parseEther(`${mintPrice}`),
+        value: ethers.utils.parseEther(`${mintPrice}`),
     },
   }
 );
@@ -258,8 +258,8 @@ const {
 });
 
 React.useEffect(() => {
-    if (totalSupplyData) {
-      setTotalMinted(totalSupplyData.toNumber());
+    if (totalSupplyData && totalSupplyData as BigNumber) {
+      setTotalMinted((totalSupplyData as BigNumber).toNumber());
     }
 }, [totalSupplyData]);
 
