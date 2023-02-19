@@ -1,5 +1,5 @@
 {
-  "name": "heroesnew",
+  "name": "blacksand-site",
   "private": true,
   "version": "0.1.0",
   "scripts": {
@@ -10,19 +10,19 @@
     "pm2": "pm2"
   },
   "dependencies": {
-    "@rainbow-me/rainbowkit": "^0.4.5",
+    "@rainbow-me/rainbowkit": "^0.9",
     "axios": "^0.27.2",
     "ethers": "^5.0.0",
     "keccak256": "^1.0.6",
     "merkletreejs": "^0.2.32",
-    "next": "^12.1.6",
+    "next": "^13.0",
     "nextjs-cors": "^2.1.1",
     "pm2": "^5.2.2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-icons": "^4.7.1",
     "swiper": "^8.4.3",
-    "wagmi": "^0.6.0"
+    "wagmi": "^0.9"
   },
   "devDependencies": {
     "@types/node": "^17.0.35",
