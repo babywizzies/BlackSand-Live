@@ -5,6 +5,8 @@ import fs from "fs";
 import path from "path";
 import { GetServerSideProps } from "next";
 import { EnginePoints } from "../../../types/EnginePoints";
+import { TokenMedia, useTokens } from "@reservoir0x/reservoir-kit-ui";
+import useEnsResolver from "../../../hooks/useENSResolver";
 
 export const getServerSideProps: GetServerSideProps = async ({ params }) => {
   const id = params?.id as string;
@@ -64,6 +66,12 @@ export default function Ponies({
   treatRolls,
   enginePoints,
 }: PoniesProps) {
+  const { data: tokenData } = useTokens({
+    tokens: [`0xf55b615b479482440135ebf1b907fd4c37ed9420:${pony["Pony ID"]}`],
+    includeAttributes: true,
+  });
+  const token = tokenData[0]?.token;
+  const owner = useEnsResolver(token?.owner);
   const treat1 = treatRolls?.filter((p: any) => p.hasOwnProperty("treat1"));
   const treat2 = treatRolls?.filter((p: any) => p.hasOwnProperty("treat2"));
   const treat3 = treatRolls?.filter((p: any) => p.hasOwnProperty("treat3"));
@@ -118,7 +126,15 @@ export default function Ponies({
     pony["Treat #2"] === "" &&
     pony["Treat #3"] === "";
 
-  const imageLink = `https://portal.forgottenrunes.com/api/shadowfax/img/${pony["Pony ID"]}`;
+  let rune = "None";
+  let origin = "None";
+  token?.attributes?.forEach((attribute) => {
+    if (attribute.key === "Rune") {
+      rune = attribute.value;
+    } else if (attribute.key === "Pony") {
+      origin = attribute.value;
+    }
+  });
 
   return (
     <div>
@@ -127,16 +143,14 @@ export default function Ponies({
           <div className={styles.sub_header}>
             <div className={styles.sub_header}>
               <div className={styles.owner_name}>
-                <h1 className={styles.name}>{pony["Pony Name"]}</h1>
-                <p className={styles.owner}>
-                  Pony Owner: {pony.Holder.toUpperCase()}
-                </p>
+                <h1 className={styles.name}>{token?.name}</h1>
+                <p className={styles.owner}>Pony Owner: {owner.displayName}</p>
               </div>
             </div>
             <div className={styles.subcontainer_1}>
               <div className={styles.origin_runes}>
-                <p className={styles.origin}>Origins: {pony.Origins}</p>
-                <p className={styles.runes}>Rune: {pony.Rune}</p>
+                <p className={styles.origin}>Origins: {origin}</p>
+                <p className={styles.runes}>Rune: {rune}</p>
               </div>
               <div className={styles.level_exp}>
                 <p className={styles.level}>Level: {pony["Level"]}</p>
@@ -146,7 +160,10 @@ export default function Ponies({
               </div>
             </div>
           </div>
-          <img src={imageLink} key={pony.id} className={styles.portrait} />
+          <TokenMedia
+            token={token}
+            style={{ width: "100%", borderRadius: 10, height: "auto" }}
+          />
 
           <div className={styles.card_container}>
             <div className={styles.card}>
