@@ -1,0 +1,21 @@
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+
+.title{
+  font-weight: 900;
+  font-size: clamp(2rem, 0.6414rem + 4.6053vw, 3.75rem);
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.connect-subtitle {
+  margin-bottom: 10px;
+}
+
+.token-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}

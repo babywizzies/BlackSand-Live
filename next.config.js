@@ -1,16 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  images : {
-    domains : ['heroesofcumberland.com']
+  experimental: {
+    transpilePackages: ["@reservoir0x/reservoir-kit-ui"],
   },
-  rewrites: async () => [
-    {
-      source: "/public/games.html",
-      destination: "/pages/api/mygames.js",
-    },
-  ],
 };
 
 module.exports = nextConfig;
-

@@ -13,22 +13,19 @@ export async function getServerSideProps(context) {
   const filePath2 = path.join(process.cwd(), 'pages', 'api', 'blacksand', 'EtherCupRanking.json')
   const data2 = JSON.parse(fs.readFileSync(filePath2, 'utf8'))
   const ranking = data2.find(p => p["Pony ID"] === parseInt(id));
-  const { data: diceRollData } = await axios.get(`http://localhost:3001/dice-rolls`)
+  const { data: diceRollData } = await axios.get(`https://blacksand.city/gameengine/dice-rolls`)
   const treatRolls = diceRollData.filter(p => p["id"] === id);
-  const { data: engineData } = await axios.get(`http://localhost:3001/engine`)
+  const { data: engineData } = await axios.get(`https://blacksand.city/gameengine/engine`)
   console.log('engineData:', engineData)
-  const enginePoints = engineData.find(obj => obj["Pony ID"] === parseInt(id));
- 
-  
+  const enginePoints = engineData.find(obj => obj["Pony ID"] === parseInt(id)) || {}
 
-  console.log('enginePoints:', enginePoints)
   const pony = data.find(p => p["Pony ID"] === parseInt(id));
 
   if (!pony) {
     return { props: { pony: null } }
   }
   if (!treatRolls) {
-    return { props: { pony: pony, ranking: ranking, treatRolls: null } }
+    return { props: { pony: pony, ranking: ranking, treatRolls: null, enginePoints } }
   }
 
 
@@ -39,14 +36,14 @@ export async function getServerSideProps(context) {
 
 }
 
-export default function Pony({ pony, ranking,  treatRolls, engineData, enginePoints}) {
+export default function Pony({ pony, ranking,  treatRolls, engineData, enginePoints = {}}) {
 
-  const treat1 = treatRolls.filter(p => p.hasOwnProperty('treat1'));
-  const treat2 = treatRolls.filter(p => p.hasOwnProperty('treat2'));
-  const treat3 = treatRolls.filter(p => p.hasOwnProperty('treat3'));
-  let treat1Value = treat1.length > 0 && treat1[0].roll ? parseInt(treat1[0].roll, 10) : 0;
-  let treat2Value = treat2.length > 0 && treat2[0].roll ? parseInt(treat2[0].roll, 10) : 0;
-  let treat3Value = treat3.length > 0 && treat3[0].roll ? parseInt(treat3[0].roll, 10) : 0;
+  const treat1 = treatRolls?.filter(p => p.hasOwnProperty('treat1'));
+  const treat2 = treatRolls?.filter(p => p.hasOwnProperty('treat2'));
+  const treat3 = treatRolls?.filter(p => p.hasOwnProperty('treat3'));
+  let treat1Value = treat1?.length > 0 && treat1[0].roll ? parseInt(treat1[0].roll, 10) : 0;
+  let treat2Value = treat2?.length > 0 && treat2[0].roll ? parseInt(treat2[0].roll, 10) : 0;
+  let treat3Value = treat3?.length > 0 && treat3[0].roll ? parseInt(treat3[0].roll, 10) : 0;
   const treatPoints = treat1Value + treat2Value + treat3Value;
 
   const twitterPoints = enginePoints["Twitter Points"] ? parseInt(enginePoints["Twitter Points"], 10) : 0;
@@ -58,8 +55,6 @@ const moralePoints = enginePoints['Morale Points'] ? parseInt(enginePoints['Mora
 const racePoints = enginePoints['Race Week Points'] ? parseInt(enginePoints['Race Week Points'], 10) : 0;
 
 const totalPoints = twitterPoints + treatPoints + abilityPoints + lootPoints + trainingPoints + moralePoints + racePoints;
-
-console.log(enginePoints)
 
   const router = useRouter()
   if (!pony) {
