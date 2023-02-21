@@ -104,7 +104,7 @@ export default function MechaPony({
   //   pony["Ability #1"] === "" &&
   //   pony["Ability #2"] === "" &&
   //   pony["Ability #3"] === "";
-  const allAbilitiesEmpty = true;
+  const allAbilitiesEmpty = false;
 
   // const allTreatsEmpty =
   //   pony["Treat #1"] === "" &&
@@ -139,28 +139,31 @@ export default function MechaPony({
             <div className={styles.card}>
               <div className={styles.abilities}>
                 <h1 className={styles.container_title}>Abilities</h1>
-                {allAbilitiesEmpty && (
+                {/* {allAbilitiesEmpty && (
                   <p className={styles.container_text}>No abilities</p>
-                )}
-                {/* {!allAbilitiesEmpty && (
-                  <div className={styles.grid}>
-                    {pony["Ability #1"] && (
-                      <p className={styles.container_text}>
-                        Ability #1: {pony["Ability #1"]}
-                      </p>
-                    )}
-                    {pony["Ability #2"] && (
-                      <p className={styles.container_text}>
-                        Ability #2: {pony["Ability #2"]}
-                      </p>
-                    )}
-                    {pony["Ability #3"] && (
-                      <p className={styles.container_text}>
-                        Ability #3: {pony["Ability #3"]}
-                      </p>
-                    )}
-                  </div>
                 )} */}
+                {!allAbilitiesEmpty && (
+                  <div className={styles.grid}>
+                    <p className={styles.container_text}>
+                      Ability #1: !serve:{" "}
+                      <span className={styles.container_subtle_text}>
+                        give 2 race points to another random pony, earn 1 race
+                        point yourself (can be done 1 time per day, max 3 times
+                        per race)
+                      </span>
+                    </p>
+                    <p className={styles.container_text}>
+                      Ability #2: !robocharge:{" "}
+                      <span className={styles.container_subtle_text}>
+                        roll 1x D8, outcomes below
+                      </span>
+                    </p>
+                    <p>1: Engine break! -2 Race points</p>
+                    <p>2-3: Out of steam! Nothing happens, 0 points </p>
+                    <p>4-5-6-7: Charge! +3 Race points</p>
+                    <p>8: Quantum Crystal shock! +5 Race points</p>
+                  </div>
+                )}
               </div>
             </div>
 
