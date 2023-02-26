@@ -1,25 +1,20 @@
-import type { NextPage } from 'next';
-import Head from 'next/head';
-import Mint from '../pages/Home/index'
+import type { NextPage } from "next";
+import Head from "next/head";
+import Mint from "../components/Mint/Mint";
+import React from "react";
 
 const MintPage: NextPage = () => {
   return (
     <div className="container">
       <Head>
-        <title>Blacksand Racing</title>
-        <meta
-          name="description"
-          content="Welcome to the BlackSand"
-        />
+        <title>Blacksand</title>
+        <meta name="description" content="Welcome to the BlackSand" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
-      <main className="main">
-      
-        <Mint/>
-      </main>
 
-     
+      <main className="main">
+        <Mint />
+      </main>
     </div>
   );
 };

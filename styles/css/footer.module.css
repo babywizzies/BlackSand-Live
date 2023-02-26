@@ -1,12 +1,13 @@
 .container{
     background-color: black;
     display: grid;
+    gap: 10px;
     left: 0;
     bottom: 0;
     width: 100%;
     color: white;
-    text-align: center;
-    margin-top: 50px;  
+    text-align: center; 
+    padding: 20px;
 }
 
 .title{
@@ -17,12 +18,7 @@
 
 .social{
     font-size: clamp(1rem, 0.8059rem + 0.6579vw, 1.25rem);
-    margin-bottom: 0.5rem;
     display: grid;
-    grid-template-columns: repeat(3, 40px);
+    grid-template-columns: repeat(2, 40px);
     place-content: center;
-}
-
-.thanks_text{
-    font-size: clamp(0.75rem, 0.5559rem + 0.6579vw, 1rem);
 }

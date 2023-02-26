@@ -1,5 +1,6 @@
-import "@rainbow-me/rainbowkit/styles.css";
 import "../styles/css/globals.css";
+import "../styles/css/accordion.css";
+import "@rainbow-me/rainbowkit/styles.css";
 import type { AppProps } from "next/app";
 import { RainbowKitProvider, getDefaultWallets } from "@rainbow-me/rainbowkit";
 import {
