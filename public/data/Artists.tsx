@@ -1,7 +1,7 @@
 const artists = [
   {
     name: "AcidEater",
-    img: "/img/acidBorder.png",
+    img: "/img/acidborder.png",
     roles: ["Generative Artist", "One-of-One Artist"],
     twitterHandle: "_acideater_",
   },
