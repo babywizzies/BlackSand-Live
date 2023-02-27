@@ -7,7 +7,7 @@ const MarketPage: NextPage = () => {
   return (
     <div className="container">
       <Head>
-        <title>BlackSand</title>
+        <title>BlackSand - Market</title>
         <meta name="description" content="Welcome to the BlackSand" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

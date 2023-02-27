@@ -1,21 +1,103 @@
 .container{
   width: 90%;
   margin: 0 auto;
+  max-width: 1035px;
 }
 
 .title{
-  font-weight: 900;
-  font-size: clamp(2rem, 0.6414rem + 4.6053vw, 3.75rem);
-  margin: 0;
-  margin-bottom: 1rem;
+  font-family: 'Origen';
+  font-size: clamp(4rem, 2.5638rem + 5.3691vw, 6rem);
+  background: -webkit-linear-gradient(#fbea71, #d4b42c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  line-height: 110px;
+}
+
+.subtitle {
+  color: white;
+  margin-bottom: 20px;
 }
 
 .connect-subtitle {
   margin-bottom: 10px;
+  color: white;
 }
 
 .token-grid {
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+.token-name {
+  padding: 8px;
+  color: white;
+}
+
+.token-card {
+  width: 200px;
+  border-radius: 8px;
+  position: relative;
+}
+
+.token-actions {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  background: rgba(0,0,0, 0.4);
+  opacity: 0;
+  transition: 200ms opacity ease-in;
+  overflow: hidden;
+}
+
+.token-card:hover .token-actions {
+  opacity: 1;
+}
+
+.token-button {
+  padding: 4px 12px;
+  border-radius: 8px;
+  font-weight: 800;
+  background: rgba(255, 255, 255, 0.8);
+  transition: 200ms background ease-in-out;
+}
+
+.token-button:hover {
+  background: rgba(255, 255, 255, 1);
+}
+
+.token-actions > a,
+.token-actions > .token-button {
+  transition: 200ms all ease-in;
+}
+
+.token-actions > a:first-child,
+.token-actions > .token-button:first-child {
+  transform: translateX(150px)
+}
+
+.token-actions > a:last-child,
+.token-actions > .token-button:last-child {
+  transform: translateX(-150px)
+}
+
+.token-card:hover .token-actions > a,
+.token-card:hover .token-actions > .token-button {
+  transform: translateX(0);
+}
+
+.step-container,
+.step-container-enabled {
+  width: 0;
+  transition: all 200ms ease-in-out;
+  overflow: hidden;
+}
+
+.step-container-enabled {
+  width: 100%
 }
