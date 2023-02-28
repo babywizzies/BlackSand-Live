@@ -1,25 +1,20 @@
-import type { NextPage } from 'next';
-import Head from 'next/head';
-import Main from '../components/Main/Main'
+import type { NextPage } from "next";
+import Head from "next/head";
+import Main from "../components/Main/Main";
+import React from "react";
 
 const Home: NextPage = () => {
   return (
-    <div className="container">
+    <div id="star">
       <Head>
-        <title>Blacksand Racing</title>
-        <meta
-          name="description"
-          content="Welcome to the BlackSand"
-        />
+        <title>BlackSand</title>
+        <meta name="description" content="Welcome to the BlackSand" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      
-      <main className="main">
-      
-        <Main/>
-      </main>
 
-     
+      <main>
+        <Main />
+      </main>
     </div>
   );
 };

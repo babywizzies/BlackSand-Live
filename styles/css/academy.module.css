@@ -1,104 +1,146 @@
-.container{
-    width: 90%;
-    margin: 0 auto;
-}
-
-.img{
-    display: grid;
-    box-shadow: 25px 25px 25px -16px rgba(0,0,0,0.1);
-}
-
 .title{
-    font-weight: 900;
-    font-size: clamp(2rem, 0.6414rem + 4.6053vw, 3.75rem);
-    margin: 0;
-    margin-bottom: 1rem;
+    font-family: 'Origen';
+    font-size: clamp(4rem, 2.5638rem + 5.3691vw, 6rem);
+    background: -webkit-linear-gradient(#fbea71, #d4b42c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    line-height: 110px;
 }
 
 .text{
-    font-weight: 500;
-    color: rgb(58, 58, 58);
-    letter-spacing: 0.5px;
-    margin: 0;
-    margin-bottom: 2rem;
-    font-size: clamp(0.875rem, 0.4868rem + 1.3158vw, 1.375rem);
-}
-
-.grid_container{
-    display: grid;
-    gap: 30px
-}
-
-.grid_title{
-    font-weight: 800;
-    font-size: clamp(1.625rem, 1.4309rem + 0.6579vw, 1.875rem);
-    margin: 0;
-    margin-bottom: 1rem;
-}
-
-.grid{
-    display: grid;
-    grid-template-columns: repeat(7, 1fr);
-    gap: 20px;
-}
-
-.people{
-    display: grid;
-    place-content: center;
-}
-
-.name{
-    text-align: center;
-    font-size: clamp(0.75rem, 0.6971rem + 0.1976vw, 0.875rem);
-    font-weight: 700;
-    margin: 0;
-    letter-spacing: 0.3px;
-    margin-top: 0.5rem;
-}
-
-.line{
+    color: white;
     width: 80%;
-    background-color: black;
+    text-align: center;
+    font-size: clamp(0.8rem, 0.5128rem + 1.0738vw, 1.2rem);
 }
 
-.socials{
-    font-size: clamp(0.875rem, 0.6809rem + 0.6579vw, 1.125rem);
+.img_container{
+    width: 80%;
+    margin-top: 50px;
     display: grid;
-    place-items: center;
+    grid-template-columns: repeat(5,1fr);
+    margin-bottom: 50px;
 }
 
-.icon{
+.image{
     cursor: pointer;
 }
 
-.disabled{
-    
+.grid_title{
+    font-family: 'Piilani';
+    font-size: clamp(1.5rem, 1.0771rem + 1.581vw, 2.5rem);
+    background: -webkit-linear-gradient(#fbea71, #d4b42c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
-@media screen and (max-width: 992px) {
-    .grid{
-        grid-template-columns: repeat(5, 1fr);
-    }
+.grid_box{
+    width: 90%;
 }
 
-
-@media screen and (max-width: 768px){
-
+.grid{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
 }
 
-@media screen and (max-width: 576px) {
-    .grid{
-        grid-template-columns: repeat(3, 1fr);
-    }
+.img{
+    border-radius: 20px;
+    border: 5px solid grey;
+    margin: 0;
+    display: grid;
 }
+
+.name {
+    transition: all 200ms ease-in;
+    transform: translateY(30px);
+}
+
+.name {
+    font-family: 'Piilani';
+    color:#fbea71;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 10px;
+    font-size: clamp(0.8rem, 0.504rem + 1.1067vw, 1.5rem);
+}
+
+.role {
+    color: white;
+    font-size: clamp(0.6rem, 0.3885rem + 0.7905vw, 1.1rem);
+}
+
+.twitter {
+    font-size: clamp(1rem, 0.5771rem + 1.581vw, 2rem);
+}
+
+.tooltip {
+    position: relative;
+    display: grid;
+    aspect-ratio: 1/1;
+  }
+  
+  .tooltip .tooltiptext {
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    color:#fbea71;
+    text-align: center;
+    padding: 5px 0;
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+   display: grid;
+   place-items: center;
+   cursor: pointer;
+   opacity: 0;
+   transition: all 200ms ease-in;
+  }
+
+  .tooltip:hover .tooltiptext {
+    opacity: 1; 
+  }
+
+  .tooltip:hover .name {
+    transform: translateY(0);
+  }
 
 @media screen and (max-width: 428px) {
-    .grid_container{
-        gap: 20px
+    .title{
+        line-height: 70px;
     }
 
-    .grid{
-        grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
+    .img_container{
+        grid-template-columns: repeat(3,1fr);
+        width: 90%;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+
+    .text{
+        margin-top: 10px;
+        width: 90%;    
+    }
+
+    .img{
+        width: 100px;
+    }
+
+    .grid_box{
+        width: 95%;
+    }
+
+    .people{
+        width: 105px;
+        display: grid;
+        place-items: center;
     }
 }
