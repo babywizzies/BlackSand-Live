@@ -24,13 +24,22 @@ const Footer = () => {
         </a>
       </div>
       <p style={{ fontWeight: "500" }}>
-        <Link href="https://opensea.io/collection/blacksandmounts">
+        <a
+          target="_blank"
+          href="https://opensea.io/collection/blacksandmounts"
+          rel="noopener noreferrer"
+        >
           Opensea
-        </Link>{" "}
+          </a>
+        {" "}
         |{" "}
-        <Link href="https://forgotten.market/0xf486f696b80164b5943191236eca114f4efab2ff">
+        <a
+          target="_blank"
+          href="https://forgotten.market/0xf486f696b80164b5943191236eca114f4efab2ff"
+          rel="noopener noreferrer"
+        >
           Forgotten Market
-        </Link>
+          </a>
       </p>
     </footer>
   );
