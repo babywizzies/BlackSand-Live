@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import styles from "../../../styles/css/ponies.module.css";
+import styles from "styles/css/ponies.module.css";
 import fs from "fs";
 import path from "path";
 import { GetServerSideProps } from "next";
