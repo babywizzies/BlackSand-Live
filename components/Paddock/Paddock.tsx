@@ -119,9 +119,22 @@ const Paddock = () => {
       )}
       {address && (
         <div style={{ display: "flex", gap: 30 }}>
-          <div style={{ borderRight: "1px solid white", paddingRight: 30 }}>
+          <div
+            style={{
+              alignSelf: "flex-start",
+              position: "sticky",
+              height: "auto",
+              top: 70,
+            }}
+          >
             <h2 className={styles.subtitle}>Racing Selection</h2>
-            <div style={{ display: "flex", flexDirection: "column", gap: 20 }}>
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                gap: 20,
+              }}
+            >
               <div className={styles["selection-pony"]}>
                 {!selectedRacer ? (
                   <>
@@ -158,7 +171,14 @@ const Paddock = () => {
               </div>
             </div>
           </div>
-          <div style={{ position: "relative", width: "100%" }}>
+          <div
+            style={{
+              position: "relative",
+              width: "100%",
+              borderLeft: "1px solid white",
+              paddingLeft: 30,
+            }}
+          >
             {isLoadingTokens && (
               <div
                 className="loader"
