@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useMemo, useState } from "react";
 import styles from "../../styles/css/paddock.module.css";
 import { useAccount } from "wagmi";
 import useIsMounted from "../../hooks/useIsMounted";
@@ -47,25 +47,59 @@ const SPECIAL_RACE_ITEMS = Object.values(RACE_ITEMS_RULES)
   .flat();
 
 const Paddock = () => {
-  // const { address } = useAccount();
-  const address = "0x95ddad467801e292ee9e7f9f040ceb54d5e30439";
+  const { address } = useAccount();
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
-  const { data: tokenData } = useUserTokens(address, {
-    collectionsSetId: COLLECTION_SET_ID,
-    limit: 200,
-  });
-
-  const { data: itemTokenData } = useUserTokens(address, {
-    collection: ITEM_CONTRACT,
-    limit: 200,
-  });
-
-  const ponyTokens = tokenData?.filter(
-    (tokenData) => tokenData?.token?.contract === PONY_CONTRACT
+  const [selectedItems, setSelectedItems] = useState<string[]>([]);
+  const { data: tokenData, isLoading: isLoadingTokens } = useUserTokens(
+    address,
+    {
+      collectionsSetId: COLLECTION_SET_ID,
+      limit: 200,
+    }
   );
-  const mountTokens = tokenData?.filter(
-    (tokenData) => tokenData?.token?.contract === BS_MOUNT_CONTRACT
+
+  const { data: itemTokenData } = useUserTokens(
+    "0xc185ffb12406b8bd994c7805ed0339ce9f2529ec",
+    {
+      collection: ITEM_CONTRACT,
+      limit: 200,
+    }
+  );
+
+  const specialItems = useMemo(
+    () =>
+      itemTokenData?.filter((tokenData) =>
+        tokenData?.token?.tokenId
+          ? SPECIAL_RACE_ITEMS.includes(tokenData?.token?.tokenId)
+          : false
+      ),
+    [itemTokenData]
+  );
+
+  const otherItems = useMemo(
+    () =>
+      itemTokenData?.filter((tokenData) =>
+        tokenData?.token?.tokenId
+          ? !SPECIAL_RACE_ITEMS.includes(tokenData?.token?.tokenId)
+          : false
+      ),
+    [itemTokenData]
+  );
+
+  const ponyTokens = useMemo(
+    () =>
+      tokenData?.filter(
+        (tokenData) => tokenData?.token?.contract === PONY_CONTRACT
+      ),
+    [tokenData]
+  );
+  const mountTokens = useMemo(
+    () =>
+      tokenData?.filter(
+        (tokenData) => tokenData?.token?.contract === BS_MOUNT_CONTRACT
+      ),
+    [tokenData]
   );
 
   if (!isMounted) {
@@ -104,6 +138,7 @@ const Paddock = () => {
                     src={`https://api.reservoir.tools/redirect/tokens/${selectedRacer}/image/v1`}
                     alt="Racer"
                     fill
+                    unoptimized
                     loader={({ src }) => src}
                   />
                 )}
@@ -123,7 +158,20 @@ const Paddock = () => {
               </div>
             </div>
           </div>
-          <div>
+          <div style={{ position: "relative", width: "100%" }}>
+            {isLoadingTokens && (
+              <div
+                className="loader"
+                style={{
+                  position: "absolute",
+                  zIndex: 1000,
+                  marginRight: "auto",
+                  marginLeft: "auto",
+                  marginTop: 50,
+                  inset: 0,
+                }}
+              ></div>
+            )}
             {ponyTokens.length > 0 && (
               <>
                 <h2 className={styles.subtitle}>Ponies</h2>
@@ -205,6 +253,58 @@ const Paddock = () => {
                 </div>
               </>
             )}
+            <>
+              <h2 className={styles.subtitle}>Special Treats</h2>
+              <div className={styles["treat-grid"]}>
+                {specialItems.map((item) => {
+                  if (item?.token) {
+                    return (
+                      <div
+                        key={item?.token?.tokenId}
+                        className={styles["treat-card"]}
+                      >
+                        <TokenMedia token={item?.token as any} />
+                        <p className={styles["token-name"]}>
+                          {item.token.name}
+                        </p>
+                        <div className={styles["token-actions"]}>
+                          <button className={styles["token-button"]}>
+                            Stow
+                          </button>
+                        </div>
+                      </div>
+                    );
+                  } else {
+                    return null;
+                  }
+                })}
+              </div>
+              <h2 className={styles.subtitle}>Treats</h2>
+              <div className={styles["treat-grid"]}>
+                {otherItems.map((item) => {
+                  if (item?.token) {
+                    return (
+                      <div
+                        key={item?.token?.tokenId}
+                        className={styles["treat-card"]}
+                      >
+                        <TokenMedia token={item?.token as any} />
+                        <p className={styles["token-name"]}>
+                          {item.token.name}
+                        </p>
+                        <div className={styles["token-actions"]}>
+                          <button className={styles["token-button"]}>
+                            Stow
+                          </button>
+                        </div>
+                      </div>
+                    );
+                  } else {
+                    return null;
+                  }
+                })}
+              </div>
+            </>
           </div>
         </div>
       )}

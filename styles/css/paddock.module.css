@@ -17,7 +17,8 @@
 
 .subtitle {
   color: white;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  margin-top: 20px;
 }
 
 .connect-subtitle {
@@ -25,10 +26,16 @@
   color: white;
 }
 
-.token-grid {
-  display: flex;
-  flex-wrap: wrap;
+.token-grid,
+.treat-grid {
+  display: grid;
   gap: 8px;
+  grid-template-columns: repeat(3, auto);
+  position: relative;
+}
+
+.treat-grid {
+  grid-template-columns: repeat(6, auto);
 }
 
 .token-name {
@@ -36,14 +43,21 @@
   color: white;
 }
 
-.token-card {
+.token-card,
+.treat-card {
   min-width: 200px;
   border-radius: 8px;
   position: relative;
   flex: 1;
 }
 
-.token-card img {
+.treat-card {
+  min-width: 100px;
+  max-width: 150px;
+}
+
+.token-card img,
+.treat-card img {
   width: 100% !important;
   height: auto !important;
   aspect-ratio: 1/1 !important;
@@ -63,7 +77,8 @@
   overflow: hidden;
 }
 
-.token-card:hover .token-actions {
+.token-card:hover .token-actions,
+.treat-card:hover .token-actions {
   opacity: 1;
 }
 
@@ -99,6 +114,16 @@
   transform: translateX(0);
 }
 
+.treat-card:hover .token-actions > a,
+.treat-card:hover .token-actions > .token-button {
+  transform: translateY(0);
+}
+
+.treat-card .token-actions > a,
+.treat-card .token-actions > .token-button {
+  transform: translateX(0) translateY(-150px);
+}
+
 .selection-pony,
 .selection-placeholder-treat {
   height: 200px;
@@ -119,4 +144,16 @@
 .selection-placeholder-treat {
   width: 100px;
   height: 100px;
+}
+
+@media screen and (max-width: 950px) {
+  .token-grid {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .token-grid {
+    grid-template-columns: auto;
+  }
 }
