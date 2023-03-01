@@ -59,13 +59,10 @@ const Paddock = () => {
     }
   );
 
-  const { data: itemTokenData } = useUserTokens(
-    "0xc185ffb12406b8bd994c7805ed0339ce9f2529ec",
-    {
-      collection: ITEM_CONTRACT,
-      limit: 200,
-    }
-  );
+  const { data: itemTokenData } = useUserTokens(address, {
+    collection: ITEM_CONTRACT,
+    limit: 200,
+  });
 
   const specialItems = useMemo(
     () =>
@@ -284,9 +281,21 @@ const Paddock = () => {
                         className={styles["treat-card"]}
                       >
                         <TokenMedia token={item?.token as any} />
-                        <p className={styles["token-name"]}>
-                          {item.token.name}
-                        </p>
+                        <div style={{ display: "flex", alignItems: "center" }}>
+                          <p className={styles["token-name"]}>
+                            {item.token.name}
+                          </p>
+                          <span
+                            style={{
+                              background: "white",
+                              borderRadius: 8,
+                              padding: "2px 8px",
+                              fontSize: 12,
+                            }}
+                          >
+                            {`x${item.ownership?.tokenCount}`}
+                          </span>
+                        </div>
                         <div className={styles["token-actions"]}>
                           <button className={styles["token-button"]}>
                             Stow
@@ -309,9 +318,21 @@ const Paddock = () => {
                         className={styles["treat-card"]}
                       >
                         <TokenMedia token={item?.token as any} />
-                        <p className={styles["token-name"]}>
-                          {item.token.name}
-                        </p>
+                        <div style={{ display: "flex", alignItems: "center" }}>
+                          <p className={styles["token-name"]}>
+                            {item.token.name}
+                          </p>
+                          <span
+                            style={{
+                              background: "white",
+                              borderRadius: 8,
+                              padding: "2px 8px",
+                              fontSize: 12,
+                            }}
+                          >
+                            {`x${item.ownership?.tokenCount}`}
+                          </span>
+                        </div>
                         <div className={styles["token-actions"]}>
                           <button className={styles["token-button"]}>
                             Stow
