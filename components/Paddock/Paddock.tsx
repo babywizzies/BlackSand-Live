@@ -5,6 +5,8 @@ import useIsMounted from "../../hooks/useIsMounted";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { TokenMedia, useUserTokens } from "@reservoir0x/reservoir-kit-ui";
 import Link from "next/link";
+import { FaPlus } from "react-icons/fa";
+import Image from "next/image";
 
 const PONY_CONTRACT = "0xf55b615b479482440135ebf1b907fd4c37ed9420";
 const BS_MOUNT_CONTRACT = "0xf486f696b80164b5943191236eca114f4efab2ff";
@@ -49,7 +51,6 @@ const Paddock = () => {
   const address = "0x95ddad467801e292ee9e7f9f040ceb54d5e30439";
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
-  const [step, setStep] = useState<"RACERS" | "ITEMS" | "REGISTER">("RACERS");
   const { data: tokenData } = useUserTokens(address, {
     collectionsSetId: COLLECTION_SET_ID,
     limit: 200,
@@ -83,14 +84,46 @@ const Paddock = () => {
         </>
       )}
       {address && (
-        <div style={{ display: "flex" }}>
-          <div
-            className={
-              step === "RACERS"
-                ? styles["step-container-enabled"]
-                : styles["step-container"]
-            }
-          >
+        <div style={{ display: "flex", gap: 30 }}>
+          <div style={{ borderRight: "1px solid white", paddingRight: 30 }}>
+            <h2 className={styles.subtitle}>Racing Selection</h2>
+            <div style={{ display: "flex", flexDirection: "column", gap: 20 }}>
+              <div className={styles["selection-pony"]}>
+                {!selectedRacer ? (
+                  <>
+                    <FaPlus />
+                    <Image
+                      src="/img/pony.png"
+                      width={60}
+                      height={60}
+                      alt="Placeholder"
+                    />
+                  </>
+                ) : (
+                  <Image
+                    src={`https://api.reservoir.tools/redirect/tokens/${selectedRacer}/image/v1`}
+                    alt="Racer"
+                    fill
+                    loader={({ src }) => src}
+                  />
+                )}
+              </div>
+              <div
+                style={{ display: "flex", gap: 10, flexDirection: "column" }}
+              >
+                <div className={styles["selection-placeholder-treat"]}>
+                  <FaPlus /> Treat
+                </div>
+                <div className={styles["selection-placeholder-treat"]}>
+                  <FaPlus /> Treat
+                </div>
+                <div className={styles["selection-placeholder-treat"]}>
+                  <FaPlus /> Treat
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
             {ponyTokens.length > 0 && (
               <>
                 <h2 className={styles.subtitle}>Ponies</h2>
@@ -102,10 +135,7 @@ const Paddock = () => {
                           key={item?.token?.tokenId}
                           className={styles["token-card"]}
                         >
-                          <TokenMedia
-                            token={item?.token as any}
-                            style={{ width: 200, height: 200 }}
-                          />
+                          <TokenMedia token={item?.token as any} />
                           <p className={styles["token-name"]}>
                             {item.token.name}
                           </p>
@@ -145,10 +175,7 @@ const Paddock = () => {
                           key={item?.token?.tokenId}
                           className={styles["token-card"]}
                         >
-                          <TokenMedia
-                            token={item?.token as any}
-                            style={{ width: 200, height: 200 }}
-                          />
+                          <TokenMedia token={item?.token as any} />
                           <p className={styles["token-name"]}>
                             {item.token.name}
                           </p>
@@ -164,7 +191,6 @@ const Paddock = () => {
                                 setSelectedRacer(
                                   `${item.token?.collection?.id}:${item.token?.tokenId}`
                                 );
-                                setStep("ITEMS");
                               }}
                             >
                               Race
@@ -179,15 +205,6 @@ const Paddock = () => {
                 </div>
               </>
             )}
-          </div>
-          <div
-            className={
-              step === "ITEMS"
-                ? styles["step-container-enabled"]
-                : styles["step-container"]
-            }
-          >
-            Second Screen
           </div>
         </div>
       )}

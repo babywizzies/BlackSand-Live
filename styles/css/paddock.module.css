@@ -1,10 +1,10 @@
-.container{
+.container {
   width: 90%;
   margin: 0 auto;
   max-width: 1035px;
 }
 
-.title{
+.title {
   font-family: 'Origen';
   font-size: clamp(4rem, 2.5638rem + 5.3691vw, 6rem);
   background: -webkit-linear-gradient(#fbea71, #d4b42c);
@@ -12,6 +12,7 @@
   -webkit-text-fill-color: transparent;
   text-align: center;
   line-height: 110px;
+  margin-bottom: 40px;
 }
 
 .subtitle {
@@ -36,9 +37,16 @@
 }
 
 .token-card {
-  width: 200px;
+  min-width: 200px;
   border-radius: 8px;
   position: relative;
+  flex: 1;
+}
+
+.token-card img {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1/1 !important;
 }
 
 .token-actions {
@@ -91,13 +99,24 @@
   transform: translateX(0);
 }
 
-.step-container,
-.step-container-enabled {
-  width: 0;
-  transition: all 200ms ease-in-out;
+.selection-pony,
+.selection-placeholder-treat {
+  height: 200px;
+  width: 200px;
+  aspect-ratio: 1/1;
+  border: 1px solid white;
+  border-radius: 8px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  cursor: pointer;
+  position: relative;
   overflow: hidden;
 }
 
-.step-container-enabled {
-  width: 100%
+.selection-placeholder-treat {
+  width: 100px;
+  height: 100px;
 }
