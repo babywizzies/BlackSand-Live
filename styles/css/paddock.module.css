@@ -35,12 +35,44 @@
 }
 
 .treat-grid {
-  grid-template-columns: repeat(6, auto);
+  grid-template-columns: repeat(5, auto);
+}
+
+.token-grid-empty {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 150px;
+}
+
+.token-grid-empty button {
+  padding: 2px 8px; 
+  border-radius: 8px;
+}
+
+.token-title {
+  display: flex;
+  align-items: center;
+  word-break: break-all;
+  justify-content: center;
 }
 
 .token-name {
   padding: 8px;
   color: white;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.token-quantity {
+  background: white;
+  border-radius: 8px;
+  padding: 2px 8px;
+  font-size: 12px;
+  flex-shrink: 0;
 }
 
 .token-card,
@@ -54,10 +86,11 @@
 .treat-card {
   min-width: 100px;
   max-width: 150px;
+  position: relative;
 }
 
-.token-card img,
-.treat-card img {
+.token-card .token-image,
+.treat-card .token-image {
   width: 100% !important;
   height: auto !important;
   aspect-ratio: 1/1 !important;
@@ -75,6 +108,7 @@
   opacity: 0;
   transition: 200ms opacity ease-in;
   overflow: hidden;
+  z-index: 20;
 }
 
 .token-card:hover .token-actions,
@@ -141,19 +175,44 @@
   overflow: hidden;
 }
 
+.selection-placeholder-container {
+  display: flex;
+  gap: 15px;
+}
+
 .selection-placeholder-treat {
   width: 100px;
   height: 100px;
+}
+
+.selected-treat-details {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 @media screen and (max-width: 950px) {
   .token-grid {
     grid-template-columns: repeat(2, auto);
   }
+
+  .treat-grid {
+    grid-template-columns: repeat(4, auto);
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .treat-grid {
+    grid-template-columns: repeat(3, auto);
+  }
 }
 
 @media screen and (max-width: 700px) {
   .token-grid {
     grid-template-columns: auto;
+  }
+
+  .treat-grid {
+    grid-template-columns: repeat(2, auto);
   }
 }
