@@ -324,13 +324,13 @@ const Paddock = () => {
                   treat={selectedItems[0]}
                   dieCount={
                     selectedItems[0]
-                      ? SPECIAL_RACE_RULES[selectedItems[0].id].dieCount
+                      ? SPECIAL_RACE_RULES[selectedItems[0].id]?.dieCount
                       : undefined
                   }
                   dieSidesImg={
                     selectedItems[0]
                       ? DIE_IMGS[
-                          SPECIAL_RACE_RULES[selectedItems[0].id].dieSides
+                          SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
                         ]
                       : undefined
                   }
@@ -340,13 +340,13 @@ const Paddock = () => {
                   treat={selectedItems[1]}
                   dieCount={
                     selectedItems[1]
-                      ? SPECIAL_RACE_RULES[selectedItems[1].id].dieCount
+                      ? SPECIAL_RACE_RULES[selectedItems[1].id]?.dieCount
                       : undefined
                   }
                   dieSidesImg={
                     selectedItems[1]
                       ? DIE_IMGS[
-                          SPECIAL_RACE_RULES[selectedItems[1].id].dieSides
+                          SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
                         ]
                       : undefined
                   }
@@ -356,13 +356,13 @@ const Paddock = () => {
                   treat={selectedItems[2]}
                   dieCount={
                     selectedItems[2]
-                      ? SPECIAL_RACE_RULES[selectedItems[2].id].dieCount
+                      ? SPECIAL_RACE_RULES[selectedItems[2].id]?.dieCount
                       : undefined
                   }
                   dieSidesImg={
                     selectedItems[2]
                       ? DIE_IMGS[
-                          SPECIAL_RACE_RULES[selectedItems[2].id].dieSides
+                          SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
                         ]
                       : undefined
                   }

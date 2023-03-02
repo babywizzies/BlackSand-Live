@@ -173,6 +173,7 @@
   cursor: pointer;
   position: relative;
   overflow: hidden;
+  flex-shrink: 0;
 }
 
 .selection-placeholder-container {

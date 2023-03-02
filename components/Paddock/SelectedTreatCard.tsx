@@ -42,11 +42,36 @@ const SelectedTreatCard: FC<Props> = ({
         )}
       </div>
       {treat && (
-        <div className={styles["selected-treat-details"]}>
-          <p style={{ color: "white" }}>x{dieCount}</p>
-          {dieSidesImg && (
-            <Image src={dieSidesImg} alt="Dice Icon" width={45} height={45} />
+        <div
+          style={{
+            display: "flex",
+            gap: 5,
+            flexDirection: "column",
+            justifyContent: "center",
+            alignItems: "center",
+            width: "100%",
+          }}
+        >
+          <p
+            style={{
+              color: "white",
+              textAlign: "center",
+              overflow: "hidden",
+              textOverflow: "ellipsis",
+              whiteSpace: "nowrap",
+              maxWidth: 80,
+            }}
+          >
+            {treat.name}
+          </p>
+          {dieCount && dieSidesImg && (
+            <div className={styles["selected-treat-details"]}>
+              <p style={{ color: "white" }}>x{dieCount}</p>
+              <Image src={dieSidesImg} alt="Dice Icon" width={30} height={30} />
+            </div>
           )}
+          {!dieCount && !dieSidesImg && <p style={{ color: "white" }}>1 Pt</p>}
+          <div />
         </div>
       )}
     </div>
