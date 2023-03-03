@@ -160,14 +160,22 @@ const DIE_IMGS: Record<string, string> = {
 
 const SPECIAL_RACE_ITEMS = Object.keys(SPECIAL_RACE_RULES);
 
-const canAddItem = (id: string, selectedItems: SelectedTreat[]) => {
-  //todo logic for max rules
-
-  //todo wazir logic
-
-  //todo logic for
-
+const canAddItem = (
+  id: string,
+  selectedItems: SelectedTreat[],
+  totalOwned: number
+) => {
   if (selectedItems.length >= 3) {
+    return false;
+  }
+  const selectedCount = selectedItems.filter((item) => item.id === id);
+
+  if (totalOwned <= selectedCount.length) {
+    return false;
+  }
+
+  const rules = SPECIAL_RACE_RULES[id];
+  if (rules && selectedCount.length >= rules.max) {
     return false;
   }
 
@@ -335,6 +343,11 @@ const Paddock = () => {
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
+                  removeTreat={() => {
+                    const items = selectedItems.slice();
+                    items.splice(0, 1);
+                    setSelectedItems(items);
+                  }}
                 />
                 <SelectedTreatCard
                   treat={selectedItems[1]}
@@ -351,6 +364,11 @@ const Paddock = () => {
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
+                  removeTreat={() => {
+                    const items = selectedItems.slice();
+                    items.splice(1, 1);
+                    setSelectedItems(items);
+                  }}
                 />
                 <SelectedTreatCard
                   treat={selectedItems[2]}
@@ -367,6 +385,11 @@ const Paddock = () => {
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
+                  removeTreat={() => {
+                    const items = selectedItems.slice();
+                    items.splice(2, 1);
+                    setSelectedItems(items);
+                  }}
                 />
               </div>
             </div>
@@ -453,17 +476,34 @@ const Paddock = () => {
             <div className={styles["treat-grid"]}>
               {specialItems.map((item) => {
                 if (item?.token && item?.token?.tokenId) {
+                  const canAdd = canAddItem(
+                    item.token.tokenId,
+                    selectedItems,
+                    Number(item.ownership?.tokenCount || 1)
+                  );
+
                   return (
                     <div
                       key={item?.token?.tokenId}
                       className={styles["treat-card"]}
+                      style={
+                        !canAdd
+                          ? {
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
+                          : {}
+                      }
                     >
                       <TokenMedia
                         token={item?.token as any}
                         className={styles["token-image"]}
                       />
                       <div className={styles["token-title"]}>
-                        <p className={styles["token-name"]}>
+                        <p
+                          className={styles["token-name"]}
+                          title={item.token.name}
+                        >
                           {item.token.name}
                         </p>
                         <span className={styles["token-quantity"]}>
@@ -492,11 +532,14 @@ const Paddock = () => {
                         <button
                           className={styles["token-button"]}
                           onClick={() => {
-                            if (!item.token) {
+                            if (!item.token || !item.token.tokenId) {
                               return;
                             }
-                            const id = `${item.token?.collection?.id}:${item.token?.tokenId}`;
-                            const canAdd = canAddItem(id, selectedItems);
+                            const canAdd = canAddItem(
+                              item.token.tokenId,
+                              selectedItems,
+                              Number(item.ownership?.tokenCount || 1)
+                            );
                             if (canAdd) {
                               setSelectedItems([
                                 ...selectedItems,
@@ -540,18 +583,34 @@ const Paddock = () => {
             <h2 className={styles.subtitle}>Treats</h2>
             <div className={styles["treat-grid"]}>
               {otherItems.map((item) => {
-                if (item?.token) {
+                if (item?.token && item.token.tokenId) {
+                  const canAdd = canAddItem(
+                    item.token.tokenId,
+                    selectedItems,
+                    Number(item.ownership?.tokenCount || 1)
+                  );
                   return (
                     <div
                       key={item?.token?.tokenId}
                       className={styles["treat-card"]}
+                      style={
+                        !canAdd
+                          ? {
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
+                          : {}
+                      }
                     >
                       <TokenMedia
                         token={item?.token as any}
                         className={styles["token-image"]}
                       />
                       <div className={styles["token-title"]}>
-                        <p className={styles["token-name"]}>
+                        <p
+                          className={styles["token-name"]}
+                          title={item.token.name}
+                        >
                           {item.token.name}
                         </p>
                         <span className={styles["token-quantity"]}>
@@ -562,12 +621,15 @@ const Paddock = () => {
                         <button
                           className={styles["token-button"]}
                           onClick={() => {
-                            if (!item.token) {
+                            if (!item.token || !item.token?.tokenId) {
                               return;
                             }
 
-                            const id = `${item.token?.collection?.id}:${item.token?.tokenId}`;
-                            const canAdd = canAddItem(id, selectedItems);
+                            const canAdd = canAddItem(
+                              item.token?.tokenId,
+                              selectedItems,
+                              Number(item.ownership?.tokenCount || 1)
+                            );
                             if (canAdd) {
                               setSelectedItems([
                                 ...selectedItems,

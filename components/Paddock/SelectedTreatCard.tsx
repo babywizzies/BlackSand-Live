@@ -2,20 +2,23 @@ import Image from "next/image";
 import styles from "../../styles/css/paddock.module.css";
 import React, { FC } from "react";
 import { FaPlus } from "react-icons/fa";
+import { AiFillCloseCircle } from "react-icons/ai";
 import { SelectedTreat } from "./Paddock";
 
 type Props = {
   treat?: SelectedTreat;
-  scrollToItemSection: () => void;
   dieCount?: number;
   dieSidesImg?: string;
+  scrollToItemSection: () => void;
+  removeTreat: () => void;
 };
 
 const SelectedTreatCard: FC<Props> = ({
   treat,
-  scrollToItemSection,
   dieCount,
   dieSidesImg,
+  scrollToItemSection,
+  removeTreat,
 }) => {
   return (
     <div className={styles["selection-placeholder-container"]}>
@@ -28,13 +31,23 @@ const SelectedTreatCard: FC<Props> = ({
         }}
       >
         {treat ? (
-          <Image
-            src={treat.img}
-            alt="Item"
-            fill
-            unoptimized
-            loader={({ src }) => src}
-          />
+          <>
+            <button className={styles["remove-button"]} onClick={removeTreat}>
+              <AiFillCloseCircle
+                style={{ color: "red", width: 20, height: 20 }}
+              />
+            </button>
+            <Image
+              style={{
+                borderRadius: 8,
+              }}
+              src={treat.img}
+              alt="Item"
+              fill
+              unoptimized
+              loader={({ src }) => src}
+            />
+          </>
         ) : (
           <>
             <FaPlus /> Treat
@@ -61,6 +74,7 @@ const SelectedTreatCard: FC<Props> = ({
               whiteSpace: "nowrap",
               maxWidth: 80,
             }}
+            title={treat.name}
           >
             {treat.name}
           </p>
