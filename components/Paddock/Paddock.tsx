@@ -189,6 +189,8 @@ const Paddock = () => {
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
   const [selectedItems, setSelectedItems] = useState<SelectedTreat[]>([]);
+  const [discordHandle, setDiscordHandle] = useState("");
+  const [errorText, setErrorText] = useState("");
   const { data: tokenData, isLoading: isLoadingTokens } = useUserTokens(
     address,
     {
@@ -197,13 +199,10 @@ const Paddock = () => {
     }
   );
 
-  const { data: itemTokenData } = useUserTokens(
-    "0xc185ffb12406b8bd994c7805ed0339ce9f2529ec",
-    {
-      collection: ITEM_CONTRACT,
-      limit: 200,
-    }
-  );
+  const { data: itemTokenData } = useUserTokens(address, {
+    collection: ITEM_CONTRACT,
+    limit: 200,
+  });
 
   const specialItems = useMemo(
     () =>
@@ -266,12 +265,12 @@ const Paddock = () => {
     <div className={styles.container}>
       <h1 className={styles.title}>Paddock</h1>
       {!address && (
-        <>
+        <div className={styles["connect-container"]}>
           <div className={styles["connect-subtitle"]}>
             Connect your wallet to see the mounts in your paddock
           </div>
           <ConnectButton />
-        </>
+        </div>
       )}
       {address && (
         <div style={{ display: "flex", gap: 30 }}>
@@ -391,6 +390,34 @@ const Paddock = () => {
                     setSelectedItems(items);
                   }}
                 />
+                <input
+                  placeholder="Discord Handle"
+                  className={styles["discord-handle-input"]}
+                  value={discordHandle}
+                  onChange={(e) => {
+                    setDiscordHandle(e.target.value);
+                  }}
+                />
+                <button
+                  className={styles["register-button"]}
+                  onClick={() => {
+                    setErrorText("");
+                    if (!selectedRacer) {
+                      setErrorText("Please select a mount or a pony");
+                      return;
+                    }
+
+                    if (discordHandle.length === 0) {
+                      setErrorText("Please enter a discord handle");
+                      return;
+                    }
+
+                    //call the api
+                  }}
+                >
+                  Register
+                </button>
+                <p className={styles["error-text"]}>{errorText}</p>
               </div>
             </div>
           </div>
