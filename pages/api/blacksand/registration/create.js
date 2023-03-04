@@ -1,7 +1,7 @@
 import {
     insertPony,
-    insertTreats
-} from '../../database/database';
+    insertTreat
+} from '../../../../utils/database/database';
 
 module.exports = async function handler(req, res) {
     if (req.method !== 'POST') {
@@ -11,22 +11,22 @@ module.exports = async function handler(req, res) {
         return
     }
 
-    const body = JSON.parse(req.body)
+    const body = req.body
     insertPony({
         'pony_id': body[0].id,
         'collection': body[0].Collection,
         'discord_id': body[0]['Discord ID'],
         'wallet': body[0].wallet,
     })
-    insertTreats({
+    insertTreat({
         'pony_id': body[0].id,
         'treat': body[0]['Treat #1'],
     });
-    insertTreats({
+    insertTreat({
         'pony_id': body[0].id,
         'treat': body[0]['Treat #2'],
     });
-    insertTreats({
+    insertTreat({
         'pony_id': body[0].id,
         'treat': body[0]['Treat #3'],
     });

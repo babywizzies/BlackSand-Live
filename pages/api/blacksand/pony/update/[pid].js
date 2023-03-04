@@ -12,7 +12,7 @@ module.exports = async function handler(req, res) {
     const {
         pid
     } = req.query
-    const body = JSON.parse(req.body)
+    const body = req.body
     const response = updatePony(body, pid);
     if (typeof (response) != object) {
         res.status(response.code).send({
