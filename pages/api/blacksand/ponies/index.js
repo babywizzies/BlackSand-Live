@@ -2,9 +2,8 @@ import {
     promises as fs
 } from 'fs';
 import {
-    getAllPonies,
-    getPonyByID
-} from '../../database/database';
+    getAllPonies
+} from '../../../../utils/database/database';
 
 module.exports = async function handler(req, res) {
     const ponies = await getAllPonies;

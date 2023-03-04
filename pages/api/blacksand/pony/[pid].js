@@ -1,11 +1,12 @@
 import {
     getPonyByID
-} from '../../database/database';
+} from '../../../../utils/database/database';
 
 module.exports = async function handler(req, res) {
     const {
         pid
     } = req.query
+    console.log("PID", pid);
     const ponies = await getPonyByID(pid);
     res.status(200).json(ponies);
 };
