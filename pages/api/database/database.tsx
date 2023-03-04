@@ -24,9 +24,16 @@ export const getPonyByID = async (id: number) => {
  *                  INSERT
  *************************************************/
 
-// export const insertPony = async (pony: bs_ponies) => {
-//     const { data, error } = await supabase
-//         .from('bs_ponies')
-//         .insert(pony)
-//         .select()
-// }
+export const insertPony = async (pony: object) => {
+    const { data, error } = await supabase
+        .from('ponies')
+        .insert(pony)
+        .select()
+}
+
+export const insertTreats = async (treats: object) => {
+    const { data, error } = await supabase
+        .from('treats')
+        .insert(treats)
+        .select()
+}
