@@ -5,43 +5,20 @@ import { supabase } from '../../../utils/supabase';
  *************************************************/
 
 export const getAllPonies = async () => {
-    const { data: bs_ponies } = await supabase
-        .from('bs_ponies')
-        .select('*')
-    return bs_ponies;
+    const { data: ponies } = await supabase
+        .from('ponies')
+        .select('*, races(*), abilities(*), treats(*)')
+    return ponies;
 }
 
 export const getPonyByID = async (id: number) => {
-    const { data: bs_ponies } = await supabase
-        .from('bs_ponies')
-        .select()
+    const { data: ponies } = await supabase
+        .from('ponies')
+        .select('*, races(*), abilities(*), treats(*)')
         .eq('pony_id', id)
-    return bs_ponies;
+    return ponies;
 }
 
-export const getAbilitiesByPonyID = async (id: number) => {
-    const { data: bs_ponies } = await supabase
-        .from('bs_abilities')
-        .select()
-        .eq('pony_id', id)
-    return bs_ponies;
-}
-
-export const getRacesByPonyID = async (id: number) => {
-    const { data: bs_ponies } = await supabase
-        .from('bs_races')
-        .select()
-        .eq('pony_id', id)
-    return bs_ponies;
-}
-
-export const getAllPonyDataByID = async (id: number) => {
-    const { data: bs_ponies } = await supabase
-        .from('bs_ponies')
-        .select('*, bs_abilities(*), bs_races(*)')
-        .eq('pony_id', id)
-    return bs_ponies;
-}
 
 /**************************************************
  *                  INSERT
