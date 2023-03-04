@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import React, { createRef, useCallback, useMemo, useState } from "react";
 import styles from "../../styles/css/paddock.module.css";
-import { useAccount } from "wagmi";
+import { useAccount, useSignMessage } from "wagmi";
 import useIsMounted from "../../hooks/useIsMounted";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { TokenMedia, useUserTokens } from "@reservoir0x/reservoir-kit-ui";
@@ -11,6 +11,7 @@ import Image from "next/image";
 import TokenCard from "./TokenCard";
 import SelectedTreatCard from "./SelectedTreatCard";
 import axios from "axios";
+import Confetti from "react-dom-confetti";
 
 export type SelectedTreat = {
   name: string;
@@ -206,10 +207,13 @@ const Paddock = () => {
   const poniesRef = createRef<HTMLDivElement>();
   const specialItemsRef = createRef<HTMLHeadingElement>();
   const { address } = useAccount();
+  const { signMessageAsync } = useSignMessage();
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
   const [selectedItems, setSelectedItems] = useState<SelectedTreat[]>([]);
   const [discordHandle, setDiscordHandle] = useState("");
+  const [success, setSuccess] = useState(false);
+  const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
   const { data: tokenData, isLoading: isLoadingTokens } = useUserTokens(
     address,
@@ -420,39 +424,66 @@ const Paddock = () => {
                 />
                 <button
                   className={styles["register-button"]}
-                  onClick={() => {
-                    setErrorText("");
-                    if (!selectedRacer) {
-                      setErrorText("Please select a mount or a pony");
-                      return;
-                    }
+                  disabled={registering}
+                  onClick={async () => {
+                    try {
+                      setRegistering(true);
+                      setErrorText("");
+                      setSuccess(false);
+                      if (!selectedRacer) {
+                        setRegistering(false);
+                        setErrorText("Please select a mount or a pony");
+                        return;
+                      }
 
-                    if (discordHandle.length === 0) {
-                      setErrorText("Please enter a discord handle");
-                      return;
-                    }
-                    const racerPieces = selectedRacer.split(":");
+                      if (discordHandle.length === 0) {
+                        setRegistering(false);
+                        setErrorText("Please enter a discord handle");
+                        return;
+                      }
 
-                    axios
-                      .post("https://blacksand.city/gameengine/register", {
-                        id: racerPieces[1],
-                        collection: racerPieces[0],
-                        discord: discordHandle,
-                        wallet: address,
-                        treats: selectedItems.map((item) => item.id),
-                      })
-                      .then(() => {
-                        console.log("Success!");
-                      })
-                      .catch((e) => {
-                        setErrorText("Something went wrong, please try again");
-                        throw e;
+                      const signature = await signMessageAsync({
+                        message: "Register for BlackSand Race",
                       });
+                      const racerPieces = selectedRacer.split(":");
+
+                      const response = await axios.post(
+                        "https://blacksand.city/gameengine/register",
+                        {
+                          id: racerPieces[1],
+                          collection: racerPieces[0],
+                          discord: discordHandle,
+                          wallet: address,
+                          treats: selectedItems.map((item) => item.id),
+                          signature,
+                        }
+                      );
+                      if (response.status !== 200) {
+                        throw `API Error: ${response.data}`;
+                      }
+                      setSuccess(true);
+                    } catch (e) {
+                      setErrorText("Something went wrong, please try again");
+                      setSuccess(false);
+                      setRegistering(false);
+                      console.error(e);
+                    }
                   }}
                 >
+                  {registering && (
+                    <div
+                      className="loader"
+                      style={{ width: 20, height: 20 }}
+                    ></div>
+                  )}{" "}
                   Register
                 </button>
-                <p className={styles["error-text"]}>{errorText}</p>
+                {errorText.length > 0 && (
+                  <p className={styles["error-text"]}>{errorText}</p>
+                )}
+                {success && (
+                  <p className={styles["success-text"]}>Off to the races!</p>
+                )}
               </div>
             </div>
           </div>
@@ -464,6 +495,24 @@ const Paddock = () => {
               paddingLeft: 30,
             }}
           >
+            <Confetti
+              active={success}
+              className={styles["confetti"]}
+              config={{
+                angle: 90,
+                spread: 360,
+                startVelocity: 40,
+                elementCount: 500,
+                dragFriction: 0.12,
+                duration: 3000,
+                stagger: 3,
+                width: "10px",
+                height: "10px",
+                //@ts-ignore
+                perspective: "500px",
+                colors: ["#000", "#f00", "#fbea71", "#d4b42c"],
+              }}
+            />
             {isLoadingTokens && (
               <div
                 className="loader"
@@ -474,6 +523,8 @@ const Paddock = () => {
                   marginLeft: "auto",
                   marginTop: 50,
                   inset: 0,
+                  width: 48,
+                  height: 48,
                 }}
               ></div>
             )}
