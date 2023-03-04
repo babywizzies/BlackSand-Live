@@ -10,6 +10,7 @@ import { FaPlus } from "react-icons/fa";
 import Image from "next/image";
 import TokenCard from "./TokenCard";
 import SelectedTreatCard from "./SelectedTreatCard";
+import axios from "axios";
 
 export type SelectedTreat = {
   name: string;
@@ -139,6 +140,11 @@ const SPECIAL_RACE_RULES: Record<
     dieCount: 1,
     max: 2,
   },
+  115: {
+    dieSides: 8,
+    dieCount: 1,
+    max: 2,
+  },
   28: {
     dieSides: 12,
     dieCount: 1,
@@ -163,7 +169,8 @@ const SPECIAL_RACE_ITEMS = Object.keys(SPECIAL_RACE_RULES);
 const canAddItem = (
   id: string,
   selectedItems: SelectedTreat[],
-  totalOwned: number
+  totalOwned: number,
+  itemsOwned: number[]
 ) => {
   if (selectedItems.length >= 3) {
     return false;
@@ -175,8 +182,21 @@ const canAddItem = (
   }
 
   const rules = SPECIAL_RACE_RULES[id];
-  if (rules && selectedCount.length >= rules.max) {
-    return false;
+  if (rules) {
+    if (selectedCount.length >= rules.max) {
+      return false;
+    }
+
+    if (rules.required_item && !itemsOwned.includes(rules.required_item)) {
+      return false;
+    }
+
+    if (
+      rules.required_item &&
+      selectedItems.some((item) => Number(item.id) === rules.required_item)
+    ) {
+      return false;
+    }
   }
 
   return true;
@@ -411,8 +431,23 @@ const Paddock = () => {
                       setErrorText("Please enter a discord handle");
                       return;
                     }
+                    const racerPieces = selectedRacer.split(":");
 
-                    //call the api
+                    axios
+                      .post("https://blacksand.city/gameengine/register", {
+                        id: racerPieces[1],
+                        collection: racerPieces[0],
+                        discord: discordHandle,
+                        wallet: address,
+                        treats: selectedItems.map((item) => item.id),
+                      })
+                      .then(() => {
+                        console.log("Success!");
+                      })
+                      .catch((e) => {
+                        setErrorText("Something went wrong, please try again");
+                        throw e;
+                      });
                   }}
                 >
                   Register
@@ -506,7 +541,8 @@ const Paddock = () => {
                   const canAdd = canAddItem(
                     item.token.tokenId,
                     selectedItems,
-                    Number(item.ownership?.tokenCount || 1)
+                    Number(item.ownership?.tokenCount || 1),
+                    specialItems.map((item) => Number(item?.token?.tokenId))
                   );
 
                   return (
@@ -565,7 +601,10 @@ const Paddock = () => {
                             const canAdd = canAddItem(
                               item.token.tokenId,
                               selectedItems,
-                              Number(item.ownership?.tokenCount || 1)
+                              Number(item.ownership?.tokenCount || 1),
+                              specialItems.map((item) =>
+                                Number(item?.token?.tokenId)
+                              )
                             );
                             if (canAdd) {
                               setSelectedItems([
@@ -614,7 +653,8 @@ const Paddock = () => {
                   const canAdd = canAddItem(
                     item.token.tokenId,
                     selectedItems,
-                    Number(item.ownership?.tokenCount || 1)
+                    Number(item.ownership?.tokenCount || 1),
+                    otherItems.map((item) => Number(item?.token?.tokenId))
                   );
                   return (
                     <div
@@ -655,7 +695,10 @@ const Paddock = () => {
                             const canAdd = canAddItem(
                               item.token?.tokenId,
                               selectedItems,
-                              Number(item.ownership?.tokenCount || 1)
+                              Number(item.ownership?.tokenCount || 1),
+                              otherItems.map((item) =>
+                                Number(item?.token?.tokenId)
+                              )
                             );
                             if (canAdd) {
                               setSelectedItems([
