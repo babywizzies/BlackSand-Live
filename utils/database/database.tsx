@@ -34,7 +34,7 @@ export const getRegistrationByID = async (id: number) => {
 export const insertRegistration = async (pony: object) => {
     const { data, error } = await supabase
         .from('registration')
-        .insert(pony)
+        .upsert(pony, { ignoreDuplicates: false, onConflict: "id" })
         .select()
 
     if (error != null) {
