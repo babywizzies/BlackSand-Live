@@ -7,7 +7,7 @@ const AboutPage: NextPage = () => {
   return (
     <div className="container">
       <Head>
-        <title>Blacksand</title>
+        <title>Blacksand - Lore</title>
         <meta name="description" content="Welcome to the BlackSand" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

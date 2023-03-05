@@ -25,15 +25,6 @@ const Navbar = () => {
               setNavActive(false);
             }}
           >
-            <Link href="/" className={styles.nav__item}>
-              Home
-            </Link>
-          </div>
-          <div
-            onClick={() => {
-              setNavActive(false);
-            }}
-          >
             <Link href="/about" className={styles.nav__item}>
               Lore
             </Link>
@@ -63,6 +54,15 @@ const Navbar = () => {
           >
             <Link href="/market" className={styles.nav__item}>
               Market
+            </Link>
+          </div>
+          <div
+            onClick={() => {
+              setNavActive(false);
+            }}
+          >
+            <Link href="/" className={styles.nav__item}>
+              Paddock
             </Link>
           </div>
           <div className={styles.connect__button}>
