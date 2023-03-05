@@ -14,3 +14,13 @@ export const userOwnsToken = async (tokenId: string, tokensOwned: string[]) => {
     }
     return false;
 }
+
+export const getPonyName = async (tokenId: string, tokensOwned: string[]) => {
+    let tokenArray;
+    tokensOwned.forEach(function (x) {
+        if (x.token.tokenId == tokenId) {
+            tokenArray = x;
+        }
+    });
+    return tokenArray.token.name;
+}

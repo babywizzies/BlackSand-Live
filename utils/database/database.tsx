@@ -1,6 +1,6 @@
 import { supabase } from '../supabase';
 import { verifyMessage } from 'ethers/lib/utils'
-import { getUserTokens, userOwnsToken } from '../tokenUtils';
+import { getPonyName, getUserTokens, userOwnsToken } from '../tokenUtils';
 
 /**************************************************
  *                  FETCH
@@ -29,6 +29,15 @@ export const getRegistrationByID = async (id: number) => {
     return registration;
 }
 
+export const getRaceByID = async (id: number) => {
+    const { data: races } = await supabase
+        .from('races')
+        .select('*, registration(*)')
+        .eq('race_id', id)
+
+    return races;
+}
+
 /**************************************************
  *                  INSERT
  *************************************************/
@@ -47,6 +56,9 @@ export const insertRegistration = async (registration: object) => {
     if (!ownsToken) {
         return { "error": "User does not own token" }
     }
+
+    const ponyName = await getPonyName(registration.id, tokens.data.tokens);
+    registration.pony_name = ponyName;
 
     const { data, error } = await supabase
         .from('registration')

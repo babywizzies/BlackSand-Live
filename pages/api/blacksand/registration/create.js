@@ -14,7 +14,7 @@ module.exports = async function handler(req, res) {
     let created = await insertRegistration(body);
 
     if (created.error) {
-        res.status(404).send({
+        res.status(200).send({
             message: created.error
         })
     }
