@@ -1,4 +1,6 @@
 import { supabase } from '../supabase';
+import { verifyMessage } from 'ethers/lib/utils'
+import { getUserTokens, userOwnsToken } from '../tokenUtils';
 
 /**************************************************
  *                  FETCH
@@ -31,16 +33,30 @@ export const getRegistrationByID = async (id: number) => {
  *                  INSERT
  *************************************************/
 
-export const insertRegistration = async (pony: object) => {
+export const insertRegistration = async (registration: object) => {
+
+    const address = verifyMessage("Register for BlackSand Race", registration.signature);
+    if (!address) {
+        return null;
+    }
+    registration.wallet = address;
+
+    const tokens = await getUserTokens(registration.wallet);
+    const ownsToken = await userOwnsToken(registration.id, tokens.data.tokens);
+
+    if (!ownsToken) {
+        return { "error": "User does not own token" }
+    }
+
     const { data, error } = await supabase
         .from('registration')
-        .upsert(pony, { ignoreDuplicates: false, onConflict: "id" })
+        .upsert(registration, { ignoreDuplicates: false, onConflict: "id" })
         .select()
 
     if (error != null) {
-        return error
+        return { "error": "User does not own token" };
     }
-    return data;
+    return { "success": data };
 }
 
 export const insertPony = async (pony: object) => {
