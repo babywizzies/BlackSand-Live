@@ -452,8 +452,7 @@ const Paddock = () => {
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
-                          discord: discordHandle,
-                          wallet: address,
+                          discord_handle: discordHandle,
                           treats: selectedItems.map((item) => item.id),
                           signature,
                         }
