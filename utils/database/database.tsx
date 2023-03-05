@@ -19,9 +19,29 @@ export const getPonyByID = async (id: number) => {
     return ponies;
 }
 
+export const getRegistrationByID = async (id: number) => {
+    const { data: registration } = await supabase
+        .from('registration')
+        .select('*')
+        .eq('id', id)
+    return registration;
+}
+
 /**************************************************
  *                  INSERT
  *************************************************/
+
+export const insertRegistration = async (pony: object) => {
+    const { data, error } = await supabase
+        .from('registration')
+        .insert(pony)
+        .select()
+
+    if (error != null) {
+        return error
+    }
+    return data;
+}
 
 export const insertPony = async (pony: object) => {
     const { data, error } = await supabase

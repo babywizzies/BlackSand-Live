@@ -1,6 +1,5 @@
 import {
-    insertPony,
-    insertTreat
+    insertRegistration
 } from '../../../../utils/database/database';
 
 module.exports = async function handler(req, res) {
@@ -12,24 +11,8 @@ module.exports = async function handler(req, res) {
     }
 
     const body = req.body
-    insertPony({
-        'pony_id': body[0].id,
-        'collection': body[0].Collection,
-        'discord_id': body[0]['Discord ID'],
-        'wallet': body[0].wallet,
-    })
-    insertTreat({
-        'pony_id': body[0].id,
-        'treat': body[0]['Treat #1'],
-    });
-    insertTreat({
-        'pony_id': body[0].id,
-        'treat': body[0]['Treat #2'],
-    });
-    insertTreat({
-        'pony_id': body[0].id,
-        'treat': body[0]['Treat #3'],
-    });
+    let created = await insertRegistration(body);
+    console.log(created);
 
     res.status(201).send({
         message: 'Created'
