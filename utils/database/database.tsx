@@ -1,6 +1,7 @@
 import { supabase } from '../supabase';
 import { verifyMessage } from 'ethers/lib/utils'
 import { getPonyName, getUserTokens, userOwnsToken } from '../tokenUtils';
+import { Registration } from './interfaces';
 
 /**************************************************
  *                  FETCH
@@ -42,7 +43,7 @@ export const getRaceByID = async (id: number) => {
  *                  INSERT
  *************************************************/
 
-export const insertRegistration = async (registration: object) => {
+export const insertRegistration = async (registration: Registration) => {
 
     const address = verifyMessage("Register for BlackSand Race", registration.signature);
     if (!address) {
@@ -145,11 +146,10 @@ export const updateTreat = async (treat: object, id: number) => {
     return data;
 }
 
-export const updateRace = async (race: object, id: number) => {
+export const updateRaceData = async (race_data: object) => {
     const { data, error } = await supabase
-        .from('races')
-        .update(race)
-        .eq('id', id)
+        .from('race_data')
+        .upsert(race_data, { ignoreDuplicates: false, onConflict: "race_id,pony_id" })
         .select()
     if (error != null) {
         return error
