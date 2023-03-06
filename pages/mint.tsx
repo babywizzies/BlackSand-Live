@@ -7,7 +7,7 @@ const MintPage: NextPage = () => {
   return (
     <div className="container">
       <Head>
-        <title>Blacksand</title>
+        <title>Blacksand - Mint</title>
         <meta name="description" content="Welcome to the BlackSand" />
         <link rel="icon" href="/favicon.ico" />
       </Head>

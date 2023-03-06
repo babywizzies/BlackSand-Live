@@ -7,7 +7,7 @@ export const getUserTokens = async (address: string) => {
 }
 
 export const userOwnsToken = async (tokenId: string, tokensOwned: string[]) => {
-    let tokenArray = [];
+    let tokenArray: string[] = [];
     tokensOwned.forEach(x => tokenArray.push(x.token.tokenId));
     if (tokenArray.includes(tokenId)) {
         return true
@@ -16,7 +16,7 @@ export const userOwnsToken = async (tokenId: string, tokensOwned: string[]) => {
 }
 
 export const getPonyName = async (tokenId: string, tokensOwned: string[]) => {
-    let tokenArray;
+    let tokenArray: string;
     tokensOwned.forEach(function (x) {
         if (x.token.tokenId == tokenId) {
             tokenArray = x;

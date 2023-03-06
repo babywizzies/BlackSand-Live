@@ -1,22 +1,22 @@
+import React from "react";
 import type { NextPage } from "next";
 import Head from "next/head";
-import Academy from "../components/Academy/Academy";
-import React from "react";
+import Paddock from "../components/Paddock/Paddock";
 
-const AcademyPage: NextPage = () => {
+const PaddockPage: NextPage = () => {
   return (
     <div className="container">
       <Head>
-        <title>Blacksand - Academy</title>
+        <title>Blacksand - Paddock</title>
         <meta name="description" content="Welcome to the BlackSand" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className="main">
-        <Academy />
+        <Paddock />
       </main>
     </div>
   );
 };
 
-export default AcademyPage;
+export default PaddockPage;

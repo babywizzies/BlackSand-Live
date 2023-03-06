@@ -1,21 +1,279 @@
-.container{
+.container {
   width: 90%;
   margin: 0 auto;
+  max-width: 1035px;
 }
 
-.title{
-  font-weight: 900;
-  font-size: clamp(2rem, 0.6414rem + 4.6053vw, 3.75rem);
-  margin: 0;
-  margin-bottom: 1rem;
+.title {
+  font-family: 'Origen';
+  font-size: clamp(4rem, 2.5638rem + 5.3691vw, 6rem);
+  background: -webkit-linear-gradient(#fbea71, #d4b42c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  line-height: 110px;
+  margin-bottom: 40px;
+}
+
+.subtitle {
+  color: white;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.connect-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  margin-top: 100px;
 }
 
 .connect-subtitle {
   margin-bottom: 10px;
+  color: white;
 }
 
-.token-grid {
-  display: flex;
-  flex-wrap: wrap;
+.token-grid,
+.treat-grid {
+  display: grid;
   gap: 8px;
+  grid-template-columns: repeat(3, auto);
+  position: relative;
+}
+
+.treat-grid {
+  grid-template-columns: repeat(5, auto);
+}
+
+.token-grid-empty {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  height: 150px;
+}
+
+.token-grid-empty button {
+  padding: 2px 8px; 
+  border-radius: 8px;
+}
+
+.token-title {
+  display: flex;
+  align-items: center;
+  word-break: break-all;
+  justify-content: center;
+}
+
+.token-name {
+  padding: 8px;
+  color: white;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.token-quantity {
+  background: white;
+  border-radius: 8px;
+  padding: 2px 8px;
+  font-size: 12px;
+  flex-shrink: 0;
+}
+
+.token-card,
+.treat-card {
+  min-width: 200px;
+  border-radius: 8px;
+  position: relative;
+  flex: 1;
+}
+
+.treat-card {
+  min-width: 100px;
+  max-width: 150px;
+  position: relative;
+}
+
+.token-card .token-image,
+.treat-card .token-image {
+  width: 100% !important;
+  height: auto !important;
+  aspect-ratio: 1/1 !important;
+}
+
+.token-actions {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+  background: rgba(0,0,0, 0.4);
+  opacity: 0;
+  transition: 200ms opacity ease-in;
+  overflow: hidden;
+  z-index: 20;
+}
+
+.token-card:hover .token-actions,
+.treat-card:hover .token-actions {
+  opacity: 1;
+}
+
+.token-button,
+.register-button {
+  padding: 4px 12px;
+  border-radius: 8px;
+  font-weight: 800;
+  background: rgba(255, 255, 255, 0.8);
+  transition: 200ms background ease-in-out;
+}
+
+.token-button:hover,
+.register-button:hover {
+  background: rgba(255, 255, 255, 1);
+}
+
+.register-button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: center;
+}
+
+.token-actions > a,
+.token-actions > .token-button {
+  transition: 200ms all ease-in;
+}
+
+.token-actions > a:first-child,
+.token-actions > .token-button:first-child {
+  transform: translateX(150px)
+}
+
+.token-actions > a:last-child,
+.token-actions > .token-button:last-child {
+  transform: translateX(-150px)
+}
+
+.token-card:hover .token-actions > a,
+.token-card:hover .token-actions > .token-button {
+  transform: translateX(0);
+}
+
+.treat-card:hover .token-actions > a,
+.treat-card:hover .token-actions > .token-button {
+  transform: translateY(0);
+}
+
+.treat-card .token-actions > a,
+.treat-card .token-actions > .token-button {
+  transform: translateX(0) translateY(-150px);
+}
+
+.selection-pony,
+.selection-placeholder-treat {
+  height: 200px;
+  width: 200px;
+  aspect-ratio: 1/1;
+  border: 1px solid white;
+  border-radius: 8px;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  gap: 5px;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.selection-placeholder-container {
+  display: flex;
+  gap: 15px;
+}
+
+.selection-placeholder-treat {
+  width: 100px;
+  height: 100px;
+  overflow: visible;
+}
+
+.selected-treat-details {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.remove-button {
+  position: absolute;
+  top: -7px;
+  right: -7px;
+  z-index: 10;
+  background: white;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+
+.remove-button svg { color: red; width: 20px; height: 20px }
+
+.discord-handle-input {
+  border: 0;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.error-text {
+  color: crimson;
+  font-size: 12px;
+}
+
+.success-text {
+  font-size: 12px;
+  color: green;
+}
+
+.confetti {
+  position: absolute !important;
+  margin: 0 auto;
+  pointer-events: none;
+  inset: 0;
+  z-index: 10000000;
+  width: 5px;
+}
+
+@media screen and (max-width: 950px) {
+  .token-grid {
+    grid-template-columns: repeat(2, auto);
+  }
+
+  .treat-grid {
+    grid-template-columns: repeat(4, auto);
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .treat-grid {
+    grid-template-columns: repeat(3, auto);
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .token-grid {
+    grid-template-columns: auto;
+  }
+
+  .treat-grid {
+    grid-template-columns: repeat(2, auto);
+  }
 }
