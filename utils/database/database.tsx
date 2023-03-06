@@ -66,6 +66,8 @@ export const insertRegistration = async (registration: Registration) => {
         .upsert(registration, { ignoreDuplicates: false, onConflict: "id" })
         .select()
 
+    const race_data = await updateRaceData({ race_id: 1, pony_id: registration.id })
+
     if (error != null) {
         return { "error": "User does not own token" };
     }
