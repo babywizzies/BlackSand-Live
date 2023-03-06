@@ -32,8 +32,8 @@ export const getRegistrationByID = async (id: number) => {
 export const getRaceByID = async (id: number) => {
     const { data: races } = await supabase
         .from('races')
-        .select('*, registration(*)')
-        .eq('race_id', id)
+        .select('*, race_data(*, registration(*))')
+        .eq('id', id)
 
     return races;
 }
