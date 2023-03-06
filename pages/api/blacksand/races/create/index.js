@@ -1,6 +1,6 @@
 import {
     insertRace
-} from '../../database/database';
+} from '../../../../../utils/database/database';
 
 module.exports = async function handler(req, res) {
     if (req.method !== 'POST') {
@@ -11,7 +11,7 @@ module.exports = async function handler(req, res) {
     }
 
     const body = JSON.parse(req.body)
-    const response = inserRace(body)
+    const response = insertRace(body)
     if (typeof (response) != object) {
         res.status(response.code).send({
             message: 'DB Error'
