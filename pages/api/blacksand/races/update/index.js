@@ -1,6 +1,6 @@
 import {
     updateRaceData
-} from '../../database/database';
+} from '../../../../../utils/database/database';
 
 module.exports = async function handler(req, res) {
     if (req.method !== 'POST') {
@@ -12,10 +12,12 @@ module.exports = async function handler(req, res) {
 
     const body = req.body
     const response = updateRaceData(body);
-    if (typeof (response) != object) {
-        res.status(response.code).send({
+    if (typeof (response) != Object && response.Error != null) {
+        res.send({
             message: 'DB Error'
         })
+        return
     }
     res.status(200).json(response);
+    return
 }

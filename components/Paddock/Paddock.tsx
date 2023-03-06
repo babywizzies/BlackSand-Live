@@ -361,8 +361,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[0]
                       ? DIE_IMGS[
-                          SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
-                        ]
+                      SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
+                      ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -382,8 +382,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[1]
                       ? DIE_IMGS[
-                          SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
-                        ]
+                      SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
+                      ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -403,8 +403,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[2]
                       ? DIE_IMGS[
-                          SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
-                        ]
+                      SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
+                      ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -447,8 +447,9 @@ const Paddock = () => {
                       });
                       const racerPieces = selectedRacer.split(":");
 
+
                       const response = await axios.post(
-                        "https://blacksand.city/gameengine/register",
+                        "https://blacksand.city/api/blacksand/registration/create",
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
@@ -602,9 +603,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                              filter: "grayscale(1)",
-                              opacity: 0.7,
-                            }
+                            filter: "grayscale(1)",
+                            opacity: 0.7,
+                          }
                           : {}
                       }
                     >
@@ -631,7 +632,7 @@ const Paddock = () => {
                           <Image
                             src={
                               DIE_IMGS[
-                                SPECIAL_RACE_RULES[item.token.tokenId].dieSides
+                              SPECIAL_RACE_RULES[item.token.tokenId].dieSides
                               ]
                             }
                             alt="Dice Icon"
@@ -713,9 +714,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                              filter: "grayscale(1)",
-                              opacity: 0.7,
-                            }
+                            filter: "grayscale(1)",
+                            opacity: 0.7,
+                          }
                           : {}
                       }
                     >

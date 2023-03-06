@@ -1,6 +1,6 @@
 import {
     getRacesByPonyID
-} from '../../database/database';
+} from '../../../../../utils/database/database';
 
 module.exports = async function handler(req, res) {
     const {

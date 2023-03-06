@@ -9,4 +9,5 @@ module.exports = async function handler(req, res) {
     console.log("PID", pid);
     const registry = await getRegistrationByID(pid);
     res.status(200).json(registry);
+    return
 };

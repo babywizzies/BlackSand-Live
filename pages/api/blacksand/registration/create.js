@@ -17,9 +17,11 @@ module.exports = async function handler(req, res) {
         res.status(200).send({
             message: created.error
         })
+        return
     }
 
     res.status(201).send({
         message: created.success
     })
+    return
 }

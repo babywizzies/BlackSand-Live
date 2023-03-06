@@ -97,6 +97,17 @@ export const insertTreat = async (treats: object) => {
     return data;
 }
 
+export const insertRaceData = async (race_data: object) => {
+    const { data, error } = await supabase
+        .from('race_data')
+        .insert(race_data)
+        .select()
+    if (error != null) {
+        return error
+    }
+    return data;
+}
+
 export const insertRace = async (race: object) => {
     const { data, error } = await supabase
         .from('races')
@@ -151,7 +162,7 @@ export const updateTreat = async (treat: object, id: number) => {
 export const updateRaceData = async (race_data: object) => {
     const { data, error } = await supabase
         .from('race_data')
-        .upsert(race_data, { ignoreDuplicates: false, onConflict: "race_id,pony_id" })
+        .upsert(race_data, { ignoreDuplicates: false, onConflict: "id" })
         .select()
     if (error != null) {
         return error

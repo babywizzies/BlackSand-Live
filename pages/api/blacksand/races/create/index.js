@@ -16,6 +16,8 @@ module.exports = async function handler(req, res) {
         res.status(response.code).send({
             message: 'DB Error'
         })
+        return
     }
     res.status(200).json(response);
+    return
 }
