@@ -449,7 +449,7 @@ const Paddock = () => {
 
 
                       const response = await axios.post(
-                        "http://localhost:3000/api/blacksand/registration/create",
+                        "https://blacksand.city/api/blacksand/registration/create",
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
