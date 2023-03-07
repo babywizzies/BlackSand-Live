@@ -13,15 +13,16 @@ module.exports = async function handler(req, res) {
     const body = req.body
     let created = await insertRegistration(body);
 
-    if (created.error) {
-        res.status(200).send({
-            message: created.error
-        })
+    if (!created.success) {
+        res.status(500).send({
+            error: "Error registering",
+            message: created.message
+        });
         return
     }
 
     res.status(201).send({
-        message: created.success
+        message: created.message
     })
     return
 }

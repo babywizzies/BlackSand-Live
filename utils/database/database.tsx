@@ -44,6 +44,9 @@ export const getRaceByID = async (id: number) => {
  *************************************************/
 
 export const insertRegistration = async (registration: Registration) => {
+    if (registration.signature == undefined) {
+        return { success: false, message: "No signature present" }
+    }
 
     const address = verifyMessage("Register for BlackSand Race", registration.signature);
     if (!address) {
@@ -51,11 +54,13 @@ export const insertRegistration = async (registration: Registration) => {
     }
     registration.wallet = address;
 
+    delete registration.signature;
+
     const tokens = await getUserTokens(registration.wallet);
     const ownsToken = await userOwnsToken(registration.id, tokens.data.tokens);
 
     if (!ownsToken) {
-        return { "error": "User does not own token" }
+        return { success: false, message: "User does not own token" }
     }
 
     const ponyName = await getPonyName(registration.id, tokens.data.tokens);
@@ -69,9 +74,9 @@ export const insertRegistration = async (registration: Registration) => {
     const race_data = await updateRaceData({ race_id: 1, pony_id: registration.id })
 
     if (error != null) {
-        return { "error": "User does not own token" };
+        return { success: false, message: "User does not own token" };
     }
-    return { "success": data };
+    return { success: true, message: data };
 }
 
 export const insertPony = async (pony: object) => {
