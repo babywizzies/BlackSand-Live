@@ -21,7 +21,7 @@ module.exports = async function handler(req, res) {
         return
     }
 
-    res.status(201).send({
+    res.status(200).send({
         message: created.message
     })
     return
