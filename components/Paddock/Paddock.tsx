@@ -442,6 +442,12 @@ const Paddock = () => {
                         return;
                       }
 
+                      if (!discordHandle.match(/\w+#\d{4}/i)) {
+                        setErrorText("Discord handle is invalid");
+                        setRegistering(false);
+                        return;
+                      }
+
                       const signature = await signMessageAsync({
                         message: "Register for BlackSand Race",
                       });
@@ -461,6 +467,7 @@ const Paddock = () => {
                         throw `API Error: ${response.data}`;
                       }
                       setSuccess(true);
+                      setRegistering(false);
                     } catch (e) {
                       setErrorText("Something went wrong, please try again");
                       setSuccess(false);
