@@ -59,7 +59,7 @@ const Rules = () => {
                   Forgotten Runes Wizards Cult Discord
                 </a>
               </Link>{" "}
-              and head to the "BlackSand-racing" thread under the secret-tower
+              and head to the BlackSand-racing thread under the secret-tower
               channel
               <br />
               <br />
