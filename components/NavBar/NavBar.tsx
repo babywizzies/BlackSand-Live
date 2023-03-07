@@ -61,7 +61,7 @@ const Navbar = () => {
               setNavActive(false);
             }}
           >
-            <Link href="/" className={styles.nav__item}>
+            <Link href="/paddock" className={styles.nav__item}>
               Paddock
             </Link>
           </div>
