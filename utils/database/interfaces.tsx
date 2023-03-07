@@ -5,5 +5,5 @@ export interface Registration {
     treats: string[],
     wallet?: string,
     pony_name?: string,
-    signature: string
+    signature?: string,
 }
