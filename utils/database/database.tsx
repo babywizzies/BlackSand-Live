@@ -9,15 +9,30 @@ import { Registration } from './interfaces';
 
 export const getAllPonies = async () => {
     const { data: ponies } = await supabase
-        .from('ponies')
-        .select('*, races(id,race_name,experience_gained), abilities(id,ability_name), treats(id,treat)')
+        .from('pony_stables')
+        .select('*')
     return ponies;
+}
+
+export const getAllMechas = async () => {
+    const { data: mechas } = await supabase
+        .from('mecha_stables')
+        .select('*')
+    return mechas;
 }
 
 export const getPonyByID = async (id: number) => {
     const { data: ponies } = await supabase
-        .from('ponies')
-        .select('*, races(id,race_name, experience_gained), abilities(id,ability_name), treats(id,treat)')
+        .from('pony_stables')
+        .select('*')
+        .eq('pony_id', id)
+    return ponies;
+}
+
+export const getMechaByID = async (id: number) => {
+    const { data: ponies } = await supabase
+        .from('mecha_stables')
+        .select('*')
         .eq('pony_id', id)
     return ponies;
 }
@@ -142,14 +157,26 @@ export const insertAbilities = async (abilities: object) => {
 
 export const updatePony = async (pony: object, pony_id: number) => {
     const { data, error } = await supabase
-        .from('ponies')
+        .from('pony_stables')
         .update(pony)
         .eq('pony_id', pony_id)
         .select()
     if (error != null) {
-        return error
+        return { success: false, message: "Error updating" };
     }
-    return data;
+    return { success: true, message: data };
+}
+
+export const updateMecha = async (pony: object, pony_id: number) => {
+    const { data, error } = await supabase
+        .from('mecha_stables')
+        .update(pony)
+        .eq('pony_id', pony_id)
+        .select()
+    if (error != null) {
+        return { success: false, message: "Error updating" };
+    }
+    return { success: true, message: data };
 }
 
 export const updateTreat = async (treat: object, id: number) => {
@@ -159,9 +186,9 @@ export const updateTreat = async (treat: object, id: number) => {
         .eq('id', id)
         .select()
     if (error != null) {
-        return error
+        return { success: false, message: "Error updating" };
     }
-    return data;
+    return { success: true, message: data };
 }
 
 export const updateRaceData = async (race_data: object) => {
@@ -170,9 +197,9 @@ export const updateRaceData = async (race_data: object) => {
         .upsert(race_data, { ignoreDuplicates: false, onConflict: "id" })
         .select()
     if (error != null) {
-        return error
+        return { success: false, message: "Error updating" };
     }
-    return data;
+    return { success: true, message: data };
 }
 
 export const updateAbilities = async (ability: object, id: number) => {
@@ -182,7 +209,7 @@ export const updateAbilities = async (ability: object, id: number) => {
         .eq('id', id)
         .select()
     if (error != null) {
-        return error
+        return { success: false, message: "Error updating" };
     }
-    return data;
+    return { success: true, message: data };
 }
