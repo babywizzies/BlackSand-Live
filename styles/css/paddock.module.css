@@ -39,12 +39,12 @@
 .treat-grid {
   display: grid;
   gap: 8px;
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(3, fit-content(40%));
   position: relative;
 }
 
 .treat-grid {
-  grid-template-columns: repeat(5, auto);
+  grid-template-columns: repeat(5, fit-content(40%));
 }
 
 .token-grid-empty {
@@ -254,17 +254,17 @@
 
 @media screen and (max-width: 950px) {
   .token-grid {
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(2, fit-content(40%));
   }
 
   .treat-grid {
-    grid-template-columns: repeat(4, auto);
+    grid-template-columns: repeat(4, fit-content(40%));
   }
 }
 
 @media screen and (max-width: 950px) {
   .treat-grid {
-    grid-template-columns: repeat(3, auto);
+    grid-template-columns: repeat(3, fit-content(40%));
   }
 }
 
@@ -274,6 +274,6 @@
   }
 
   .treat-grid {
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(2, fit-content(40%));
   }
 }

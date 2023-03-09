@@ -536,7 +536,7 @@ const Paddock = () => {
               ></div>
             )}
             <div ref={poniesRef}></div>
-            <h2 className={styles.subtitle}>Ponies</h2>
+            {/* <h2 className={styles.subtitle}>Ponies</h2>
             {ponyTokens.length > 0 && (
               <div className={styles["token-grid"]}>
                 {ponyTokens.map((item, i) => (
@@ -565,7 +565,7 @@ const Paddock = () => {
                   <button>Get a Pony</button>
                 </a>
               </div>
-            )}
+            )} */}
             <h2 className={styles.subtitle}>Mounts</h2>
             <div className={styles["token-grid"]}>
               {mountTokens.map((item, i) => (
