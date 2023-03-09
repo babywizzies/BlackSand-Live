@@ -54,39 +54,62 @@ export const getRaceByID = async (id: number) => {
     return races;
 }
 
+export const getLatestRace = async () => {
+    const { data: races } = await supabase
+        .from('races')
+        .select('*')
+        .order('id', { ascending: false })
+        .limit(1)
+
+    return races;
+}
+
 /**************************************************
  *                  INSERT
  *************************************************/
 
 export const insertRegistration = async (registration: Registration) => {
+    // Check that signature is available
     if (registration.signature == undefined) {
         return { success: false, message: "No signature present" }
     }
 
+    // Check that registration is not closed
+    const latestRace = await getLatestRace();
+    if (latestRace != null) {
+        const latestRaceEndTime = new Date(latestRace[0].end_time);
+        const now = new Date();
+        if (now > latestRaceEndTime) {
+            return { success: false, message: "Registration has ended" }
+        }
+    }
+
+    // Verify signature to get wallet address, then delete the sig for privacy
     const address = verifyMessage("Register for BlackSand Race", registration.signature);
     if (!address) {
         return null;
     }
     registration.wallet = address;
-
     delete registration.signature;
 
+    // Check that user owns the token they are trying to race with
     const tokens = await getUserTokens(registration.wallet);
     const ownsToken = await userOwnsToken(registration.id, tokens.data.tokens);
-
     if (!ownsToken) {
         return { success: false, message: "User does not own token" }
     }
 
+    // Submit registration
     const ponyName = await getPonyName(registration.id, tokens.data.tokens);
     registration.pony_name = ponyName;
 
     const { data, error } = await supabase
         .from('registration')
-        .upsert(registration, { ignoreDuplicates: false, onConflict: "id" })
+        .upsert(registration, { ignoreDuplicates: false, onConflict: "wallet" })
         .select()
 
-    const race_data = await updateRaceData({ race_id: 1, pony_id: registration.id })
+    // Submit token data for racing
+    const race_data = await upsertRaceData({ race_id: 1, pony_id: registration.id, owner_wallet: address })
 
     if (error != null) {
         return { success: false, message: "User does not own token" };
@@ -191,10 +214,21 @@ export const updateTreat = async (treat: object, id: number) => {
     return { success: true, message: data };
 }
 
+export const upsertRaceData = async (race_data: object) => {
+    const { data, error } = await supabase
+        .from('race_data')
+        .upsert(race_data, { ignoreDuplicates: false, onConflict: "owner_wallet" })
+        .select()
+    if (error != null) {
+        return { success: false, message: "Error updating" };
+    }
+    return { success: true, message: data };
+}
+
 export const updateRaceData = async (race_data: object) => {
     const { data, error } = await supabase
         .from('race_data')
-        .upsert(race_data, { ignoreDuplicates: false, onConflict: "id" })
+        .upsert(race_data, { ignoreDuplicates: false })
         .select()
     if (error != null) {
         return { success: false, message: "Error updating" };
