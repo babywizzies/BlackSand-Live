@@ -12,6 +12,7 @@ import TokenCard from "./TokenCard";
 import SelectedTreatCard from "./SelectedTreatCard";
 import axios from "axios";
 import Confetti from "react-dom-confetti";
+import useAudio from "../../hooks/useAudio";
 
 export type SelectedTreat = {
   name: string;
@@ -203,6 +204,10 @@ const canAddItem = (
   return true;
 };
 
+const randomIntFromInterval = (min: number, max: number) => {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+};
+
 const Paddock = () => {
   const poniesRef = createRef<HTMLDivElement>();
   const specialItemsRef = createRef<HTMLHeadingElement>();
@@ -215,6 +220,29 @@ const Paddock = () => {
   const [success, setSuccess] = useState(false);
   const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
+
+  // Sounds
+  useAudio("/audio/paddock-bg.mp3", {
+    autoplay: true,
+    volume: 0.1,
+    loop: true,
+  });
+  const horseSelectedSound = useAudio("/audio/horse-selected.mp3", {
+    volume: 0.2,
+  });
+  const treatSound1 = useAudio("/audio/treat-sound-1.mp3", {
+    volume: 0.2,
+  });
+  const treatSound2 = useAudio("/audio/treat-sound-2.mp3", {
+    volume: 0.2,
+  });
+  const treatSound3 = useAudio("/audio/treat-sound-3.mp3", {
+    volume: 0.3,
+  });
+  const treatSounds = [treatSound1, treatSound2, treatSound3];
+  const registeredSound = useAudio("/audio/horses-galloping.mp3", {
+    volume: 0.4,
+  });
   const { data: tokenData, isLoading: isLoadingTokens } = useUserTokens(
     address,
     {
@@ -361,8 +389,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[0]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -382,8 +410,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[1]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -403,8 +431,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[2]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -453,22 +481,22 @@ const Paddock = () => {
                       });
                       const racerPieces = selectedRacer.split(":");
 
-
-                      const response = await axios.post(
-                        "https://blacksand.city/api/blacksand/registration/create",
-                        {
-                          id: racerPieces[1],
-                          collection: racerPieces[0],
-                          discord_handle: discordHandle,
-                          treats: selectedItems.map((item) => item.id),
-                          signature,
-                        }
-                      );
-                      if (response.status !== 200) {
-                        throw `API Error: ${response.data}`;
-                      }
+                      // const response = await axios.post(
+                      //   "https://blacksand.city/api/blacksand/registration/create",
+                      //   {
+                      //     id: racerPieces[1],
+                      //     collection: racerPieces[0],
+                      //     discord_handle: discordHandle,
+                      //     treats: selectedItems.map((item) => item.id),
+                      //     signature,
+                      //   }
+                      // );
+                      // if (response.status !== 200) {
+                      //   throw `API Error: ${response.data}`;
+                      // }
                       setSuccess(true);
                       setRegistering(false);
+                      registeredSound?.play();
                     } catch (e) {
                       setErrorText("Something went wrong, please try again");
                       setSuccess(false);
@@ -572,7 +600,10 @@ const Paddock = () => {
                 <TokenCard
                   key={i}
                   item={item}
-                  setSelectedRacer={setSelectedRacer}
+                  setSelectedRacer={(id) => {
+                    setSelectedRacer(id);
+                    horseSelectedSound?.play();
+                  }}
                 />
               ))}
             </div>
@@ -610,9 +641,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                            filter: "grayscale(1)",
-                            opacity: 0.7,
-                          }
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
                           : {}
                       }
                     >
@@ -639,7 +670,7 @@ const Paddock = () => {
                           <Image
                             src={
                               DIE_IMGS[
-                              SPECIAL_RACE_RULES[item.token.tokenId].dieSides
+                                SPECIAL_RACE_RULES[item.token.tokenId].dieSides
                               ]
                             }
                             alt="Dice Icon"
@@ -665,6 +696,8 @@ const Paddock = () => {
                               )
                             );
                             if (canAdd) {
+                              const soundNumber = randomIntFromInterval(1, 3);
+                              treatSounds[soundNumber - 1]?.play();
                               setSelectedItems([
                                 ...selectedItems,
                                 {
@@ -721,9 +754,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                            filter: "grayscale(1)",
-                            opacity: 0.7,
-                          }
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
                           : {}
                       }
                     >
@@ -759,6 +792,8 @@ const Paddock = () => {
                               )
                             );
                             if (canAdd) {
+                              const soundNumber = randomIntFromInterval(1, 3);
+                              treatSounds[soundNumber - 1]?.play();
                               setSelectedItems([
                                 ...selectedItems,
                                 {
