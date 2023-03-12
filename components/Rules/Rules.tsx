@@ -25,7 +25,7 @@ const Rules = () => {
         Points.
       </p>
       <div style={{ marginTop: "50px" }}>
-        <Image src={Rolling} alt="trojanhorse" />
+        <Image style={{height: '100%', width: '100%'}}src={Rolling} alt="trojanhorse" />
       </div>
 
       <div className={styles.container}>

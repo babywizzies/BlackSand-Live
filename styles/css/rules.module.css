@@ -95,7 +95,8 @@
   place-items: center;
   text-align: center;
   padding: 30px;
-  cursor: pointer; 
+  cursor: pointer;
+  margin-top: 20px; 
 }
 
 .logo_span{
@@ -174,6 +175,7 @@
 @media screen and (max-width: 428px) {
   .title{
       line-height: 60px;
+      width: 80%;
   }
   .container{
       width: 90%;
