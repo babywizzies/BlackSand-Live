@@ -361,8 +361,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[0]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -382,8 +382,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[1]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -403,8 +403,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[2]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -452,7 +452,6 @@ const Paddock = () => {
                         message: "Register for BlackSand Race",
                       });
                       const racerPieces = selectedRacer.split(":");
-
 
                       const response = await axios.post(
                         "https://blacksand.city/api/blacksand/registration/create",
@@ -610,9 +609,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                            filter: "grayscale(1)",
-                            opacity: 0.7,
-                          }
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
                           : {}
                       }
                     >
@@ -639,7 +638,7 @@ const Paddock = () => {
                           <Image
                             src={
                               DIE_IMGS[
-                              SPECIAL_RACE_RULES[item.token.tokenId].dieSides
+                                SPECIAL_RACE_RULES[item.token.tokenId].dieSides
                               ]
                             }
                             alt="Dice Icon"
@@ -721,9 +720,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                            filter: "grayscale(1)",
-                            opacity: 0.7,
-                          }
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
                           : {}
                       }
                     >
@@ -801,6 +800,34 @@ const Paddock = () => {
           </div>
         </div>
       )}
+      <div
+        style={{
+          position: "fixed",
+          inset: 0,
+          zIndex: 100000,
+          display: "flex",
+          background: "rgba(0,0,0,0.7)",
+          alignItems: "flex-start",
+        }}
+      >
+        <div
+          style={{
+            border: "1px solid white",
+            borderRadius: 8,
+            background: "black",
+            margin: "0 auto",
+            width: "auto",
+            minWidth: 400,
+            minHeight: 300,
+            marginTop: 40,
+            padding: "16px 8px",
+          }}
+        >
+          <h2 style={{ color: "white", textAlign: "center" }}>
+            Off to the Races!
+          </h2>
+        </div>
+      </div>
     </div>
   );
 };
