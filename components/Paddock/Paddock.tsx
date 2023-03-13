@@ -159,6 +159,7 @@ const SPECIAL_RACE_RULES: Record<
 };
 
 const DIE_IMGS: Record<string, string> = {
+  2: "/img/d2.svg",
   4: "/img/d4.svg",
   6: "/img/d6.svg",
   8: "/img/d8.svg",
@@ -361,8 +362,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[0]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[0].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -382,8 +383,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[1]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[1].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -403,8 +404,8 @@ const Paddock = () => {
                   dieSidesImg={
                     selectedItems[2]
                       ? DIE_IMGS[
-                      SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
-                      ]
+                          SPECIAL_RACE_RULES[selectedItems[2].id]?.dieSides
+                        ]
                       : undefined
                   }
                   scrollToItemSection={scrollToItemSection}
@@ -452,7 +453,6 @@ const Paddock = () => {
                         message: "Register for BlackSand Race",
                       });
                       const racerPieces = selectedRacer.split(":");
-
 
                       const response = await axios.post(
                         "https://blacksand.city/api/blacksand/registration/create",
@@ -610,9 +610,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                            filter: "grayscale(1)",
-                            opacity: 0.7,
-                          }
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
                           : {}
                       }
                     >
@@ -639,7 +639,7 @@ const Paddock = () => {
                           <Image
                             src={
                               DIE_IMGS[
-                              SPECIAL_RACE_RULES[item.token.tokenId].dieSides
+                                SPECIAL_RACE_RULES[item.token.tokenId].dieSides
                               ]
                             }
                             alt="Dice Icon"
@@ -721,9 +721,9 @@ const Paddock = () => {
                       style={
                         !canAdd
                           ? {
-                            filter: "grayscale(1)",
-                            opacity: 0.7,
-                          }
+                              filter: "grayscale(1)",
+                              opacity: 0.7,
+                            }
                           : {}
                       }
                     >
@@ -743,6 +743,15 @@ const Paddock = () => {
                         </span>
                       </div>
                       <div className={styles["token-actions"]}>
+                        <div style={{ display: "flex", alignItems: "center" }}>
+                          <p style={{ color: "white" }}>x1</p>
+                          <Image
+                            src={DIE_IMGS["2"]}
+                            alt="Dice Icon"
+                            width={35}
+                            height={35}
+                          />
+                        </div>
                         <button
                           className={styles["token-button"]}
                           onClick={() => {
