@@ -57,11 +57,28 @@ export const getRaceByID = async (id: number) => {
 export const getLatestRace = async () => {
     const { data: races } = await supabase
         .from('races')
-        .select('*')
+        .select('*, race_data(*, registration(*))')
         .order('id', { ascending: false })
         .limit(1)
 
     return races;
+}
+
+export const getAllRaceData = async () => {
+    const { data: races } = await supabase
+        .from('race_data')
+        .select('*, registration(*)')
+
+    return races;
+}
+
+export const getPonyByDiscordUsername = async (discordUsername: string) => {
+    const { data: registration } = await supabase
+        .from('registration')
+        .select('*, race_data(*)')
+        .eq('discord_handle', discordUsername)
+
+    return registration;
 }
 
 /**************************************************
@@ -228,11 +245,13 @@ export const upsertRaceData = async (race_data: object) => {
 export const updateRaceData = async (race_data: object) => {
     const { data, error } = await supabase
         .from('race_data')
-        .upsert(race_data, { ignoreDuplicates: false })
+        .update(race_data)
         .select()
     if (error != null) {
+        console.log(error);
         return { success: false, message: "Error updating" };
     }
+    console.log(data);
     return { success: true, message: data };
 }
 
@@ -246,4 +265,25 @@ export const updateAbilities = async (ability: object, id: number) => {
         return { success: false, message: "Error updating" };
     }
     return { success: true, message: data };
+}
+
+// Find a random target pony in the registration table
+export const randomyPony = async () => {
+    const { data: targetPonies, error: targetPoniesError } = await supabase
+        .from('race_data')
+        .select('id, race_ability_points')
+
+    if (targetPoniesError) {
+        console.error(targetPoniesError);
+        console.log('An error occurred while fetching target pony data.');
+        return;
+    }
+
+    if (targetPonies.length === 0) {
+        console.log('No target ponies found.');
+        return;
+    }
+
+    const targetPony = targetPonies[Math.floor(Math.random() * targetPonies.length)];
+    console.log('Target Pony', targetPony);
 }
