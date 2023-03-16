@@ -56,7 +56,7 @@ const Rules = () => {
           <Link href="/racetrack">
             <div className={styles.card_three}>
               <div className={styles.logo_span}>
-                <img className={styles.logo} src="/img/horse_logo.png" />
+                <img className={styles.logo} src="/img/horse_gold_logo.png" />
                 <span>Leaderboards</span>
               </div>
             </div>
