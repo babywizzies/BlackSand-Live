@@ -1,0 +1,84 @@
+.container {
+  width: 90%;
+  margin: 0 auto;
+  max-width: 1035px;
+}
+
+.title {
+  font-family: 'Origen';
+  font-size: clamp(4rem, 2.5638rem + 5.3691vw, 6rem);
+  background: -webkit-linear-gradient(#fbea71, #d4b42c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  line-height: 110px;
+  margin-bottom: 40px;
+}
+
+.subtitle {
+  color: white;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: clamp(1.2rem, 2.5638rem + 5.3691vw, 2rem);
+}
+
+.leaderboard-table {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.leaderboard-row,
+.leaderboard-row-header {
+  display: grid;
+  grid-template-columns: 10% 100px 1fr 1fr 100px;
+  align-items: center;
+}
+
+.leaderboard-row-header {
+  position: sticky;
+  top: 71px;
+  background: black;
+  z-index: 1000;
+}
+
+.leaderboard-row-header > div:first-child,
+.leaderboard-row > div:first-child {
+  padding-left: 0;
+}
+
+.leaderboard-row-header > div:last-child,
+.leaderboard-row > div:last-child {
+  padding-right: 0;
+}
+
+.leaderboard-row-header > div,
+.leaderboard-row > div {
+  padding: 12px;
+  color: white;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.leaderboard-row-header > div {
+  font-weight: 800;
+}
+
+.race-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 30px;
+}
+
+.race-info {
+  color: white;
+  display: flex;
+  gap: 12px;
+}
+
+.race-info > p:first-child {
+  border-right: 1px solid gray;
+  padding-right: 10px;
+}

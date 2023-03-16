@@ -53,7 +53,7 @@ const Main = () => {
                 <p className={styles.subpages_text}>Market</p>
               </div>
             </Link>
-            <Link href="/rules">
+            <Link href="/racetrack">
               <div className={styles.subpages_card}>
                 <img className={styles.subpages_img} src="/img/RaceTrack.png" />
                 <p className={styles.subpages_text}>Race Track</p>
