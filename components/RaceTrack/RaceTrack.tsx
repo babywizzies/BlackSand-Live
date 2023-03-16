@@ -1,4 +1,4 @@
-import React, { createRef, useCallback, useMemo, useState } from "react";
+import React, { useMemo } from "react";
 import styles from "../../styles/css/racetrack.module.css";
 import useSWR from "swr";
 import RacePortrait from "../RacePortrait";

@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { FC } from "react";
+import React, { FC } from "react";
 
 type Props = {
   collectionId: string;
