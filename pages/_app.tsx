@@ -1,6 +1,7 @@
 import "../styles/css/globals.css";
 import "../styles/css/accordion.css";
 import "@rainbow-me/rainbowkit/styles.css";
+import "react-tooltip/dist/react-tooltip.css";
 import type { AppProps } from "next/app";
 import { RainbowKitProvider, getDefaultWallets } from "@rainbow-me/rainbowkit";
 import {
@@ -15,6 +16,7 @@ import { publicProvider } from "wagmi/providers/public";
 import NavBar from "../components/NavBar/NavBar";
 import Footer from "../components/Footer/Footer";
 import { ReservoirKitProvider } from "@reservoir0x/reservoir-kit-ui";
+import { SWRConfig } from "swr";
 
 const { chains, provider, webSocketProvider } = configureChains(
   [
@@ -43,15 +45,22 @@ const wagmiClient = createClient({
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <WagmiConfig client={wagmiClient}>
-      <RainbowKitProvider chains={chains}>
-        <ReservoirKitProvider>
-          <NavBar />
-          <Component {...pageProps} />
-        </ReservoirKitProvider>
-        <Footer />
-      </RainbowKitProvider>
-    </WagmiConfig>
+    <SWRConfig
+      value={{
+        fetcher: (resource, init) =>
+          fetch(resource, init).then((res) => res.json()),
+      }}
+    >
+      <WagmiConfig client={wagmiClient}>
+        <RainbowKitProvider chains={chains}>
+          <ReservoirKitProvider>
+            <NavBar />
+            <Component {...pageProps} />
+          </ReservoirKitProvider>
+          <Footer />
+        </RainbowKitProvider>
+      </WagmiConfig>
+    </SWRConfig>
   );
 }
 
