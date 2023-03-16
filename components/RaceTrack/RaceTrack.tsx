@@ -5,6 +5,7 @@ import RacePortrait from "../RacePortrait";
 import { Tooltip } from "react-tooltip";
 import useTimeSince from "../../hooks/useTimeSince";
 import useAudio from "../../hooks/useAudio";
+import Image from "next/image";
 
 const RaceTrack = () => {
   useAudio("/audio/race-track.mp3", {
@@ -22,7 +23,9 @@ const RaceTrack = () => {
     return data && data[0] ? data[0] : {};
   }, [data]);
   const raceEndTimestamp = useMemo(() => {
-    return race.end_time ? new Date(race.end_time).getTime() / 1000 : undefined;
+    return race.end_time
+      ? new Date("2023-03-17T22:00:00Z").getTime() / 1000
+      : undefined;
   }, [race]);
   const raceName = race.name || "";
 
@@ -46,7 +49,7 @@ const RaceTrack = () => {
           <p>
             {countdownTime && countdownTime.includes("ago")
               ? "Race Finished"
-              : countdownTime}
+              : `Ends in ${countdownTime}`}
           </p>
           <p>{positions.length} contestants</p>
         </div>
@@ -57,7 +60,7 @@ const RaceTrack = () => {
           <div>Points</div>
           <div>Name</div>
           <div>Rider</div>
-          <div>Treat Rolls</div>
+          <div>Treats</div>
         </div>
         {positions.map((position: any) => {
           const treatPoints =
@@ -65,6 +68,15 @@ const RaceTrack = () => {
             (position.treat_2_roll || 0) +
             (position.treat_3_roll || 0);
           const walletAddress = position.registration.wallet || "";
+          const treats: { roll: number; id: string }[] = position.registration
+            .treats
+            ? position.registration.treats.map((id: number, i: number) => {
+                return {
+                  roll: position[`treat_${i + 1}_roll`],
+                  id,
+                };
+              })
+            : [];
           return (
             <div
               key={`${position.registration.collection}:${position.registration.id}`}
@@ -76,7 +88,7 @@ const RaceTrack = () => {
               />
               <div
                 className="racetrack-tooltip"
-                data-tooltip-html={`Event Points: ${position.event_points} <br/> Treat Points: ${treatPoints} <br/> Ability Points: ${position.race_ability_points}`}
+                data-tooltip-html={`<b>Event Points:</b> ${position.event_points} <br/> <b>Treat Points:</b> ${treatPoints} <br/> <b>Ability Points:</b> ${position.race_ability_points}`}
               >
                 {position.total_points || 0}
               </div>
@@ -89,7 +101,31 @@ const RaceTrack = () => {
               >
                 {position.registration.discord_handle}
               </div>
-              <div>{position.treat_rolls}</div>
+              <div className={styles["treat-cell"]}>
+                {treats.map((treat, i) => (
+                  <div key={i} className={styles["treat-container"]}>
+                    <div
+                      className="racetrack-tooltip"
+                      data-tooltip-html={`<b>Treat Points:</b> ${
+                        treat.roll > 0 ? treat.roll : "Not Rolled"
+                      }`}
+                      data-tooltip-place="top"
+                    >
+                      <div className={styles["treat-image"]}>
+                        <Image
+                          src={`https://api.reservoir.tools/redirect/tokens/0x7c104b4db94494688027cced1e2ebfb89642c80f:${treat.id}/image/v1`}
+                          unoptimized
+                          fill
+                          alt=""
+                          style={{
+                            filter: `grayscale(${treat.roll > 0 ? "0" : "1"})`,
+                          }}
+                        />
+                      </div>
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
           );
         })}

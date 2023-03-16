@@ -82,3 +82,24 @@
   border-right: 1px solid gray;
   padding-right: 10px;
 }
+
+.treat-cell {
+  display: flex;
+  align-items: center;
+}
+
+.treat-container {
+    width: 30px;
+    height: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.treat-image {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -5px;
+}
