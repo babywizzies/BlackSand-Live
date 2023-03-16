@@ -25,7 +25,7 @@ const Rules = () => {
         Points.
       </p>
       <div style={{ marginTop: "50px" }}>
-        <Image src={Rolling} alt="trojanhorse" />
+        <Image style={{height: '100%', width: '100%'}}src={Rolling} alt="trojanhorse" />
       </div>
 
       <div className={styles.container}>
@@ -34,14 +34,29 @@ const Rules = () => {
         </h6>
         <div className={styles.rules_container_three}>
           <Link href="/racemechanics" legacyBehavior>
-            <a target="_blank">
-              <div className={styles.card_three}>Race Mechanics</div>
-            </a>
+              <div className={styles.card_three}>
+              <div className={styles.logo_span}>
+                <img className={styles.logo} src="/img/rules_logo.png"/>
+                <span>Race Mechanics</span>
+              </div>
+              </div>
           </Link>
-          <Link href="/paddock" target="_blank">
-            <div className={styles.card_three}>Enter a Race</div>
+          <Link href="/paddock">
+            <div className={styles.card_three}>
+              <div className={styles.logo_span}>
+                <img className={styles.logo} src="/img/horse_logo.png"/>
+                <span>Enter a Race</span>
+              </div>
+            </div>
           </Link>
-          <div className={styles.card_three}>Earn Points and Claim Rewards</div>
+          <Link href="/market">
+          <div className={styles.card_three}>
+            <div className={styles.logo_span}>
+              <img className={styles.logo} src="/img/champion_logo.png"/>
+              <span>Claim Rewards</span>
+            </div>
+            </div>
+          </Link>
         </div>
 
         <h6 className={styles.title_container}>
@@ -69,7 +84,6 @@ const Rules = () => {
               <Link href="/racemechanics" legacyBehavior>
                 <a
                   style={{ color: "#d4b42c", fontWeight: "700" }}
-                  target="_blank"
                 >
                   Explore the Participate in Races and Championships page
                 </a>

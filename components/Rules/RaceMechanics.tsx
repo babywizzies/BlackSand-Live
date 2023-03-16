@@ -2,9 +2,8 @@ import React, {useState} from "react";
 import styles from '../../styles/css/rules.module.css'
 import Image from "next/image";
 import Rolling from '../public/img/rolling.gif'
-import Bot from '../public/img/bot.png'
+import Treats from '../../public/img/rules-treats.png'
 import Modal from 'react-modal'
-
 
 const Rule1 = () => {
   const [isOpen, setIsOpen] = useState(false)
@@ -75,6 +74,41 @@ const Rule1 = () => {
                     <br/>
                     <i>Note: Indigestion can happen when you ROLL 3 or more times, not when you feed 3 treats (e.g.; if you feed 1 Eggplant = 1x D4 and 1 Carrot = 2x D6, you only use 2 Treats, but you Roll 3 Treat Rolls. Thus, check for Indigestion</i>
                     </p>
+
+                    <div className={styles.img}>
+                      <Image
+                        onClick={() => setIsOpen(true)}
+                        style={{ borderRadius: "20px", width: "100%", height: "auto" }}
+                        src={Treats}
+                        alt="bot"
+                      />
+                    </div>
+                    <Modal
+            className={styles.content}
+            isOpen={isOpen}
+            onRequestClose={() => setIsOpen(false)}
+            style={customStyles}
+          >
+            <div className={styles.modal}>
+              <button
+                className={styles.close_modal}
+                onClick={() => setIsOpen(false)}
+              >
+                Close
+              </button>
+              <div style={{ border: "10px solid grey", borderRadius: "20px" }}>
+                <Image
+                  style={{
+                    borderRadius: "10px",
+                    width: "100%",
+                    height: "auto",
+                  }}
+                  src={Treats}
+                  alt="bot"
+                />
+              </div>
+            </div>
+          </Modal>
 
                     <br/>
 
