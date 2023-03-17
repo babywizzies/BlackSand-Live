@@ -6,6 +6,7 @@ import { Tooltip } from "react-tooltip";
 import useTimeSince from "../../hooks/useTimeSince";
 import useAudio from "../../hooks/useAudio";
 import Image from "next/image";
+import RaceMap from "./RaceMap";
 
 const RaceTrack = () => {
   useAudio("/audio/race-track.mp3", {
@@ -45,6 +46,7 @@ const RaceTrack = () => {
       <h1 className={styles.title}>Race Track</h1>
       <div className={styles["race-details"]}>
         <h2 className={styles.subtitle}>{raceName}</h2>
+        <RaceMap />
         <div className={styles["race-info"]}>
           <p>
             {countdownTime && countdownTime.includes("ago")

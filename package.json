@@ -10,6 +10,7 @@
     "pm2": "pm2"
   },
   "dependencies": {
+    "@inlet/react-pixi": "^6.8.0",
     "@rainbow-me/rainbowkit": "^0.9",
     "@reservoir0x/reservoir-kit-ui": "^0.9.0",
     "@supabase/supabase-js": "^2.10.0",
@@ -20,6 +21,7 @@
     "merkletreejs": "^0.2.32",
     "next": "^13.0",
     "nextjs-cors": "^2.1.1",
+    "pixi.js": "^7.2.0",
     "pm2": "^5.2.2",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
