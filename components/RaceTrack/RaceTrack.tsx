@@ -10,7 +10,8 @@ import Image from "next/image";
 const RaceTrack = () => {
   useAudio("/audio/race-track.mp3", {
     autoplay: true,
-    volume: 0.2,
+    volume: 0.09,
+    loop: true,
   });
   const { data } = useSWR(
     "https://blacksand.city/api/blacksand/races/1",
