@@ -24,7 +24,7 @@ const RaceTrack = () => {
   }, [data]);
   const raceEndTimestamp = useMemo(() => {
     return race.end_time
-      ? new Date("2023-03-17T22:00:00Z").getTime() / 1000
+      ? new Date(`${race.end_time}Z`).getTime() / 1000
       : undefined;
   }, [race]);
   const raceName = race.name || "";
@@ -49,7 +49,7 @@ const RaceTrack = () => {
           <p>
             {countdownTime && countdownTime.includes("ago")
               ? "Race Finished"
-              : `Ends in ${countdownTime}`}
+              : `Ends ${countdownTime}`}
           </p>
           <p>{positions.length} contestants</p>
         </div>
@@ -62,7 +62,7 @@ const RaceTrack = () => {
           <div>Rider</div>
           <div>Treats</div>
         </div>
-        {positions.map((position: any) => {
+        {positions.map((position: any, i: number) => {
           const treatPoints =
             (position.treat_1_roll || 0) +
             (position.treat_2_roll || 0) +
@@ -82,10 +82,20 @@ const RaceTrack = () => {
               key={`${position.registration.collection}:${position.registration.id}`}
               className={styles["leaderboard-row"]}
             >
-              <RacePortrait
-                collectionId={position.registration.collection}
-                tokenId={position.registration.id}
-              />
+              <div
+                style={{ display: "flex", alignItems: "center", gap: 10 }}
+                className={position.indigestion ? "racetrack-tooltip" : ""}
+                data-tooltip-content={
+                  position.indigestion ? "Indigestion" : undefined
+                }
+              >
+                <div style={{ flexShrink: 0 }}>#{i + 1}</div>
+                <RacePortrait
+                  collectionId={position.registration.collection}
+                  tokenId={position.registration.id}
+                  hasIndigestion={position.indigestion}
+                />
+              </div>
               <div
                 className="racetrack-tooltip"
                 data-tooltip-html={`<b>Event Points:</b> ${position.event_points} <br/> <b>Treat Points:</b> ${treatPoints} <br/> <b>Ability Points:</b> ${position.race_ability_points}`}

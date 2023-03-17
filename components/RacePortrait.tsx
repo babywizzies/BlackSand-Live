@@ -4,9 +4,10 @@ import React, { FC } from "react";
 type Props = {
   collectionId: string;
   tokenId: number;
+  hasIndigestion: boolean;
 };
 
-const RacePortrait: FC<Props> = ({ tokenId }) => {
+const RacePortrait: FC<Props> = ({ tokenId, hasIndigestion }) => {
   let bottom = -17;
   let left = -5;
 
@@ -81,11 +82,21 @@ const RacePortrait: FC<Props> = ({ tokenId }) => {
         overflow: "hidden",
         position: "relative",
         borderRadius: "50%",
-        border: "1px solid white",
+        border: hasIndigestion ? "1px solid green" : "1px solid white",
+        boxShadow: hasIndigestion ? "green 0px 0px 15px 0px" : "none",
         height: 50,
         width: 50,
       }}
     >
+      {hasIndigestion && (
+        <Image
+          src="/img/noxious-gas.png"
+          width={50}
+          height={50}
+          alt="noxious gas"
+          style={{ zIndex: 1, position: "absolute", inset: 0 }}
+        />
+      )}
       <div
         style={{
           height: 100,
