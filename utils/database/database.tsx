@@ -48,7 +48,7 @@ export const getRegistrationByID = async (id: number) => {
 export const getRaceByID = async (id: number) => {
     const { data: races } = await supabase
         .from('races')
-        .select('*, race_data(*, registration(*))')
+        .select('*, past_race_data(*, past_registrations(*))')
         .eq('id', id)
 
     return races;
@@ -120,13 +120,22 @@ export const insertRegistration = async (registration: Registration) => {
     const ponyName = await getPonyName(registration.id, tokens.data.tokens);
     registration.pony_name = ponyName;
 
+    // Set registration DT
+    registration.registered_at = new Date().toISOString();
+    // Set registration RaceID
+    registration.race_id = 2;
+
     const { data, error } = await supabase
         .from('registration')
         .upsert(registration, { ignoreDuplicates: false, onConflict: "wallet" })
         .select()
+    // Error creating registration
+    if (error != null) {
+        return { success: false, message: data }
+    }
 
     // Submit token data for racing
-    const race_data = await upsertRaceData({ race_id: 1, pony_id: registration.id, owner_wallet: address })
+    const race_data = await upsertRaceData({ race_id: 2, pony_id: registration.id, owner_wallet: address })
 
     if (error != null) {
         return { success: false, message: "User does not own token" };
