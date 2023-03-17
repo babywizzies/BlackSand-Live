@@ -25,36 +25,48 @@ const Rules = () => {
         Points.
       </p>
       <div style={{ marginTop: "50px" }}>
-        <Image style={{height: '100%', width: '100%'}}src={Rolling} alt="trojanhorse" />
+        <Image
+          style={{ height: "100%", width: "100%" }}
+          src={Rolling}
+          alt="trojanhorse"
+        />
       </div>
 
       <div className={styles.container}>
         <h6 className={styles.title_container_first}>
-          There are three key elements of BlackSand Racing
+          The key elements of BlackSand Racing
         </h6>
         <div className={styles.rules_container_three}>
           <Link href="/racemechanics" legacyBehavior>
-              <div className={styles.card_three}>
+            <div className={styles.card_three}>
               <div className={styles.logo_span}>
-                <img className={styles.logo} src="/img/rules_logo.png"/>
+                <img className={styles.logo} src="/img/rules_logo.png" />
                 <span>Race Mechanics</span>
               </div>
-              </div>
+            </div>
           </Link>
           <Link href="/paddock">
             <div className={styles.card_three}>
               <div className={styles.logo_span}>
-                <img className={styles.logo} src="/img/horse_logo.png"/>
+                <img className={styles.logo} src="/img/horse_logo.png" />
                 <span>Enter a Race</span>
               </div>
             </div>
           </Link>
-          <Link href="/market">
-          <div className={styles.card_three}>
-            <div className={styles.logo_span}>
-              <img className={styles.logo} src="/img/champion_logo.png"/>
-              <span>Claim Rewards</span>
+          <Link href="/racetrack">
+            <div className={styles.card_three}>
+              <div className={styles.logo_span}>
+                <img className={styles.logo} src="/img/horse_gold_logo.png" />
+                <span>Leaderboards</span>
+              </div>
             </div>
+          </Link>
+          <Link href="/market">
+            <div className={styles.card_three}>
+              <div className={styles.logo_span}>
+                <img className={styles.logo} src="/img/champion_logo.png" />
+                <span>Claim Rewards</span>
+              </div>
             </div>
           </Link>
         </div>
@@ -82,9 +94,7 @@ const Rules = () => {
               points and play abilities or events for your mount. See the
               graphic below for a full list of bot commands.{" "}
               <Link href="/racemechanics" legacyBehavior>
-                <a
-                  style={{ color: "#d4b42c", fontWeight: "700" }}
-                >
+                <a style={{ color: "#d4b42c", fontWeight: "700" }}>
                   Explore the Participate in Races and Championships page
                 </a>
               </Link>{" "}

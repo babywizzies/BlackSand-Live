@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   experimental: {
-    transpilePackages: ["@reservoir0x/reservoir-kit-ui"],
+    transpilePackages: ["@reservoir0x/reservoir-kit-ui", "react-tooltip"],
   },
 };
 

@@ -78,11 +78,10 @@
 }
 
 .rules_container_three{
-  margin-top: 20px;
-  margin-bottom: 50px;
+  margin: 20px auto 50px auto;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  place-items: center;
+  grid-template-columns: repeat(2, 1fr);
+  max-width: 500px;
 }
 
 .card_three{
@@ -190,7 +189,7 @@
   }
 
   .rules_container_three{
-      grid-template-columns: repeat(2, 1fr);
+      grid-template-columns: repeat(1, 1fr);
       gap: 20px;
   }
 

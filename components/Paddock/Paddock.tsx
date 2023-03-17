@@ -225,7 +225,7 @@ const Paddock = () => {
   // Sounds
   useAudio("/audio/paddock-bg.mp3", {
     autoplay: true,
-    volume: 0.1,
+    volume: 0.2,
     loop: true,
   });
   const horseSelectedSound = useAudio("/audio/horse-selected.mp3", {
