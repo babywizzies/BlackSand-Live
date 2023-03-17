@@ -67,6 +67,11 @@ const RacePortrait: FC<Props> = ({ tokenId, hasIndigestion }) => {
       left = -4;
       break;
     }
+    case 1254: {
+      bottom = -47;
+      left = 5;
+      break;
+    }
     //Pygmy
     case 718:
     case 949: {
