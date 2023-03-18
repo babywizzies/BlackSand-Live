@@ -12,6 +12,7 @@ import TokenCard from "./TokenCard";
 import SelectedTreatCard from "./SelectedTreatCard";
 import axios from "axios";
 import Confetti from "react-dom-confetti";
+import useAudio from "../../hooks/useAudio";
 
 export type SelectedTreat = {
   name: string;
@@ -159,6 +160,7 @@ const SPECIAL_RACE_RULES: Record<
 };
 
 const DIE_IMGS: Record<string, string> = {
+  2: "/img/d2.svg",
   4: "/img/d4.svg",
   6: "/img/d6.svg",
   8: "/img/d8.svg",
@@ -203,6 +205,10 @@ const canAddItem = (
   return true;
 };
 
+const randomIntFromInterval = (min: number, max: number) => {
+  return Math.floor(Math.random() * (max - min + 1) + min);
+};
+
 const Paddock = () => {
   const poniesRef = createRef<HTMLDivElement>();
   const specialItemsRef = createRef<HTMLHeadingElement>();
@@ -215,6 +221,29 @@ const Paddock = () => {
   const [success, setSuccess] = useState(false);
   const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
+
+  // Sounds
+  useAudio("/audio/paddock-bg.mp3", {
+    autoplay: true,
+    volume: 0.2,
+    loop: true,
+  });
+  const horseSelectedSound = useAudio("/audio/horse-selected.mp3", {
+    volume: 0.2,
+  });
+  const treatSound1 = useAudio("/audio/treat-sound-1.mp3", {
+    volume: 0.2,
+  });
+  const treatSound2 = useAudio("/audio/treat-sound-2.mp3", {
+    volume: 0.2,
+  });
+  const treatSound3 = useAudio("/audio/treat-sound-3.mp3", {
+    volume: 0.3,
+  });
+  const treatSounds = [treatSound1, treatSound2, treatSound3];
+  const registeredSound = useAudio("/audio/horses-galloping.mp3", {
+    volume: 0.4,
+  });
   const { data: tokenData, isLoading: isLoadingTokens } = useUserTokens(
     address,
     {
@@ -442,7 +471,11 @@ const Paddock = () => {
                         return;
                       }
 
-                      if (!discordHandle.match(/\w+#\d{4}/i)) {
+                      const results = discordHandle.match(/(?!\s).+#\d{4}/i);
+                      const sanitzedHandle =
+                        results && results[0] ? results[0] : null;
+
+                      if (!sanitzedHandle) {
                         setErrorText("Discord handle is invalid");
                         setRegistering(false);
                         return;
@@ -458,7 +491,7 @@ const Paddock = () => {
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
-                          discord_handle: discordHandle,
+                          discord_handle: sanitzedHandle,
                           treats: selectedItems.map((item) => item.id),
                           signature,
                         }
@@ -468,6 +501,7 @@ const Paddock = () => {
                       }
                       setSuccess(true);
                       setRegistering(false);
+                      registeredSound?.play();
                     } catch (e) {
                       setErrorText("Something went wrong, please try again");
                       setSuccess(false);
@@ -571,7 +605,10 @@ const Paddock = () => {
                 <TokenCard
                   key={i}
                   item={item}
-                  setSelectedRacer={setSelectedRacer}
+                  setSelectedRacer={(id) => {
+                    setSelectedRacer(id);
+                    horseSelectedSound?.play();
+                  }}
                 />
               ))}
             </div>
@@ -664,6 +701,8 @@ const Paddock = () => {
                               )
                             );
                             if (canAdd) {
+                              const soundNumber = randomIntFromInterval(1, 3);
+                              treatSounds[soundNumber - 1]?.play();
                               setSelectedItems([
                                 ...selectedItems,
                                 {
@@ -742,6 +781,15 @@ const Paddock = () => {
                         </span>
                       </div>
                       <div className={styles["token-actions"]}>
+                        <div style={{ display: "flex", alignItems: "center" }}>
+                          <p style={{ color: "white" }}>x1</p>
+                          <Image
+                            src={DIE_IMGS["2"]}
+                            alt="Dice Icon"
+                            width={35}
+                            height={35}
+                          />
+                        </div>
                         <button
                           className={styles["token-button"]}
                           onClick={() => {
@@ -758,6 +806,8 @@ const Paddock = () => {
                               )
                             );
                             if (canAdd) {
+                              const soundNumber = randomIntFromInterval(1, 3);
+                              treatSounds[soundNumber - 1]?.play();
                               setSelectedItems([
                                 ...selectedItems,
                                 {
