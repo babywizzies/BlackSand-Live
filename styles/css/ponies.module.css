@@ -1,46 +1,17 @@
 .container{
-  width: 70%;
+  width: 90%;
   margin: 0 auto;
+  max-width: 1035px;
+  margin-bottom: 70px;
 }
 
-.header {
-  display: grid;
-  grid-template-columns: 80% 20%;
-}
-
-.origin,
-.runes,
-.level,
-.exp{
-  margin: 0;
-  font-weight: 700;
-  font-size: clamp(0.875rem, 0.7693rem + 0.3953vw, 1.125rem);
+.header{
   display: flex;
-}
-
-.sub_header{
-  display: grid;
   color: white;
-  
+  gap: 28px;
 }
 
-.subcontainer{
-  display: grid;
-  align-items: center;
-}
-
-.subcontainer_1{
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  align-items: center;
-}
-
-.portrait{
-  width: 100%;
-  border-radius: 10px;
-}
-
-.name{
+.name {
   margin: 0;
   font-weight: 900;
   font-size: clamp(2rem, 1.3127rem + 2.5692vw, 3.625rem);
@@ -52,76 +23,47 @@
   font-size: clamp(1rem, 0.8414rem + 0.5929vw, 1.375rem);
 }
 
-.pony_img{
+.card-grid {
   display: grid;
-  place-items: center;
+  grid-template-columns: repeat(3, minmax(200px, 1fr));
+  column-gap: 20px;
+  row-gap: 20px;
 }
 
-.card_container{
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 30px;
-  place-content: center;
-  margin-top: 50px;
-}
-
-.card{
+.card {
   background-color: white;
   padding: 20px;
   border-radius: 20px;
   box-shadow: 0px 0px 15px -3px rgba(0,0,0,0.31);
 }
 
-.grid{
-  margin: 0 20px 0 20px;
+.card-title {
+  font-weight: 600;
+  font-size: 1.2rem;
 }
 
-.container_title{
+.container-title{
   margin: 0;
   font-weight: 800;
   letter-spacing: 1px;
-  margin: 10px 20px 10px 20px;
-  font-size: clamp(1.125rem, 0.8607rem + 0.9881vw, 1.75rem);
+  margin: 30px 20px 10px 20px;
+  font-size: 2rem;
+  color: white;
 }
 
-.container_text{
-  margin: 0;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  font-size: clamp(0.875rem, 0.7693rem + 0.3953vw, 1.125rem);
-  margin-top: 5px;
-  padding-bottom: 10px;
+.card-example-text {
+  font-style: italic;
+  font-size: 0.8rem;
 }
 
-.container_subtle_text {
-  font-weight: 500;
+@media screen and (max-width: 700px) {
+  .card-grid {
+    overflow-y: auto;
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
+  }
 }
 
 @media screen and (max-width: 428px) {
-  .container{
-    width: 90%
-  }
-
-  .header {
-    grid-template-columns: repeat(1, 1fr);
-    gap: 20px;
-  }
-
-  .sub_header{
-    gap: 10px;
-  }
-
-  .portrait{
-    width: 100%;
-  }
-
-  .card_container{
-    grid-template-columns: repeat(1, 1fr);
-    gap: 20px;
-    margin: 0 auto;
-    margin-top: 20px;
-  }
-
   .card{
     padding: 20px 10px 20px 10px;
   }
