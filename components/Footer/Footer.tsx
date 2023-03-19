@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "styles/css/footer.module.css";
 import { FaTwitter, FaDiscord } from "react-icons/fa";
-import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -30,8 +29,7 @@ const Footer = () => {
           rel="noopener noreferrer"
         >
           Opensea
-          </a>
-        {" "}
+        </a>{" "}
         |{" "}
         <a
           target="_blank"
@@ -39,7 +37,7 @@ const Footer = () => {
           rel="noopener noreferrer"
         >
           Forgotten Market
-          </a>
+        </a>
       </p>
     </footer>
   );

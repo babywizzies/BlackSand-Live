@@ -15,6 +15,16 @@
   margin-bottom: 40px;
 }
 
+.modal-title {
+  font-size: 2rem;
+  font-family: 'Origen';
+  background: -webkit-linear-gradient(#fbea71, #d4b42c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 .subtitle {
   color: white;
   margin-bottom: 10px;
@@ -126,7 +136,8 @@
 }
 
 .token-button,
-.register-button {
+.register-button,
+.modal-button {
   padding: 4px 12px;
   border-radius: 8px;
   font-weight: 800;
@@ -135,7 +146,8 @@
 }
 
 .token-button:hover,
-.register-button:hover {
+.register-button:hover,
+.modal-button {
   background: rgba(255, 255, 255, 1);
 }
 
@@ -250,6 +262,13 @@
   inset: 0;
   z-index: 10000000;
   width: 5px;
+}
+
+.modal-actions {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 30px;
 }
 
 @media screen and (max-width: 950px) {

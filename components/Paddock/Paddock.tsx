@@ -1,5 +1,11 @@
 /* eslint-disable react/no-unescaped-entities */
-import React, { createRef, useCallback, useMemo, useState } from "react";
+import React, {
+  createRef,
+  useCallback,
+  useEffect,
+  useMemo,
+  useState,
+} from "react";
 import styles from "../../styles/css/paddock.module.css";
 import { useAccount, useSignMessage } from "wagmi";
 import useIsMounted from "../../hooks/useIsMounted";
@@ -13,6 +19,7 @@ import SelectedTreatCard from "./SelectedTreatCard";
 import axios from "axios";
 import Confetti from "react-dom-confetti";
 import useAudio from "../../hooks/useAudio";
+import Modal from "../Modal";
 
 export type SelectedTreat = {
   name: string;
@@ -221,6 +228,7 @@ const Paddock = () => {
   const [success, setSuccess] = useState(false);
   const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
+  const [registeredModalOpen, setRegisteredModalOpen] = useState(false);
 
   // Sounds
   useAudio("/audio/paddock-bg.mp3", {
@@ -459,6 +467,7 @@ const Paddock = () => {
                       setRegistering(true);
                       setErrorText("");
                       setSuccess(false);
+                      setRegisteredModalOpen(false);
                       if (!selectedRacer) {
                         setRegistering(false);
                         setErrorText("Please select a mount or a pony");
@@ -500,11 +509,13 @@ const Paddock = () => {
                         throw `API Error: ${response.data}`;
                       }
                       setSuccess(true);
+                      setRegisteredModalOpen(true);
                       setRegistering(false);
                       registeredSound?.play();
                     } catch (e) {
                       setErrorText("Something went wrong, please try again");
                       setSuccess(false);
+                      setRegisteredModalOpen(false);
                       setRegistering(false);
                       console.error(e);
                     }
@@ -520,9 +531,6 @@ const Paddock = () => {
                 </button>
                 {errorText.length > 0 && (
                   <p className={styles["error-text"]}>{errorText}</p>
-                )}
-                {success && (
-                  <p className={styles["success-text"]}>Off to the races!</p>
                 )}
               </div>
             </div>
@@ -850,34 +858,25 @@ const Paddock = () => {
           </div>
         </div>
       )}
-      <div
-        style={{
-          position: "fixed",
-          inset: 0,
-          zIndex: 100000,
-          display: "flex",
-          background: "rgba(0,0,0,0.7)",
-          alignItems: "flex-start",
-        }}
-      >
-        <div
-          style={{
-            border: "1px solid white",
-            borderRadius: 8,
-            background: "black",
-            margin: "0 auto",
-            width: "auto",
-            minWidth: 400,
-            minHeight: 300,
-            marginTop: 40,
-            padding: "16px 8px",
-          }}
-        >
-          <h2 style={{ color: "white", textAlign: "center" }}>
-            Off to the Races!
-          </h2>
+      <Modal open={registeredModalOpen} setOpen={setRegisteredModalOpen}>
+        <h2 className={styles["modal-title"]}>Off to the Races!</h2>
+        <p style={{ color: "white", textAlign: "center" }}>
+          You're all set, if you'd like to update your registration you can by
+          submitting again before the race starts.
+        </p>
+        <div className={styles["modal-actions"]}>
+          <a
+            href="https://discord.com/channels/853432452181262346/1047907741999566959"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            <button className={styles["modal-button"]}>Start Rolling</button>
+          </a>
+          <Link href="/racetrack">
+            <button className={styles["modal-button"]}>Race Track</button>
+          </Link>
         </div>
-      </div>
+      </Modal>
     </div>
   );
 };
