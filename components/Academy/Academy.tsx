@@ -4,8 +4,15 @@ import artists from "../../public/data/Artists";
 import Image from "next/image";
 import { FaTwitter } from "react-icons/fa";
 import Link from "next/link";
+import useAudio from "../../hooks/useAudio";
 
 const Academy = () => {
+  useAudio("/audio/academy-bg.mp3", {
+    autoplay: true,
+    volume: 0.2,
+    loop: true,
+  });
+
   return (
     <>
       <h1 className={styles.title}>Academy</h1>

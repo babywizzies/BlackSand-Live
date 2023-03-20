@@ -18,6 +18,8 @@ import Footer from "../components/Footer/Footer";
 import { ReservoirKitProvider } from "@reservoir0x/reservoir-kit-ui";
 import { SWRConfig } from "swr";
 
+const HOST = process.env.NEXT_PUBLIC_HOST || "https://blacksand.city";
+
 const { chains, provider, webSocketProvider } = configureChains(
   [
     mainnet,
@@ -53,7 +55,17 @@ function MyApp({ Component, pageProps }: AppProps) {
     >
       <WagmiConfig client={wagmiClient}>
         <RainbowKitProvider chains={chains}>
-          <ReservoirKitProvider>
+          <ReservoirKitProvider
+            options={{
+              chains: [
+                {
+                  id: 1,
+                  baseApiUrl: `${HOST}/api/reservoir`,
+                  default: true,
+                },
+              ],
+            }}
+          >
             <NavBar />
             <Component {...pageProps} />
           </ReservoirKitProvider>
