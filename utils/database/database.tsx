@@ -72,6 +72,15 @@ export const getAllRaceData = async () => {
     return races;
 }
 
+export const getRegistrationByWallet = async (walletAddress: string) => {
+    const { data: registration } = await supabase
+        .from('registration')
+        .select('*')
+        .eq('wallet', walletAddress)
+
+    return registration
+}
+
 export const getPonyByDiscordUsername = async (discordUsername: string) => {
     const { data: registration } = await supabase
         .from('registration')
