@@ -130,7 +130,7 @@ export const insertRegistration = async (registration: Registration) => {
     registration.pony_name = ponyName;
 
     // Set registration DT
-    registration.registered_at = new Date().toISOString();
+    registration.registered_at = ((new Date()).toISOString()).toLocaleString();
     // Set registration RaceID
     registration.race_id = 2;
 
