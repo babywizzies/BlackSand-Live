@@ -119,6 +119,12 @@ const artists = [
     roles: ["One-of-One Artist"],
     twitterHandle: "youngwhizzie",
   },
+  {
+    name: "Notmokk",
+    img: "/img/notmokborder.png",
+    roles: ["Architect"],
+    twitterHandle: "not_mokk",
+  }
 ];
 
 export default artists;

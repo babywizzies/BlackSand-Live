@@ -78,15 +78,15 @@
 }
 
 .rules_container_three{
-  margin: 20px auto 50px auto;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  max-width: 500px;
+  grid-template-columns: repeat(4, 1fr);
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .card_three{
-  width: 230px;
-  height: 200px;
+  width: 205px;
+  height: 190px;
   border: 2px solid grey;
   border-radius: 15px;
   color: white;
@@ -95,7 +95,6 @@
   text-align: center;
   padding: 30px;
   cursor: pointer;
-  margin-top: 20px; 
 }
 
 .logo_span{
@@ -108,8 +107,6 @@
 .logo{
   width: 30%;
 }
-
-
 
 .img{
   border-radius: 20px;
@@ -176,8 +173,17 @@
       line-height: 60px;
       width: 80%;
   }
+
   .container{
       width: 90%;
+  }
+  
+  .text{
+    margin-top: 10px;
+  }
+
+  .subtext{
+    margin-top: 1px;
   }
 
   .title_container{
@@ -189,14 +195,16 @@
   }
 
   .rules_container_three{
-      grid-template-columns: repeat(1, 1fr);
-      gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    gap: 20px;
   }
 
   .card_three{
-      width: 150px;
-      height: 150px;
-      
+      width: 180px;
+      height: 170px;
   }
 
   .rules_container{
