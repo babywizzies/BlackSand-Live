@@ -334,15 +334,11 @@ const Paddock = () => {
         </div>
       )}
       {address && (
-        <div className={styles.paddock_container} style={{ display: "flex", gap: 30 }}>
+        <div className={styles.paddock_container}>
           <div
           className={styles.paddock_card}
-            style={{
-              alignSelf: "flex-start",
-              height: "auto",
-            }}
           >
-            <h2 className={styles.subtitle}>Racing Selection</h2>
+            <h2 className={styles.subtitle_card}>Racing Selection</h2>
             <div
               style={{
                 display: "flex",
@@ -384,10 +380,7 @@ const Paddock = () => {
                   />
                 )}
               </div>
-              <div
-              className={styles.card1}
-                style={{ display: "flex", gap: 10, flexDirection: "column" }}
-              >
+              <div className={styles.card1}>
                 <div className={styles.treats_card}>
                 <SelectedTreatCard
                   treat={selectedItems[0]}
@@ -537,13 +530,7 @@ const Paddock = () => {
               </div>
             </div>
           </div>
-          <div
-          className={styles.card2}
-            style={{
-              position: "relative",
-              width: "100%",
-            }}
-          >
+          <div className={styles.card2}>
             <Confetti
               active={success}
               className={styles["confetti"]}
@@ -608,7 +595,9 @@ const Paddock = () => {
                 </a>
               </div>
             )} */}
-            <h2 className={styles.subtitle}>Mounts</h2>
+
+            <div className={styles.card3}>
+            <h2 className={styles.subtitle_card3}>Mounts</h2>
             <div className={styles["token-grid"]}>
               {mountTokens.map((item, i) => (
                 <TokenCard
@@ -635,7 +624,10 @@ const Paddock = () => {
                 </Link>
               </div>
             )}
-            <h2 ref={specialItemsRef} className={styles.subtitle}>
+            </div>
+
+            <div className={styles.card3}>
+            <h2 ref={specialItemsRef} className={styles.subtitle_card3}>
               Special Treats
             </h2>
             <div className={styles["treat-grid"]}>
@@ -751,7 +743,10 @@ const Paddock = () => {
                 </a>
               </div>
             )}
-            <h2 className={styles.subtitle}>Treats</h2>
+            </div>
+
+            <div className={styles.card3}>
+            <h2 className={styles.subtitle_card3}>Treats</h2>
             <div className={styles["treat-grid"]}>
               {otherItems.map((item) => {
                 if (item?.token && item.token.tokenId) {
@@ -856,6 +851,7 @@ const Paddock = () => {
                 </a>
               </div>
             )}
+            </div>
           </div>
         </div>
       )}

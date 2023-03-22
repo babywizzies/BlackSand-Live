@@ -1,7 +1,7 @@
 .container {
-  width: 90%;
+  width: 80%;
   margin: 0 auto;
-  max-width: 1035px;
+
 }
 
 .title {
@@ -31,15 +31,28 @@
   margin-top: 20px;
 }
 
+.subtitle_card3{
+  color: white;
+  margin-bottom: 10px;
+}
+
+.subtitle_card{
+  color: white;
+  margin-bottom: 10px;
+}
+
 .treats_card{
   display: flex;
   flex-direction: column;
   gap: 10px;
 }
 
+
 .card2{
   padding-left: 30px;
   border-left: 1px solid white;
+  position: relative;
+  width: 100%;
 }
 
 .connect-container {
@@ -54,6 +67,16 @@
 .connect-subtitle {
   margin-bottom: 10px;
   color: white;
+}
+
+.card1{
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+
+.card3{
+  padding-bottom: 40px;
 }
 
 .token-grid,
@@ -282,6 +305,16 @@
   margin-top: 30px;
 }
 
+.paddock_container{
+  display: flex;
+  gap: 30px;
+}
+
+.paddock_card{
+  align-self: flex-start;
+  height: auto;
+}
+
 @media screen and (max-width: 950px) {
   .token-grid {
     grid-template-columns: repeat(2, fit-content(40%));
@@ -309,6 +342,18 @@
 }
 
 @media screen and (max-width: 428px) {
+  .subtitle_card{
+    text-align: center;
+  }
+
+  .subtitle_card3{
+    text-align: center;
+  }
+
+  .container{
+    width: 90%
+  }
+
   .title{ 
     line-height: 80px;
     margin-bottom: 0;
@@ -366,4 +411,9 @@
     border-top: 1px solid white;
     padding: 0;
   }
+
+  .card3{
+    margin-top: 20px;
+  }
+
 }
