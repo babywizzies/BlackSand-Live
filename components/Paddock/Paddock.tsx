@@ -334,13 +334,12 @@ const Paddock = () => {
         </div>
       )}
       {address && (
-        <div style={{ display: "flex", gap: 30 }}>
+        <div className={styles.paddock_container} style={{ display: "flex", gap: 30 }}>
           <div
+          className={styles.paddock_card}
             style={{
               alignSelf: "flex-start",
-              position: "sticky",
               height: "auto",
-              top: 70,
             }}
           >
             <h2 className={styles.subtitle}>Racing Selection</h2>
@@ -386,8 +385,10 @@ const Paddock = () => {
                 )}
               </div>
               <div
+              className={styles.card1}
                 style={{ display: "flex", gap: 10, flexDirection: "column" }}
               >
+                <div className={styles.treats_card}>
                 <SelectedTreatCard
                   treat={selectedItems[0]}
                   dieCount={
@@ -451,6 +452,7 @@ const Paddock = () => {
                     setSelectedItems(items);
                   }}
                 />
+                </div>
                 <input
                   placeholder="Discord Handle"
                   className={styles["discord-handle-input"]}
@@ -536,11 +538,10 @@ const Paddock = () => {
             </div>
           </div>
           <div
+          className={styles.card2}
             style={{
               position: "relative",
               width: "100%",
-              borderLeft: "1px solid white",
-              paddingLeft: 30,
             }}
           >
             <Confetti
