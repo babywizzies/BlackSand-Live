@@ -118,7 +118,7 @@ const RaceTrack = () => {
                 </div>
                 <div
                   className="racetrack-tooltip"
-                  data-tooltip-html={`<b>Event Points:</b> ${position.event_points} <br/> <b>Treat Points:</b> ${treatPoints} <br/> <b>Ability Points:</b> ${position.race_ability_points}`}
+                  data-tooltip-html={`<b>Event Points:</b> ${position.event_points} <br/> <b>Treat Points:</b> ${treatPoints} <br/> <b>Ability Points:</b> ${position.race_ability_points}<br/><b>Training Points:</b>${position.training_points}`}
                 >
                   {position.total_points || 0}
                 </div>
