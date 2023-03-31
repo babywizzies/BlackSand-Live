@@ -3,7 +3,7 @@
   color: #d4b42c;
   text-align: center;
   text-transform: uppercase;
-  font-size: 2rem;
+  font-size: clamp(1.5rem, 1.2885rem + 0.7905vw, 2rem);
   padding: 20px;
 }
 
@@ -28,154 +28,93 @@
 .florin {
   margin-top: 20px;
   color: white;
-  font-weight: 900;
-  font-size: clamp(0.9rem, 0.7731rem + 0.4743vw, 1.2rem);
+  font-weight: 800;
+  font-size: clamp(0.8rem, 0.7154rem + 0.3162vw, 1rem);
   background-color: white;
-  padding: 10px 20px 10px 20px;
+  padding: 5px 15px 5px 15px;
   border-radius: 30px;
   color: black;
 }
 
-.container {
-  height: 100%;
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 40px;
-  width: 90%;
-  margin-top: 20px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-
-.cards {
-  transition: all 300ms;
-  cursor: pointer;
-  color: white;
-  position: relative;
-  aspect-ratio: 1/1;
-}
-
-.cards img {
-  border-radius: 15px;
-}
-
-.cards:hover {
-  transform: scale(1.10);
-}
-
-.cards p {
-  font-family: 'Piilani';
-  font-size: clamp(0.9rem, 0.8154rem + 0.3162vw, 1.1rem);
-  text-transform: uppercase;
-  text-align: center;
-  margin-top: 20px;
-}
-
-.artist_container {
-  height: 100%;
-  width: 100%;
-  margin-top: 20px;
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-
-.artist_container h1 {
-  font-size: clamp(2.3rem, 2.004rem + 1.1067vw, 3rem);
-  font-family: 'Piilani';
-  text-align: center;
-  color: white;
-  text-transform: uppercase;
-  color: #d4b42c;
-}
-
-.artist_container h2 {
-  font-family: 'Piilani';
-  font-size: clamp(2rem, 1.1542rem + 3.1621vw, 4rem);
-  background: -webkit-linear-gradient(#fbea71, #d4b42c);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  line-height: 90px;
-  text-align: center;
-  margin-top: 40px;
-}
-
-.button {
-  padding: 5px 10px 5px 10px;
-  font-weight: 700;
-  text-transform: uppercase;
-  font-size: clamp(0.92rem, 0.8862rem + 0.1265vw, 1rem);
-  background-color: white;
-  border-radius: 10px;
-  margin-top: 20px;
-}
-
-.button:hover {
-  background-color: #fbea71;
-  color: black;
-}
-
-.card_container {
-  width: 50%;
-  margin: 0 auto;
-  display: grid;
-  gap: 40px;
-  grid-template-columns: repeat(3, 1fr);
-  margin-top: 20px;
-}
-
-.card {
-  display: grid;
-  place-items: center;
-}
-
-.card p {
-  color: white;
-  font-size: clamp(0.8rem, 0.7154rem + 0.3162vw, 1rem);
-  font-weight: 600;
-  text-transform: uppercase;
-  text-align: center;
-  margin-bottom: 10px;
-}
-
-.img {
-  width: 60%;
-  aspect-ratio: 1/1;
-  position: relative;
-}
-
-
-.comingsoon{
-  font-family: 'Origen';
-  color: #d4b42c;
-  font-size: clamp(2rem, 1.1542rem + 3.1621vw, 4rem);
+.container{
+  width: 80%;
   margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  gap: 20px;
   margin-bottom: 100px;
 }
 
+.card{
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  color: white;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.img{
+  width: 100%;
+  height: 50%;
+  border-radius: 5px 5px 0 0;
+  object-fit: cover;
+}
+
+.avatar{
+  border: 4px solid white;
+  border-radius: 500px;
+  width: 20%;
+  margin-top: -10%;
+  margin-left: 7%;
+  z-index: 3;
+}
+
+.card h1{
+  margin-left: 7%;
+  margin-top: 2%;
+  font-size: 1.7rem;
+  font-weight: 500;
+}
+
+.card p{
+  margin-left: 7%;
+  font-size: 1rem;
+  font-weight: 500;
+  width: 80%;
+}
+
+.position{
+
+  height: 50px;
+}
+
+.card span{
+  margin-left: 7%;
+  font-size: 1rem;
+  font-weight: 500;
+  width: 80%;
+  color: gray;
+}
+
 @media screen and (max-width: 428px) {
-  .title {
-    line-height: 50px;
+  .preview{
+      width: 70%;
+      padding: 5px;
+      margin-bottom: 20px;
   }
 
-  .container {
-    grid-template-columns: repeat(2,1fr);
-    gap: 20px;
+  .title{
+      line-height: 50px;
+      margin-bottom: 20px;
   }
 
-  .card_container {
-    grid-template-columns: repeat(2, 1fr);
-    width: 90%;
-    gap: 20px;
-  }
-
-  .artist_container h2 {
-    line-height: 50px;
-  }
-  
-  .comingsoon{
-      text-align: center;
-      margin-top: 25px;
-      margin-bottom: 50px;
+  .container{
+      width: 90%;
+      margin-top: 50px;
+      display: grid;
+      grid-template-columns: repeat(1,1fr);
+      gap: 20px;
   }
 }
