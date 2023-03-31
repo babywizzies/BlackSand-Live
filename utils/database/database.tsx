@@ -39,6 +39,16 @@ export const getRaceByID = async (id: number) => {
     return races;
 }
 
+export const getLatestRacePonies = async () => {
+    const { data: races } = await supabase
+        .from('races')
+        .select('*, race_data(*, registration(*))')
+        .order('id', { ascending: false })
+        .limit(1);
+
+    return races;
+}
+
 /**************************************************
  *                  INSERT
  *************************************************/
