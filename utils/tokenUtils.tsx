@@ -1,9 +1,10 @@
 import axios from "axios";
 
 export const getUserTokens = async (address: string) => {
-    const options = { method: 'GET', headers: { accept: '*/*' } };
-    const contractAddress = '0xf486f696B80164B5943191236ECa114f4EfAb2FF';
-    return axios.get('https://api.reservoir.tools/users/' + address + '/tokens/v6?collection=' + contractAddress, options)
+    const API_ENDPOINT = "https://blacksand.city/api/reservoir"
+    const CONTRACT_ADDRESS = '0xf486f696B80164B5943191236ECa114f4EfAb2FF';
+    const ADDRESS = address;
+    return axios.get(`${API_ENDPOINT}/users/${ADDRESS}/tokens/v6?collection=${CONTRACT_ADDRESS}`)
 }
 
 export const userOwnsToken = async (tokenId: string, tokensOwned: TokenData[]) => {
