@@ -7,6 +7,7 @@ import useTimeSince from "../../hooks/useTimeSince";
 import useAudio from "../../hooks/useAudio";
 import Image from "next/image";
 import dayjs from "dayjs";
+import RaceTrackMap from "./RaceTrackMap";
 
 const RaceTrack = () => {
   useAudio("/audio/race-track.mp3", {
@@ -73,6 +74,7 @@ const RaceTrack = () => {
           <p>{positions.length} contestants</p>
         </div>
       </div>
+      <RaceTrackMap data={positions} />
       {positions && positions.length > 0 && (
         <div className={styles["leaderboard-table"]}>
           <div className={styles["leaderboard-row-header"]}>
