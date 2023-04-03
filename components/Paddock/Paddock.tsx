@@ -334,16 +334,11 @@ const Paddock = () => {
         </div>
       )}
       {address && (
-        <div style={{ display: "flex", gap: 30 }}>
+        <div className={styles.paddock_container}>
           <div
-            style={{
-              alignSelf: "flex-start",
-              position: "sticky",
-              height: "auto",
-              top: 70,
-            }}
+          className={styles.paddock_card}
           >
-            <h2 className={styles.subtitle}>Racing Selection</h2>
+            <h2 className={styles.subtitle_card}>Racing Selection</h2>
             <div
               style={{
                 display: "flex",
@@ -385,9 +380,8 @@ const Paddock = () => {
                   />
                 )}
               </div>
-              <div
-                style={{ display: "flex", gap: 10, flexDirection: "column" }}
-              >
+              <div className={styles.card1}>
+                <div className={styles.treats_card}>
                 <SelectedTreatCard
                   treat={selectedItems[0]}
                   dieCount={
@@ -451,6 +445,7 @@ const Paddock = () => {
                     setSelectedItems(items);
                   }}
                 />
+                </div>
                 <input
                   placeholder="Discord Handle"
                   className={styles["discord-handle-input"]}
@@ -535,14 +530,7 @@ const Paddock = () => {
               </div>
             </div>
           </div>
-          <div
-            style={{
-              position: "relative",
-              width: "100%",
-              borderLeft: "1px solid white",
-              paddingLeft: 30,
-            }}
-          >
+          <div className={styles.card2}>
             <Confetti
               active={success}
               className={styles["confetti"]}
@@ -607,7 +595,9 @@ const Paddock = () => {
                 </a>
               </div>
             )} */}
-            <h2 className={styles.subtitle}>Mounts</h2>
+
+            <div className={styles.card3}>
+            <h2 className={styles.subtitle_card3}>Mounts</h2>
             <div className={styles["token-grid"]}>
               {mountTokens.map((item, i) => (
                 <TokenCard
@@ -634,7 +624,10 @@ const Paddock = () => {
                 </Link>
               </div>
             )}
-            <h2 ref={specialItemsRef} className={styles.subtitle}>
+            </div>
+
+            <div className={styles.card3}>
+            <h2 ref={specialItemsRef} className={styles.subtitle_card3}>
               Special Treats
             </h2>
             <div className={styles["treat-grid"]}>
@@ -750,7 +743,10 @@ const Paddock = () => {
                 </a>
               </div>
             )}
-            <h2 className={styles.subtitle}>Treats</h2>
+            </div>
+
+            <div className={styles.card3}>
+            <h2 className={styles.subtitle_card3}>Treats</h2>
             <div className={styles["treat-grid"]}>
               {otherItems.map((item) => {
                 if (item?.token && item.token.tokenId) {
@@ -855,6 +851,7 @@ const Paddock = () => {
                 </a>
               </div>
             )}
+            </div>
           </div>
         </div>
       )}
