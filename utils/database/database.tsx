@@ -49,23 +49,47 @@ export const getLatestRacePonies = async () => {
     return races;
 }
 
+export const getLatestRaceID = async () => {
+    const { data: races } = await supabase
+        .from('races')
+        .select('id')
+        .order('id', { ascending: false })
+        .limit(1);
+
+    return races;
+}
+
+export const userRegistrationExists = async (discord_handle: string) => {
+    const { data: registration } = await supabase
+        .from('registration')
+        .select('*')
+        .eq('discord_handle', discord_handle)
+
+    if (registration != null) {
+        return registration;
+    }
+    return null;
+}
+
 /**************************************************
  *                  INSERT
  *************************************************/
 
 export const insertRegistration = async (registration: Registration) => {
+    // Check for empty signature
     if (registration.signature == undefined) {
         return { success: false, message: "No signature present" }
     }
 
+    // Verify signature
     const address = verifyMessage("Register for BlackSand Race", registration.signature);
     if (!address) {
         return null;
     }
     registration.wallet = address;
-
     delete registration.signature;
 
+    // Check that user owns the token
     const tokens = await getUserTokens(registration.wallet);
     const ownsToken = await userOwnsToken(registration.id, tokens.data.tokens);
 
@@ -73,20 +97,40 @@ export const insertRegistration = async (registration: Registration) => {
         return { success: false, message: "User does not own token" }
     }
 
+    // Get Pony Name
     const ponyName = await getPonyName(registration.id, tokens.data.tokens);
     registration.pony_name = ponyName;
 
-    const { data, error } = await supabase
-        .from('registration')
-        .upsert(registration, { ignoreDuplicates: false, onConflict: "id" })
-        .select()
+    // Check for existing registration
+    const existingRegistration = await userRegistrationExists(registration.discord_handle)
 
-    const race_data = await updateRaceData({ race_id: 1, pony_id: registration.id })
+    // Get the latest races ID to insert with registration
+    const latestRaceID = await getLatestRaceID();
 
-    if (error != null) {
-        return { success: false, message: "User does not own token" };
+    // Brand new registration
+    if (existingRegistration == null) {
+        // Straight insert of new values
+        const { data, error } = await supabase
+            .from('registration')
+            .insert(registration)
+        if (latestRaceID != null) {
+            await updateRaceData({ race_id: latestRaceID[0].id ?? 0, pony_id: registration.id })
+        }
+        return { success: true, message: data };
+    } else {
+        // Delete old registration data because PonyID is the ID[PK]
+        await deleteRaceData(existingRegistration[0].id);
+        // Delete old race_data relative to old registered pony ID
+        await deleteRegistration(existingRegistration[0].id);
+        // Re-insert brand new information with the latest race ID
+        const { data, error } = await supabase
+            .from('registration')
+            .insert(registration)
+        if (latestRaceID != null) {
+            await updateRaceData({ race_id: latestRaceID[0].id ?? 0, pony_id: registration.id })
+        }
+        return { success: true, message: data };
     }
-    return { success: true, message: data };
 }
 
 export const insertPony = async (pony: object) => {
@@ -191,6 +235,32 @@ export const updateAbilities = async (ability: object, id: number) => {
         .update(ability)
         .eq('id', id)
         .select()
+    if (error != null) {
+        return error
+    }
+    return data;
+}
+
+/**************************************************
+ *                  DELETE
+ *************************************************/
+
+export const deleteRegistration = async (ponyID: number) => {
+    const { data, error } = await supabase
+        .from('registration')
+        .delete()
+        .eq('id', ponyID)
+    if (error != null) {
+        return error
+    }
+    return data;
+}
+
+export const deleteRaceData = async (ponyID: number) => {
+    const { data, error } = await supabase
+        .from('race_data')
+        .delete()
+        .eq('pony_id', ponyID)
     if (error != null) {
         return error
     }
