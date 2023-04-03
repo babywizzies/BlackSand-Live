@@ -108,7 +108,7 @@ export const insertRegistration = async (registration: Registration) => {
     const latestRaceID = await getLatestRaceID();
 
     // Brand new registration
-    if (existingRegistration == null) {
+    if (existingRegistration == null || existingRegistration.length == 0) {
         // Straight insert of new values
         const { data, error } = await supabase
             .from('registration')
