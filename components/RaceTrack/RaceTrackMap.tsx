@@ -1,29 +1,27 @@
-import React, { FC, createRef, useEffect, useMemo, useState } from "react";
+import React, { FC, useEffect, useMemo, useRef, useState } from "react";
 import p5 from "p5";
 
 type Coordinate = { x: number; y: number };
 type Participants = ReturnType<typeof createParticipants>;
 
-let canvasWidth = 800;
+let canvasWidth = 1000;
 let canvasHeight = 600;
-let margin = 50;
-let numPointsTrack = 10;
-let lapPoints = 30;
+let lapPoints = 200;
 const tileSize = 10;
 const noiseScale = 1;
 const images: p5.Image[] = [];
 const tiles: p5.Image[] = [];
-let seed = 12;
+let seed = 151;
 // desert, city, prison, sewers, hells, caves
-let asset_pack = "desert";
+let asset_pack = "city";
 
 function preload(p5: p5) {
   if (!images.length) {
-    let asset_base = "./assets/" + asset_pack + "_base.png";
-    let asset_1 = "./assets/" + asset_pack + "_1.png";
-    let asset_2 = "./assets/" + asset_pack + "_2.png";
-    let asset_3 = "./assets/" + asset_pack + "_3.png";
-    let asset_4 = "./assets/" + asset_pack + "_4.png";
+    let asset_base = "./img/track-tiles/" + asset_pack + "_base.png";
+    let asset_1 = "./img/track-tiles/" + asset_pack + "_1.png";
+    let asset_2 = "./img/track-tiles/" + asset_pack + "_2.png";
+    let asset_3 = "./img/track-tiles/" + asset_pack + "_3.png";
+    let asset_4 = "./img/track-tiles/" + asset_pack + "_4.png";
 
     images.push(p5.loadImage(asset_1));
     images.push(p5.loadImage(asset_2));
@@ -34,6 +32,7 @@ function preload(p5: p5) {
 }
 
 function setup(p5: p5, parent: Element) {
+  preload(p5);
   p5.createCanvas(canvasWidth, canvasHeight).parent(parent);
   p5.frameRate(30);
 
@@ -46,7 +45,7 @@ function draw(p5: p5, participants: Participants) {
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
 
-  let track = createRaceTrack(numPointsTrack, p5);
+  let track = createRaceTrackCustom(p5);
   let desiredTrackWidth = 50; // Set the desired track width here
   let desiredTrackColor = 0; // Set the desired track color here
   drawRaceTrack(
@@ -60,43 +59,17 @@ function draw(p5: p5, participants: Participants) {
   drawParticipants(track, participants, p5);
 }
 
-function createRaceTrack(numPoints: number, p5: p5) {
+function createRaceTrackCustom(p5: p5) {
   let points = [];
-  let attempts = 0;
-
-  while (points.length < numPoints && attempts < 1000) {
-    let candidate = p5.createVector(
-      p5.random(margin, canvasWidth - margin),
-      p5.random(margin, canvasHeight - margin)
-    );
-    let isValid = true;
-
-    for (let i = 0; i < points.length; i++) {
-      let distance = p5.dist(
-        candidate.x,
-        candidate.y,
-        points[i].x,
-        points[i].y
-      );
-
-      if (
-        distance < 40 ||
-        Math.abs(candidate.x - points[i].x) < 20 ||
-        Math.abs(candidate.y - points[i].y) < 20
-      ) {
-        isValid = false;
-        break;
-      }
-    }
-
-    if (isValid) {
-      points.push(p5.createVector(candidate.x, candidate.y));
-    } else {
-      attempts++;
-    }
-  }
-
-  sortClockwise(points, p5);
+  points.push(p5.createVector(200, 150));
+  points.push(p5.createVector(400, 250));
+  points.push(p5.createVector(500, 100));
+  points.push(p5.createVector(600, 250));
+  points.push(p5.createVector(800, 150));
+  points.push(p5.createVector(700, 500));
+  points.push(p5.createVector(500, 470));
+  points.push(p5.createVector(300, 500));
+  points.push(p5.createVector(200, 400));
   return points;
 }
 
@@ -145,26 +118,11 @@ function drawRaceTrack(
   p5.endShape();
 }
 
-function sortClockwise(points: any[], p5: p5) {
-  let centroid = points
-    .reduce((acc, p) => acc.add(p), p5.createVector())
-    .div(points.length);
-  points.sort(
-    (a, b) =>
-      p5.atan2(a.y - centroid.y, a.x - centroid.x) -
-      p5.atan2(b.y - centroid.y, b.x - centroid.x)
-  );
-}
-
 function createParticipants(results: any) {
-  let participants = [];
-
-  for (let i = 0; i < results[0].race_data.length; i++) {
-    let score = results[0].race_data[i].total_points;
-    participants.push({ score: score, data: results[0].race_data[i] });
-  }
-
-  return participants;
+  return results.map((result: any) => ({
+    score: result.total_points,
+    data: result,
+  }));
 }
 
 function catmullRomPoint(
@@ -246,7 +204,9 @@ function drawParticipants(
     }
     let randomX = p.x + p5.random(-15, 15);
     let randomY = p.y + p5.random(-15, 15);
-    // let participant = p5.ellipse(randomX, randomY, 8);
+    let mouseX = 0;
+    let mouseY = 0;
+    p5.ellipse(randomX, randomY, 8);
     //@ts-ignore
     var d = p5.dist(mouseX, mouseY, randomX, randomY);
     if (d < 3) {
@@ -270,12 +230,12 @@ function drawTerrain(p5: p5) {
   var w = canvasWidth;
   var h = canvasHeight;
 
-  let xRO = x % tileSize;
-  let yRO = y % tileSize;
-  let xTO = parseInt(`${x / tileSize}`);
-  let yTO = parseInt(`${y / tileSize}`);
+  // let xRO = x % tileSize;
+  // let yRO = y % tileSize;
+  let xTO = x / tileSize;
+  let yTO = y / tileSize;
 
-  function getTile(x: number, y: number, p5: p5) {
+  function getTile(x: number, y: number) {
     let v = p5.noise((xTO + x) * noiseScale, (yTO + y) * noiseScale);
 
     let scales = [0.1, 0.15, 0.25, 0.4, 1];
@@ -289,10 +249,8 @@ function drawTerrain(p5: p5) {
 
   for (let i = 0; i < w; i++) {
     for (let j = 0; j < h; j++) {
-      const tile = getTile(i, j, p5);
-      if (tile) {
-        tiles[i + j * w] = tile;
-      }
+      //@ts-ignore
+      tiles[i + j * w] = getTile(i, j);
     }
   }
 
@@ -316,20 +274,28 @@ type Props = {
 const RaceTrackMap: FC<Props> = ({ data }) => {
   const participants = useMemo(() => createParticipants(data), [data]);
   const [trackp5, setTrackP5] = useState<p5 | undefined>();
-  const canvasParentRef = createRef<HTMLDivElement>();
+  const canvasParentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    if (trackp5) {
+      return;
+    }
     const currentp5 = new p5((p) => {
       p.setup = () => {
         //@ts-ignore
-        setup(currentp5, canvasParentRef.current);
-      };
-      p.draw = () => {
-        draw(currentp5, participants);
+        setup(p, canvasParentRef.current);
       };
     });
     setTrackP5(currentp5);
   }, []);
+
+  useEffect(() => {
+    if (trackp5) {
+      trackp5.draw = () => {
+        draw(trackp5, participants);
+      };
+    }
+  }, [participants]);
 
   //SSR not supported
   if (typeof window === "undefined") {

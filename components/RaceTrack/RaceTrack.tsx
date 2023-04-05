@@ -7,7 +7,12 @@ import useTimeSince from "../../hooks/useTimeSince";
 import useAudio from "../../hooks/useAudio";
 import Image from "next/image";
 import dayjs from "dayjs";
-import RaceTrackMap from "./RaceTrackMap";
+
+import dynamic from "next/dynamic";
+
+const DynamicRaceTrackMap = dynamic(() => import("./RaceTrackMap"), {
+  ssr: false,
+});
 
 const RaceTrack = () => {
   useAudio("/audio/race-track.mp3", {
@@ -74,7 +79,7 @@ const RaceTrack = () => {
           <p>{positions.length} contestants</p>
         </div>
       </div>
-      <RaceTrackMap data={positions} />
+      <DynamicRaceTrackMap data={positions} />
       {positions && positions.length > 0 && (
         <div className={styles["leaderboard-table"]}>
           <div className={styles["leaderboard-row-header"]}>
