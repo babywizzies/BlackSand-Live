@@ -2,6 +2,8 @@ import React from "react";
 import styles from "../../styles/css/main.module.css";
 import Accordion from "./Accordion";
 import Link from "next/link";
+import dynamic from "next/dynamic";
+const BlackSandMap = dynamic(() => import("./BlackSandMap"), { ssr: false });
 
 const Main = () => {
   return (
@@ -11,7 +13,8 @@ const Main = () => {
         <div className={styles.header}>
           <p className={styles.main_title}>BlackSand</p>
         </div>
-        <div className={styles.subpages}>
+        <BlackSandMap />
+        {/* <div className={styles.subpages}>
           <div className={styles.card}>
             <Link href="/about">
               <div className={styles.subpages_card}>
@@ -64,7 +67,7 @@ const Main = () => {
               <p className={styles.subpages_text}>Arena - Coming Soon</p>
             </div>
           </div>
-        </div>
+        </div> */}
 
         <p className={styles.main_subtitle}>Frequently Asked Questions</p>
         <div className={styles.accordion}>
