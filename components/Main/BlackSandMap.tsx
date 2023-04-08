@@ -3,10 +3,10 @@ import { Stage, Sprite } from "@inlet/react-pixi";
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
 import { GlowFilter } from "@pixi/filter-glow";
-import { Polygon, TextStyle } from "pixi.js";
+import { Polygon } from "pixi.js";
 import { useRouter } from "next/router";
-import { Text } from "@inlet/react-pixi/animated";
-import { useSpring } from "react-spring";
+import { useSpring, animated } from "react-spring";
+import styles from "../../styles/css/main.module.css";
 
 //Hit Areas
 const foundryHitArea = new Polygon([
@@ -79,13 +79,6 @@ const allFilters = [
 
 let glowIncrementing = true;
 let activeFilters: GlowFilter[] = [];
-const textStyle = new TextStyle({
-  align: "center",
-  fontFamily: "Origen",
-  fontSize: 50,
-  fontWeight: "bold",
-  fill: ["#fbea71", "#d4b42c"],
-});
 
 const BlackSandMap = () => {
   const router = useRouter();
@@ -96,7 +89,7 @@ const BlackSandMap = () => {
   ]);
   const [hoveredBuilding, setHoveredBuilding] = useState<string | null>(null);
   const [textSpringProps, textSpringApi] = useSpring(() => ({
-    from: { x: 50, y: 700 },
+    from: { x: 50, y: 70 },
   }));
   const [bottomText, setBottomText] = useState("");
 
@@ -158,16 +151,16 @@ const BlackSandMap = () => {
     if (hoveredBuilding) {
       textSpringApi.start({
         from: {
-          y: 700,
+          y: 70,
         },
-        to: { y: 500 },
+        to: { y: -15 },
       });
     } else {
       textSpringApi.start({
         from: {
-          y: 500,
+          y: -15,
         },
-        to: { y: 700 },
+        to: { y: 70 },
       });
     }
   }, [hoveredBuilding]);
@@ -177,165 +170,175 @@ const BlackSandMap = () => {
   }
 
   return (
-    <Stage
-      width={windowSize[0]}
-      height={600}
-      id="bsMap"
-      onMount={(app) => {
-        app.ticker.add(() => {
-          // Glow
-          if (activeFilters.length > 0) {
-            const glowFilter = activeFilters[0];
-            const blackGlowFilter = activeFilters[1];
-            if (glowFilter.outerStrength < GLOW_MAX && glowIncrementing) {
-              glowFilter.outerStrength += 0.009;
-              blackGlowFilter.innerStrength += 0.009;
-            } else if (glowFilter.outerStrength >= GLOW_MIN) {
-              glowIncrementing = false;
-              glowFilter.outerStrength -= 0.009;
-              blackGlowFilter.innerStrength -= 0.009;
-            } else {
-              glowIncrementing = true;
+    <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
+      <Stage
+        width={windowSize[0]}
+        height={600}
+        id="bsMap"
+        onMount={(app) => {
+          app.ticker.add(() => {
+            // Glow
+            if (activeFilters.length > 0) {
+              const glowFilter = activeFilters[0];
+              const blackGlowFilter = activeFilters[1];
+              if (glowFilter.outerStrength < GLOW_MAX && glowIncrementing) {
+                glowFilter.outerStrength += 0.009;
+                blackGlowFilter.innerStrength += 0.009;
+              } else if (glowFilter.outerStrength >= GLOW_MIN) {
+                glowIncrementing = false;
+                glowFilter.outerStrength -= 0.009;
+                blackGlowFilter.innerStrength -= 0.009;
+              } else {
+                glowIncrementing = true;
+              }
             }
-          }
 
-          const inactiveFilters = allFilters.filter(
-            (filter) => !activeFilters.includes(filter)
-          );
+            const inactiveFilters = allFilters.filter(
+              (filter) => !activeFilters.includes(filter)
+            );
 
-          inactiveFilters.forEach((filter) => {
-            if (filter.outerStrength > 0) {
-              filter.outerStrength -= 0.009;
-            }
-            if (filter.innerStrength > 0) {
-              filter.innerStrength -= 0.009;
-            }
+            inactiveFilters.forEach((filter) => {
+              if (filter.outerStrength > 0) {
+                filter.outerStrength -= 0.009;
+              }
+              if (filter.innerStrength > 0) {
+                filter.innerStrength -= 0.009;
+              }
+            });
           });
-        });
-      }}
-    >
-      <ViewPort
-        screenWidth={windowSize[0]}
-        screenHeight={600}
-        worldWidth={3600}
-        worldHeight={3000}
+        }}
       >
-        <Sprite image="./img/map/land.png" x={0} y={0} />
-        <Sprite image="./img/map/vignette-73_opacity.png" x={0} y={0} />
-        {/* <Sprite image="./img/map/lights-divide.png" x={0} y={0} /> */}
-        {/* <Sprite image="./img/map/shadows-multiply.png" x={0} y={0} /> */}
-        <Sprite
-          image="./img/map/shack.png"
-          x={0}
-          y={0}
-          interactive={false}
-          hitArea={noHitArea}
-        />
-        <Sprite
-          image="./img/map/smallBuildingsWest.png"
-          x={0}
-          y={0}
-          interactive={false}
-          hitArea={noHitArea}
-        />
-        <Sprite
-          image="./img/map/smallBuildingsEast.png"
-          x={0}
-          y={0}
-          interactive={false}
-          hitArea={noHitArea}
-          cursor="pointer"
-        />
-        <Sprite
-          interactive={true}
-          image="./img/map/foundry.png"
-          x={0}
-          y={0}
-          filters={[foundryGlowFilter, foundryBlackGlowFilter]}
-          hitArea={foundryHitArea}
-          cursor="pointer"
-          onclick={(e) => {
-            router.push("/mint", undefined, { shallow: true });
-          }}
-          onmouseenter={() => setHoveredBuilding("foundry")}
-          onmouseleave={() => setHoveredBuilding(null)}
-        />
-        <Sprite
-          image="./img/map/academy.png"
-          x={0}
-          y={0}
-          filters={[academyGlowFilter, academyBlackGlowFilter]}
-          interactive={true}
-          hitArea={academyHitArea}
-          cursor="pointer"
-          onclick={(e) => {
-            router.push("/academy", undefined, { shallow: true });
-          }}
-          onmouseenter={() => setHoveredBuilding("academy")}
-          onmouseleave={() => setHoveredBuilding(null)}
-        />
-        <Sprite
-          image="./img/map/blackStables.png"
-          x={0}
-          y={0}
-          filters={[blackStablesBlackGlowFilter, blackStablesGlowFilter]}
-          interactive={true}
-          hitArea={blackstablesHitArea}
-          onmouseenter={() => setHoveredBuilding("blackstables")}
-          onmouseleave={() => setHoveredBuilding(null)}
-        />
-        <Sprite
-          image="./img/map/market.png"
-          x={0}
-          y={0}
-          filters={[marketBlackGlowFilter, marketGlowFilter]}
-          interactive={true}
-          hitArea={marketHitArea}
-          cursor="pointer"
-          onclick={(e) => {
-            router.push("/market", undefined, { shallow: true });
-          }}
-          onmouseenter={() => setHoveredBuilding("market")}
-          onmouseleave={() => setHoveredBuilding(null)}
-        />
-        <Sprite
-          image="./img/map/racetrack.png"
-          x={0}
-          y={0}
-          filters={[racetrackBlackGlowFilter, racetrackGlowFilter]}
-          interactive={true}
-          hitArea={racetrackHitArea}
-          cursor="pointer"
-          onclick={(e) => {
-            router.push("/rules", undefined, { shallow: true });
-          }}
-          onmouseenter={() => setHoveredBuilding("racetrack")}
-          onmouseleave={() => setHoveredBuilding(null)}
-        />
-        <Sprite
-          image="./img/map/tavern.png"
-          x={0}
-          y={0}
-          filters={[tavernBlackGlowFilter, tavernGlowFilter]}
-          interactive={true}
-          hitArea={tavernHitArea}
-          onmouseenter={() => setHoveredBuilding("tavern")}
-          onmouseleave={() => setHoveredBuilding(null)}
-        />
+        <ViewPort
+          screenWidth={windowSize[0]}
+          screenHeight={600}
+          worldWidth={3600}
+          worldHeight={3000}
+        >
+          <Sprite image="./img/map/land.png" x={0} y={0} />
+          <Sprite image="./img/map/vignette.png" x={0} y={0} />
+          <Sprite
+            image="./img/map/shack.png"
+            x={0}
+            y={0}
+            interactive={false}
+            hitArea={noHitArea}
+          />
+          <Sprite
+            image="./img/map/smallBuildingsWest.png"
+            x={0}
+            y={0}
+            interactive={false}
+            hitArea={noHitArea}
+          />
+          <Sprite
+            image="./img/map/smallBuildingsEast.png"
+            x={0}
+            y={0}
+            interactive={false}
+            hitArea={noHitArea}
+            cursor="pointer"
+          />
+          <Sprite
+            interactive={true}
+            image="./img/map/foundry.png"
+            x={0}
+            y={0}
+            filters={[foundryGlowFilter, foundryBlackGlowFilter]}
+            hitArea={foundryHitArea}
+            cursor="pointer"
+            onclick={(e) => {
+              router.push("/mint", undefined, { shallow: true });
+            }}
+            onmouseenter={() => setHoveredBuilding("foundry")}
+            onmouseleave={() => setHoveredBuilding(null)}
+          />
+          <Sprite
+            image="./img/map/academy.png"
+            x={0}
+            y={0}
+            filters={[academyGlowFilter, academyBlackGlowFilter]}
+            interactive={true}
+            hitArea={academyHitArea}
+            cursor="pointer"
+            onclick={(e) => {
+              router.push("/academy", undefined, { shallow: true });
+            }}
+            onmouseenter={() => setHoveredBuilding("academy")}
+            onmouseleave={() => setHoveredBuilding(null)}
+          />
+          <Sprite
+            image="./img/map/blackStables.png"
+            x={0}
+            y={0}
+            filters={[blackStablesBlackGlowFilter, blackStablesGlowFilter]}
+            interactive={true}
+            hitArea={blackstablesHitArea}
+            onmouseenter={() => setHoveredBuilding("blackstables")}
+            onmouseleave={() => setHoveredBuilding(null)}
+          />
+          <Sprite
+            image="./img/map/market.png"
+            x={0}
+            y={0}
+            filters={[marketBlackGlowFilter, marketGlowFilter]}
+            interactive={true}
+            hitArea={marketHitArea}
+            cursor="pointer"
+            onclick={(e) => {
+              router.push("/market", undefined, { shallow: true });
+            }}
+            onmouseenter={() => setHoveredBuilding("market")}
+            onmouseleave={() => setHoveredBuilding(null)}
+          />
+          <Sprite
+            image="./img/map/racetrack.png"
+            x={0}
+            y={0}
+            filters={[racetrackBlackGlowFilter, racetrackGlowFilter]}
+            interactive={true}
+            hitArea={racetrackHitArea}
+            cursor="pointer"
+            onclick={(e) => {
+              router.push("/rules", undefined, { shallow: true });
+            }}
+            onmouseenter={() => setHoveredBuilding("racetrack")}
+            onmouseleave={() => setHoveredBuilding(null)}
+          />
+          <Sprite
+            image="./img/map/tavern.png"
+            x={0}
+            y={0}
+            filters={[tavernBlackGlowFilter, tavernGlowFilter]}
+            interactive={true}
+            hitArea={tavernHitArea}
+            onmouseenter={() => setHoveredBuilding("tavern")}
+            onmouseleave={() => setHoveredBuilding(null)}
+          />
 
-        <Sprite
-          image="./img/map/temple.png"
-          x={0}
-          y={0}
-          filters={[templeBlackGlowFilter, templeGlowFilter]}
-          interactive={true}
-          hitArea={templeHitArea}
-          onmouseenter={() => setHoveredBuilding("temple")}
-          onmouseleave={() => setHoveredBuilding(null)}
-        />
-      </ViewPort>
-      <Text text={bottomText} style={textStyle} {...textSpringProps} />
-    </Stage>
+          <Sprite
+            image="./img/map/temple.png"
+            x={0}
+            y={0}
+            filters={[templeBlackGlowFilter, templeGlowFilter]}
+            interactive={true}
+            hitArea={templeHitArea}
+            onmouseenter={() => setHoveredBuilding("temple")}
+            onmouseleave={() => setHoveredBuilding(null)}
+          />
+        </ViewPort>
+      </Stage>
+      <animated.div
+        className={styles["map_legend"]}
+        style={{
+          position: "absolute",
+          bottom: 0,
+          left: 0,
+          ...textSpringProps,
+        }}
+      >
+        {bottomText}
+      </animated.div>
+    </div>
   );
 };
 

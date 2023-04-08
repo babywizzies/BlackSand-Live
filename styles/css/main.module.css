@@ -23,6 +23,14 @@
   margin-bottom: 50px;
 }
 
+.map_legend {
+  font-family: 'Origen';
+  font-size: 50px;
+  background: -webkit-linear-gradient(#fbea71, #d4b42c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .main_subtitle {
   font-family: 'Origen';
   font-size: clamp(3rem, 2.1542rem + 3.1621vw, 5rem);
