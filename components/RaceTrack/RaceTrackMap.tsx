@@ -1,5 +1,6 @@
 import React, { FC, useEffect, useMemo, useRef, useState } from "react";
-import p5 from "p5";
+import p5, { Vector } from "p5";
+import styles from "../../styles/css/racetrack.module.css";
 
 type Coordinate = { x: number; y: number };
 type Participants = ReturnType<typeof createParticipants>;
@@ -7,21 +8,22 @@ type Participants = ReturnType<typeof createParticipants>;
 let canvasWidth = 1000;
 let canvasHeight = 600;
 let lapPoints = 200;
+let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
 const images: p5.Image[] = [];
 const tiles: p5.Image[] = [];
-let seed = 151;
+let seed = 160;
 // desert, city, prison, sewers, hells, caves
 let asset_pack = "city";
 
 function preload(p5: p5) {
   if (!images.length) {
-    let asset_base = "./img/track-tiles/" + asset_pack + "_base.png";
-    let asset_1 = "./img/track-tiles/" + asset_pack + "_1.png";
-    let asset_2 = "./img/track-tiles/" + asset_pack + "_2.png";
-    let asset_3 = "./img/track-tiles/" + asset_pack + "_3.png";
-    let asset_4 = "./img/track-tiles/" + asset_pack + "_4.png";
+    let asset_base = "/img/track-tiles/" + asset_pack + "_base.png";
+    let asset_1 = "/img/track-tiles/" + asset_pack + "_1.png";
+    let asset_2 = "/img/track-tiles/" + asset_pack + "_2.png";
+    let asset_3 = "/img/track-tiles/" + asset_pack + "_3.png";
+    let asset_4 = "/img/track-tiles/" + asset_pack + "_4.png";
 
     images.push(p5.loadImage(asset_1));
     images.push(p5.loadImage(asset_2));
@@ -32,20 +34,22 @@ function preload(p5: p5) {
 }
 
 function setup(p5: p5, parent: Element) {
-  preload(p5);
+  // preload(p5);
   p5.createCanvas(canvasWidth, canvasHeight).parent(parent);
   p5.frameRate(30);
 
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
-  drawTerrain(p5);
+  // drawTerrain(p5);
 }
 
 function draw(p5: p5, participants: Participants) {
+  p5.clear(0, 0, 0, 0);
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
 
-  let track = createRaceTrackCustom(p5);
+  // let track = createGrandTourTrack(p5);
+  let track = createRaceTrack(p5, 7);
   let desiredTrackWidth = 50; // Set the desired track width here
   let desiredTrackColor = 0; // Set the desired track color here
   drawRaceTrack(
@@ -59,17 +63,68 @@ function draw(p5: p5, participants: Participants) {
   drawParticipants(track, participants, p5);
 }
 
-function createRaceTrackCustom(p5: p5) {
+function sortClockwise(p5: p5, points: Vector[]) {
+  let centroid = points
+    .reduce((acc, p) => acc.add(p), p5.createVector())
+    .div(points.length);
+  points.sort(
+    (a, b) =>
+      p5.atan2(a.y - centroid.y, a.x - centroid.x) -
+      p5.atan2(b.y - centroid.y, b.x - centroid.x)
+  );
+}
+
+function createRaceTrack(p5: p5, numPoints: number) {
+  let points = [];
+  let attempts = 0;
+
+  while (points.length < numPoints && attempts < 1000) {
+    let candidate = p5.createVector(
+      p5.random(margin, canvasWidth - margin),
+      p5.random(margin, canvasHeight - margin)
+    );
+    let isValid = true;
+
+    for (let i = 0; i < points.length; i++) {
+      let distance = p5.dist(
+        candidate.x,
+        candidate.y,
+        points[i].x,
+        points[i].y
+      );
+
+      if (
+        distance < 40 ||
+        Math.abs(candidate.x - points[i].x) < 20 ||
+        Math.abs(candidate.y - points[i].y) < 20
+      ) {
+        isValid = false;
+        break;
+      }
+    }
+
+    if (isValid) {
+      points.push(p5.createVector(candidate.x, candidate.y));
+    } else {
+      attempts++;
+    }
+  }
+
+  sortClockwise(p5, points);
+  return points.reverse();
+}
+
+function createGrandTourTrack(p5: p5) {
   let points = [];
   points.push(p5.createVector(200, 150));
-  points.push(p5.createVector(400, 250));
-  points.push(p5.createVector(500, 100));
-  points.push(p5.createVector(600, 250));
-  points.push(p5.createVector(800, 150));
-  points.push(p5.createVector(700, 500));
-  points.push(p5.createVector(500, 470));
-  points.push(p5.createVector(300, 500));
   points.push(p5.createVector(200, 400));
+  points.push(p5.createVector(300, 500));
+  points.push(p5.createVector(500, 470));
+  points.push(p5.createVector(700, 500));
+  points.push(p5.createVector(800, 150));
+  points.push(p5.createVector(600, 250));
+  points.push(p5.createVector(500, 100));
+  points.push(p5.createVector(400, 250));
   return points;
 }
 
@@ -158,11 +213,12 @@ function drawParticipants(
   p5: p5
 ) {
   let trackLength = track.length;
+  let closestParticipant = null;
   for (let i = 0; i < participants.length; i++) {
     let score = participants[i].score;
-    if (score == 0) {
-      continue;
-    }
+    // if (score == 0) {
+    //   continue;
+    // }
     let laps = Math.floor(score / lapPoints); // One lap is 30 points
     let normalizedScore = score;
     if (score < 0) {
@@ -186,41 +242,45 @@ function drawParticipants(
 
     switch (laps % 4) {
       case 0:
-        p5.fill(255, 0, 0); // Red for the first lap
+        p5.fill(251, 234, 113); // Gold for the first lap
         break;
       case 1:
-        p5.fill(0, 0, 255); // Blue for the second lap
+        p5.fill(255, 255, 255); // White for the second lap
         break;
       case 2:
-        p5.fill(0, 255, 0); // Green for the third lap
+        p5.fill(255, 0, 0); // Red for the third lap
         break;
       case 3:
         p5.fill(128, 0, 128); // Purple for the fourth lap
         break;
     }
 
-    if (score < 0) {
-      p5.fill(194, 0, 194); // Purple for the fourth lap
+    if (score <= 0) {
+      p5.fill(100, 100, 100, 90); // Purple for the non starters
     }
     let randomX = p.x + p5.random(-15, 15);
     let randomY = p.y + p5.random(-15, 15);
-    let mouseX = 0;
-    let mouseY = 0;
+    p5.push();
     p5.ellipse(randomX, randomY, 8);
+    p5.pop();
     //@ts-ignore
-    var d = p5.dist(mouseX, mouseY, randomX, randomY);
+    var d = p5.dist(p5.mouseX, p5.mouseY, randomX, randomY);
     if (d < 3) {
-      p5.fill(0, 0, 0); // Purple for the fourth lap
-      p5.rect(0, canvasHeight, 400, 100, 10);
-      p5.fill(255, 255, 255); // Purple for the fourth lap
-      p5.text(
-        participants[i].data.registration.discord_handle +
-          " - " +
-          participants[i].score,
-        20,
-        canvasHeight - 20
-      );
+      closestParticipant = participants[i];
     }
+  }
+
+  if (closestParticipant) {
+    const text = `${closestParticipant.data.registration.discord_handle} - ${closestParticipant.score}`;
+    p5.textSize(14);
+    p5.fill(255, 255, 255);
+    const width = p5.textWidth(text);
+    const ascent = p5.textAscent();
+    const descent = p5.textDescent();
+    const textHeight = ascent + descent;
+    p5.rect(p5.mouseX, p5.mouseY - 30, width + 16, textHeight + 8, 8);
+    p5.fill(0, 0, 0);
+    p5.text(text, p5.mouseX - width / 2, p5.mouseY - 25);
   }
 }
 
@@ -294,6 +354,10 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
       trackp5.draw = () => {
         draw(trackp5, participants);
       };
+      trackp5.windowResized = () => {
+        canvasWidth = window.innerWidth > 1000 ? 1000 : window.innerWidth;
+        trackp5.resizeCanvas(canvasWidth, canvasHeight);
+      };
     }
   }, [participants]);
 
@@ -302,7 +366,7 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
     return null;
   }
 
-  return <div ref={canvasParentRef} />;
+  return <div className={styles["race-map"]} ref={canvasParentRef} />;
 };
 
 export default RaceTrackMap;

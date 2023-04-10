@@ -103,3 +103,9 @@
     transform: translateX(-50%);
     bottom: -5px;
 }
+
+@media screen and (max-width: 600px) {
+  .race-map {
+    display: none;
+  }
+}
