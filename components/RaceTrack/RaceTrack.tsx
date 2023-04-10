@@ -8,6 +8,12 @@ import useAudio from "../../hooks/useAudio";
 import Image from "next/image";
 import dayjs from "dayjs";
 
+import dynamic from "next/dynamic";
+
+const DynamicRaceTrackMap = dynamic(() => import("./RaceTrackMap"), {
+  ssr: false,
+});
+
 const RaceTrack = () => {
   useAudio("/audio/race-track.mp3", {
     autoplay: true,
@@ -15,7 +21,7 @@ const RaceTrack = () => {
     loop: true,
   });
   const { data } = useSWR(
-    "https://blacksand.city/api/blacksand/races/4",
+    "https://blacksand.city/api/blacksand/races/latest",
     null,
     {
       refreshInterval: 1000 * 60, //1 minute
@@ -73,6 +79,7 @@ const RaceTrack = () => {
           <p>{positions.length} contestants</p>
         </div>
       </div>
+      <DynamicRaceTrackMap data={positions} />
       {positions && positions.length > 0 && (
         <div className={styles["leaderboard-table"]}>
           <div className={styles["leaderboard-row-header"]}>
