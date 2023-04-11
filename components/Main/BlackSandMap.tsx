@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { Stage, Sprite } from "@inlet/react-pixi";
+import React, { useEffect, useMemo, useState } from "react";
+import { Stage, Sprite, AnimatedSprite } from "@inlet/react-pixi";
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
 import { GlowFilter } from "@pixi/filter-glow";
@@ -7,6 +7,8 @@ import { Polygon } from "pixi.js";
 import { useRouter } from "next/router";
 import { useSpring, animated } from "react-spring";
 import styles from "../../styles/css/main.module.css";
+import useAudio from "../../hooks/useAudio";
+import { HiOutlineArrowRight } from "react-icons/hi";
 
 //Hit Areas
 const foundryHitArea = new Polygon([
@@ -92,6 +94,70 @@ const BlackSandMap = () => {
     from: { x: 50, y: 70 },
   }));
   const [bottomText, setBottomText] = useState("");
+  const [enteredBlackSand, setEnteredBlackSand] = useState(false);
+
+  //Audio
+  useAudio("./audio/map/background.mp3", {
+    loop: true,
+    volume: 0.01,
+    autoplay: true,
+  });
+
+  const academyAudio = useAudio("./audio/map/academy.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const stablesAudio = useAudio("./audio/map/stables.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const marketAudio = useAudio("./audio/map/market.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const foundryAudio = useAudio("./audio/map/foundry.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const tavernAudio = useAudio("./audio/map/tavern.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const templeAudio = useAudio("./audio/map/temple.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const racetrackAudio = useAudio("./audio/map/racetrack.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const allAudio = useMemo(
+    () => [
+      academyAudio,
+      stablesAudio,
+      marketAudio,
+      foundryAudio,
+      tavernAudio,
+      templeAudio,
+      racetrackAudio,
+    ],
+    [
+      academyAudio,
+      stablesAudio,
+      marketAudio,
+      foundryAudio,
+      tavernAudio,
+      templeAudio,
+      racetrackAudio,
+    ]
+  );
 
   useEffect(() => {
     const handleWindowResize = () => {
@@ -106,47 +172,77 @@ const BlackSandMap = () => {
   }, []);
 
   useEffect(() => {
+    let activeAudio: HTMLAudioElement | undefined;
     switch (hoveredBuilding) {
       case "foundry": {
         setBottomText("Foundry");
+        activeAudio = foundryAudio;
         activeFilters = [foundryBlackGlowFilter, foundryGlowFilter];
         break;
       }
       case "academy": {
         setBottomText("Academy");
+        activeAudio = academyAudio;
         activeFilters = [academyBlackGlowFilter, academyGlowFilter];
         break;
       }
       case "blackstables": {
         setBottomText("Black Stables - Coming soon");
+        activeAudio = stablesAudio;
         activeFilters = [blackStablesBlackGlowFilter, blackStablesGlowFilter];
         break;
       }
       case "market": {
         setBottomText("Market");
+        activeAudio = marketAudio;
         activeFilters = [marketBlackGlowFilter, marketGlowFilter];
         break;
       }
       case "racetrack": {
         setBottomText("Race Track");
+        activeAudio = racetrackAudio;
         activeFilters = [racetrackBlackGlowFilter, racetrackGlowFilter];
         break;
       }
       case "tavern": {
         setBottomText("Tavern - Coming soon");
+        activeAudio = tavernAudio;
         activeFilters = [tavernBlackGlowFilter, tavernGlowFilter];
         break;
       }
       case "temple": {
         setBottomText("Temple - Coming soon");
+        activeAudio = templeAudio;
         activeFilters = [templeBlackGlowFilter, templeGlowFilter];
         break;
       }
+      //todo lore
       default: {
         activeFilters = [];
         break;
       }
     }
+
+    allAudio.forEach((audio) => {
+      if (activeAudio !== audio) {
+        const fadeAudio = () => {
+          let timer = null;
+          if (audio && audio.volume > 0.0005) {
+            audio.volume -= 0.0005;
+            timer = setTimeout(fadeAudio, 5);
+          } else if (audio) {
+            audio.pause();
+            audio.currentTime = 0;
+          }
+        };
+        fadeAudio();
+      } else {
+        if (audio) {
+          audio.volume = 0.09;
+          audio?.play();
+        }
+      }
+    });
 
     if (hoveredBuilding) {
       textSpringApi.start({
@@ -163,7 +259,7 @@ const BlackSandMap = () => {
         to: { y: 70 },
       });
     }
-  }, [hoveredBuilding]);
+  }, [hoveredBuilding, allAudio]);
 
   if (!mounted || typeof window === "undefined") {
     return null;
@@ -171,173 +267,220 @@ const BlackSandMap = () => {
 
   return (
     <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
-      <Stage
-        width={windowSize[0]}
-        height={600}
-        id="bsMap"
-        onMount={(app) => {
-          app.ticker.add(() => {
-            // Glow
-            if (activeFilters.length > 0) {
-              const glowFilter = activeFilters[0];
-              const blackGlowFilter = activeFilters[1];
-              if (glowFilter.outerStrength < GLOW_MAX && glowIncrementing) {
-                glowFilter.outerStrength += 0.009;
-                blackGlowFilter.innerStrength += 0.009;
-              } else if (glowFilter.outerStrength >= GLOW_MIN) {
-                glowIncrementing = false;
-                glowFilter.outerStrength -= 0.009;
-                blackGlowFilter.innerStrength -= 0.009;
-              } else {
-                glowIncrementing = true;
-              }
-            }
+      {enteredBlackSand ? (
+        <>
+          <Stage
+            width={windowSize[0]}
+            height={600}
+            id="bsMap"
+            onMount={(app) => {
+              app.ticker.add(() => {
+                // Glow
+                if (activeFilters.length > 0) {
+                  const glowFilter = activeFilters[0];
+                  const blackGlowFilter = activeFilters[1];
+                  if (glowFilter.outerStrength < GLOW_MAX && glowIncrementing) {
+                    glowFilter.outerStrength += 0.009;
+                    blackGlowFilter.innerStrength += 0.009;
+                  } else if (glowFilter.outerStrength >= GLOW_MIN) {
+                    glowIncrementing = false;
+                    glowFilter.outerStrength -= 0.009;
+                    blackGlowFilter.innerStrength -= 0.009;
+                  } else {
+                    glowIncrementing = true;
+                  }
+                }
 
-            const inactiveFilters = allFilters.filter(
-              (filter) => !activeFilters.includes(filter)
-            );
+                const inactiveFilters = allFilters.filter(
+                  (filter) => !activeFilters.includes(filter)
+                );
 
-            inactiveFilters.forEach((filter) => {
-              if (filter.outerStrength > 0) {
-                filter.outerStrength -= 0.009;
-              }
-              if (filter.innerStrength > 0) {
-                filter.innerStrength -= 0.009;
-              }
-            });
-          });
-        }}
-      >
-        <ViewPort
-          screenWidth={windowSize[0]}
-          screenHeight={600}
-          worldWidth={3600}
-          worldHeight={3000}
-        >
-          <Sprite image="./img/map/land.png" x={0} y={0} />
-          <Sprite image="./img/map/vignette.png" x={0} y={0} />
-          <Sprite
-            image="./img/map/shack.png"
-            x={0}
-            y={0}
-            interactive={false}
-            hitArea={noHitArea}
-          />
-          <Sprite
-            image="./img/map/smallBuildingsWest.png"
-            x={0}
-            y={0}
-            interactive={false}
-            hitArea={noHitArea}
-          />
-          <Sprite
-            image="./img/map/smallBuildingsEast.png"
-            x={0}
-            y={0}
-            interactive={false}
-            hitArea={noHitArea}
-            cursor="pointer"
-          />
-          <Sprite
-            interactive={true}
-            image="./img/map/foundry.png"
-            x={0}
-            y={0}
-            filters={[foundryGlowFilter, foundryBlackGlowFilter]}
-            hitArea={foundryHitArea}
-            cursor="pointer"
-            onclick={(e) => {
-              router.push("/mint", undefined, { shallow: true });
+                inactiveFilters.forEach((filter) => {
+                  if (filter.outerStrength > 0) {
+                    filter.outerStrength -= 0.009;
+                  }
+                  if (filter.innerStrength > 0) {
+                    filter.innerStrength -= 0.009;
+                  }
+                });
+              });
             }}
-            onmouseenter={() => setHoveredBuilding("foundry")}
-            onmouseleave={() => setHoveredBuilding(null)}
-          />
-          <Sprite
-            image="./img/map/academy.png"
-            x={0}
-            y={0}
-            filters={[academyGlowFilter, academyBlackGlowFilter]}
-            interactive={true}
-            hitArea={academyHitArea}
-            cursor="pointer"
-            onclick={(e) => {
-              router.push("/academy", undefined, { shallow: true });
-            }}
-            onmouseenter={() => setHoveredBuilding("academy")}
-            onmouseleave={() => setHoveredBuilding(null)}
-          />
-          <Sprite
-            image="./img/map/blackStables.png"
-            x={0}
-            y={0}
-            filters={[blackStablesBlackGlowFilter, blackStablesGlowFilter]}
-            interactive={true}
-            hitArea={blackstablesHitArea}
-            onmouseenter={() => setHoveredBuilding("blackstables")}
-            onmouseleave={() => setHoveredBuilding(null)}
-          />
-          <Sprite
-            image="./img/map/market.png"
-            x={0}
-            y={0}
-            filters={[marketBlackGlowFilter, marketGlowFilter]}
-            interactive={true}
-            hitArea={marketHitArea}
-            cursor="pointer"
-            onclick={(e) => {
-              router.push("/market", undefined, { shallow: true });
-            }}
-            onmouseenter={() => setHoveredBuilding("market")}
-            onmouseleave={() => setHoveredBuilding(null)}
-          />
-          <Sprite
-            image="./img/map/racetrack.png"
-            x={0}
-            y={0}
-            filters={[racetrackBlackGlowFilter, racetrackGlowFilter]}
-            interactive={true}
-            hitArea={racetrackHitArea}
-            cursor="pointer"
-            onclick={(e) => {
-              router.push("/rules", undefined, { shallow: true });
-            }}
-            onmouseenter={() => setHoveredBuilding("racetrack")}
-            onmouseleave={() => setHoveredBuilding(null)}
-          />
-          <Sprite
-            image="./img/map/tavern.png"
-            x={0}
-            y={0}
-            filters={[tavernBlackGlowFilter, tavernGlowFilter]}
-            interactive={true}
-            hitArea={tavernHitArea}
-            onmouseenter={() => setHoveredBuilding("tavern")}
-            onmouseleave={() => setHoveredBuilding(null)}
-          />
+          >
+            <ViewPort
+              screenWidth={windowSize[0]}
+              screenHeight={600}
+              worldWidth={3600}
+              worldHeight={3000}
+            >
+              <Sprite image="./img/map/land.png" x={0} y={0} />
+              <Sprite image="./img/map/vignette.png" x={0} y={0} />
+              <Sprite
+                image="./img/map/shack.png"
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={noHitArea}
+              />
+              <Sprite
+                image="./img/map/smallBuildingsWest.png"
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={noHitArea}
+              />
+              <Sprite
+                image="./img/map/smallBuildingsEast.png"
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={noHitArea}
+                cursor="pointer"
+              />
+              <AnimatedSprite
+                isPlaying={true}
+                images={[
+                  "./img/map/smoke_1.png",
+                  "./img/map/smoke_2.png",
+                  "./img/map/smoke_3.png",
+                ]}
+                animationSpeed={0.07}
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={noHitArea}
+                cursor="pointer"
+              />
+              <AnimatedSprite
+                isPlaying={true}
+                images={[
+                  "./img/map/water_1.png",
+                  "./img/map/water_2.png",
+                  "./img/map/water_3.png",
+                ]}
+                animationSpeed={0.07}
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={noHitArea}
+                cursor="pointer"
+              />
+              <Sprite
+                interactive={true}
+                image="./img/map/foundry.png"
+                x={0}
+                y={0}
+                filters={[foundryGlowFilter, foundryBlackGlowFilter]}
+                hitArea={foundryHitArea}
+                cursor="pointer"
+                onclick={(e) => {
+                  router.push("/mint", undefined, { shallow: true });
+                }}
+                onmouseenter={() => setHoveredBuilding("foundry")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+              <Sprite
+                image="./img/map/academy.png"
+                x={0}
+                y={0}
+                filters={[academyGlowFilter, academyBlackGlowFilter]}
+                interactive={true}
+                hitArea={academyHitArea}
+                cursor="pointer"
+                onclick={(e) => {
+                  router.push("/academy", undefined, { shallow: true });
+                }}
+                onmouseenter={() => setHoveredBuilding("academy")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+              <Sprite
+                image="./img/map/blackStables.png"
+                x={0}
+                y={0}
+                filters={[blackStablesBlackGlowFilter, blackStablesGlowFilter]}
+                interactive={true}
+                hitArea={blackstablesHitArea}
+                onmouseenter={() => setHoveredBuilding("blackstables")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+              <Sprite
+                image="./img/map/market.png"
+                x={0}
+                y={0}
+                filters={[marketBlackGlowFilter, marketGlowFilter]}
+                interactive={true}
+                hitArea={marketHitArea}
+                cursor="pointer"
+                onclick={(e) => {
+                  router.push("/market", undefined, { shallow: true });
+                }}
+                onmouseenter={() => setHoveredBuilding("market")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+              <Sprite
+                image="./img/map/racetrack.png"
+                x={0}
+                y={0}
+                filters={[racetrackBlackGlowFilter, racetrackGlowFilter]}
+                interactive={true}
+                hitArea={racetrackHitArea}
+                cursor="pointer"
+                onclick={(e) => {
+                  router.push("/rules", undefined, { shallow: true });
+                }}
+                onmouseenter={() => setHoveredBuilding("racetrack")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+              <Sprite
+                image="./img/map/tavern.png"
+                x={0}
+                y={0}
+                filters={[tavernBlackGlowFilter, tavernGlowFilter]}
+                interactive={true}
+                hitArea={tavernHitArea}
+                onmouseenter={() => setHoveredBuilding("tavern")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
 
-          <Sprite
-            image="./img/map/temple.png"
-            x={0}
-            y={0}
-            filters={[templeBlackGlowFilter, templeGlowFilter]}
-            interactive={true}
-            hitArea={templeHitArea}
-            onmouseenter={() => setHoveredBuilding("temple")}
-            onmouseleave={() => setHoveredBuilding(null)}
-          />
-        </ViewPort>
-      </Stage>
-      <animated.div
-        className={styles["map_legend"]}
-        style={{
-          position: "absolute",
-          bottom: 0,
-          left: 0,
-          ...textSpringProps,
-        }}
-      >
-        {bottomText}
-      </animated.div>
+              <Sprite
+                image="./img/map/temple.png"
+                x={0}
+                y={0}
+                filters={[templeBlackGlowFilter, templeGlowFilter]}
+                interactive={true}
+                hitArea={templeHitArea}
+                onmouseenter={() => setHoveredBuilding("temple")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+            </ViewPort>
+          </Stage>
+          <animated.div
+            className={styles["map_legend"]}
+            style={{
+              position: "absolute",
+              bottom: 0,
+              left: 0,
+              ...textSpringProps,
+            }}
+          >
+            {bottomText}
+          </animated.div>
+        </>
+      ) : (
+        <div className={styles["map-hero"]}>
+          <img src="./img/map/bs_hero_logo.png" width={450} />
+          <p className={styles["map-hero-text"]}>
+            The city that once was is yours again to explore. Walk the streets,
+            visit the ancient buildings, head to the race track. Start the
+            journey to find your !magic
+          </p>
+          <button
+            className={styles["map-hero-button"]}
+            onClick={() => setEnteredBlackSand(true)}
+          >
+            Explore <HiOutlineArrowRight color="#000" fontSize="16" />
+          </button>
+        </div>
+      )}
     </div>
   );
 };

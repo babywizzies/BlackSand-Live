@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "../../styles/css/main.module.css";
 import Accordion from "./Accordion";
-import Link from "next/link";
 import dynamic from "next/dynamic";
 const BlackSandMap = dynamic(() => import("./BlackSandMap"), { ssr: false });
 
@@ -9,65 +8,10 @@ const Main = () => {
   return (
     <>
       <div className={styles.container}>
-        <img className={styles.volcano} src="/img/volcano.png" />
-        <div className={styles.header}>
-          <p className={styles.main_title}>BlackSand</p>
+        <div className={styles.volcano}>
+          <img className={styles["volcano-image"]} src="/img/volcano.png" />
         </div>
         <BlackSandMap />
-        {/* <div className={styles.subpages}>
-          <div className={styles.card}>
-            <Link href="/about">
-              <div className={styles.subpages_card}>
-                <img
-                  className={styles.subpages_img}
-                  src="/img/CityStreets.jpg"
-                />
-                <p className={styles.subpages_text}>City Streets</p>
-              </div>
-            </Link>
-            <Link href="/academy">
-              <div className={styles.subpages_card}>
-                <img className={styles.subpages_img} src="/img/Academy.png" />
-                <p className={styles.subpages_text}>Academy</p>
-              </div>
-            </Link>
-            <Link href="/mint">
-              <div className={styles.subpages_card}>
-                <img className={styles.subpages_img} src="/img/Foundry.png" />
-                <p className={styles.subpages_text}>Foundry</p>
-              </div>
-            </Link>
-            <div className={styles.subpages_card}>
-              <img
-                className={styles.subpages_img}
-                src="/img/BlackStables.png"
-              />
-              <p className={styles.subpages_text}>
-                Black Stables - Coming Soon
-              </p>
-            </div>
-            <div className={styles.subpages_card}>
-              <img className={styles.subpages_img} src="/img/Temple.png" />
-              <p className={styles.subpages_text}>Temple - Coming Soon</p>
-            </div>
-            <Link href="/market">
-              <div className={styles.subpages_card}>
-                <img className={styles.subpages_img} src="/img/Market.png" />
-                <p className={styles.subpages_text}>Market</p>
-              </div>
-            </Link>
-            <Link href="/rules">
-              <div className={styles.subpages_card}>
-                <img className={styles.subpages_img} src="/img/RaceTrack.png" />
-                <p className={styles.subpages_text}>Race Track</p>
-              </div>
-            </Link>
-            <div className={styles.subpages_card}>
-              <img className={styles.subpages_img} src="/img/Arena.png" />
-              <p className={styles.subpages_text}>Arena - Coming Soon</p>
-            </div>
-          </div>
-        </div> */}
 
         <p className={styles.main_subtitle}>Frequently Asked Questions</p>
         <div className={styles.accordion}>
