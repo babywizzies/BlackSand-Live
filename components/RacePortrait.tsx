@@ -91,6 +91,7 @@ const RacePortrait: FC<Props> = ({ tokenId, hasIndigestion }) => {
         boxShadow: hasIndigestion ? "green 0px 0px 15px 0px" : "none",
         height: 50,
         width: 50,
+        flexShrink: 0,
       }}
     >
       {hasIndigestion && (
