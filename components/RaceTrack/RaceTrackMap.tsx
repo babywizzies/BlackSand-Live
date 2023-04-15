@@ -16,8 +16,11 @@ const tiles: p5.Image[] = [];
 let seed = 160;
 // desert, city, prison, sewers, hells, caves
 let asset_pack = "city";
+let background: p5.Image;
 
 function preload(p5: p5) {
+  background = p5.loadImage("./img/rgt_map_clean.png");
+  
   if (!images.length) {
     let asset_base = "/img/track-tiles/" + asset_pack + "_base.png";
     let asset_1 = "/img/track-tiles/" + asset_pack + "_1.png";
@@ -40,17 +43,24 @@ function setup(p5: p5, parent: Element) {
 
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
-  // drawTerrain(p5);
+  //drawTerrain(p5);
 }
 
 function draw(p5: p5, participants: Participants) {
   p5.clear(0, 0, 0, 0);
+  p5.image(
+    background,
+    0,
+    0,
+    canvasWidth,
+    canvasHeight
+  );
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
 
-  // let track = createGrandTourTrack(p5);
-  let track = createRaceTrack(p5, 7);
-  let desiredTrackWidth = 50; // Set the desired track width here
+  let track = createGrandTourTrack(p5);
+  //let track = createRaceTrack(p5, 7);
+  let desiredTrackWidth = 30; // Set the desired track width here
   let desiredTrackColor = 0; // Set the desired track color here
   drawRaceTrack(
     track,
@@ -116,15 +126,15 @@ function createRaceTrack(p5: p5, numPoints: number) {
 
 function createGrandTourTrack(p5: p5) {
   let points = [];
-  points.push(p5.createVector(200, 150));
+  points.push(p5.createVector(230, 250));
   points.push(p5.createVector(200, 400));
-  points.push(p5.createVector(300, 500));
-  points.push(p5.createVector(500, 470));
-  points.push(p5.createVector(700, 500));
-  points.push(p5.createVector(800, 150));
+  points.push(p5.createVector(300, 480));
+  points.push(p5.createVector(600, 450));
+  points.push(p5.createVector(700, 350));
+  points.push(p5.createVector(900, 250));
   points.push(p5.createVector(600, 250));
   points.push(p5.createVector(500, 100));
-  points.push(p5.createVector(400, 250));
+  points.push(p5.createVector(400, 280));
   return points;
 }
 
@@ -147,7 +157,7 @@ function drawStartingArc(track: any, p5: p5) {
   p5.push();
   p5.translate(firstPoint.x, firstPoint.y);
   p5.rotate(angle);
-  p5.rect(0, 0, rectWidth, rectHeight + 35);
+  p5.rect(0, 0, rectWidth, rectHeight + 12);
   p5.pop();
 }
 
@@ -258,8 +268,8 @@ function drawParticipants(
     if (score <= 0) {
       p5.fill(100, 100, 100, 90); // Purple for the non starters
     }
-    let randomX = p.x + p5.random(-15, 15);
-    let randomY = p.y + p5.random(-15, 15);
+    let randomX = p.x + p5.random(-7, 7);
+    let randomY = p.y + p5.random(-7, 7);
     p5.push();
     p5.ellipse(randomX, randomY, 8);
     p5.pop();
@@ -351,6 +361,8 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
 
   useEffect(() => {
     if (trackp5) {
+      preload(trackp5);
+      
       trackp5.draw = () => {
         draw(trackp5, participants);
       };
