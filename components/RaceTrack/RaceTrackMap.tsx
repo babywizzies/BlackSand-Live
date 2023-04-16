@@ -7,7 +7,7 @@ type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
 let canvasHeight = 800;
-let lapPoints = 100;
+let lapPoints = 210;
 let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
@@ -126,15 +126,19 @@ function createRaceTrack(p5: p5, numPoints: number) {
 
 function createGrandTourTrack(p5: p5) {
   let points = [];
-  points.push(p5.createVector(500, 230));
-  points.push(p5.createVector(400, 350));
-  points.push(p5.createVector(300, 420));
-  points.push(p5.createVector(350, 520));
-  points.push(p5.createVector(420, 580));
-  points.push(p5.createVector(600, 600));
+  points.push(p5.createVector(550, 230));
+  points.push(p5.createVector(450, 350));
+  points.push(p5.createVector(380, 350));
+  points.push(p5.createVector(320, 400));
+  points.push(p5.createVector(350, 450));
+  points.push(p5.createVector(380, 500));
+  points.push(p5.createVector(410, 580));
+  points.push(p5.createVector(500, 550));
+  points.push(p5.createVector(620, 580));
+  points.push(p5.createVector(620, 500));
   points.push(p5.createVector(700, 350));
-  points.push(p5.createVector(800, 250));
-  points.push(p5.createVector(600, 250));
+  points.push(p5.createVector(800, 280));
+  points.push(p5.createVector(650, 250));
   return points;
 }
 
@@ -157,7 +161,7 @@ function drawStartingArc(track: any, p5: p5) {
   p5.push();
   p5.translate(firstPoint.x, firstPoint.y);
   p5.rotate(angle);
-  p5.rect(0, 0, rectWidth, rectHeight + 12);
+  p5.rect(0, 0, rectWidth, rectHeight + 15);
   p5.pop();
 }
 
