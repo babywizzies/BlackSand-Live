@@ -6,8 +6,8 @@ type Coordinate = { x: number; y: number };
 type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
-let canvasHeight = 600;
-let lapPoints = 100;
+let canvasHeight = 800;
+let lapPoints = 210;
 let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
@@ -16,8 +16,11 @@ const tiles: p5.Image[] = [];
 let seed = 160;
 // desert, city, prison, sewers, hells, caves
 let asset_pack = "city";
+let background: p5.Image;
 
 function preload(p5: p5) {
+  background = p5.loadImage("./img/rgt_map_01.png");
+  
   if (!images.length) {
     let asset_base = "/img/track-tiles/" + asset_pack + "_base.png";
     let asset_1 = "/img/track-tiles/" + asset_pack + "_1.png";
@@ -45,20 +48,27 @@ function setup(p5: p5, parent: Element) {
 
 function draw(p5: p5, participants: Participants) {
   p5.clear(0, 0, 0, 0);
+  p5.image(
+    background,
+    0,
+    0,
+    canvasWidth,
+    canvasHeight
+  );
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
 
-  // let track = createGrandTourTrack(p5);
-  let track = createRaceTrack(p5, 7);
-  let desiredTrackWidth = 50; // Set the desired track width here
+  let track = createGrandTourTrack(p5);
+  //let track = createRaceTrack(p5, 7);
+  let desiredTrackWidth = 30; // Set the desired track width here
   let desiredTrackColor = 0; // Set the desired track color here
   drawRaceTrack(
     track,
     desiredTrackWidth + 8,
-    p5.color(desiredTrackColor + 100),
+    p5.color(251, 234, 113, 80),
     p5
   );
-  drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor), p5);
+  drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor, 120), p5);
   drawStartingArc(track, p5);
   drawParticipants(track, participants, p5);
 }
@@ -116,15 +126,19 @@ function createRaceTrack(p5: p5, numPoints: number) {
 
 function createGrandTourTrack(p5: p5) {
   let points = [];
-  points.push(p5.createVector(200, 150));
-  points.push(p5.createVector(200, 400));
-  points.push(p5.createVector(300, 500));
-  points.push(p5.createVector(500, 470));
-  points.push(p5.createVector(700, 500));
-  points.push(p5.createVector(800, 150));
-  points.push(p5.createVector(600, 250));
-  points.push(p5.createVector(500, 100));
-  points.push(p5.createVector(400, 250));
+  points.push(p5.createVector(550, 230));
+  points.push(p5.createVector(450, 350));
+  points.push(p5.createVector(380, 350));
+  points.push(p5.createVector(320, 400));
+  points.push(p5.createVector(350, 450));
+  points.push(p5.createVector(380, 500));
+  points.push(p5.createVector(410, 580));
+  points.push(p5.createVector(500, 550));
+  points.push(p5.createVector(620, 580));
+  points.push(p5.createVector(620, 500));
+  points.push(p5.createVector(700, 350));
+  points.push(p5.createVector(800, 280));
+  points.push(p5.createVector(650, 250));
   return points;
 }
 
@@ -139,7 +153,7 @@ function drawStartingArc(track: any, p5: p5) {
   let tangent = secondPoint.copy().sub(lastPoint).normalize();
   let angle = p5.atan2(tangent.y, tangent.x);
 
-  p5.fill(100, 100, 100);
+  p5.fill(220, 220, 220);
   p5.noStroke();
   p5.rectMode(p5.CENTER);
 
@@ -147,7 +161,7 @@ function drawStartingArc(track: any, p5: p5) {
   p5.push();
   p5.translate(firstPoint.x, firstPoint.y);
   p5.rotate(angle);
-  p5.rect(0, 0, rectWidth, rectHeight + 35);
+  p5.rect(0, 0, rectWidth, rectHeight + 15);
   p5.pop();
 }
 
@@ -240,6 +254,14 @@ function drawParticipants(
 
     let p = catmullRomPoint(p0, p1, p2, p3, t);
 
+    let randomX = p.x + p5.random(-7, 7);
+    let randomY = p.y + p5.random(-7, 7);
+
+    p5.push();
+    p5.fill(30, 30, 30);
+    p5.ellipse(randomX, randomY, 10);
+    p5.pop();
+
     switch (laps % 4) {
       case 0:
         p5.fill(251, 234, 113); // Gold for the first lap
@@ -258,8 +280,7 @@ function drawParticipants(
     if (score <= 0) {
       p5.fill(100, 100, 100, 90); // Purple for the non starters
     }
-    let randomX = p.x + p5.random(-15, 15);
-    let randomY = p.y + p5.random(-15, 15);
+
     p5.push();
     p5.ellipse(randomX, randomY, 8);
     p5.pop();
@@ -337,20 +358,22 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
   const canvasParentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (trackp5) {
-      return;
+    if (trackp5 === undefined) {
+      const currentp5 = new p5((p) => {
+        p.setup = () => {
+          //@ts-ignore
+          setup(p, canvasParentRef.current);
+        };
+      });
+      setTrackP5(currentp5);
     }
-    const currentp5 = new p5((p) => {
-      p.setup = () => {
-        //@ts-ignore
-        setup(p, canvasParentRef.current);
-      };
-    });
-    setTrackP5(currentp5);
   }, []);
 
   useEffect(() => {
     if (trackp5) {
+
+      preload(trackp5);
+
       trackp5.draw = () => {
         draw(trackp5, participants);
       };
