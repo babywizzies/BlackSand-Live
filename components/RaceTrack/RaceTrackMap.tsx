@@ -43,7 +43,7 @@ function setup(p5: p5, parent: Element) {
 
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
-  //drawTerrain(p5);
+  // drawTerrain(p5);
 }
 
 function draw(p5: p5, participants: Participants) {
@@ -65,10 +65,10 @@ function draw(p5: p5, participants: Participants) {
   drawRaceTrack(
     track,
     desiredTrackWidth + 8,
-    p5.color(desiredTrackColor + 100, 50),
+    p5.color(desiredTrackColor + 100, 100),
     p5
   );
-  drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor, 50), p5);
+  drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor, 120), p5);
   drawStartingArc(track, p5);
   drawParticipants(track, participants, p5);
 }
@@ -126,15 +126,15 @@ function createRaceTrack(p5: p5, numPoints: number) {
 
 function createGrandTourTrack(p5: p5) {
   let points = [];
-  points.push(p5.createVector(230, 250));
-  points.push(p5.createVector(200, 400));
-  points.push(p5.createVector(300, 480));
-  points.push(p5.createVector(600, 450));
+  points.push(p5.createVector(500, 230));
+  points.push(p5.createVector(400, 350));
+  points.push(p5.createVector(300, 420));
+  points.push(p5.createVector(350, 520));
+  points.push(p5.createVector(420, 580));
+  points.push(p5.createVector(600, 600));
   points.push(p5.createVector(700, 350));
-  points.push(p5.createVector(900, 250));
+  points.push(p5.createVector(800, 250));
   points.push(p5.createVector(600, 250));
-  points.push(p5.createVector(500, 100));
-  points.push(p5.createVector(400, 280));
   return points;
 }
 
@@ -352,7 +352,6 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
         p.setup = () => {
           //@ts-ignore
           setup(p, canvasParentRef.current);
-          preload(p);
         };
       });
       setTrackP5(currentp5);
@@ -361,6 +360,8 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
 
   useEffect(() => {
     if (trackp5) {
+
+      preload(trackp5);
 
       trackp5.draw = () => {
         draw(trackp5, participants);
