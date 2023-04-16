@@ -6,7 +6,7 @@ type Coordinate = { x: number; y: number };
 type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
-let canvasHeight = 600;
+let canvasHeight = 800;
 let lapPoints = 100;
 let margin = 50;
 const tileSize = 10;
@@ -19,7 +19,7 @@ let asset_pack = "city";
 let background: p5.Image;
 
 function preload(p5: p5) {
-  background = p5.loadImage("./img/rgt_map_clean.png");
+  background = p5.loadImage("./img/rgt_map_01.png");
   
   if (!images.length) {
     let asset_base = "/img/track-tiles/" + asset_pack + "_base.png";
@@ -362,7 +362,7 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
   useEffect(() => {
     if (trackp5) {
       preload(trackp5);
-      
+
       trackp5.draw = () => {
         draw(trackp5, participants);
       };
