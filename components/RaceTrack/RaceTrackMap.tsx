@@ -65,10 +65,10 @@ function draw(p5: p5, participants: Participants) {
   drawRaceTrack(
     track,
     desiredTrackWidth + 8,
-    p5.color(desiredTrackColor + 100),
+    p5.color(desiredTrackColor + 100, 50),
     p5
   );
-  drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor), p5);
+  drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor, 50), p5);
   drawStartingArc(track, p5);
   drawParticipants(track, participants, p5);
 }
@@ -347,21 +347,20 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
   const canvasParentRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    if (trackp5) {
-      return;
+    if (trackp5 === undefined) {
+      const currentp5 = new p5((p) => {
+        p.setup = () => {
+          //@ts-ignore
+          setup(p, canvasParentRef.current);
+          preload(p);
+        };
+      });
+      setTrackP5(currentp5);
     }
-    const currentp5 = new p5((p) => {
-      p.setup = () => {
-        //@ts-ignore
-        setup(p, canvasParentRef.current);
-      };
-    });
-    setTrackP5(currentp5);
   }, []);
 
   useEffect(() => {
     if (trackp5) {
-      preload(trackp5);
 
       trackp5.draw = () => {
         draw(trackp5, participants);

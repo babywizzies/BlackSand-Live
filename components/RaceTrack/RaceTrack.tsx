@@ -15,7 +15,7 @@ const DynamicRaceTrackMap = dynamic(() => import("./RaceTrackMap"), {
 });
 
 const RaceTrack = () => {
-  useAudio("/audio/race-track.mp3", {
+  useAudio("/audio/grand-tour.mp3", {
     autoplay: true,
     volume: 0.09,
     loop: true,
