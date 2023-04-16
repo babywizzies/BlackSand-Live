@@ -65,7 +65,7 @@ function draw(p5: p5, participants: Participants) {
   drawRaceTrack(
     track,
     desiredTrackWidth + 8,
-    p5.color(desiredTrackColor + 100, 100),
+    p5.color(251, 234, 113, 80),
     p5
   );
   drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor, 120), p5);
@@ -149,7 +149,7 @@ function drawStartingArc(track: any, p5: p5) {
   let tangent = secondPoint.copy().sub(lastPoint).normalize();
   let angle = p5.atan2(tangent.y, tangent.x);
 
-  p5.fill(100, 100, 100);
+  p5.fill(220, 220, 220);
   p5.noStroke();
   p5.rectMode(p5.CENTER);
 
@@ -250,6 +250,14 @@ function drawParticipants(
 
     let p = catmullRomPoint(p0, p1, p2, p3, t);
 
+    let randomX = p.x + p5.random(-7, 7);
+    let randomY = p.y + p5.random(-7, 7);
+
+    p5.push();
+    p5.fill(30, 30, 30);
+    p5.ellipse(randomX, randomY, 10);
+    p5.pop();
+
     switch (laps % 4) {
       case 0:
         p5.fill(251, 234, 113); // Gold for the first lap
@@ -268,8 +276,7 @@ function drawParticipants(
     if (score <= 0) {
       p5.fill(100, 100, 100, 90); // Purple for the non starters
     }
-    let randomX = p.x + p5.random(-7, 7);
-    let randomY = p.y + p5.random(-7, 7);
+
     p5.push();
     p5.ellipse(randomX, randomY, 8);
     p5.pop();
