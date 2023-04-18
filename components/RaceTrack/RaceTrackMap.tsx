@@ -19,7 +19,7 @@ let asset_pack = "city";
 let background: p5.Image;
 
 function preload(p5: p5) {
-  background = p5.loadImage("./img/rgt_map_01.png");
+  background = p5.loadImage("./img/rgt_map.gif");
   
   if (!images.length) {
     let asset_base = "/img/track-tiles/" + asset_pack + "_base.png";
@@ -40,14 +40,13 @@ function setup(p5: p5, parent: Element) {
   // preload(p5);
   p5.createCanvas(canvasWidth, canvasHeight).parent(parent);
   p5.frameRate(30);
-
-  p5.randomSeed(seed);
-  p5.noiseSeed(seed);
   // drawTerrain(p5);
 }
 
 function draw(p5: p5, participants: Participants) {
   p5.clear(0, 0, 0, 0);
+  p5.randomSeed(seed);
+  p5.noiseSeed(seed);
   p5.image(
     background,
     0,
@@ -55,8 +54,6 @@ function draw(p5: p5, participants: Participants) {
     canvasWidth,
     canvasHeight
   );
-  p5.randomSeed(seed);
-  p5.noiseSeed(seed);
 
   let track = createGrandTourTrack(p5);
   //let track = createRaceTrack(p5, 7);
