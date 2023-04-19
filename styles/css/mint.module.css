@@ -71,6 +71,17 @@
     margin-top: 20px;
   }
 
+  .mint-animation1 {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+
+  .text span{
+    color: #fbea71;
+    font-weight: 700;
+  }
+
   .minusbutton,
   .incrementbutton{
     background-color: transparent;
