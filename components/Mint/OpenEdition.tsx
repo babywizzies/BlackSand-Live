@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import React, { useEffect, useState, useRef } from "react";
 import useIsMounted from "../../hooks/useIsMounted";
 import styles from "styles/css/mint.module.css";
 import type { NextPage } from "next";
@@ -268,31 +268,46 @@ const Home: NextPage = () => {
 
   const isMinted = txSuccess;
 
+  const videoEl = useRef<HTMLVideoElement | null>(null);
+  const attemptPlay = (): void => {
+    if (videoEl && videoEl.current) {
+      videoEl.current.play().catch((error: Error) => {
+        console.error("Error attempting to play", error);
+      });
+    }
+  };
+  useEffect(() => {
+    attemptPlay();
+  }, []);
+
   return (
     <>
       <div className={styles.card1}>
         <h1 className={styles.title}>Mint: Open Edition</h1>
         <p className={styles.text}>
-          A new breed of steeds is roaming the lands of BlackSand. Constructed
-          with magic from the remains of the QuantaPony War and powered by
-          Quantum Crystals, the Mecha Ponies are built to defend the city and
-          enable travel across the land.
+        The prestigious BlackSand Academy has been flourishing as a collaborative creator&apos;s space. Innovative ideas echo throughout the halls. The sound of joyful music rises up through the rafters. Artists mix their colors and paint with passion. Builders craft their raw materials into majestic structures with purpose.
           <br />
           <br />
-          They were built to serve you. Are you brave enough to embark on this
-          new quest in the land of BlackSand? Minting a BlackSand Mount will
-          grant you a Mecha Pony, or in rare instances a 1 of 1 Mount. The
-          initial mintable Supply of BlackSand Mounts is 2,345 Mounts. Press the
-          Mint button to initiate mint. Mint cost is 0.015 ETH + gas fees.
+          It is with great pride that we showcase the hard work of Academy members in a new collection: The BlackSand Editions.
+          <br/>
+          <br/>
+          The genesis piece of this collection marks a historic moment, commemorating the inaugural cross-country race: The Runiverse Grand Tour.
+          <br/>
+          <br/>
+          “The Runiverse Grand Tour” is an Open Edition that showcases the first ever collaboration between two phenomenal artists: <span>Leif Dojang</span> (music) and <span>Ozzz</span> (visual). It will be available to mint until <span>May 3, 2023</span> for <span>0.01 eth</span> per token.
+          <br/>
+          <br/>
+          The BlackSand Editions are fully integrated in the BlackSand ecosystem, and will be an ongoing showcase  of some of the incredible work created by the Artists of the BlackSand Academy
         </p>
-        <div className={styles["mint-animation"]}>
-          <Image
-            style={{ borderRadius: "30px" }}
-            className={styles["mint-animation-gif"]}
-            alt="mint animation"
-            src="/img/mint-animation.gif"
-            layout="fill"
-          />
+        <div className={styles["mint-animation1"]}>
+        <video
+            style={{ maxWidth: "100%", width: "600px", borderRadius: "20px" }}
+            playsInline
+            loop
+            controls
+          >
+            <source src="/video/grandtour.mp4" type="video/mp4" />
+          </video>
         </div>
         <div className={styles.mint_container}>
           <div className={styles.supply_price}>
