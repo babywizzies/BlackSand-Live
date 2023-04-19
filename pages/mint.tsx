@@ -1,6 +1,7 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 import Mint from "../components/Mint/Mint";
+import Tabs from "../components/Mint/Tabs"
 import React from "react";
 
 const MintPage: NextPage = () => {
@@ -13,7 +14,7 @@ const MintPage: NextPage = () => {
       </Head>
 
       <main className="main">
-        <Mint />
+        <Tabs/>
       </main>
     </div>
   );
