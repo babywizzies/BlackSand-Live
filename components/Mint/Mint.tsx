@@ -12,7 +12,7 @@ import {
   usePrepareContractWrite,
   useWaitForTransaction,
 } from "wagmi";
-import contractInterface from "./contract-abi";
+import contractInterface from "./ponies.json";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import Image from "next/image";
 

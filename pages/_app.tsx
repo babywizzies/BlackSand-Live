@@ -7,10 +7,11 @@ import { RainbowKitProvider, getDefaultWallets } from "@rainbow-me/rainbowkit";
 import {
   configureChains,
   createClient,
-  goerli,
-  mainnet,
   WagmiConfig,
 } from "wagmi";
+
+import { mainnet, polygon, optimism, arbitrum, goerli, sepolia } from 'wagmi/chains';
+
 import { alchemyProvider } from "wagmi/providers/alchemy";
 import { publicProvider } from "wagmi/providers/public";
 import NavBar from "../components/NavBar/NavBar";
@@ -23,6 +24,8 @@ const HOST = process.env.NEXT_PUBLIC_HOST || "https://blacksand.city";
 const { chains, provider, webSocketProvider } = configureChains(
   [
     mainnet,
+    polygon,
+    sepolia,
     ...(process.env.NEXT_PUBLIC_ENABLE_TESTNETS === "true" ? [goerli] : []),
   ],
   [

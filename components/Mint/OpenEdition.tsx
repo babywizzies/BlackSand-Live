@@ -12,12 +12,12 @@ import {
   usePrepareContractWrite,
   useWaitForTransaction,
 } from "wagmi";
-import contractInterface from "./contract-abi";
+import contractInterface from "./contract-abi.json";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import Image from "next/image";
 
 const contractConfig = {
-  address: "0xf486f696B80164B5943191236ECa114f4EfAb2FF",
+  address: "0x9C4437bb194672b5fd75A4731F603cFBa8941505",
   abi: contractInterface,
 };
 
@@ -33,7 +33,7 @@ const Home: NextPage = () => {
   const mounted = useIsMounted();
   const [totalMinted, setTotalMinted] = useState(0);
   const [mintCount, setMintCount] = useState(1);
-  const [mintPrice, setMintPrice] = useState(0.015);
+  const [mintPrice, setMintPrice] = useState(0.01);
   const [windowOpen, setWindowOpen] = useState(false);
   const [state, setState] = useState([
     "0xa2e6187a2cbb2c7e7f2983513349ca96a236c47e68e6746da2ba372fa800160a",
@@ -52,8 +52,8 @@ const Home: NextPage = () => {
 
   const { config: contractWriteConfig } = usePrepareContractWrite({
     ...contractConfig,
-    functionName: "generalMinting",
-    args: [`${mintCount}`],
+    functionName: "buyArtwork",
+    args: [0, `${mintCount}`],
     overrides: {
       value: ethers.utils.parseEther(`${mintPrice}`),
     },
@@ -215,12 +215,12 @@ const Home: NextPage = () => {
 
   const incrementMintCount = () => {
     let newMintCount = mintCount + 1;
-    let newMintPrice = Math.round(mintPrice * 1000 + 0.015 * 1000) / 1000;
-    if (newMintCount > 25) {
-      newMintCount = 25;
+    let newMintPrice = Math.round(mintPrice * 1000 + 0.01 * 1000) / 1000;
+    if (newMintCount > 3) {
+      newMintCount = 3;
     }
-    if (newMintPrice > 0.375) {
-      newMintPrice = 0.375;
+    if (newMintPrice > 0.03) {
+      newMintPrice = 0.03;
     }
     setMintCount(newMintCount);
     setMintPrice(newMintPrice);
@@ -228,7 +228,7 @@ const Home: NextPage = () => {
 
   const decreaseMintCount = () => {
     let newMintCount = mintCount - 1;
-    let newMintPrice = Math.round(mintPrice * 1000 - 0.015 * 1000) / 1000;
+    let newMintPrice = Math.round(mintPrice * 1000 - 0.010 * 1000) / 1000;
     if (newMintCount < 0) {
       newMintCount = 0;
       newMintPrice = 0;
@@ -249,6 +249,7 @@ const Home: NextPage = () => {
   const { data: totalSupplyData } = useContractRead({
     ...contractConfig,
     functionName: "totalSupply",
+    args: [0],
     watch: true,
   });
 
@@ -284,6 +285,17 @@ const Home: NextPage = () => {
     <>
       <div className={styles.card1}>
         <h1 className={styles.title}>Mint: Open Edition</h1>
+        <div className={styles["mint-animation1"]}>
+        <video
+            style={{ maxWidth: "100%", width: "600px", borderRadius: "20px" }}
+            playsInline
+            loop
+            controls
+          >
+            <source src="/video/grandtour.mp4" type="video/mp4" />
+          </video>
+        </div>
+        
         <p className={styles.text}>
         The prestigious BlackSand Academy has been flourishing as a collaborative creator&apos;s space. Innovative ideas echo throughout the halls. The sound of joyful music rises up through the rafters. Artists mix their colors and paint with passion. Builders craft their raw materials into majestic structures with purpose.
           <br />
@@ -299,16 +311,7 @@ const Home: NextPage = () => {
           <br/>
           The BlackSand Editions are fully integrated in the BlackSand ecosystem, and will be an ongoing showcase  of some of the incredible work created by the Artists of the BlackSand Academy
         </p>
-        <div className={styles["mint-animation1"]}>
-        <video
-            style={{ maxWidth: "100%", width: "600px", borderRadius: "20px" }}
-            playsInline
-            loop
-            controls
-          >
-            <source src="/video/grandtour.mp4" type="video/mp4" />
-          </video>
-        </div>
+
         <div className={styles.mint_container}>
           <div className={styles.supply_price}>
             <div className={styles.minted}>
@@ -316,17 +319,15 @@ const Home: NextPage = () => {
               <p className={styles.supply_text}>{totalMinted}</p>
             </div>
             <div className={styles.supply}>
-              <p className={styles.supply_title}>Supply</p>
-              <p className={styles.supply_text}>2,345</p>
+              <p className={styles.supply_title}>Open Supply</p>
+              <p className={styles.supply_text}>Mint ends block 17185660</p>
             </div>
             <div className={styles.price_mint}>
               <p className={styles.supply_title}>Price</p>
-              <p className={styles.supply_text}>0.015 ETH</p>
+              <p className={styles.supply_text}>0.01 ETH</p>
             </div>
           </div>
-          <p className={styles.supply_subtext}>
-            Max total supply of 10,000 from future additions.
-          </p>
+
           <div className={styles.mint}>
             <div className={styles.mint_card_button}>
               <div className={styles.plus}>
