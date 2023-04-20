@@ -313,7 +313,7 @@ const Home: NextPage = () => {
         </p>
 
         <div className={styles.mint_container}>
-          <div className={styles.supply_price}>
+          <div className={styles.supply_price1}>
             <div className={styles.minted}>
               <p className={styles.supply_title}>Minted</p>
               <p className={styles.supply_text}>{totalMinted}</p>

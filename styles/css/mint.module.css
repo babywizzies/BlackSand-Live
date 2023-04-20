@@ -1,6 +1,6 @@
 .title {
     font-family: 'Origen';
-    font-size: clamp(4rem, 2.5638rem + 5.3691vw, 6rem);
+    font-size: clamp(3.5rem, 2.4427rem + 3.9526vw, 6rem);
     background: -webkit-linear-gradient(#fbea71, #d4b42c);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -20,6 +20,13 @@
     gap: 40px;
     justify-content: center;
     margin-top: 20px;
+}
+
+.supply_price1{
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+  margin-top: 20px;
 }
 
 .supply_title{
@@ -117,7 +124,16 @@
   @media screen and (max-width: 428px) {
     .title{
         line-height: 60px;
+        width: 90%;
+        margin: 0 auto;
     }
+
+    .text{
+      color: white;
+      width: 90%;
+      margin: 0 auto;
+      text-align: center;
+  }
 
     .supply_subtext{
         width: 90%;
@@ -131,9 +147,12 @@
     }
 
     .mint-animation1 {
-      width: 350px;
-      margin: 0 auto;
-      margin-top: 20px;
+      width: 80%;
       margin-bottom: 20px;
+      margin-top: 10px;
+    }
+
+    .supply_price1{
+      gap: 20px;
     }
 }
