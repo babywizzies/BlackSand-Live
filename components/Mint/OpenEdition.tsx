@@ -284,7 +284,7 @@ const Home: NextPage = () => {
   return (
     <>
       <div className={styles.card1}>
-        <h1 className={styles.title}>Mint: Open Edition</h1>
+        <h1 className={styles.title}>Mint: BlackSand Editions</h1>
         <div className={styles["mint-animation1"]}>
         <video
             style={{ maxWidth: "100%", width: "600px", borderRadius: "20px" }}

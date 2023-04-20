@@ -6,7 +6,6 @@
     margin: 1rem auto 0rem;
     color: #E8F0F2;
     border-radius: 2rem;
-
 }
 
 ul.nav {
@@ -30,6 +29,7 @@ ul.nav {
     border-top-left-radius: 2rem;
     font-family: 'Piilani';
     text-transform: uppercase;
+    font-size: clamp(0.8rem, 0.7154rem + 0.3162vw, 1rem);
   }
   ul.nav li:nth-child(2) {
     border-radius: 0;
@@ -42,4 +42,17 @@ ul.nav {
   }
   ul.nav li.active {
     background: #39A2DB;
+  }
+
+  @media screen and (max-width: 428px) {
+    ul.nav {
+      width: 80%;
+      margin: 0 auto 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border: 1px solid #fbea71;
+      border-radius: 2rem;
+      padding-left: 0px;
+    }
   }

@@ -21,7 +21,7 @@ const Tabs = () => {
       {/* Tab nav */}
       <ul className={styles.nav}>
         <li className={activeTab === "tab1" ? "active" : ""} onClick={handleTab1}>BlackSand Mounts</li>
-        <li className={activeTab === "tab2" ? "active" : ""} onClick={handleTab2}>Open Edition</li>
+        <li className={activeTab === "tab2" ? "active" : ""} onClick={handleTab2}>BlackSand Editions</li>
       </ul>
       <div className={styles.outlet}>
         {activeTab === "tab1" ? <Mint /> : <OpenEdition />}
