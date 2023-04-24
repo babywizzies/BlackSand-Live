@@ -107,6 +107,26 @@ button {
   border-bottom: 4px solid transparent;
   animation: rotation 0.5s linear infinite reverse;
 }
+
+.volume-icon {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  background: white;
+  border-radius: 50%;
+  height: 31px;
+  width: 31px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 0.8;
+  transition: all 250ms ease-in-out;
+}
+
+.volume-icon:hover {
+  opacity: 1;
+}
+
 @keyframes rotation {
   0% {
     transform: rotate(0deg);

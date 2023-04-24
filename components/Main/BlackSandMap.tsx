@@ -30,6 +30,7 @@ const tavernHitArea = new Polygon([
   1350, 1709, 1730, 1709, 1745, 2118, 1350, 2118,
 ]);
 const templeHitArea = new Polygon([460, 300, 660, 284, 665, 480, 460, 480]);
+const shackHitArea = new Polygon([2083, 311, 2234, 311, 2234, 434, 2083, 434]);
 const noHitArea = new Polygon([]);
 
 //Glow
@@ -61,6 +62,8 @@ const tavernGlowFilter = new GlowFilter(GOLD_GLOW);
 const tavernBlackGlowFilter = new GlowFilter(BLACK_GLOW);
 const templeGlowFilter = new GlowFilter(GOLD_GLOW);
 const templeBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const shackGlowFilter = new GlowFilter(GOLD_GLOW);
+const shackBlackGlowFilter = new GlowFilter(BLACK_GLOW);
 
 const allFilters = [
   foundryGlowFilter,
@@ -77,6 +80,8 @@ const allFilters = [
   tavernGlowFilter,
   templeBlackGlowFilter,
   templeGlowFilter,
+  shackGlowFilter,
+  shackBlackGlowFilter,
 ];
 
 let glowIncrementing = true;
@@ -138,6 +143,21 @@ const BlackSandMap = () => {
     volume: 0.09,
   });
 
+  const loreAudio = useAudio("./audio/map/shack.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const mouseClick = useAudio("./audio/map/mouse_click.mp3", {
+    volume: 0.09,
+    onEnded: (audio) => {
+      if (audio) {
+        audio.pause();
+        audio.currentTime = 0;
+      }
+    },
+  });
+
   const allAudio = useMemo(
     () => [
       academyAudio,
@@ -147,6 +167,7 @@ const BlackSandMap = () => {
       tavernAudio,
       templeAudio,
       racetrackAudio,
+      loreAudio,
     ],
     [
       academyAudio,
@@ -156,6 +177,7 @@ const BlackSandMap = () => {
       tavernAudio,
       templeAudio,
       racetrackAudio,
+      loreAudio,
     ]
   );
 
@@ -216,6 +238,12 @@ const BlackSandMap = () => {
         activeFilters = [templeBlackGlowFilter, templeGlowFilter];
         break;
       }
+      case "shack": {
+        setBottomText("Lore");
+        activeAudio = loreAudio;
+        activeFilters = [shackBlackGlowFilter, shackGlowFilter];
+        break;
+      }
       //todo lore
       default: {
         activeFilters = [];
@@ -266,12 +294,12 @@ const BlackSandMap = () => {
   }
 
   return (
-    <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
+    <div style={{ position: "relative", overflow: "hidden", height: 700 }}>
       {enteredBlackSand ? (
         <>
           <Stage
             width={windowSize[0]}
-            height={600}
+            height={700}
             id="bsMap"
             onMount={(app) => {
               app.ticker.add(() => {
@@ -308,19 +336,12 @@ const BlackSandMap = () => {
           >
             <ViewPort
               screenWidth={windowSize[0]}
-              screenHeight={600}
+              screenHeight={700}
               worldWidth={3600}
               worldHeight={3000}
             >
               <Sprite image="./img/map/land.png" x={0} y={0} />
               <Sprite image="./img/map/vignette.png" x={0} y={0} />
-              <Sprite
-                image="./img/map/shack.png"
-                x={0}
-                y={0}
-                interactive={false}
-                hitArea={noHitArea}
-              />
               <Sprite
                 image="./img/map/smallBuildingsWest.png"
                 x={0}
@@ -373,9 +394,25 @@ const BlackSandMap = () => {
                 hitArea={foundryHitArea}
                 cursor="pointer"
                 onclick={(e) => {
+                  mouseClick?.play();
                   router.push("/mint", undefined, { shallow: true });
                 }}
                 onmouseenter={() => setHoveredBuilding("foundry")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+              <Sprite
+                interactive={true}
+                image="./img/map/shack.png"
+                x={0}
+                y={0}
+                filters={[shackGlowFilter, shackBlackGlowFilter]}
+                hitArea={shackHitArea}
+                cursor="pointer"
+                onclick={(e) => {
+                  mouseClick?.play();
+                  router.push("/about", undefined, { shallow: true });
+                }}
+                onmouseenter={() => setHoveredBuilding("shack")}
                 onmouseleave={() => setHoveredBuilding(null)}
               />
               <Sprite
@@ -387,6 +424,7 @@ const BlackSandMap = () => {
                 hitArea={academyHitArea}
                 cursor="pointer"
                 onclick={(e) => {
+                  mouseClick?.play();
                   router.push("/academy", undefined, { shallow: true });
                 }}
                 onmouseenter={() => setHoveredBuilding("academy")}
@@ -411,6 +449,7 @@ const BlackSandMap = () => {
                 hitArea={marketHitArea}
                 cursor="pointer"
                 onclick={(e) => {
+                  mouseClick?.play();
                   router.push("/market", undefined, { shallow: true });
                 }}
                 onmouseenter={() => setHoveredBuilding("market")}
@@ -425,6 +464,7 @@ const BlackSandMap = () => {
                 hitArea={racetrackHitArea}
                 cursor="pointer"
                 onclick={(e) => {
+                  mouseClick?.play();
                   router.push("/rules", undefined, { shallow: true });
                 }}
                 onmouseenter={() => setHoveredBuilding("racetrack")}
