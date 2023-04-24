@@ -27,9 +27,7 @@ const RaceTrack = () => {
       refreshInterval: 1000 * 60, //1 minute
     }
   );
-  const race = useMemo(() => {
-    return data && data[0] ? data[0] : {};
-  }, [data]);
+  const race = useMemo(() => (data && data[0] ? data[0] : {}), [data]);
   const raceStartTimestamp = useMemo(() => {
     return race.end_time
       ? new Date(`${race.start_time}Z`).getTime() / 1000
@@ -52,6 +50,14 @@ const RaceTrack = () => {
 
   const positions = useMemo(() => {
     const raceData = race.race_data || [];
+    //Sum up of points for the grand tour legs
+    raceData.forEach((data: any) => {
+      data.total_points =
+        data.total_points +
+        (data.race_1_points || 0) +
+        (data.race_2_points || 0) +
+        (data.race_3_points || 0);
+    });
     return raceData.sort((a: any, b: any) => {
       const aPoints = a.total_points || 0;
       const bPoints = b.total_points || 0;
