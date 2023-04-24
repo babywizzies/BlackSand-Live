@@ -9,6 +9,7 @@ import { useSpring, animated } from "react-spring";
 import styles from "../../styles/css/main.module.css";
 import useAudio from "../../hooks/useAudio";
 import { HiOutlineArrowRight } from "react-icons/hi";
+import { loadImage } from "../../utils/imageLoader";
 
 //Hit Areas
 const foundryHitArea = new Polygon([
@@ -86,6 +87,23 @@ const allFilters = [
 
 let glowIncrementing = true;
 let activeFilters: GlowFilter[] = [];
+let imageUrls = [
+  "./img/map/land.png",
+  "./img/map/vignette.png",
+  "./img/map/smallBuildingsWest.png",
+  "./img/map/smallBuildingsEast.png",
+  "./img/map/water_1.png",
+  "./img/map/water_2.png",
+  "./img/map/water_3.png",
+  "./img/map/foundry.png",
+  "./img/map/shack.png",
+  "./img/map/academy.png",
+  "./img/map/blackStables.png",
+  "./img/map/market.png",
+  "./img/map/racetrack.png",
+  "./img/map/tavern.png",
+  "./img/map/temple.png",
+];
 
 const BlackSandMap = () => {
   const router = useRouter();
@@ -94,6 +112,7 @@ const BlackSandMap = () => {
     typeof window !== "undefined" ? window.innerWidth : 0,
     typeof window !== "undefined" ? window.innerHeight : 0,
   ]);
+  const [progressPercent, setProgressPercent] = useState(0);
   const [hoveredBuilding, setHoveredBuilding] = useState<string | null>(null);
   const [textSpringProps, textSpringApi] = useSpring(() => ({
     from: { x: 50, y: 70 },
@@ -302,6 +321,14 @@ const BlackSandMap = () => {
             height={700}
             id="bsMap"
             onMount={(app) => {
+              let progress = 0;
+              imageUrls.forEach((url) => {
+                loadImage(url).then(() => {
+                  progress += 1;
+                  setProgressPercent(progress);
+                });
+              });
+
               app.ticker.add(() => {
                 // Glow
                 if (activeFilters.length > 0) {
@@ -504,6 +531,33 @@ const BlackSandMap = () => {
           >
             {bottomText}
           </animated.div>
+          {progressPercent < imageUrls.length && (
+            <div
+              style={{
+                position: "absolute",
+                inset: 0,
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+                background: "rgba(0,0,0,0.7)",
+                backdropFilter: "blur(4px)",
+              }}
+            >
+              <div
+                style={{
+                  background: "white",
+                  display: "flex",
+                  gap: 10,
+                  borderRadius: 4,
+                  padding: 4,
+                  fontSize: 20,
+                }}
+              >
+                <p>Loading</p>{" "}
+                {Math.floor((progressPercent / imageUrls.length) * 100)}/{100}
+              </div>
+            </div>
+          )}
         </>
       ) : (
         <div className={styles["map-hero"]}>
