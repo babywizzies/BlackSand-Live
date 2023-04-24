@@ -16,11 +16,18 @@ const tiles: p5.Image[] = [];
 let seed = 160;
 // desert, city, prison, sewers, hells, caves
 let asset_pack = "city";
-let background: p5.Image;
+let background: p5.Image[];
+let bgFrameIndex = 0;
+const bgFrameRate = 5;
 
 function preload(p5: p5) {
-  background = p5.loadImage("./img/rgt_map.gif");
-  
+  background = [
+    p5.loadImage("./img/race-track-map/rgt_map_03_frame1.png"),
+    p5.loadImage("./img/race-track-map/rgt_map_03_frame2.png"),
+    p5.loadImage("./img/race-track-map/rgt_map_03_frame3.png"),
+    p5.loadImage("./img/race-track-map/rgt_map_03_frame4.png"),
+  ];
+
   if (!images.length) {
     let asset_base = "/img/track-tiles/" + asset_pack + "_base.png";
     let asset_1 = "/img/track-tiles/" + asset_pack + "_1.png";
@@ -47,24 +54,16 @@ function draw(p5: p5, participants: Participants) {
   p5.clear(0, 0, 0, 0);
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
-  p5.image(
-    background,
-    0,
-    0,
-    canvasWidth,
-    canvasHeight
-  );
+  p5.image(background[bgFrameIndex], 0, 0, canvasWidth, canvasHeight);
+  if (p5.frameCount % bgFrameRate === 0) {
+    bgFrameIndex = bgFrameIndex >= 3 ? 0 : bgFrameIndex + 1;
+  }
 
   let track = createGrandTourTrack(p5);
   //let track = createRaceTrack(p5, 7);
   let desiredTrackWidth = 30; // Set the desired track width here
   let desiredTrackColor = 0; // Set the desired track color here
-  drawRaceTrack(
-    track,
-    desiredTrackWidth + 8,
-    p5.color(251, 234, 113, 80),
-    p5
-  );
+  drawRaceTrack(track, desiredTrackWidth + 8, p5.color(251, 234, 113, 80), p5);
   drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor, 120), p5);
   drawStartingArc(track, p5);
   drawParticipants(track, participants, p5);
@@ -368,7 +367,6 @@ const RaceTrackMap: FC<Props> = ({ data }) => {
 
   useEffect(() => {
     if (trackp5) {
-
       preload(trackp5);
 
       trackp5.draw = () => {
