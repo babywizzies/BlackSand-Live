@@ -51,16 +51,17 @@ const RaceTrack = () => {
   const positions = useMemo(() => {
     const raceData = race.race_data || [];
     //Sum up of points for the grand tour legs
+    //After grandtour replace all instances of tour_points with total_points
     raceData.forEach((data: any) => {
-      data.total_points =
+      data.tour_points =
         data.total_points +
         (data.race_1_points || 0) +
         (data.race_2_points || 0) +
         (data.race_3_points || 0);
     });
     return raceData.sort((a: any, b: any) => {
-      const aPoints = a.total_points || 0;
-      const bPoints = b.total_points || 0;
+      const aPoints = a.tour_points || 0;
+      const bPoints = b.tour_points || 0;
 
       return bPoints - aPoints;
     });
@@ -133,7 +134,7 @@ const RaceTrack = () => {
                   className="racetrack-tooltip"
                   data-tooltip-html={`<b>Event Points:</b> ${position.event_points} <br/> <b>Treat Points:</b> ${treatPoints} <br/> <b>Ability Points:</b> ${position.race_ability_points}<br/><b>Training Points:</b>${position.training_points}</br><b>Previous Race Points:</b>${position.race_1_points}`}
                 >
-                  {position.total_points || 0}
+                  {position.tour_points || 0}
                 </div>
                 <div>{position.registration.pony_name}</div>
                 <div
@@ -171,7 +172,6 @@ const RaceTrack = () => {
                     </div>
                   ))}
                 </div>
-                
               </div>
             );
           })}

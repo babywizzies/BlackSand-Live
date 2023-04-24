@@ -185,7 +185,7 @@ function drawRaceTrack(
 
 function createParticipants(results: any) {
   return results.map((result: any) => ({
-    score: result.total_points,
+    score: result.tour_points,
     data: result,
   }));
 }
