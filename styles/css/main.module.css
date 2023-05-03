@@ -5,10 +5,16 @@
 .volcano {
   position: absolute;
   z-index: -999;
-  width: 40%;
+  width: 100%;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.volcano-image {
+  width: 50%;
   rotate: -10deg;
-  margin-top: 20px;
-  margin-left: 450px;
   opacity: 0.5;
 }
 
@@ -20,6 +26,15 @@
   -webkit-text-fill-color: transparent;
   margin-left: 50px;
   line-height: 150px;
+  margin-bottom: 50px;
+}
+
+.map_legend {
+  font-family: 'Origen';
+  font-size: 50px;
+  background: -webkit-linear-gradient(#fbea71, #d4b42c);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 .main_subtitle {
@@ -29,7 +44,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-align: center;
-  margin-top: 4rem;
+  margin-top: 13rem;
 }
 
 .main_text {
@@ -102,12 +117,43 @@
   gap: 20px;
 }
 
+.map-hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}
+
+.map-hero-text {
+  color: #fff;
+  max-width: 450px;
+  text-align: center;
+}
+
+.map-hero-button {
+  margin-top: 40px;
+  padding: 4px 12px;
+  border-radius: 8px;
+  font-size: 20px;
+  background: rgba(255, 255, 255, 0.8);
+  transition: 200ms background ease-in-out;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.map-hero-button:hover {
+  background: rgba(255, 255, 255, 1);
+}
 
 @media screen and (max-width: 428px) {
   .volcano {
-      width: 70%;
-      margin-top: -20px;
-      margin-left: -40px;
+      width: 100%;
+  }
+
+  .map-hero {
+    margin: 12px;
   }
 
   .main_title {

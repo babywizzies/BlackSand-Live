@@ -4,13 +4,16 @@ import "@rainbow-me/rainbowkit/styles.css";
 import "react-tooltip/dist/react-tooltip.css";
 import type { AppProps } from "next/app";
 import { RainbowKitProvider, getDefaultWallets } from "@rainbow-me/rainbowkit";
-import {
-  configureChains,
-  createClient,
-  WagmiConfig,
-} from "wagmi";
+import { configureChains, createClient, WagmiConfig } from "wagmi";
 
-import { mainnet, polygon, optimism, arbitrum, goerli, sepolia } from 'wagmi/chains';
+import {
+  mainnet,
+  polygon,
+  optimism,
+  arbitrum,
+  goerli,
+  sepolia,
+} from "wagmi/chains";
 
 import { alchemyProvider } from "wagmi/providers/alchemy";
 import { publicProvider } from "wagmi/providers/public";
@@ -18,6 +21,9 @@ import NavBar from "../components/NavBar/NavBar";
 import Footer from "../components/Footer/Footer";
 import { ReservoirKitProvider } from "@reservoir0x/reservoir-kit-ui";
 import { SWRConfig } from "swr";
+import { AudioContext } from "../context/AudioContext";
+import AudioControl from "../components/AudioControl";
+import { useEffect, useState } from "react";
 
 const HOST = process.env.NEXT_PUBLIC_HOST || "https://blacksand.city";
 
@@ -49,6 +55,16 @@ const wagmiClient = createClient({
 });
 
 function MyApp({ Component, pageProps }: AppProps) {
+  const [audioEnabled, setAudioEnabled] = useState(1);
+  useEffect(() => {
+    const audioEnabled = Number(
+      localStorage.getItem("blacksand.audioEnabled") !== undefined
+        ? Number(localStorage.getItem("blacksand.audioEnabled"))
+        : 1
+    );
+    setAudioEnabled(audioEnabled);
+  }, []);
+
   return (
     <SWRConfig
       value={{
@@ -70,7 +86,19 @@ function MyApp({ Component, pageProps }: AppProps) {
             }}
           >
             <NavBar />
-            <Component {...pageProps} />
+            <AudioContext.Provider
+              value={{
+                audioEnabled,
+                setAudioEnabled: (enabled: number) => {
+                  setAudioEnabled(enabled);
+                },
+              }}
+            >
+              <>
+                <Component {...pageProps} />
+                <AudioControl />
+              </>
+            </AudioContext.Provider>
           </ReservoirKitProvider>
           <Footer />
         </RainbowKitProvider>
