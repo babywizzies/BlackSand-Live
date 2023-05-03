@@ -123,7 +123,7 @@ const BlackSandMap = () => {
   //Audio
   useAudio("./audio/map/background.mp3", {
     loop: true,
-    volume: 0.01,
+    volume: 0.09,
     autoplay: true,
   });
 
@@ -424,6 +424,10 @@ const BlackSandMap = () => {
                   mouseClick?.play();
                   router.push("/mint", undefined, { shallow: true });
                 }}
+                ontouchend={() => {
+                  mouseClick?.play();
+                  router.push("/mint", undefined, { shallow: true });
+                }}
                 onmouseenter={() => setHoveredBuilding("foundry")}
                 onmouseleave={() => setHoveredBuilding(null)}
               />
@@ -439,6 +443,10 @@ const BlackSandMap = () => {
                   mouseClick?.play();
                   router.push("/about", undefined, { shallow: true });
                 }}
+                ontouchend={() => {
+                  mouseClick?.play();
+                  router.push("/about", undefined, { shallow: true });
+                }}
                 onmouseenter={() => setHoveredBuilding("shack")}
                 onmouseleave={() => setHoveredBuilding(null)}
               />
@@ -451,6 +459,10 @@ const BlackSandMap = () => {
                 hitArea={academyHitArea}
                 cursor="pointer"
                 onclick={(e) => {
+                  mouseClick?.play();
+                  router.push("/academy", undefined, { shallow: true });
+                }}
+                ontouchend={() => {
                   mouseClick?.play();
                   router.push("/academy", undefined, { shallow: true });
                 }}
@@ -479,6 +491,10 @@ const BlackSandMap = () => {
                   mouseClick?.play();
                   router.push("/market", undefined, { shallow: true });
                 }}
+                ontouchend={() => {
+                  mouseClick?.play();
+                  router.push("/market", undefined, { shallow: true });
+                }}
                 onmouseenter={() => setHoveredBuilding("market")}
                 onmouseleave={() => setHoveredBuilding(null)}
               />
@@ -491,6 +507,10 @@ const BlackSandMap = () => {
                 hitArea={racetrackHitArea}
                 cursor="pointer"
                 onclick={(e) => {
+                  mouseClick?.play();
+                  router.push("/rules", undefined, { shallow: true });
+                }}
+                ontouchend={() => {
                   mouseClick?.play();
                   router.push("/rules", undefined, { shallow: true });
                 }}

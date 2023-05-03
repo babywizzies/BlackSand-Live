@@ -60,15 +60,15 @@ const PixiComponentViewport = PixiComponent("Viewport", {
       .wheel()
       .clamp({ direction: "all" })
       .clampZoom({
-        minScale: 0.25,
-        maxScale: 1.25,
+        minScale: 1,
+        maxScale: 1,
+        minHeight: 300,
+        minWidth: 300,
         maxHeight: props.worldHeight,
         maxWidth: props.worldWidth,
       })
-      .decelerate();
-
-    viewport.clamp({ direction: "all" });
-    viewport
+      .decelerate()
+      .clamp({ direction: "all" })
       .moveCenter(props.worldWidth / 2, props.worldHeight / 2)
       .setZoom(0.5, true);
 

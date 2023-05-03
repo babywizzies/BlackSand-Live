@@ -58,7 +58,8 @@ function MyApp({ Component, pageProps }: AppProps) {
   const [audioEnabled, setAudioEnabled] = useState(1);
   useEffect(() => {
     const audioEnabled = Number(
-      localStorage.getItem("blacksand.audioEnabled") !== undefined
+      localStorage.getItem("blacksand.audioEnabled") !== undefined &&
+        localStorage.getItem("blacksand.audioEnabled") !== null
         ? Number(localStorage.getItem("blacksand.audioEnabled"))
         : 1
     );
