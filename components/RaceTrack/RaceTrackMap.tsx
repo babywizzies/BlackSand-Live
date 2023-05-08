@@ -6,14 +6,14 @@ type Coordinate = { x: number; y: number };
 type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
-let canvasHeight = 800;
-let lapPoints = 210;
+let canvasHeight = 600;
+let lapPoints = 80;
 let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
 const images: p5.Image[] = [];
 const tiles: p5.Image[] = [];
-let seed = 160;
+let seed = 261;
 // desert, city, prison, sewers, hells, caves
 let asset_pack = "city";
 let background: p5.Image[];
@@ -54,13 +54,13 @@ function draw(p5: p5, participants: Participants) {
   p5.clear(0, 0, 0, 0);
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
-  p5.image(background[bgFrameIndex], 0, 0, canvasWidth, canvasHeight);
-  if (p5.frameCount % bgFrameRate === 0) {
-    bgFrameIndex = bgFrameIndex >= 3 ? 0 : bgFrameIndex + 1;
-  }
+  // p5.image(background[bgFrameIndex], 0, 0, canvasWidth, canvasHeight);
+  // if (p5.frameCount % bgFrameRate === 0) {
+  //   bgFrameIndex = bgFrameIndex >= 3 ? 0 : bgFrameIndex + 1;
+  // }
 
-  let track = createGrandTourTrack(p5);
-  //let track = createRaceTrack(p5, 7);
+  //let track = createGrandTourTrack(p5);
+  let track = createRaceTrack(p5, 7);
   let desiredTrackWidth = 30; // Set the desired track width here
   let desiredTrackColor = 0; // Set the desired track color here
   drawRaceTrack(track, desiredTrackWidth + 8, p5.color(251, 234, 113, 80), p5);
