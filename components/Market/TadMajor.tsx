@@ -18,7 +18,7 @@ const TadMajor = () => {
             <p>Twitter: @tadmajor</p>
         </div>
         <div className={styles.subcontainer}>
-      <Link href="/acideater">
+      <Link href="/">
         <div className={styles.card}>
           <img className={styles.img} src="/img/TadMajor/1.png"/>
           <div className={styles.subcard}>

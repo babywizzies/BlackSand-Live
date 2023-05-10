@@ -30,7 +30,7 @@ const LeifDojang = () => {
             </div>
           </div>
         </div>
-      <Link href="/acideater">
+      <Link href="/">
         <div className={styles.card}>
         <iframe width="380" height="215" src="https://player.vimeo.com/video/788867872?h=119de51e9b&title=0&byline=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
           <div className={styles.subcard}>

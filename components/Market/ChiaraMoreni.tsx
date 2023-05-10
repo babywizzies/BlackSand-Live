@@ -18,7 +18,7 @@ const ChiaraMoreni = () => {
             <p>Twitter: @ChiaraMoreni</p>
         </div>
         <div className={styles.subcontainer}>
-      <Link href="/acideater">
+      <Link href="/">
         <div className={styles.card}>
           <img className={styles.img} src="/img/ChiaraMoreni/1.png"/>
           <div className={styles.subcard}>
