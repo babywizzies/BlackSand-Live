@@ -10,6 +10,7 @@ import styles from "../../styles/css/main.module.css";
 import useAudio from "../../hooks/useAudio";
 import { HiOutlineArrowRight } from "react-icons/hi";
 import { loadImage } from "../../utils/imageLoader";
+import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 //Hit Areas
 const burnHitArea = new Polygon([
@@ -422,12 +423,71 @@ const BlackSandMap = () => {
             visit the ancient buildings, head to the race track. Start the
             journey to find your !magic
           </p>
-          <button
+
+          <div className={styles.connect__button}>
+            <ConnectButton.Custom>
+              {({
+                account,
+                chain,
+                openAccountModal,
+                openChainModal,
+                openConnectModal,
+                mounted,
+              }) => {
+                // Note: If your app doesn't use authentication, you
+                // can remove all 'authenticationStatus' checks
+                const ready = mounted && "loading";
+                const connected = ready && account && chain && "authenticated";
+
+                return (
+                  <div
+                    {...(!ready && {
+                      "aria-hidden": true,
+                      style: {
+                        opacity: 0,
+                        pointerEvents: "none",
+                        userSelect: "none",
+                      },
+                    })}
+                  >
+                    {(() => {
+                      if (!connected) {
+                        return (
+                          <button
+                          className={styles["map-hero-button"]}
+                            
+                            onClick={openConnectModal}
+                            type="button"
+                          >
+                            Connect Wallet
+                          </button>
+                        );
+                      }
+
+                      if (chain.unsupported) {
+                        return (
+                          <button onClick={openChainModal} type="button">
+                            Wrong network
+                          </button>
+                        );
+                      }
+
+                      return (
+                        <button
             className={styles["map-hero-button"]}
             onClick={() => setEnteredBlackSand(true)}
           >
             Explore <HiOutlineArrowRight color="#000" fontSize="16" />
           </button>
+                      );
+                    })()}
+                  </div>
+                );
+              }}
+            </ConnectButton.Custom>
+          </div>
+
+          
         </div>
       )}
     </div>
