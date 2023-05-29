@@ -1,249 +1,437 @@
-import React, { useRef, useEffect, useState } from "react";
-import Image from "next/image";
-import styles from "styles/css/burn.module.css";
-import Navbar from "../NavBar/NavBar";
-import Footer from "../Footer/Footer";
-import Pony from "styles/img/ponies/ponies1.png";
+import React, { useEffect, useMemo, useState } from "react";
+import { Stage, Sprite, AnimatedSprite } from "@inlet/react-pixi";
+import useIsMounted from "../../hooks/useIsMounted";
+import ViewPort from "./ViewPort";
+import { GlowFilter } from "@pixi/filter-glow";
+import { Polygon } from "pixi.js";
+import { useRouter } from "next/router";
+import { useSpring, animated } from "react-spring";
+import styles from "../../styles/css/main.module.css";
+import useAudio from "../../hooks/useAudio";
+import { HiOutlineArrowRight } from "react-icons/hi";
+import { loadImage } from "../../utils/imageLoader";
 
-const runes = [
-  {
-    id: 1,
-    image: Pony,
-    alt: "Pony 1",
-  },
-  {
-    id: 2,
-    image: Pony,
-    alt: "Pony 2",
-  },
-  {
-    id: 3,
-    image: Pony,
-    alt: "Pony 3",
-  },
-  {
-    id: 4,
-    image: Pony,
-    alt: "Pony 4",
-  },
-  {
-    id: 5,
-    image: Pony,
-    alt: "Pony 5",
-  },
-  {
-    id: 6,
-    image: Pony,
-    alt: "Pony 6",
-  },
-  {
-    id: 7,
-    image: Pony,
-    alt: "Pony 7",
-  },
-  {
-    id: 8,
-    image: Pony,
-    alt: "Pony 8",
-  },
+//Hit Areas
+const burnHitArea = new Polygon([
+  1430, 620, 1800, 620, 1815, 1020, 1420, 1020,
+]);
+const noHitArea = new Polygon([]);
+
+//Glow
+const GLOW_MAX = 2;
+const GLOW_MIN = 1;
+const GOLD_GLOW = {
+  distance: 5,
+  innerStrength: 0,
+  outerStrength: 0,
+  color: 0xfbea71,
+};
+const BLACK_GLOW = {
+  distance: 1,
+  innerStrength: 0,
+  outerStrength: 0,
+  color: 0x000000,
+};
+
+const burnGlowFilter = new GlowFilter(GOLD_GLOW);
+const burnBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+
+const foundryGlowFilter = new GlowFilter(GOLD_GLOW);
+const foundryBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const academyGlowFilter = new GlowFilter(GOLD_GLOW);
+const academyBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const blackStablesGlowFilter = new GlowFilter(GOLD_GLOW);
+const blackStablesBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const marketGlowFilter = new GlowFilter(GOLD_GLOW);
+const marketBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const racetrackGlowFilter = new GlowFilter(GOLD_GLOW);
+const racetrackBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const tavernGlowFilter = new GlowFilter(GOLD_GLOW);
+const tavernBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const templeGlowFilter = new GlowFilter(GOLD_GLOW);
+const templeBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+const shackGlowFilter = new GlowFilter(GOLD_GLOW);
+const shackBlackGlowFilter = new GlowFilter(BLACK_GLOW);
+
+const allFilters = [
+  foundryGlowFilter,
+  foundryBlackGlowFilter,
+  academyBlackGlowFilter,
+  academyGlowFilter,
+  blackStablesBlackGlowFilter,
+  blackStablesGlowFilter,
+  marketBlackGlowFilter,
+  marketGlowFilter,
+  racetrackBlackGlowFilter,
+  racetrackGlowFilter,
+  tavernBlackGlowFilter,
+  tavernGlowFilter,
+  templeBlackGlowFilter,
+  templeGlowFilter,
+  shackGlowFilter,
+  shackBlackGlowFilter,
 ];
 
-const mounts = [
-  {
-    id: 1,
-    image: Pony,
-    alt: "Mecha Pony 1",
-  },
-  {
-    id: 2,
-    image: Pony,
-    alt: "Mecha Pony 2",
-  },
-  {
-    id: 3,
-    image: Pony,
-    alt: "Mecha Pony 3",
-  },
-  {
-    id: 4,
-    image: Pony,
-    alt: "Mecha Pony 4",
-  },
-  {
-    id: 5,
-    image: Pony,
-    alt: "Mecha Pony 5",
-  },
-  {
-    id: 6,
-    image: Pony,
-    alt: "Mecha Pony 6",
-  },
-  {
-    id: 7,
-    image: Pony,
-    alt: "Mecha Pony 7",
-  },
-  {
-    id: 8,
-    image: Pony,
-    alt: "Mecha Pony 8",
-  },
+let glowIncrementing = true;
+let activeFilters: GlowFilter[] = [];
+let imageUrls = [
+  "./img/burn/main_background.gif"
 ];
 
-const Burn = () => {
-  const videoEl = useRef<HTMLVideoElement | null>(null);
+const BlackSandMap = () => {
+  const router = useRouter();
+  const mounted = useIsMounted();
+  const [windowSize, setWindowSize] = useState([
+    typeof window !== "undefined" ? window.innerWidth : 0,
+    typeof window !== "undefined" ? window.innerHeight : 0,
+  ]);
+  const [progressPercent, setProgressPercent] = useState(0);
+  const [hoveredBuilding, setHoveredBuilding] = useState<string | null>(null);
+  const [textSpringProps, textSpringApi] = useSpring(() => ({
+    from: { x: 50, y: 70 },
+  }));
+  const [bottomText, setBottomText] = useState("");
+  const [enteredBlackSand, setEnteredBlackSand] = useState(false);
 
-  const attemptPlay = (): void => {
-    if (videoEl && videoEl.current) {
-      videoEl.current.play().catch((error: Error) => {
-        console.error("Error attempting to play", error);
-      });
-    }
-  };
+  //Audio
+  useAudio("./audio/map/background.mp3", {
+    loop: true,
+    volume: 0.09,
+    autoplay: true,
+  });
+
+  const academyAudio = useAudio("./audio/map/academy.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const stablesAudio = useAudio("./audio/map/stables.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const marketAudio = useAudio("./audio/map/market.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const foundryAudio = useAudio("./audio/map/foundry.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const tavernAudio = useAudio("./audio/map/tavern.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const templeAudio = useAudio("./audio/map/temple.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const racetrackAudio = useAudio("./audio/map/racetrack.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const loreAudio = useAudio("./audio/map/shack.mp3", {
+    loop: true,
+    volume: 0.09,
+  });
+
+  const mouseClick = useAudio("./audio/map/mouse_click.mp3", {
+    volume: 0.09,
+    onEnded: (audio) => {
+      if (audio) {
+        audio.pause();
+        audio.currentTime = 0;
+      }
+    },
+  });
+
+  const allAudio = useMemo(
+    () => [
+      academyAudio,
+      stablesAudio,
+      marketAudio,
+      foundryAudio,
+      tavernAudio,
+      templeAudio,
+      racetrackAudio,
+      loreAudio,
+    ],
+    [
+      academyAudio,
+      stablesAudio,
+      marketAudio,
+      foundryAudio,
+      tavernAudio,
+      templeAudio,
+      racetrackAudio,
+      loreAudio,
+    ]
+  );
 
   useEffect(() => {
-    attemptPlay();
+    const handleWindowResize = () => {
+      setWindowSize([window.innerWidth, window.innerHeight]);
+    };
+
+    window.addEventListener("resize", handleWindowResize);
+
+    return () => {
+      window.removeEventListener("resize", handleWindowResize);
+    };
   }, []);
 
-  const [selectedImages, setSelectedImages] = useState<string[]>([]);
-
-  const handleImageSelection = (image: string) => {
-    if (selectedImages.includes(image)) {
-      setSelectedImages(selectedImages.filter((i) => i !== image));
-    } else {
-      setSelectedImages([...selectedImages, image]);
+  useEffect(() => {
+    let activeAudio: HTMLAudioElement | undefined;
+    switch (hoveredBuilding) {
+      case "foundry": {
+        setBottomText("Foundry");
+        activeAudio = foundryAudio;
+        activeFilters = [foundryBlackGlowFilter, foundryGlowFilter];
+        break;
+      }
+      case "academy": {
+        setBottomText("Academy");
+        activeAudio = academyAudio;
+        activeFilters = [academyBlackGlowFilter, academyGlowFilter];
+        break;
+      }
+      case "blackstables": {
+        setBottomText("Black Stables - Coming soon");
+        activeAudio = stablesAudio;
+        activeFilters = [blackStablesBlackGlowFilter, blackStablesGlowFilter];
+        break;
+      }
+      case "market": {
+        setBottomText("Market");
+        activeAudio = marketAudio;
+        activeFilters = [marketBlackGlowFilter, marketGlowFilter];
+        break;
+      }
+      case "racetrack": {
+        setBottomText("Race Track");
+        activeAudio = racetrackAudio;
+        activeFilters = [racetrackBlackGlowFilter, racetrackGlowFilter];
+        break;
+      }
+      case "tavern": {
+        setBottomText("Tavern - Coming soon");
+        activeAudio = tavernAudio;
+        activeFilters = [tavernBlackGlowFilter, tavernGlowFilter];
+        break;
+      }
+      case "temple": {
+        setBottomText("Temple - Coming soon");
+        activeAudio = templeAudio;
+        activeFilters = [templeBlackGlowFilter, templeGlowFilter];
+        break;
+      }
+      case "shack": {
+        setBottomText("Lore");
+        activeAudio = loreAudio;
+        activeFilters = [shackBlackGlowFilter, shackGlowFilter];
+        break;
+      }
+      //todo lore
+      default: {
+        activeFilters = [];
+        break;
+      }
     }
-  };
 
-  const [selectedImages1, setSelectedImages1] = useState<string[]>([]);
+    allAudio.forEach((audio) => {
+      if (activeAudio !== audio) {
+        const fadeAudio = () => {
+          let timer = null;
+          if (audio && audio.volume > 0.0005) {
+            audio.volume -= 0.0005;
+            timer = setTimeout(fadeAudio, 5);
+          } else if (audio) {
+            audio.pause();
+            audio.currentTime = 0;
+          }
+        };
+        fadeAudio();
+      } else {
+        if (audio) {
+          audio.volume = 0.09;
+          audio?.play();
+        }
+      }
+    });
 
-  const handleImageSelection1 = (image: string) => {
-    if (selectedImages1.includes(image)) {
-      setSelectedImages1(selectedImages1.filter((i) => i !== image));
+    if (hoveredBuilding) {
+      textSpringApi.start({
+        from: {
+          y: 70,
+        },
+        to: { y: -15 },
+      });
     } else {
-      setSelectedImages1([...selectedImages1, image]);
+      textSpringApi.start({
+        from: {
+          y: -15,
+        },
+        to: { y: 70 },
+      });
     }
-  };
+  }, [hoveredBuilding, allAudio]);
+
+  if (!mounted || typeof window === "undefined") {
+    return null;
+  }
 
   return (
-    <>
-      <Navbar />
+    <div style={{ position: "relative", overflow: "hidden", height: 700 }}>
+      {enteredBlackSand ? (
+        <>
+          <Stage
+            width={windowSize[0]}
+            height={700}
+            id="bsMap"
+            onMount={(app) => {
+              let progress = 0;
+              imageUrls.forEach((url) => {
+                loadImage(url).then(() => {
+                  progress += 1;
+                  setProgressPercent(progress);
+                });
+              });
 
-      <audio
-        style={{
-          maxWidth: "100%",
-          width: "150px",
-          borderRadius: "20px",
-          position: "fixed",
-          bottom: "10px",
-          left: "10px",
-        }}
-        playsInline
-        autoPlay
-        loop
-        controls
-        src="https://cdn.discordapp.com/attachments/1070567978896216094/1070568473190735953/BlackSand_MSTR_1_Jan22_2023.wav"
-        ref={videoEl}
-      />
+              app.ticker.add(() => {
+                // Glow
+                if (activeFilters.length > 0) {
+                  const glowFilter = activeFilters[0];
+                  const blackGlowFilter = activeFilters[1];
+                  if (glowFilter.outerStrength < GLOW_MAX && glowIncrementing) {
+                    glowFilter.outerStrength += 0.009;
+                    blackGlowFilter.innerStrength += 0.009;
+                  } else if (glowFilter.outerStrength >= GLOW_MIN) {
+                    glowIncrementing = false;
+                    glowFilter.outerStrength -= 0.009;
+                    blackGlowFilter.innerStrength -= 0.009;
+                  } else {
+                    glowIncrementing = true;
+                  }
+                }
 
-      <div className={styles.container}>
-        <div className={styles.subcontainer}>
-          <h1 className={styles.sub_title}>Temple</h1>
-          <p className={styles.text}>
-            Mecha Ponies can be burned to summon Soul Ponies or Wild Sould
-            Ponies. Each Burning Ritual evokes only one of either kind.
-            Additionally, Scrap Materials* are sometimes found in the process of
-            the Burning Ritual.{" "}
-          </p>
-          <p className={styles.text}>
-            To summon a Soul Pony, you need to have 1 Forgotten Runes Pony in
-            your wallet and burn 2x Mecha Ponies
-          </p>
-          <p className={styles.text}>
-            To summon a Wild Soul Pony, you need to burn 5x Mecha Ponies. Select
-            the tokens you want to burn below, and press the Burn bottom to
-            initiate the Burning Ritual. The Burning Ritual is free + gas fees
-          </p>
-          <div className={styles.owned_container}>
-            <div className={styles.owned_card}>
-              <h1 className={styles.owned_title}>Forgotten Runes Ponies</h1>
-              <div className={styles.owned}>
-                {runes.map(({ id, image, alt }) => (
-                  <Image
-                    key={id}
-                    src={image}
-                    alt={alt}
-                    onClick={() => handleImageSelection(alt)}
-                    style={{
-                      opacity: selectedImages.includes(alt) ? "0.3" : "none",
-                      cursor: "pointer",
-                      borderRadius: "10px",
-                    }}
-                    width={350}
-                    height={350}
-                  />
-                ))}
+                const inactiveFilters = allFilters.filter(
+                  (filter) => !activeFilters.includes(filter)
+                );
+
+                inactiveFilters.forEach((filter) => {
+                  if (filter.outerStrength > 0) {
+                    filter.outerStrength -= 0.009;
+                  }
+                  if (filter.innerStrength > 0) {
+                    filter.innerStrength -= 0.009;
+                  }
+                });
+              });
+            }}
+          >
+            <ViewPort
+              screenWidth={windowSize[0]}
+              screenHeight={700}
+              worldWidth={1400}
+              worldHeight={750}
+            >
+              <AnimatedSprite
+                isPlaying={true}
+                images={[
+                  "./img/burn/main1.png",
+                  "./img/burn/main2.png",
+                  "./img/burn/main3.png",
+                  "./img/burn/main4.png",
+                ]}
+                animationSpeed={0.07}
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={noHitArea}
+                cursor="pointer"
+                width={1400}
+              />
+              <AnimatedSprite
+                isPlaying={true}
+                images={[
+                  "./img/burn/portal1.png",
+                  "./img/burn/portal2.png",
+                  "./img/burn/portal3.png",
+                  "./img/burn/portal4.png",
+                ]}
+                animationSpeed={0.07}
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={burnHitArea}
+                cursor="pointer"
+                width={1400}
+              />
+
+            </ViewPort>
+          </Stage>
+          <animated.div
+            className={styles["map_legend"]}
+            style={{
+              position: "absolute",
+              bottom: 0,
+              left: 0,
+              ...textSpringProps,
+            }}
+          >
+            {bottomText}
+          </animated.div>
+          {progressPercent < imageUrls.length && (
+            <div
+              style={{
+                position: "absolute",
+                inset: 0,
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+                background: "rgba(0,0,0,0.7)",
+                backdropFilter: "blur(4px)",
+              }}
+            >
+              <div
+                style={{
+                  background: "white",
+                  display: "flex",
+                  gap: 10,
+                  borderRadius: 4,
+                  padding: 4,
+                  fontSize: 20,
+                }}
+              >
+                <p>Loading</p>{" "}
+                {Math.floor((progressPercent / imageUrls.length) * 100)}/{100}
               </div>
-              <p className={styles.selected}>
-                Your Selected Mounts:
-                <span
-                  style={{
-                    color: "#8b0000",
-                    marginTop: "5px",
-                    fontWeight: "900",
-                  }}
-                >
-                  {" "}
-                  {selectedImages.length ? selectedImages.join(", ") : "None"}
-                </span>
-              </p>
             </div>
-
-            <div className={styles.owned_card}>
-              <h1 className={styles.owned_title}>BlackSand Mounts</h1>
-              <div className={styles.owned}>
-                {mounts.map(({ id, image, alt }) => (
-                  <Image
-                    key={id}
-                    src={image}
-                    alt={alt}
-                    onClick={() => handleImageSelection1(alt)}
-                    style={{
-                      opacity: selectedImages1.includes(alt) ? "0.3" : "none",
-                      cursor: "pointer",
-                      borderRadius: "10px",
-                    }}
-                    width={350}
-                    height={350}
-                  />
-                ))}
-              </div>
-              <p className={styles.selected}>
-                Your Selected Mounts:
-                <span
-                  style={{
-                    color: "#8b0000",
-                    marginTop: "5px",
-                    fontWeight: "900",
-                  }}
-                >
-                  {" "}
-                  {selectedImages1.length ? selectedImages1.join(", ") : "None"}
-                </span>
-              </p>
-            </div>
-          </div>
+          )}
+        </>
+      ) : (
+        <div className={styles["map-hero"]}>
+          <img src="./img/map/bs_hero_logo.png" width={450} />
+          <p className={styles["map-hero-text"]}>
+            The city that once was is yours again to explore. Walk the streets,
+            visit the ancient buildings, head to the race track. Start the
+            journey to find your !magic
+          </p>
+          <button
+            className={styles["map-hero-button"]}
+            onClick={() => setEnteredBlackSand(true)}
+          >
+            Explore <HiOutlineArrowRight color="#000" fontSize="16" />
+          </button>
         </div>
-
-        <div className={styles.mint_button}>
-          <button>Mint</button>
-        </div>
-      </div>
-
-      <Footer />
-    </>
+      )}
+    </div>
   );
 };
 
-export default Burn;
+export default BlackSandMap;
