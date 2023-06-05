@@ -177,7 +177,7 @@ const BlackSandMap = () => {
   }
 
   return (
-    <div style={{ position: "relative", overflow: "hidden", height: 700 }}>
+    <div style={{ position: "relative", overflow: "hidden", height: 700, width: 1349 }}>
       {enteredBlackSand ? (
         <>
           <Stage
