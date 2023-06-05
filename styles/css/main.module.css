@@ -129,6 +129,14 @@
   color: #fff;
   max-width: 450px;
   text-align: center;
+  margin-top: 20px;
+}
+
+.map-hero-text1 {
+  color: #fff;
+  max-width: 450px;
+  text-align: center;
+  margin-top: 30px;
 }
 
 .map-hero-button {
@@ -145,6 +153,16 @@
 
 .map-hero-button:hover {
   background: rgba(255, 255, 255, 1);
+}
+
+.connect-map-hero-button{
+  font-size: 1.3rem;
+  margin-top: 30px;
+  padding: 10px 20px;
+  background-color: #d4b42c;
+  color: black;
+  font-family: 'Piilani';
+  border-radius: 10px;
 }
 
 @media screen and (max-width: 428px) {
