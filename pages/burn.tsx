@@ -1,6 +1,7 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Burn from "../components/Burn/Burn";
+import dynamic from "next/dynamic";
+const Burn = dynamic(() => import("../components/Burn/Burn"), { ssr: false });
 
 const BurnPage: NextPage = () => {
   return (

@@ -13,9 +13,7 @@ import { loadImage } from "../../utils/imageLoader";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 //Hit Areas
-const burnHitArea = new Polygon([
-  730, 120, 500, 560, 1815, 1020, 1430, 1020,
-]);
+const burnHitArea = new Polygon([730, 120, 500, 560, 1815, 1020, 1430, 1020]);
 
 const noHitArea = new Polygon([]);
 
@@ -38,18 +36,13 @@ const BLACK_GLOW = {
 const burnGlowFilter = new GlowFilter(GOLD_GLOW);
 const burnBlackGlowFilter = new GlowFilter(BLACK_GLOW);
 
-const allFilters = [
-  burnGlowFilter,
-  burnBlackGlowFilter,
-];
+const allFilters = [burnGlowFilter, burnBlackGlowFilter];
 
 let glowIncrementing = true;
 let activeFilters: GlowFilter[] = [];
-let imageUrls = [
-  "./img/burn/main_background.gif"
-];
+let imageUrls = ["./img/burn/main_background.gif"];
 
-const BlackSandMap = () => {
+const Burn = () => {
   const videoEl = useRef<HTMLVideoElement | null>(null);
   const attemptPlay = (): void => {
     if (videoEl && videoEl.current) {
@@ -97,14 +90,7 @@ const BlackSandMap = () => {
     },
   });
 
-  const allAudio = useMemo(
-    () => [
-      academyAudio,
-    ],
-    [
-      academyAudio,
-    ]
-  );
+  const allAudio = useMemo(() => [academyAudio], [academyAudio]);
 
   useEffect(() => {
     const handleWindowResize = () => {
@@ -177,7 +163,14 @@ const BlackSandMap = () => {
   }
 
   return (
-    <div style={{ position: "relative", overflow: "hidden", height: 700, width: 1349 }}>
+    <div
+      style={{
+        position: "relative",
+        overflow: "hidden",
+        height: 700,
+        width: 1349,
+      }}
+    >
       {enteredBlackSand ? (
         <>
           <Stage
@@ -273,7 +266,6 @@ const BlackSandMap = () => {
                 onmouseenter={() => setHoveredBuilding("academy")}
                 onmouseleave={() => setHoveredBuilding(null)}
               />
-
             </ViewPort>
           </Stage>
           <animated.div
@@ -361,7 +353,7 @@ const BlackSandMap = () => {
                       if (!connected) {
                         return (
                           <button
-                          className={styles["connect-map-hero-button"]}
+                            className={styles["connect-map-hero-button"]}
                             onClick={openConnectModal}
                             type="button"
                           >
@@ -380,11 +372,12 @@ const BlackSandMap = () => {
 
                       return (
                         <button
-                        className={styles["connect-map-hero-button"]}
-            onClick={() => setEnteredBlackSand(true)}
-          >
-            Enter The Temple <HiOutlineArrowRight color="#000" fontSize="16" />
-          </button>
+                          className={styles["connect-map-hero-button"]}
+                          onClick={() => setEnteredBlackSand(true)}
+                        >
+                          Enter The Temple{" "}
+                          <HiOutlineArrowRight color="#000" fontSize="16" />
+                        </button>
                       );
                     })()}
                   </div>
@@ -392,12 +385,10 @@ const BlackSandMap = () => {
               }}
             </ConnectButton.Custom>
           </div>
-
-          
         </div>
       )}
     </div>
   );
 };
 
-export default BlackSandMap;
+export default Burn;
