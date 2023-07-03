@@ -1,9 +1,9 @@
 import React, { useEffect, useMemo, useState, useRef } from "react";
-import { Stage, Sprite, AnimatedSprite } from "@inlet/react-pixi";
+import { Stage, Sprite, AnimatedSprite, Text } from "@inlet/react-pixi";
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
 import { GlowFilter } from "@pixi/filter-glow";
-import { Polygon } from "pixi.js";
+import { Polygon, TextStyle } from "pixi.js";
 import { useRouter } from "next/router";
 import { useSpring, animated } from "react-spring";
 import styles from "../../styles/css/main.module.css";
@@ -14,8 +14,16 @@ import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 //Hit Areas
 const burnHitArea = new Polygon([730, 120, 500, 560, 1815, 1020, 1430, 1020]);
-
 const noHitArea = new Polygon([]);
+
+//For Text
+const textStyle = new TextStyle({
+  align: "center",
+  fontWeight: "bold",
+  fill: ["#ffffff"],
+  wordWrap: false,
+  wordWrapWidth: 350
+})
 
 //Glow
 const GLOW_MAX = 2;
@@ -40,7 +48,7 @@ const allFilters = [burnGlowFilter, burnBlackGlowFilter];
 
 let glowIncrementing = true;
 let activeFilters: GlowFilter[] = [];
-let imageUrls = ["./img/burn/main_background.gif"];
+let imageUrls = ["./img/burn/scroll.png"];
 
 const Burn = () => {
   const videoEl = useRef<HTMLVideoElement | null>(null);
@@ -67,6 +75,7 @@ const Burn = () => {
   }));
   const [bottomText, setBottomText] = useState("");
   const [enteredBlackSand, setEnteredBlackSand] = useState(false);
+  const [enteredCave, setEnteredCave] = useState(false);
 
   //Audio
   useAudio("./audio/map/background.mp3", {
@@ -169,8 +178,7 @@ const Burn = () => {
         overflow: "hidden",
         height: 700,
         width: 1349,
-      }}
-    >
+      }}>
       {enteredBlackSand ? (
         <>
           <Stage
@@ -185,7 +193,6 @@ const Burn = () => {
                   setProgressPercent(progress);
                 });
               });
-
               app.ticker.add(() => {
                 // Glow
                 if (activeFilters.length > 0) {
@@ -223,7 +230,24 @@ const Burn = () => {
               screenHeight={700}
               worldWidth={1400}
               worldHeight={750}
-            >
+            > 
+              <Sprite
+                interactive={true}
+                image="./img/burn/scroll.png"
+                hitArea={burnHitArea}
+                cursor="pointer"
+                x={0}
+                y={0}
+                width={1400}
+                height={700}
+                onclick={(e) => setEnteredCave(true)}
+                ontouchend={() => setEnteredCave(true)}
+                onmouseenter={() => setHoveredBuilding("academy")}
+                onmouseleave={() => setHoveredBuilding(null)}
+              />
+             </ViewPort>
+             {enteredCave ? (
+        <>
               <AnimatedSprite
                 isPlaying={true}
                 images={[
@@ -238,7 +262,7 @@ const Burn = () => {
                 interactive={false}
                 hitArea={noHitArea}
                 cursor="pointer"
-                width={1400}
+                width={1349}
               />
               <AnimatedSprite
                 interactive={true}
@@ -254,7 +278,7 @@ const Burn = () => {
                 y={0}
                 hitArea={burnHitArea}
                 cursor="pointer"
-                width={1400}
+                width={1349}
                 onclick={(e) => {
                   mouseClick?.play();
                   router.push("/mint", undefined, { shallow: true });
@@ -266,7 +290,18 @@ const Burn = () => {
                 onmouseenter={() => setHoveredBuilding("academy")}
                 onmouseleave={() => setHoveredBuilding(null)}
               />
-            </ViewPort>
+        </>
+      ) : (
+          <Text text="Next"
+                interactive={true}
+                cursor="pointer"
+                x={1100}
+                y={490}
+                onclick={(e) => setEnteredCave(true)}
+                ontouchend={() => setEnteredCave(true)}
+                style={textStyle}/>
+          )}
+            
           </Stage>
           <animated.div
             className={styles["map_legend"]}
@@ -306,6 +341,7 @@ const Burn = () => {
               </div>
             </div>
           )}
+          
         </>
       ) : (
         <div className={styles["map-hero"]}>
