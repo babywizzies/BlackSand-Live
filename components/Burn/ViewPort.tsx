@@ -55,9 +55,9 @@ const PixiComponentViewport = PixiComponent("Viewport", {
     });
 
     viewport
-      .drag()
-      .pinch()
-      .wheel()
+      //.drag()
+      //.pinch()
+      //.wheel()
       .clamp({ direction: "all" })
       .clampZoom({
         minScale: 1,
