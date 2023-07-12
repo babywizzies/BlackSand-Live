@@ -7,7 +7,7 @@ type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
 let canvasHeight = 600;
-let lapPoints = 80;
+let lapPoints = 200;
 let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
@@ -22,10 +22,7 @@ const bgFrameRate = 5;
 
 function preload(p5: p5) {
   background = [
-    p5.loadImage("./img/race-track-map/rgt_map_03_frame1.png"),
-    p5.loadImage("./img/race-track-map/rgt_map_03_frame2.png"),
-    p5.loadImage("./img/race-track-map/rgt_map_03_frame3.png"),
-    p5.loadImage("./img/race-track-map/rgt_map_03_frame4.png"),
+    p5.loadImage("./img/race-track-map/mountainrange.png")
   ];
 
   if (!images.length) {
@@ -54,18 +51,18 @@ function draw(p5: p5, participants: Participants) {
   p5.clear(0, 0, 0, 0);
   p5.randomSeed(seed);
   p5.noiseSeed(seed);
-  // p5.image(background[bgFrameIndex], 0, 0, canvasWidth, canvasHeight);
+  p5.image(background[bgFrameIndex], 0, 0, canvasWidth, canvasHeight);
   // if (p5.frameCount % bgFrameRate === 0) {
   //   bgFrameIndex = bgFrameIndex >= 3 ? 0 : bgFrameIndex + 1;
   // }
 
   //let track = createGrandTourTrack(p5);
-  let track = createRaceTrack(p5, 7);
+  let track = createGrandTourTrack(p5);
   let desiredTrackWidth = 30; // Set the desired track width here
   let desiredTrackColor = 0; // Set the desired track color here
   drawRaceTrack(track, desiredTrackWidth + 8, p5.color(251, 234, 113, 80), p5);
   drawRaceTrack(track, desiredTrackWidth, p5.color(desiredTrackColor, 120), p5);
-  drawStartingArc(track, p5);
+  //drawStartingArc(track, p5);
   drawParticipants(track, participants, p5);
 }
 
@@ -122,19 +119,22 @@ function createRaceTrack(p5: p5, numPoints: number) {
 
 function createGrandTourTrack(p5: p5) {
   let points = [];
-  points.push(p5.createVector(550, 230));
-  points.push(p5.createVector(450, 350));
-  points.push(p5.createVector(380, 350));
-  points.push(p5.createVector(320, 400));
-  points.push(p5.createVector(350, 450));
-  points.push(p5.createVector(380, 500));
-  points.push(p5.createVector(410, 580));
-  points.push(p5.createVector(500, 550));
-  points.push(p5.createVector(620, 580));
-  points.push(p5.createVector(620, 500));
-  points.push(p5.createVector(700, 350));
-  points.push(p5.createVector(800, 280));
-  points.push(p5.createVector(650, 250));
+  points.push(p5.createVector(380, 100));
+  points.push(p5.createVector(60, 230));
+  points.push(p5.createVector(80, 300));
+  points.push(p5.createVector(300, 250));
+  points.push(p5.createVector(500, 330));
+  points.push(p5.createVector(800, 400));
+  points.push(p5.createVector(900, 420));
+  points.push(p5.createVector(900, 370));
+  points.push(p5.createVector(800, 320));
+  points.push(p5.createVector(600, 290));
+  points.push(p5.createVector(500, 200));
+  points.push(p5.createVector(660, 150));
+  points.push(p5.createVector(690, 100));
+  points.push(p5.createVector(750, 80));
+  points.push(p5.createVector(750, 80));
+
   return points;
 }
 
@@ -167,20 +167,21 @@ function drawRaceTrack(
   trackColor: p5.Color,
   p5: p5
 ) {
+  p5.push();
   p5.stroke(trackColor);
   p5.strokeWeight(trackWidth);
   p5.noFill();
 
   p5.beginShape();
+  p5.curveVertex(track[0].x, track[0].y);
+
   for (let i = 0; i < track.length; i++) {
     let p = track[i];
     p5.curveVertex(p.x, p.y);
   }
-  // Repeat the first three points to close the loop smoothly
-  p5.curveVertex(track[0].x, track[0].y);
-  p5.curveVertex(track[1].x, track[1].y);
-  p5.curveVertex(track[2].x, track[2].y);
+
   p5.endShape();
+  p5.pop();
 }
 
 function createParticipants(results: any) {
@@ -232,7 +233,7 @@ function drawParticipants(
     let laps = Math.floor(score / lapPoints); // One lap is 30 points
     let normalizedScore = score;
     if (score < 0) {
-      normalizedScore = lapPoints + score;
+      normalizedScore = 0;
     }
     let position = p5.lerp(
       0,
@@ -255,6 +256,7 @@ function drawParticipants(
 
     p5.push();
     p5.fill(30, 30, 30);
+    p5.strokeWeight(5);
     p5.ellipse(randomX, randomY, 10);
     p5.pop();
 
