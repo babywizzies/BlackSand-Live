@@ -22,7 +22,7 @@ const bgFrameRate = 5;
 
 function preload(p5: p5) {
   background = [
-    p5.loadImage("./img/race-track-map/mountainrange.png")
+    p5.loadImage("./img/race-track-map/mountainrangenamed.png")
   ];
 
   if (!images.length) {
