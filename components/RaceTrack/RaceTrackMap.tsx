@@ -7,7 +7,7 @@ type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
 let canvasHeight = 600;
-let lapPoints = 200;
+let lapPoints = 800;
 let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
