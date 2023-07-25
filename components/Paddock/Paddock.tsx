@@ -475,15 +475,7 @@ const Paddock = () => {
                         return;
                       }
 
-                      const results = discordHandle.match(/(?!\s).+#\d{4}/i);
-                      const sanitzedHandle =
-                        results && results[0] ? results[0] : null;
-
-                      if (!sanitzedHandle) {
-                        setErrorText("Discord handle is invalid");
-                        setRegistering(false);
-                        return;
-                      }
+                    
 
                       const signature = await signMessageAsync({
                         message: "Register for BlackSand Race",
@@ -495,7 +487,7 @@ const Paddock = () => {
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
-                          discord_handle: sanitzedHandle,
+                          discord_handle: discordHandle,
                           treats: selectedItems.map((item) => item.id),
                           signature,
                         }
