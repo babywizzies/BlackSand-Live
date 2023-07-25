@@ -1,56 +1,27 @@
-import React, { useEffect, useMemo, useState, useRef } from "react";
-import { Stage, Sprite, AnimatedSprite, Text } from "@inlet/react-pixi";
+import React, { useEffect, useState, useRef } from "react";
+import { Stage, AnimatedSprite } from "@inlet/react-pixi";
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
-import { GlowFilter } from "@pixi/filter-glow";
-import { Polygon, TextStyle } from "pixi.js";
-import { useRouter } from "next/router";
-import { useSpring, animated } from "react-spring";
-import styles from "../../styles/css/main.module.css";
-import useAudio from "../../hooks/useAudio";
+import styles from "../../styles/css/burn.module.css";
 import { HiOutlineArrowRight } from "react-icons/hi";
-import { loadImage } from "../../utils/imageLoader";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
+import { Polygon } from "pixi.js";
+import CharacterSelect from "./CharacterSelect";
+import { useUserTokens } from "@reservoir0x/reservoir-kit-ui";
+import { useAccount } from "wagmi";
 
-//Hit Areas
-const burnHitArea = new Polygon([730, 120, 500, 560, 1815, 1020, 1430, 1020]);
 const noHitArea = new Polygon([]);
 
-//For Text
-const textStyle = new TextStyle({
-  align: "center",
-  fontWeight: "bold",
-  fill: ["#ffffff"],
-  wordWrap: false,
-  wordWrapWidth: 350
-})
-
-//Glow
-const GLOW_MAX = 2;
-const GLOW_MIN = 1;
-const GOLD_GLOW = {
-  distance: 5,
-  innerStrength: 0,
-  outerStrength: 0,
-  color: 0xfbea71,
-};
-const BLACK_GLOW = {
-  distance: 1,
-  innerStrength: 0,
-  outerStrength: 0,
-  color: 0x000000,
-};
-
-const burnGlowFilter = new GlowFilter(GOLD_GLOW);
-const burnBlackGlowFilter = new GlowFilter(BLACK_GLOW);
-
-const allFilters = [burnGlowFilter, burnBlackGlowFilter];
-
-let glowIncrementing = true;
-let activeFilters: GlowFilter[] = [];
-let imageUrls = ["./img/burn/scroll.png"];
+enum BurnScreen {
+  Start,
+  CharacterSelection,
+  Lore,
+  Confirmation,
+  Portal,
+}
 
 const Burn = () => {
+  const { address: accountAddress } = useAccount();
   const videoEl = useRef<HTMLVideoElement | null>(null);
   const attemptPlay = (): void => {
     if (videoEl && videoEl.current) {
@@ -62,44 +33,12 @@ const Burn = () => {
   useEffect(() => {
     attemptPlay();
   }, []);
-  const router = useRouter();
   const mounted = useIsMounted();
   const [windowSize, setWindowSize] = useState([
     typeof window !== "undefined" ? window.innerWidth : 0,
     typeof window !== "undefined" ? window.innerHeight : 0,
   ]);
-  const [progressPercent, setProgressPercent] = useState(0);
-  const [hoveredBuilding, setHoveredBuilding] = useState<string | null>(null);
-  const [textSpringProps, textSpringApi] = useSpring(() => ({
-    from: { x: 50, y: 70 },
-  }));
-  const [bottomText, setBottomText] = useState("");
-  const [enteredBlackSand, setEnteredBlackSand] = useState(false);
-  const [enteredCave, setEnteredCave] = useState(false);
-
-  //Audio
-  useAudio("./audio/map/background.mp3", {
-    loop: true,
-    volume: 0.09,
-    autoplay: true,
-  });
-
-  const academyAudio = useAudio("./audio/map/academy.mp3", {
-    loop: true,
-    volume: 0.09,
-  });
-
-  const mouseClick = useAudio("./audio/map/mouse_click.mp3", {
-    volume: 0.09,
-    onEnded: (audio) => {
-      if (audio) {
-        audio.pause();
-        audio.currentTime = 0;
-      }
-    },
-  });
-
-  const allAudio = useMemo(() => [academyAudio], [academyAudio]);
+  const [burnScreen, setBurnScreen] = useState<BurnScreen>(BurnScreen.Start);
 
   useEffect(() => {
     const handleWindowResize = () => {
@@ -113,59 +52,7 @@ const Burn = () => {
     };
   }, []);
 
-  useEffect(() => {
-    let activeAudio: HTMLAudioElement | undefined;
-    switch (hoveredBuilding) {
-      case "burn": {
-        setBottomText("Burn");
-        activeAudio = academyAudio;
-        activeFilters = [burnBlackGlowFilter, burnGlowFilter];
-        break;
-      }
-      //todo lore
-      default: {
-        activeFilters = [];
-        break;
-      }
-    }
-
-    allAudio.forEach((audio) => {
-      if (activeAudio !== audio) {
-        const fadeAudio = () => {
-          let timer = null;
-          if (audio && audio.volume > 0.0005) {
-            audio.volume -= 0.0005;
-            timer = setTimeout(fadeAudio, 5);
-          } else if (audio) {
-            audio.pause();
-            audio.currentTime = 0;
-          }
-        };
-        fadeAudio();
-      } else {
-        if (audio) {
-          audio.volume = 0.09;
-          audio?.play();
-        }
-      }
-    });
-
-    if (hoveredBuilding) {
-      textSpringApi.start({
-        from: {
-          y: 70,
-        },
-        to: { y: -15 },
-      });
-    } else {
-      textSpringApi.start({
-        from: {
-          y: -15,
-        },
-        to: { y: 70 },
-      });
-    }
-  }, [hoveredBuilding, allAudio]);
+  const { data: tokens } = useUserTokens(accountAddress);
 
   if (!mounted || typeof window === "undefined") {
     return null;
@@ -177,174 +64,11 @@ const Burn = () => {
         position: "relative",
         overflow: "hidden",
         height: 700,
-        width: 1349,
-      }}>
-      {enteredBlackSand ? (
-        <>
-          <Stage
-            width={windowSize[0]}
-            height={700}
-            id="bsMap"
-            onMount={(app) => {
-              let progress = 0;
-              imageUrls.forEach((url) => {
-                loadImage(url).then(() => {
-                  progress += 1;
-                  setProgressPercent(progress);
-                });
-              });
-              app.ticker.add(() => {
-                // Glow
-                if (activeFilters.length > 0) {
-                  const glowFilter = activeFilters[0];
-                  const blackGlowFilter = activeFilters[1];
-                  if (glowFilter.outerStrength < GLOW_MAX && glowIncrementing) {
-                    glowFilter.outerStrength += 0.009;
-                    blackGlowFilter.innerStrength += 0.009;
-                  } else if (glowFilter.outerStrength >= GLOW_MIN) {
-                    glowIncrementing = false;
-                    glowFilter.outerStrength -= 0.009;
-                    blackGlowFilter.innerStrength -= 0.009;
-                  } else {
-                    glowIncrementing = true;
-                  }
-                }
-
-                const inactiveFilters = allFilters.filter(
-                  (filter) => !activeFilters.includes(filter)
-                );
-
-                inactiveFilters.forEach((filter) => {
-                  if (filter.outerStrength > 0) {
-                    filter.outerStrength -= 0.009;
-                  }
-                  if (filter.innerStrength > 0) {
-                    filter.innerStrength -= 0.009;
-                  }
-                });
-              });
-            }}
-          >
-            <ViewPort
-              screenWidth={windowSize[0]}
-              screenHeight={700}
-              worldWidth={1400}
-              worldHeight={750}
-            > 
-              <Sprite
-                interactive={true}
-                image="./img/burn/scroll.png"
-                hitArea={burnHitArea}
-                cursor="pointer"
-                x={0}
-                y={0}
-                width={1400}
-                height={700}
-                onclick={(e) => setEnteredCave(true)}
-                ontouchend={() => setEnteredCave(true)}
-                onmouseenter={() => setHoveredBuilding("academy")}
-                onmouseleave={() => setHoveredBuilding(null)}
-              />
-             </ViewPort>
-             {enteredCave ? (
-        <>
-              <AnimatedSprite
-                isPlaying={true}
-                images={[
-                  "./img/burn/main1.png",
-                  "./img/burn/main2.png",
-                  "./img/burn/main3.png",
-                  "./img/burn/main4.png",
-                ]}
-                animationSpeed={0.07}
-                x={0}
-                y={0}
-                interactive={false}
-                hitArea={noHitArea}
-                cursor="pointer"
-                width={1349}
-              />
-              <AnimatedSprite
-                interactive={true}
-                isPlaying={true}
-                images={[
-                  "./img/burn/portal1.png",
-                  "./img/burn/portal2.png",
-                  "./img/burn/portal3.png",
-                  "./img/burn/portal4.png",
-                ]}
-                animationSpeed={0.07}
-                x={0}
-                y={0}
-                hitArea={burnHitArea}
-                cursor="pointer"
-                width={1349}
-                onclick={(e) => {
-                  mouseClick?.play();
-                  router.push("/mint", undefined, { shallow: true });
-                }}
-                ontouchend={() => {
-                  mouseClick?.play();
-                  router.push("/mint", undefined, { shallow: true });
-                }}
-                onmouseenter={() => setHoveredBuilding("academy")}
-                onmouseleave={() => setHoveredBuilding(null)}
-              />
-        </>
-      ) : (
-          <Text text="Next"
-                interactive={true}
-                cursor="pointer"
-                x={1100}
-                y={490}
-                onclick={(e) => setEnteredCave(true)}
-                ontouchend={() => setEnteredCave(true)}
-                style={textStyle}/>
-          )}
-            
-          </Stage>
-          <animated.div
-            className={styles["map_legend"]}
-            style={{
-              position: "absolute",
-              bottom: 0,
-              left: 0,
-              ...textSpringProps,
-            }}
-          >
-            {bottomText}
-          </animated.div>
-          {progressPercent < imageUrls.length && (
-            <div
-              style={{
-                position: "absolute",
-                inset: 0,
-                display: "flex",
-                justifyContent: "center",
-                alignItems: "center",
-                background: "rgba(0,0,0,0.7)",
-                backdropFilter: "blur(4px)",
-              }}
-            >
-              <div
-                style={{
-                  background: "white",
-                  display: "flex",
-                  gap: 10,
-                  borderRadius: 4,
-                  padding: 4,
-                  fontSize: 20,
-                }}
-              >
-                <p>Loading</p>{" "}
-                {Math.floor((progressPercent / imageUrls.length) * 100)}/{100}
-              </div>
-            </div>
-          )}
-          
-        </>
-      ) : (
-        <div className={styles["map-hero"]}>
+        width: "100%",
+      }}
+    >
+      {burnScreen === BurnScreen.Start && (
+        <div className={styles["video-hero"]}>
           <video
             style={{ maxWidth: "100%", width: "1000px" }}
             playsInline
@@ -355,22 +79,16 @@ const Burn = () => {
           >
             <source src="/video/burn_video.mp4" type="video/mp4" />
           </video>
-          <p className={styles["map-hero-text1"]}>
-            The city that once was is yours again to explore.
-          </p>
 
-          <div className={styles.connect__button}>
+          <div>
             <ConnectButton.Custom>
               {({
                 account,
                 chain,
-                openAccountModal,
                 openChainModal,
                 openConnectModal,
                 mounted,
               }) => {
-                // Note: If your app doesn't use authentication, you
-                // can remove all 'authenticationStatus' checks
                 const ready = mounted && "loading";
                 const connected = ready && account && chain && "authenticated";
 
@@ -389,7 +107,7 @@ const Burn = () => {
                       if (!connected) {
                         return (
                           <button
-                            className={styles["connect-map-hero-button"]}
+                            className={styles["connect-button"]}
                             onClick={openConnectModal}
                             type="button"
                           >
@@ -400,16 +118,22 @@ const Burn = () => {
 
                       if (chain.unsupported) {
                         return (
-                          <button onClick={openChainModal} type="button">
-                            Wrong network
+                          <button
+                            className={styles["connect-button"]}
+                            onClick={openChainModal}
+                            type="button"
+                          >
+                            Switch Networks
                           </button>
                         );
                       }
 
                       return (
                         <button
-                          className={styles["connect-map-hero-button"]}
-                          onClick={() => setEnteredBlackSand(true)}
+                          className={styles["connect-button"]}
+                          onClick={() =>
+                            setBurnScreen(BurnScreen.CharacterSelection)
+                          }
                         >
                           Enter The Temple{" "}
                           <HiOutlineArrowRight color="#000" fontSize="16" />
@@ -422,6 +146,71 @@ const Burn = () => {
             </ConnectButton.Custom>
           </div>
         </div>
+      )}
+      {burnScreen === BurnScreen.CharacterSelection && (
+        <div>
+          <h2 className={styles.title}>Choose your Adventurer</h2>
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              gap: 20,
+              margin: "20px 60px",
+              flexWrap: "wrap",
+              overflowY: "auto",
+              height: 600,
+            }}
+          >
+            {tokens.map((token, i) => (
+              <CharacterSelect id={token?.token?.tokenId as string} key={i} />
+            ))}
+          </div>
+        </div>
+      )}
+      {burnScreen === BurnScreen.Portal && (
+        <>
+          <Stage width={windowSize[0]} height={700} id="burnStage">
+            <ViewPort
+              screenWidth={windowSize[0]}
+              screenHeight={700}
+              worldWidth={1400}
+              worldHeight={750}
+            >
+              <AnimatedSprite
+                isPlaying={true}
+                images={[
+                  "./img/burn/main1.png",
+                  "./img/burn/main2.png",
+                  "./img/burn/main3.png",
+                  "./img/burn/main4.png",
+                ]}
+                animationSpeed={0.07}
+                x={0}
+                y={0}
+                interactive={false}
+                hitArea={noHitArea}
+                cursor="pointer"
+                width={1400}
+              />
+              <AnimatedSprite
+                interactive={true}
+                isPlaying={true}
+                images={[
+                  "./img/burn/portal1.png",
+                  "./img/burn/portal2.png",
+                  "./img/burn/portal3.png",
+                  "./img/burn/portal4.png",
+                ]}
+                animationSpeed={0.07}
+                x={0}
+                y={0}
+                hitArea={noHitArea}
+                cursor="pointer"
+                width={1400}
+              />
+            </ViewPort>
+          </Stage>
+        </>
       )}
     </div>
   );

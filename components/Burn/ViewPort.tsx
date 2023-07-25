@@ -32,7 +32,7 @@ const PixiComponentViewport = PixiComponent("Viewport", {
       "wheel",
       (e) => {
         const target = e.target as Element;
-        if (target && target.id === "bsMap") {
+        if (target && target.id === "burnStage") {
           e?.preventDefault();
           e?.stopPropagation();
         }
