@@ -61,6 +61,15 @@ const Navbar = () => {
               setNavActive(false);
             }}
           >
+            <Link href="/racetrack" className={styles.nav__item}>
+              Racetrack
+            </Link>
+          </div>
+          <div
+            onClick={() => {
+              setNavActive(false);
+            }}
+          >
             <Link href="/paddock" className={styles.nav__item}>
               Paddock
             </Link>
