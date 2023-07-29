@@ -5,15 +5,9 @@ import "react-tooltip/dist/react-tooltip.css";
 import type { AppProps } from "next/app";
 import { RainbowKitProvider, getDefaultWallets } from "@rainbow-me/rainbowkit";
 import { configureChains, createClient, WagmiConfig } from "wagmi";
+import { ActorContextProvider } from "../components/actorContext";
 
-import {
-  mainnet,
-  polygon,
-  optimism,
-  arbitrum,
-  goerli,
-  sepolia,
-} from "wagmi/chains";
+import { mainnet, goerli } from "wagmi/chains";
 
 import { alchemyProvider } from "wagmi/providers/alchemy";
 import { publicProvider } from "wagmi/providers/public";
@@ -30,8 +24,6 @@ const HOST = process.env.NEXT_PUBLIC_HOST || "https://blacksand.city";
 const { chains, provider, webSocketProvider } = configureChains(
   [
     mainnet,
-    polygon,
-    sepolia,
     ...(process.env.NEXT_PUBLIC_ENABLE_TESTNETS === "true" ? [goerli] : []),
   ],
   [
@@ -67,44 +59,46 @@ function MyApp({ Component, pageProps }: AppProps) {
   }, []);
 
   return (
-    <SWRConfig
-      value={{
-        fetcher: (resource, init) =>
-          fetch(resource, init).then((res) => res.json()),
-      }}
-    >
-      <WagmiConfig client={wagmiClient}>
-        <RainbowKitProvider chains={chains}>
-          <ReservoirKitProvider
-            options={{
-              chains: [
-                {
-                  id: 1,
-                  baseApiUrl: `${HOST}/api/reservoir`,
-                  default: true,
-                },
-              ],
-            }}
-          >
-            <NavBar />
-            <AudioContext.Provider
-              value={{
-                audioEnabled,
-                setAudioEnabled: (enabled: number) => {
-                  setAudioEnabled(enabled);
-                },
+    <ActorContextProvider>
+      <SWRConfig
+        value={{
+          fetcher: (resource, init) =>
+            fetch(resource, init).then((res) => res.json()),
+        }}
+      >
+        <WagmiConfig client={wagmiClient}>
+          <RainbowKitProvider chains={chains}>
+            <ReservoirKitProvider
+              options={{
+                chains: [
+                  {
+                    id: 1,
+                    baseApiUrl: `${HOST}/api/reservoir`,
+                    default: true,
+                  },
+                ],
               }}
             >
-              <>
-                <Component {...pageProps} />
-                <AudioControl />
-              </>
-            </AudioContext.Provider>
-          </ReservoirKitProvider>
-          <Footer />
-        </RainbowKitProvider>
-      </WagmiConfig>
-    </SWRConfig>
+              <NavBar />
+              <AudioContext.Provider
+                value={{
+                  audioEnabled,
+                  setAudioEnabled: (enabled: number) => {
+                    setAudioEnabled(enabled);
+                  },
+                }}
+              >
+                <>
+                  <Component {...pageProps} />
+                  <AudioControl />
+                </>
+              </AudioContext.Provider>
+            </ReservoirKitProvider>
+            <Footer />
+          </RainbowKitProvider>
+        </WagmiConfig>
+      </SWRConfig>
+    </ActorContextProvider>
   );
 }
 

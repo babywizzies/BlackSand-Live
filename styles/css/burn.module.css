@@ -1,9 +1,30 @@
-.container{
-    width: 90%;
-    margin: 0 auto;
+.video-hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
 }
 
-.subcontainer{
+.connect-button{
+    font-size: 1.3rem;
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: #d4b42c;
+    color: black;
+    font-family: 'Piilani';
+    border-radius: 10px;
+}
+
+.title {
+    font-family: 'Origen';
+    font-size: clamp(3rem, 4.5771rem + 1.581vw, 4rem);
+    background: -webkit-linear-gradient(#fbea71, #d4b42c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    line-height: 110px;
+    margin-bottom: 40px;
 }
 
 .text{
@@ -16,83 +37,4 @@
     text-align: center;
 }
 
-.sub_title{
-    font-weight: 900;
-    font-size: clamp(2rem, 1.207rem + 2.9644vw, 3.875rem);
-    text-align: center;
-    margin: 0;
-}
-
-.owned_container{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 100px;
-    margin-top: 40px;
-}
-
-.owned_card{
-}
-
-.owned_title{
-    font-weight: 800;
-    text-align: center;
-}
-
-.owned{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 20px;
-}
-
-.mint_button{
-    display: grid;
-    place-items: center;
-    margin-top: 30px;
-}
-
-.selected{
-    margin: 0 auto;
-    font-size: clamp(1rem, 0.8414rem + 0.5929vw, 1.375rem);
-    font-weight: 700;
-    margin-top: 30px;
-    text-align: center;
-    width: 80%;
-}
-
-@media screen and (max-width: 992px) {
-
-}
-
-
-@media screen and (max-width: 768px){
-    .owned{
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 10px;
-        width: 90%;
-    }
-
-}
-  
-
-@media screen and (max-width: 576px) {
-    .owned{
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 10px;
-        width: 90%;
-    }
-}
-
-
-@media screen and (max-width: 428px) {
-    .owned{
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 10px;
-        width: 90%;
-        margin: 0 auto;
-        margin-top: 40px;
-    }
-}
 

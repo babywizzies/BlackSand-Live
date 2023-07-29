@@ -12,13 +12,13 @@ const AcidEater = () => {
                 <span>@_acideater_</span>  
             </div>
         </header>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        {/*<p></p>*/}
         <div className={styles.social}>
             <p>Website: https://acideater.com</p>
             <p>Twitter: @_acideater_</p>
         </div>
         <div className={styles.subcontainer}>
-      <Link href="/acideater">
+      <Link href="/">
         <div className={styles.card}>
           <img className={styles.img} src="/img/AcidEater/2.png"/>
           <div className={styles.subcard}>

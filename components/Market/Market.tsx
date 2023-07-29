@@ -32,36 +32,66 @@ const Market = () => {
           <span>3 Sample</span>
         </div>
       </Link>
+      <Link href="/tadmajor">
         <div className={styles.card}>
-          <img className={styles.img} src="/img/2.jpg"/>
-          <img className={styles.avatar} src="/img/marcofine.jpg"/>
-          <h1>Marcofine</h1>
-          <p>@marcofine_</p>
+          <img className={styles.img} src="/img/TadMajor/2.gif"/>
+          <img className={styles.avatar} src="/img/tad.jpg"/>
+          <h1>Tad</h1>
+          <p>@Tadmajor</p>
           <br/>
           <p className={styles.position}>Visiting Artist</p>
           <br/>
           <span>3 Sample</span>
         </div>
+      </Link>
+      <Link href="/marcofine">
         <div className={styles.card}>
-        <img className={styles.img} src="/img/2.jpg"/>
-          <img className={styles.avatar} src="/img/ozzz.jpg"/>
-          <h1>Ozzz</h1>
-          <p>@ozzzmabro</p>
+          <img className={styles.img} src="/img/MarcoFine/1.png"/>
+          <img className={styles.avatar} src="/img/marcofine.jpg"/>
+          <h1>MarcoFine</h1>
+          <p>@marcofine_</p>
+          <br/>
+          <p className={styles.position}>Visiting Artist</p>
+          <br/>
+          <span>1 Sample</span>
+        </div>
+      </Link>
+      <Link href="/leifdojang">
+        <div className={styles.card}>
+        <img className={styles.img} src="/img/LeifDojang/leif.png"/>
+          <img className={styles.avatar} src="/img/leif.jpg"/>
+          <h1>Leif Dojang</h1>
+          <p>@LDojangMusic</p>
+          <br/>
+          <p className={styles.position}>Bard</p>
+          <br/>
+          <span>2 Sample</span>
+        </div>
+      </Link>
+      <Link href="/daniela">
+        <div className={styles.card}>
+        <img className={styles.img} src="/img/Daniela/medium.jpeg"/>
+          <img className={styles.avatar} src="/img/daniela.jpg"/>
+          <h1>Daniela</h1>
+          <p>@Daniela_ilustra</p>
           <br/>
           <p className={styles.position}>One-of-One Artist</p>
           <br/>
-          <span>3 Sample</span>
+          <span>1 Sample</span>
         </div>
+      </Link>
+      <Link href="/chiaramoreni">
         <div className={styles.card}>
-        <img className={styles.img} src="/img/2.jpg"/>
-          <img className={styles.avatar} src="/img/tania.jpg"/>
-          <h1>Tania del Rio</h1>
-          <p>@taniadelrio</p>
+        <img className={styles.img} src="/img/ChiaraMoreni/1.png"/>
+          <img className={styles.avatar} src="/img/chiara.jpg"/>
+          <h1>Chiara Moreni</h1>
+          <p>@ChiaraMoreni</p>
           <br/>
-          <p className={styles.position}>Illustration Artist and One-of-One Artist</p>
+          <p className={styles.position}>One-of-One Artist</p>
           <br/>
-          <span>3 Sample</span>
+          <span>1 Sample</span>
         </div>
+      </Link>
      </div>
     </>
   );
