@@ -12,9 +12,10 @@ export default function Actor() {
   const { actorAvatar, setActorAvatar } = useContext(ActorContext)
   const { loadingAvatars } = useContext(ActorContext)
 
-  const { fbwoContract, hocContract, setActorNfts } = useContext(ActorContext)
+  const { fbwoContract, hocContract, blackContract, setActorNfts } = useContext(ActorContext)
   const [babyInput, setBabyInput] = useState("")
   const [heroInput, setHeroInput] = useState("")
+  const [horseInput, setHorseInput] = useState("")
 
   const [showAvatarSelect, setShowAvatarSelect] = useState(false)
 
@@ -24,6 +25,7 @@ export default function Actor() {
     "/images/runes/io_rune.png",
     "/images/runes/lo_rune.png",
   ] // Pride
+  
 
   // const width1400 = useWindowWidth(1400);
 
@@ -38,6 +40,10 @@ export default function Actor() {
 
   function handleHeroInput(e) {
     setHeroInput(e.target.value)
+  }
+
+  function handleHorseInput(e) {
+    setHorseInput(e.target.value)
   }
 
   async function addBaby(babyTokenId) {
@@ -149,6 +155,72 @@ export default function Actor() {
           )
         } else {
           axios.post("/api/add-avatar", iHero).then((response) => {
+            setActorNfts((prevState) => [...prevState, response.data])
+          })
+          console.log(response.data.name + " added to " + currentAddress)
+          alert(
+            "The ANDTHENEUM acknowledges your assimilation of " +
+              response.data.name
+          )
+        }
+      })
+    } else {
+      alert(
+        "The ANDTHENEUM does not acknowledge your assimilation of this hero."
+      )
+    }
+  }
+
+  async function addHorse(HorseTokenId) {
+    // Check if Actor owns requested Baby, if true add-avatar, else alert
+    const owner = await blackContract.ownerOf(HorseTokenId)
+    if (owner.toLowerCase() === currentAddress.toLowerCase()) {
+      const newHorseURI = await blackContract.tokenURI(HorseTokenId)
+      await axios.post("/api/cors", { uri: newHorseURI }).then((response) => {
+        // const iBaby = {
+        //     address: currentAddress,
+        //     name: response.data.name,
+        //     img: response.data.image,
+        //     tokenId: babyTokenId,
+        //     universe: "Forgotten Babies Wizard Orphanage"
+        //   }
+        let iHorse
+
+        console.log("response:", response.data)
+
+        if (response.data.image.substring(0, 5) === "https") {
+          iHorse = {
+            address: currentAddress,
+            name: response.data.name,
+            img: response.data.image,
+            tokenId: HorseTokenId,
+            universe: "BlackSand",
+          }
+        } else {
+          iHorse = {
+            address: currentAddress,
+            name: response.data.name,
+            img:
+              "https" +
+              response.data.image.substring(4, response.data.image.length),
+            tokenId: horseTokenId,
+            universe: "BlackSand",
+          }
+        }
+        if (
+          actorNfts.some(
+            (avatar) =>
+              avatar.name === response.data.name &&
+              avatar.tokenId.toString() === horseTokenId
+          )
+        ) {
+          console.log(currentAddress + " already owns " + response.data.name)
+          alert(
+            "The ANDTHENEUM has already acknolwedged your assimilation of " +
+              response.data.name
+          )
+        } else {
+          axios.post("/api/add-avatar", iHorse).then((response) => {
             setActorNfts((prevState) => [...prevState, response.data])
           })
           console.log(response.data.name + " added to " + currentAddress)
@@ -287,6 +359,34 @@ export default function Actor() {
                     placeholder="Hero tokenId"
                     onChange={handleHeroInput}
                     value={heroInput}
+                    className={styles.babyInput}
+                  />
+                  <button type="submit" className="hover-btn">
+                    +
+                  </button>
+                </form>
+              </div>
+              <div className={styles.avatarSelect}>
+                <img
+                  className={`${styles.avatarSelectImg} ANDtablet`}
+                  src="/images/brock_shucker.png"
+                />
+                <h3>Invite BlackSand Horse</h3>
+                <form
+                  className={styles.addBabyForm}
+                  onSubmit={(e) => {
+                    e.preventDefault()
+                    addHorse(horseInput)
+                    setHorseInput("")
+                  }}
+                >
+                  <input
+                    type="number"
+                    min="0"
+                    max="9999"
+                    placeholder="Horse tokenId"
+                    onChange={handleHorseInput}
+                    value={horseInput}
                     className={styles.babyInput}
                   />
                   <button type="submit" className="hover-btn">
