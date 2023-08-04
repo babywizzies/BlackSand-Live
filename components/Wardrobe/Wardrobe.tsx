@@ -28,8 +28,34 @@ export type SelectedTreat = {
 };
 
 const PONY_CONTRACT = "0xf55b615b479482440135ebf1b907fd4c37ed9420";
+const BLACKSAND_EDITIONS ="0x9c4437bb194672b5fd75a4731f603cfba8941505"
+const WIZARD_CONTRACT = "0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42";
 const BS_MOUNT_CONTRACT = "0xf486f696b80164b5943191236eca114f4efab2ff";
+const WARRIOR_CONTRACT = "0x9690b63eb85467be5267a3603f770589ab12dc95";
+const ITEM_CONTRACT = "0x7c104b4db94494688027cced1e2ebfb89642c80f";
+const COLLECTION_SET_ID =
+  "c22b4bd34c1aed0b6ac30ca32937b787275f3c59315b57d4b441dafe196448a7";
 
+
+
+const canAddItem = (
+  id: string,
+  selectedItems: SelectedTreat[],
+  totalOwned: number,
+  itemsOwned: number[]
+) => {
+  if (selectedItems.length >= 3) {
+    return false;
+  }
+  const selectedCount = selectedItems.filter((item) => item.id === id);
+
+  if (totalOwned <= selectedCount.length) {
+    return false;
+  }
+
+
+  return true;
+};
 
 const randomIntFromInterval = (min: number, max: number) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
@@ -43,11 +69,34 @@ const Wardrobe = () => {
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
   const [selectedItems, setSelectedItems] = useState<SelectedTreat[]>([]);
-  const [discordHandle, setDiscordHandle] = useState("");
+ 
   const [success, setSuccess] = useState(false);
   const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
   const [registeredModalOpen, setRegisteredModalOpen] = useState(false);
+  const [openWindow, setOpenWindow] = useState(false);
+  const [body, setBody] = useState("");
+  const [prop, setProp] = useState("");
+  const [head, setHead] = useState("");
+  const [familiar, setFamiliar] =useState("");
+  const [rune, setRune] =useState("");
+  const [background, setBackground] = useState("");
+  const [glasses, setGlasses] = useState("none");
+  const [headSrc, setHeadSrc] = useState("");
+  const [bodySrc, setBodySrc] = useState("");
+  const [propSrc, setPropSrc] = useState("");
+  const [familiarSrc, setFamiliarSrc] = useState("");
+  const [backgroundSrc, setBackgroundSrc] = useState("");
+  const [runeSrc, setRuneSrc] = useState("");
+  const [glassesSrc, setGlassesSrc] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [glassesPush, setGlassesPush] = useState("none");
+  const [headPush, setHeadPush] = useState("")
+  const [traits, setTraits] = useState();
+  const [ownership, setOwnership] = useState(false);
+  const [adult, setAdult] = useState(1);
+  const [pushId, setPushId] = useState ("0");
+  
 
   // Sounds
   useAudio("/audio/paddock-bg.mp3", {
@@ -71,20 +120,38 @@ const Wardrobe = () => {
   const registeredSound = useAudio("/audio/horses-galloping.mp3", {
     volume: 0.4,
   });
-  
   const { data: tokenData, isLoading: isLoadingTokens } = useUserTokens(
     address,
     {
-      collectionsSetId: BS_MOUNT_CONTRACT,
+      collectionsSetId: COLLECTION_SET_ID,
       limit: 200,
     }
   );
 
+  const { data: itemTokenData } = useUserTokens(address, {
+    collection: ITEM_CONTRACT,
+    limit: 200,
+  });
 
+
+  const itemTokens = useMemo(
+    () =>
+      itemTokenData?.filter((tokenData) =>
+        tokenData?.token?.tokenId
+      ),
+    [itemTokenData]
+  );
   const ponyTokens = useMemo(
     () =>
       tokenData?.filter(
         (tokenData) => tokenData?.token?.contract === PONY_CONTRACT
+      ),
+    [tokenData]
+  );
+  const wizardTokens = useMemo(
+    () =>
+      tokenData?.filter(
+        (tokenData) => tokenData?.token?.contract === WIZARD_CONTRACT
       ),
     [tokenData]
   );
@@ -95,12 +162,24 @@ const Wardrobe = () => {
       ),
     [tokenData]
   );
+  const editionsTokens = useMemo(
+    () =>
+      tokenData?.filter(
+        (tokenData) => tokenData?.token?.contract === BLACKSAND_EDITIONS
+      ),
+    [tokenData]
+  );
+  const warriorTokens = useMemo(
+    () =>
+      tokenData?.filter(
+        (tokenData) => tokenData?.token?.contract === WARRIOR_CONTRACT
+      ),
+    [tokenData]
+  );
 
   
 
-  if (!isMounted) {
-    return null;
-  }
+
 
   return (
     <div className={styles.container}>
@@ -161,88 +240,8 @@ const Wardrobe = () => {
                 )}
               </div>
               <div className={styles.card1}>
+        
 
-                <input
-                  placeholder="Discord Handle"
-                  className={styles["discord-handle-input"]}
-                  value={discordHandle}
-                  onChange={(e) => {
-                    setDiscordHandle(e.target.value);
-                  }}
-                />
-                <button
-                  className={styles["register-button"]}
-                  disabled={registering}
-                  onClick={async () => {
-                    try {
-                      setRegistering(true);
-                      setErrorText("");
-                      setSuccess(false);
-                      setRegisteredModalOpen(false);
-                      if (!selectedRacer) {
-                        setRegistering(false);
-                        setErrorText("Please select a mount or a pony");
-                        return;
-                      }
-
-                      if (discordHandle.length === 0) {
-                        setRegistering(false);
-                        setErrorText("Please enter a discord handle");
-                        return;
-                      }
-
-                      const results = discordHandle.match(/(?!\s).+#\d{4}/i);
-                      const sanitzedHandle =
-                        results && results[0] ? results[0] : null;
-
-                      if (!sanitzedHandle) {
-                        setErrorText("Discord handle is invalid");
-                        setRegistering(false);
-                        return;
-                      }
-
-                      const signature = await signMessageAsync({
-                        message: "Register for BlackSand Race",
-                      });
-                      const racerPieces = selectedRacer.split(":");
-
-                      const response = await axios.post(
-                        "https://blacksand.city/api/blacksand/registration/create",
-                        {
-                          id: racerPieces[1],
-                          collection: racerPieces[0],
-                          discord_handle: sanitzedHandle,
-                          treats: selectedItems.map((item) => item.id),
-                          signature,
-                        }
-                      );
-                      if (response.status !== 200) {
-                        throw `API Error: ${response.data}`;
-                      }
-                      setSuccess(true);
-                      setRegisteredModalOpen(true);
-                      setRegistering(false);
-                      registeredSound?.play();
-                    } catch (e) {
-                      setErrorText("Something went wrong, please try again");
-                      setSuccess(false);
-                      setRegisteredModalOpen(false);
-                      setRegistering(false);
-                      console.error(e);
-                    }
-                  }}
-                >
-                  {registering && (
-                    <div
-                      className="loader"
-                      style={{ width: 20, height: 20 }}
-                    ></div>
-                  )}{" "}
-                  Register
-                </button>
-                {errorText.length > 0 && (
-                  <p className={styles["error-text"]}>{errorText}</p>
-                )}
               </div>
             </div>
           </div>
@@ -311,8 +310,29 @@ const Wardrobe = () => {
                 </a>
               </div>
             )} */}
-
+          
+          <div className={styles.paddock_container}>
+  {/* ... */}
+  <button onClick={() => setOpenWindow(true)}>Open Character Selection</button>
+  {openWindow && (
+    <button onClick={() => setOpenWindow(false)}>Close Character Selection</button>
+  )}
+  {/* ... */}
+</div>
+<div 
+            style={{
+              width: "300px",
+              height: "300px",
+              position: "absolute",
+              backgroundSize: "300px 300px",
+              backgroundRepeat: "no-repeat",
+              backgroundImage: `url("${backgroundSrc}")`,
+              zIndex: 1
+            }}
+          ></div>
+{openWindow && (<>
             <div className={styles.card3}>
+        
             <h2 className={styles.subtitle_card3}>Mounts</h2>
             <div className={styles["token-grid"]}>
               {mountTokens.map((item, i) => (
@@ -325,7 +345,9 @@ const Wardrobe = () => {
                   }}
                 />
               ))}
+              
             </div>
+            
             {mountTokens.length <= 0 && !isLoadingTokens && (
               <div className={styles["token-grid-empty"]}>
                 <p
@@ -341,11 +363,182 @@ const Wardrobe = () => {
               </div>
             )}
             </div>
+            <div className={styles.card3}>
+        
+        <h2 className={styles.subtitle_card3}>Ponies</h2>
+        <div className={styles["token-grid"]}>
+          {ponyTokens.map((item, i) => (
+            <TokenCard
+              key={i}
+              item={item}
+              setSelectedRacer={(id) => {
+                setSelectedRacer(id);
+                horseSelectedSound?.play();
+              }}
+            />
+          ))}
+          
+        </div>
+        
+        {ponyTokens.length <= 0 && !isLoadingTokens && (
+          <div className={styles["token-grid-empty"]}>
+            <p
+              style={{
+                color: "white",
+              }}
+            >
+              Looks like you don't have any mounts
+            </p>
+            <Link href="/mint" legacyBehavior>
+              <button>Get a Mount</button>
+            </Link>
+          </div>
+        )}
+        </div>
+            <div className={styles.card3}>
+        
+            <h2 className={styles.subtitle_card3}>Wizards</h2>
+            <div className={styles["token-grid"]}>
+              {wizardTokens.map((item, i) => (
+                <TokenCard
+                  key={i}
+                  item={item}
+                  setSelectedRacer={(id) => {
+                    setSelectedRacer(id);
+                    horseSelectedSound?.play();
+                  }}
+                />
+              ))}
+              
+            </div>
+            
+            {wizardTokens.length <= 0 && !isLoadingTokens && (
+              <div className={styles["token-grid-empty"]}>
+                <p
+                  style={{
+                    color: "white",
+                  }}
+                >
+                  Looks like you don't have any mounts
+                </p>
+                <Link href="/mint" legacyBehavior>
+                  <button>Get a Mount</button>
+                </Link>
+              </div>
+            )}
+            </div>
+            <div className={styles.card3}>
+        
+        <h2 className={styles.subtitle_card3}>Warriors</h2>
+        <div className={styles["token-grid"]}>
+          {warriorTokens.map((item, i) => (
+            <TokenCard
+              key={i}
+              item={item}
+              setSelectedRacer={(id) => {
+                setSelectedRacer(id);
+                horseSelectedSound?.play();
+              }}
+            />
+          ))}
+          
+        </div>
+        
+        {warriorTokens.length <= 0 && !isLoadingTokens && (
+          <div className={styles["token-grid-empty"]}>
+            <p
+              style={{
+                color: "white",
+              }}
+            >
+              Looks like you don't have any mounts
+            </p>
+            <Link href="/mint" legacyBehavior>
+              <button>Get a Mount</button>
+            </Link>
+          </div>
+        )}
+        </div>
+            </>
+)}
+
+{!openWindow && (
+  <>
+            <div className={styles.card3}>
+        
+        <h2 className={styles.subtitle_card3}>Editions</h2>
+        <div className={styles["token-grid"]}>
+          {editionsTokens.map((item, i) => (
+            <TokenCard
+              key={i}
+              item={item}
+              setSelectedRacer={(id) => {
+                setSelectedRacer(id);
+                horseSelectedSound?.play();
+              }}
+            />
+          ))}
+          
+        </div>
+        
+        {editionsTokens.length <= 0 && !isLoadingTokens && (
+          <div className={styles["token-grid-empty"]}>
+            <p
+              style={{
+                color: "white",
+              }}
+            >
+              Looks like you don't have any Blacksand Editions
+            </p>
+            <Link href="/mint" legacyBehavior>
+              <button>Get a Mount</button>
+            </Link>
+          </div>
+        )}
+        </div>
+        <div className={styles.card3}>
+        
+        <h2 className={styles.subtitle_card3}>Editions</h2>
+        <div className={styles["token-grid"]}>
+          {itemTokens.map((item, i) => (
+            <TokenCard
+              key={i}
+              item={item}
+              setSelectedRacer={(id) => {
+                setSelectedRacer(id);
+                horseSelectedSound?.play();
+              }}
+            />
+          ))}
+          
+        </div>
+        
+        {itemTokens.length <= 0 && !isLoadingTokens && (
+          <div className={styles["token-grid-empty"]}>
+            <p
+              style={{
+                color: "white",
+              }}
+            >
+              Looks like you don't have any Blacksand Editions
+            </p>
+            <Link href="/mint" legacyBehavior>
+              <button>Get a Mount</button>
+            </Link>
+          </div>
+        )}
+        </div>
+
+            
+           
 
 
-
+            </>
+            )}
           </div>
         </div>
+
+        
       )}
       <Modal open={registeredModalOpen} setOpen={setRegisteredModalOpen}>
         <h2 className={styles["modal-title"]}>Off to the Races!</h2>

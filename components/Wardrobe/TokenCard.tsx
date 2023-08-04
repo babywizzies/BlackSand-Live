@@ -36,7 +36,7 @@ const TokenCard: FC<Props> = ({ item, setSelectedRacer }) => {
             );
           }}
         >
-          Race
+          Select
         </button>
       </div>
     </div>
