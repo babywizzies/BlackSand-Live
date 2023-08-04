@@ -3,14 +3,14 @@ import styles from "../../styles/css/paddock.module.css";
 import { TokenMedia, useUserTokens } from "@reservoir0x/reservoir-kit-ui";
 import Link from "next/link";
 
-type Token = NonNullable<ReturnType<typeof useUserTokens>["data"]>[0];
+type Edition = NonNullable<ReturnType<typeof useUserTokens>["data"]>[0];
 
 type Props = {
-  item?: Token;
-  setSelectedRacer: (id: string) => void;
+  item?: Edition;
+  setSelectedEdition: (id: string) => void;
 };
 
-const TokenCard: FC<Props> = ({ item, setSelectedRacer }) => {
+const EditionCard: FC<Props> = ({ item, setSelectedEdition }) => {
   if (!item || !item.token) {
     return null;
   }
@@ -33,7 +33,7 @@ const TokenCard: FC<Props> = ({ item, setSelectedRacer }) => {
         <button
           className={styles["token-button"]}
           onClick={() => {
-            setSelectedRacer(
+            setSelectedEdition(
               `${item.token?.collection?.id}:${item.token?.tokenId}`
             );
           }}
@@ -45,4 +45,4 @@ const TokenCard: FC<Props> = ({ item, setSelectedRacer }) => {
   );
 };
 
-export default TokenCard;
+export default EditionCard;

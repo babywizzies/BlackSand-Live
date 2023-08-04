@@ -6,7 +6,7 @@ import React, {
   useMemo,
   useState,
 } from "react";
-import styles from "../../styles/css/paddock.module.css";
+import styles from "../../styles/css/wardrobe.module.css";
 import { useAccount, useSignMessage } from "wagmi";
 import useIsMounted from "../../hooks/useIsMounted";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
@@ -15,6 +15,8 @@ import Link from "next/link";
 import { FaPlus } from "react-icons/fa";
 import Image from "next/image";
 import TokenCard from "./TokenCard";
+import EditionCard from "./EditionCard"
+import PonyCard from "./PonyCard";
 import SelectedTreatCard from "./SelectedTreatCard";
 import axios from "axios";
 import Confetti from "react-dom-confetti";
@@ -63,18 +65,24 @@ const randomIntFromInterval = (min: number, max: number) => {
 
 const Wardrobe = () => {
   const poniesRef = createRef<HTMLDivElement>();
+  const editionRef = createRef<HTMLDivElement>();
+  const ponyRef = createRef<HTMLDivElement>();
   const specialItemsRef = createRef<HTMLHeadingElement>();
   const { address } = useAccount();
   const { signMessageAsync } = useSignMessage();
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
   const [selectedItems, setSelectedItems] = useState<SelectedTreat[]>([]);
+  const [selectedEdition, setSelectedEdition] = useState<string | undefined>();
+  const [selectedPony, setSelectedPony] = useState<string | undefined>();
  
   const [success, setSuccess] = useState(false);
   const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
   const [registeredModalOpen, setRegisteredModalOpen] = useState(false);
   const [openWindow, setOpenWindow] = useState(false);
+  const [openEdition, setOpenEdition] = useState(false);
+  const [openPony, setOpenPony] = useState(false);
   const [body, setBody] = useState("");
   const [prop, setProp] = useState("");
   const [head, setHead] = useState("");
@@ -194,17 +202,53 @@ const Wardrobe = () => {
       )}
       {address && (
         <div className={styles.paddock_container}>
-          <div
-          className={styles.paddock_card}
-          >
+
+          <div className={styles.paddock_card}>
             <h2 className={styles.subtitle_card}>Racing Selection</h2>
             <div
-              style={{
-                display: "flex",
-                flexDirection: "column",
-                gap: 20,
-              }}
+              className={styles.racing_selection}
             >
+
+              {/*Edition */}
+              {openEdition && (
+              <div
+                className={styles["selection-pony"]}
+                onClick={() => {
+                  if (!selectedEdition) {
+                    editionRef.current?.scrollIntoView({
+                      block: "nearest",
+                      inline: "start",
+                      behavior: "smooth",
+                      //@ts-ignore
+                      alignToTop: false,
+                    });
+                  }
+                }}
+              >
+                {!selectedEdition ? (
+                  <>
+                    <FaPlus />
+                    <Image
+                      src="/img/pony.png"
+                      width={60}
+                      height={60}
+                      alt="Placeholder"
+                    />
+                  </>
+                ) : (
+                  <Image
+                    src={`https://api.reservoir.tools/redirect/tokens/${selectedEdition}/image/v1`}
+                    alt="Racer"
+                    fill
+                    unoptimized
+                    loader={({ src }) => src}
+                  />
+                )}
+              </div>
+              )}
+              
+              {/* Mounts */}
+              {openWindow && (
               <div
                 className={styles["selection-pony"]}
                 onClick={() => {
@@ -239,12 +283,51 @@ const Wardrobe = () => {
                   />
                 )}
               </div>
-              <div className={styles.card1}>
-        
+              )}
 
+              {/* Pony */}
+              {openPony && (
+              <div
+                className={styles["selection-pony"]}
+                onClick={() => {
+                  if (!selectedPony) {
+                    ponyRef.current?.scrollIntoView({
+                      block: "nearest",
+                      inline: "start",
+                      behavior: "smooth",
+                      //@ts-ignore
+                      alignToTop: false,
+                    });
+                  }
+                }}
+              >
+                {!selectedPony ? (
+                  <>
+                    <FaPlus />
+                    <Image
+                      src="/img/pony.png"
+                      width={60}
+                      height={60}
+                      alt="Placeholder"
+                    />
+                  </>
+                ) : (
+                  <Image
+                    src={`https://api.reservoir.tools/redirect/tokens/${selectedPony}/image/v1`}
+                    alt="Racer"
+                    fill
+                    unoptimized
+                    loader={({ src }) => src}
+                  />
+                )}
               </div>
+              )}
+
+              
             </div>
+
           </div>
+
           <div className={styles.card2}>
             <Confetti
               active={success}
@@ -311,15 +394,29 @@ const Wardrobe = () => {
               </div>
             )} */}
           
-          <div className={styles.paddock_container}>
-  {/* ... */}
-  <button onClick={() => setOpenWindow(true)}>Open Character Selection</button>
-  {openWindow && (
-    <button onClick={() => setOpenWindow(false)}>Close Character Selection</button>
-  )}
-  {/* ... */}
-</div>
-<div 
+          <div className={styles.selection}>
+          
+          <button className={styles.buttons} onClick={() => setOpenEdition(true)}>Edtion</button>
+          {openEdition && (
+          <button className={styles.buttons_x} onClick={() => setOpenEdition(false)}>X</button>
+          )}
+
+          {/* ... */}
+          
+          <button className={styles.buttons} onClick={() => setOpenWindow(true)}>Mounts</button>
+          {openWindow && (
+          <button className={styles.buttons_x} onClick={() => setOpenWindow(false)}>X</button>
+          )}
+          {/* ... */}
+
+          <button className={styles.buttons} onClick={() => setOpenPony(true)}>Ponies</button>
+          {openPony && (
+          <button className={styles.buttons_x} onClick={() => setOpenPony(false)}>X</button>
+          )}
+          {/* ... */}
+        </div>
+
+        <div 
             style={{
               width: "300px",
               height: "300px",
@@ -330,212 +427,211 @@ const Wardrobe = () => {
               zIndex: 1
             }}
           ></div>
-{openWindow && (<>
-            <div className={styles.card3}>
-        
-            <h2 className={styles.subtitle_card3}>Mounts</h2>
-            <div className={styles["token-grid"]}>
-              {mountTokens.map((item, i) => (
-                <TokenCard
-                  key={i}
-                  item={item}
-                  setSelectedRacer={(id) => {
-                    setSelectedRacer(id);
-                    horseSelectedSound?.play();
-                  }}
-                />
-              ))}
-              
-            </div>
-            
-            {mountTokens.length <= 0 && !isLoadingTokens && (
-              <div className={styles["token-grid-empty"]}>
-                <p
-                  style={{
-                    color: "white",
-                  }}
-                >
-                  Looks like you don't have any mounts
-                </p>
-                <Link href="/mint" legacyBehavior>
-                  <button>Get a Mount</button>
-                </Link>
-              </div>
-            )}
-            </div>
-            <div className={styles.card3}>
-        
-        <h2 className={styles.subtitle_card3}>Ponies</h2>
-        <div className={styles["token-grid"]}>
-          {ponyTokens.map((item, i) => (
-            <TokenCard
-              key={i}
-              item={item}
-              setSelectedRacer={(id) => {
-                setSelectedRacer(id);
-                horseSelectedSound?.play();
-              }}
-            />
-          ))}
           
-        </div>
-        
-        {ponyTokens.length <= 0 && !isLoadingTokens && (
-          <div className={styles["token-grid-empty"]}>
-            <p
-              style={{
-                color: "white",
-              }}
-            >
-              Looks like you don't have any mounts
-            </p>
-            <Link href="/mint" legacyBehavior>
-              <button>Get a Mount</button>
-            </Link>
-          </div>
-        )}
-        </div>
-            <div className={styles.card3}>
-        
-            <h2 className={styles.subtitle_card3}>Wizards</h2>
-            <div className={styles["token-grid"]}>
-              {wizardTokens.map((item, i) => (
-                <TokenCard
-                  key={i}
-                  item={item}
-                  setSelectedRacer={(id) => {
-                    setSelectedRacer(id);
-                    horseSelectedSound?.play();
-                  }}
-                />
-              ))}
-              
-            </div>
-            
-            {wizardTokens.length <= 0 && !isLoadingTokens && (
-              <div className={styles["token-grid-empty"]}>
-                <p
-                  style={{
-                    color: "white",
-                  }}
-                >
-                  Looks like you don't have any mounts
-                </p>
-                <Link href="/mint" legacyBehavior>
-                  <button>Get a Mount</button>
-                </Link>
-              </div>
-            )}
-            </div>
-            <div className={styles.card3}>
-        
-        <h2 className={styles.subtitle_card3}>Warriors</h2>
-        <div className={styles["token-grid"]}>
-          {warriorTokens.map((item, i) => (
-            <TokenCard
-              key={i}
-              item={item}
-              setSelectedRacer={(id) => {
-                setSelectedRacer(id);
-                horseSelectedSound?.play();
-              }}
-            />
-          ))}
-          
-        </div>
-        
-        {warriorTokens.length <= 0 && !isLoadingTokens && (
-          <div className={styles["token-grid-empty"]}>
-            <p
-              style={{
-                color: "white",
-              }}
-            >
-              Looks like you don't have any mounts
-            </p>
-            <Link href="/mint" legacyBehavior>
-              <button>Get a Mount</button>
-            </Link>
-          </div>
-        )}
-        </div>
-            </>
-)}
-
-{!openWindow && (
+ 
+ {openEdition && (
   <>
-            <div className={styles.card3}>
-        
-        <h2 className={styles.subtitle_card3}>Editions</h2>
-        <div className={styles["token-grid"]}>
-          {editionsTokens.map((item, i) => (
-            <TokenCard
-              key={i}
-              item={item}
-              setSelectedRacer={(id) => {
-                setSelectedRacer(id);
-                horseSelectedSound?.play();
-              }}
-            />
-          ))}
-          
-        </div>
-        
-        {editionsTokens.length <= 0 && !isLoadingTokens && (
-          <div className={styles["token-grid-empty"]}>
-            <p
-              style={{
-                color: "white",
-              }}
-            >
-              Looks like you don't have any Blacksand Editions
-            </p>
+    <div className={styles.card3}>
+      <h2 className={styles.subtitle_card3}>Editions</h2>
+      <div className={styles["token-grid"]}>
+        {editionsTokens.map((item, i) => (
+          <EditionCard key={i} item={item} 
+            setSelectedEdition={(id)=> {
+            setSelectedEdition(id);
+            horseSelectedSound?.play();
+            }
+        }/>
+      ))}
+    </div>
+      {editionsTokens.length <= 0 && !isLoadingTokens && ( 
+        <div className={styles["token-grid-empty"]}>
+          <p style={{ color: "white" }}>
+            Looks like you don't have any Blacksand Editions
+          </p>
             <Link href="/mint" legacyBehavior>
               <button>Get a Mount</button>
             </Link>
-          </div>
-        )}
         </div>
-        <div className={styles.card3}>
-        
-        <h2 className={styles.subtitle_card3}>Editions</h2>
-        <div className={styles["token-grid"]}>
-          {itemTokens.map((item, i) => (
-            <TokenCard
-              key={i}
-              item={item}
-              setSelectedRacer={(id) => {
-                setSelectedRacer(id);
-                horseSelectedSound?.play();
-              }}
-            />
-          ))}
-          
-        </div>
-        
-        {itemTokens.length <= 0 && !isLoadingTokens && (
-          <div className={styles["token-grid-empty"]}>
-            <p
-              style={{
-                color: "white",
-              }}
-            >
-              Looks like you don't have any Blacksand Editions
-            </p>
-            <Link href="/mint" legacyBehavior>
-              <button>Get a Mount</button>
-            </Link>
-          </div>
-        )}
-        </div>
+      )}
+    </div>
+  </>
+ )}
 
+{openWindow && (<>
+          
+          <div className={styles.card3}>
+      
+          <h2 className={styles.subtitle_card3}>Mounts</h2>
+          <div className={styles["token-grid"]}>
+            {mountTokens.map((item, i) => (
+              <TokenCard
+                key={i}
+                item={item}
+                setSelectedRacer={(id) => {
+                  setSelectedRacer(id);
+                  horseSelectedSound?.play();
+                }}
+              />
+            ))}
             
-           
-
-
-            </>
-            )}
           </div>
+          
+          {mountTokens.length <= 0 && !isLoadingTokens && (
+            <div className={styles["token-grid-empty"]}>
+              <p
+                style={{
+                  color: "white",
+                }}
+              >
+                Looks like you don't have any mounts
+              </p>
+              <Link href="/mint" legacyBehavior>
+                <button>Get a Mount</button>
+              </Link>
+            </div>
+          )}
+          </div>
+          <div className={styles.card3}>
+      
+      <h2 className={styles.subtitle_card3}>Ponies</h2>
+      <div className={styles["token-grid"]}>
+        {ponyTokens.map((item, i) => (
+          <TokenCard
+            key={i}
+            item={item}
+            setSelectedRacer={(id) => {
+              setSelectedRacer(id);
+              horseSelectedSound?.play();
+            }}
+          />
+        ))}
+        
+      </div>
+      
+      {ponyTokens.length <= 0 && !isLoadingTokens && (
+        <div className={styles["token-grid-empty"]}>
+          <p
+            style={{
+              color: "white",
+            }}
+          >
+            Looks like you don't have any mounts
+          </p>
+          <Link href="/mint" legacyBehavior>
+            <button>Get a Mount</button>
+          </Link>
+        </div>
+      )}
+      </div>
+          <div className={styles.card3}>
+      
+          <h2 className={styles.subtitle_card3}>Wizards</h2>
+          <div className={styles["token-grid"]}>
+            {wizardTokens.map((item, i) => (
+              <TokenCard
+                key={i}
+                item={item}
+                setSelectedRacer={(id) => {
+                  setSelectedRacer(id);
+                  horseSelectedSound?.play();
+                }}
+              />
+            ))}
+            
+          </div>
+          
+          {wizardTokens.length <= 0 && !isLoadingTokens && (
+            <div className={styles["token-grid-empty"]}>
+              <p
+                style={{
+                  color: "white",
+                }}
+              >
+                Looks like you don't have any mounts
+              </p>
+              <Link href="/mint" legacyBehavior>
+                <button>Get a Mount</button>
+              </Link>
+            </div>
+          )}
+          </div>
+
+          <div className={styles.card3}>
+      
+      <h2 className={styles.subtitle_card3}>Warriors</h2>
+      <div className={styles["token-grid"]}>
+        {warriorTokens.map((item, i) => (
+          <TokenCard
+            key={i}
+            item={item}
+            setSelectedRacer={(id) => {
+              setSelectedRacer(id);
+              horseSelectedSound?.play();
+            }}
+          />
+        ))}
+        
+      </div>
+      
+      {warriorTokens.length <= 0 && !isLoadingTokens && (
+        <div className={styles["token-grid-empty"]}>
+          <p
+            style={{
+              color: "white",
+            }}
+          >
+            Looks like you don't have any mounts
+          </p>
+          <Link href="/mint" legacyBehavior>
+            <button>Get a Mount</button>
+          </Link>
+        </div>
+      )}
+          </div>
+          </>
+        )}
+
+{openPony && (<>
+          
+          <div className={styles.card3}>
+      
+          <h2 className={styles.subtitle_card3}>Ponies</h2>
+          <div className={styles["token-grid"]}>
+            {ponyTokens.map((item, i) => (
+              <PonyCard
+                key={i}
+                item={item}
+                setSelectedPony={(id) => {
+                  setSelectedPony(id);
+                  horseSelectedSound?.play();
+                }}
+              />
+            ))}
+            
+          </div>
+          
+          {ponyTokens.length <= 0 && !isLoadingTokens && (
+            <div className={styles["token-grid-empty"]}>
+              <p
+                style={{
+                  color: "white",
+                }}
+              >
+                Looks like you don't have any mounts
+              </p>
+              <Link href="/mint" legacyBehavior>
+                <button>Get a Mount</button>
+              </Link>
+            </div>
+          )}
+          </div>
+    
+
+          
+          </>
+        )}
+          </div>
+
         </div>
 
         
