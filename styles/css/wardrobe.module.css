@@ -315,15 +315,17 @@
   
   .paddock_card{
     display: grid;
+    
     align-items: center;
     text-align: center;
 
   }
 
   .racing_selection{
-    display: grid;
-    align-items: center;
-    justify-content: center;
+   display: flex;
+   align-items: center;
+  justify-content: center;
+  gap: 20px;
   }
 
   .selection{
