@@ -19,6 +19,8 @@ export const FRBS_CONTRACT = "0x7de11a2d9E9727fa5eAd3094E40211C5e9cf5857" // Bea
 export const FBWO_CONTRACT = "0x4b1e130AE84c97b931FFBE91eAd6B1da16993D45" // Babies
 // https://etherscan.io/address/0x4b1e130ae84c97b931ffbe91ead6b1da16993d45#code
 
+export const BLACK_CONTRACT ="0xf486f696B80164B5943191236ECa114f4EfAb2FF"
+
 export const HOC_CONTRACT = "0x4BcE2bF108599257F84E0b1965631132A579481B" // Cumberland
 // https://etherscan.io/address/0x4bce2bf108599257f84e0b1965631132a579481b#code
 

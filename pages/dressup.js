@@ -425,7 +425,7 @@ export default function Dressup() {
                             setBodySrc("/images/images/body/" + e.target.value + ".png");
                             setHeadSrc('/images/images/Adult_Heads/' + head + '_Onesie.png');
                             setHeadPush(head + '_Onesie');
-                          
+                            
                         }
                            }}>
           

@@ -10,6 +10,7 @@ import {
   FBWO_CONTRACT,
   GAWDS_CONTRACT,
   HOC_CONTRACT,
+  BLACK_CONTRACT,
   /* CO_CONTRACT */
 } from "../utils/constants"
 import FRWC_ABI from "../utils/FRWC.json"
@@ -20,7 +21,8 @@ import FRB_ABI from "../utils/FRB.json"
 import FRBS_ABI from "../utils/FRBS.json"
 import FBWO_ABI from "../utils/FBWO.json"
 import GAWDS_ABI from "../utils/GAWDS.json"
-import HOC_ABI from "/utils/HOC.json"
+import HOC_ABI from "../utils/HOC.json"
+import BLACK_ABI from "../utils/BLACK.json"
 import { ethersFetcher } from "use-nft"
 // import CO_ABI from "../utils/CO.json";
 const axios = require("axios")
@@ -40,6 +42,7 @@ export const ActorContextProvider = ({ children }) => {
     universe: "ANDTHENEUM",
   })
 
+  
   // Stateful Actor's NFTs
   const [actorNfts, setActorNfts] = useState([])
 
@@ -51,6 +54,7 @@ export const ActorContextProvider = ({ children }) => {
   const [frbContract, setFrbContract] = useState(null)
   const [frbsContract, setFrbsContract] = useState(null)
   const [fbwoContract, setFbwoContract] = useState(null)
+  const [blackContract, setBlackContract] = useState(null)
   const [gawdsContract, setGawdsContract] = useState(null)
   const [hocContract, setHocContract] = useState(null)
   // const [colonyContract, setColonyContract] = useState(null);
@@ -86,6 +90,7 @@ export const ActorContextProvider = ({ children }) => {
       const contractFRB = new ethers.Contract(FRB_CONTRACT, FRB_ABI, signer)
       const contractFRBS = new ethers.Contract(FRBS_CONTRACT, FRBS_ABI, signer)
       const contractFBWO = new ethers.Contract(FBWO_CONTRACT, FBWO_ABI, signer)
+      const contractBLACK = new ethers.Contract(BLACK_CONTRACT, BLACK_ABI, signer)
       const contractGAWDS = new ethers.Contract(
         GAWDS_CONTRACT,
         GAWDS_ABI,
@@ -106,6 +111,7 @@ export const ActorContextProvider = ({ children }) => {
       setFbwoContract(contractFBWO)
       setGawdsContract(contractGAWDS)
       setHocContract(contractHOC)
+      setBlackContract(contractBLACK)
       // setColonyContract(contractCO);
     } else {
       console.log("No ethereum object found")
@@ -306,10 +312,45 @@ export const ActorContextProvider = ({ children }) => {
               )
             }
           } else if (
-            getActor.data.avatars[i].universe ===
-            "Forgotten Babies Wizard Orphanage"
+            getActor.data.avatars[i].universe === "Forgotten Babies Wizard Orphanage"
           ) {
             const addressCheck = await fbwoContract.ownerOf(
+              getActor.data.avatars[i].tokenId
+            )
+            if (addressCheck.toLowerCase() !== currentAddress.toLowerCase()) {
+              console.log(
+                currentAddress +
+                  " no longer owns " +
+                  getActor.data.avatars[i].name +
+                  ", removing tokenId from " +
+                  currentAddress
+              )
+              setActorNfts((prevState) =>
+                prevState.filter(
+                  (avatar) => avatar.name !== getActor.data.avatars[i].name
+                )
+              )
+              await axios
+                .patch(
+                  "/api/remove-avatar/" +
+                    currentAddress +
+                    "/" +
+                    getActor.data.avatars[i]._id
+                )
+                .then((result) => {
+                  console.log("remove-avatar result:", result.data)
+                })
+            } else {
+              console.log(
+                getActor.data.avatars[i].name +
+                  " need not be removed from " +
+                  currentAddress
+              )
+            }
+          } else if (
+            getActor.data.avatars[i].universe ===  "BlackSand Mounts"
+          ) {
+            const addressCheck = await blackContract.ownerOf(
               getActor.data.avatars[i].tokenId
             )
             if (addressCheck.toLowerCase() !== currentAddress.toLowerCase()) {
@@ -470,6 +511,8 @@ export const ActorContextProvider = ({ children }) => {
           })
         }
 
+        
+
         // Check Actor's FRB balance, add-avatar if missing
         const actorBeastBalance = await frbContract.balanceOf(currentAddress)
         if (actorBeastBalance > 0) {
@@ -544,6 +587,40 @@ export const ActorContextProvider = ({ children }) => {
               })
             }
           }
+        }
+
+        const actorHorseBalance = await blackContract.balanceOf(currentAddress)
+        for (let i = 0; i < actorHorseBalance; i++) {
+          const newHorse = await blackContract.tokenOfOwnerByIndex(
+            currentAddress,
+            i
+          )
+          const newHorseURI = await blackContract.tokenURI(newHorse.toNumber())
+          await axios.get(newHorseURI).then((response) => {
+            if (
+              getActor.data.avatars.some(
+                (avatar) =>
+                  avatar.name === response.data.name &&
+                  avatar.tokenId === newHorse.toNumber()
+              )
+            ) {
+              console.log(
+                currentAddress + " already owns " + response.data.name
+              )
+            } else {
+              const iHorse = {
+                address: currentAddress,
+                name: response.data.name,
+                img: response.data.image,
+                tokenId: newHorse.toNumber(),
+                universe: "BlackSand Mounts",
+              }
+              axios.post("/api/add-avatar", iHorse).then((response) => {
+                setActorNfts((prevState) => [...prevState, response.data])
+              })
+              console.log(response.data.name + " added to " + currentAddress)
+            }
+          })
         }
 
         // KEEP BELOW
@@ -663,6 +740,7 @@ export const ActorContextProvider = ({ children }) => {
       frbContract &&
       frbsContract &&
       fbwoContract &&
+      blackContract &&
       // hocContract &&
       gawdsContract /* && colonyContract */
     ) {
@@ -694,6 +772,7 @@ export const ActorContextProvider = ({ children }) => {
         descriptionOpen,
         setDescriptionOpen,
         fbwoContract,
+        blackContract,
         hocContract,
       }}
     >
