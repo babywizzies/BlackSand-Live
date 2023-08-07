@@ -52,7 +52,10 @@ const Burn = () => {
     };
   }, []);
 
-  const { data: tokens } = useUserTokens(accountAddress);
+  const { data: tokens } = useUserTokens(accountAddress, {
+    collectionsSetId:
+      "2bbf8c77426ecef122b930e50d37eef1eefd8de0eaad268e3ee3abc05d3a2937",
+  });
 
   if (!mounted || typeof window === "undefined") {
     return null;
@@ -162,7 +165,11 @@ const Burn = () => {
             }}
           >
             {tokens.map((token, i) => (
-              <CharacterSelect id={token?.token?.tokenId as string} key={i} />
+              <CharacterSelect
+                id={token?.token?.tokenId as string}
+                contract={token?.token?.contract}
+                key={i}
+              />
             ))}
           </div>
         </div>

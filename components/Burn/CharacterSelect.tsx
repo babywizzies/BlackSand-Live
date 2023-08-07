@@ -20,7 +20,12 @@ const backgroundPositions = [
   "-494px -501px",
 ];
 
-const CharacterSelect: FC<{ id: string }> = (id) => {
+const WIZARD_CONTRACT = "0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42";
+
+const CharacterSelect: FC<{ id: string; contract: string }> = ({
+  id,
+  contract,
+}) => {
   const [backgroundPosition, setBackgroundPosition] = useState(0);
 
   useEffect(() => {
@@ -38,6 +43,8 @@ const CharacterSelect: FC<{ id: string }> = (id) => {
       clearInterval(positionInterval);
     };
   }, [backgroundPositions]);
+
+  const walkCycleType = contract === WIZARD_CONTRACT ? "wizard" : "warrior";
 
   return (
     <div style={{ overflow: "hidden", position: "relative" }}>
@@ -59,7 +66,7 @@ const CharacterSelect: FC<{ id: string }> = (id) => {
           zIndex: 1,
           width: 200,
           height: 200,
-          backgroundImage: `url("https://www.forgottenrunes.com/api/art/wizards/${id}/spritesheet.png?width=1024")`,
+          backgroundImage: `url("https://www.forgottenrunes.com/api/art/wizard/${id}/spritesheet.png?width=1024")`,
           backgroundRepeat: "no-repeat",
           backgroundPosition: backgroundPositions[backgroundPosition],
           backgroundSize: "695px 695px",
