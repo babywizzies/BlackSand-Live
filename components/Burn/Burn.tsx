@@ -20,6 +20,7 @@ enum BurnScreen {
   Portal,
 }
 
+
 const Burn = () => {
   const { address: accountAddress } = useAccount();
   const videoEl = useRef<HTMLVideoElement | null>(null);
@@ -34,6 +35,13 @@ const Burn = () => {
     attemptPlay();
   }, []);
   const mounted = useIsMounted();
+  const [selectedCharacter, setSelectedCharacter] = useState<any>(null);
+
+  const handleCharacterSelect = (character: { id: string; contract: string }) => {
+    setSelectedCharacter(character);
+    setBurnScreen(BurnScreen.Portal)
+  };
+
   const [windowSize, setWindowSize] = useState([
     typeof window !== "undefined" ? window.innerWidth : 0,
     typeof window !== "undefined" ? window.innerHeight : 0,
@@ -153,6 +161,11 @@ const Burn = () => {
       {burnScreen === BurnScreen.CharacterSelection && (
         <div>
           <h2 className={styles.title}>Choose your Adventurer</h2>
+          {selectedCharacter && (
+        <div>
+          Selected Character ID: {selectedCharacter.id}
+        </div>
+      )}
           <div
             style={{
               display: "flex",
@@ -169,6 +182,8 @@ const Burn = () => {
                 id={token?.token?.tokenId as string}
                 contract={token?.token?.contract}
                 key={i}
+                onSelect={handleCharacterSelect}
+                isSelected={selectedCharacter?.id === token?.token?.tokenId}
               />
             ))}
           </div>

@@ -19,7 +19,7 @@ import { AudioContext } from "../context/AudioContext";
 import AudioControl from "../components/AudioControl";
 import { useEffect, useState } from "react";
 
-const HOST = process.env.NEXT_PUBLIC_HOST || "https://blacksand.city";
+const HOST = process.env.NEXT_PUBLIC_HOST || "http://localhost:3000";
 
 const { chains, provider, webSocketProvider } = configureChains(
   [
