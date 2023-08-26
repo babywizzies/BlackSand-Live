@@ -145,6 +145,18 @@ export const insertPony = async (pony: object) => {
     return data;
 }
 
+export const insertBaby = async (baby: object) => {
+    const { data, error } = await supabase
+        .from('baby')
+        .insert(baby)
+        .select()
+
+    if (error != null) {
+        return error
+    }
+    return data;
+}
+
 export const insertTreat = async (treats: object) => {
     const { data, error } = await supabase
         .from('treats')

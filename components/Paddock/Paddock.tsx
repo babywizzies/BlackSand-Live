@@ -28,10 +28,11 @@ export type SelectedTreat = {
 };
 
 const PONY_CONTRACT = "0xf55b615b479482440135ebf1b907fd4c37ed9420";
+const BABY_CONTRACT = "0x4b1e130ae84c97b931ffbe91ead6b1da16993d45";
 const BS_MOUNT_CONTRACT = "0xf486f696b80164b5943191236eca114f4efab2ff";
 const ITEM_CONTRACT = "0x7c104b4db94494688027cced1e2ebfb89642c80f";
 const COLLECTION_SET_ID =
-  "fd9e9cda66f0d8a4b77416c483f5e7be5c8761a043161bd7722fcbf3e3609c8a";
+  "bf561a706d2a9487e9e176267adb0320d87aefe449bed39767ddb29a8b290948";
 
 const SPECIAL_RACE_RULES: Record<
   string,
@@ -223,6 +224,8 @@ const Paddock = () => {
   const { signMessageAsync } = useSignMessage();
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
+  const [selectedBaby, setSelectedBaby] = useState<string | undefined>();
+
   const [selectedItems, setSelectedItems] = useState<SelectedTreat[]>([]);
   const [discordHandle, setDiscordHandle] = useState("");
   const [success, setSuccess] = useState(false);
@@ -307,7 +310,13 @@ const Paddock = () => {
       ),
     [tokenData]
   );
-
+  const babyTokens = useMemo(
+    () =>
+      tokenData?.filter(
+        (tokenData) => tokenData?.token?.contract === BABY_CONTRACT
+      ),
+    [tokenData]
+  );
   const scrollToItemSection = useCallback(() => {
     specialItemsRef.current?.scrollIntoView({
       block: "nearest",
@@ -321,7 +330,17 @@ const Paddock = () => {
   if (!isMounted) {
     return null;
   }
-
+  const fetchBabiesFromRichWallet = async () => {
+    const richWalletAddress = "0xC9305cCD1e70621ea58504FEdDc0d131911FC11C";
+    // Fetch babies from the rich wallet
+    // You can use the useUserTokens hook or directly call an API
+    const { data: richWalletBabies } = await useUserTokens(richWalletAddress, {
+      collection: BABY_CONTRACT,
+      limit: 200,
+    });
+    return richWalletBabies;
+  };
+  
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Paddock</h1>
@@ -379,6 +398,42 @@ const Paddock = () => {
                     loader={({ src }) => src}
                   />
                 )}
+
+              </div>
+              <div
+                className={styles["selection-pony"]}
+                onClick={() => {
+                  if (!selectedRacer) {
+                    poniesRef.current?.scrollIntoView({
+                      block: "nearest",
+                      inline: "start",
+                      behavior: "smooth",
+                      //@ts-ignore
+                      alignToTop: false,
+                    });
+                  }
+                }}
+              >
+                {!selectedBaby ? (
+                  <>
+                    <FaPlus />
+                    <Image
+                      src="/img/pony.png"
+                      width={60}
+                      height={60}
+                      alt="Placeholder"
+                    />
+                  </>
+                ) : (
+                  <Image
+                    src={`https://api.reservoir.tools/redirect/tokens/${selectedBaby}/image/v1`}
+                    alt="BabyWizard"
+                    fill
+                    unoptimized
+                    loader={({ src }) => src}
+                  />
+                )}
+
               </div>
               <div className={styles.card1}>
                 <div className={styles.treats_card}>
@@ -483,12 +538,13 @@ const Paddock = () => {
                       const racerPieces = selectedRacer.split(":");
 
                       const response = await axios.post(
-                        "https://blacksand.city/api/blacksand/registration/create",
+                        "http://localhost:3000/api/blacksand/registration/create",
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
                           discord_handle: discordHandle,
                           treats: selectedItems.map((item) => item.id),
+                          baby: selectedBaby,
                           signature,
                         }
                       );
@@ -617,7 +673,35 @@ const Paddock = () => {
               </div>
             )}
             </div>
-
+            <div className={styles.card3}>
+            <h2 className={styles.subtitle_card3}>Babies</h2>
+            <div className={styles["token-grid"]}>
+              {babyTokens.map((item, i) => (
+                <TokenCard
+                  key={i}
+                  item={item}
+                  setSelectedRacer={(id) => {
+                    setSelectedBaby(id);
+                    horseSelectedSound?.play();
+                  }}
+                />
+              ))}
+            </div>
+            {babyTokens.length <= 0 && !isLoadingTokens && (
+              <div className={styles["token-grid-empty"]}>
+                <p
+                  style={{
+                    color: "white",
+                  }}
+                >
+                  Looks like you don't have any mounts
+                </p>
+                <Link href="/mint" legacyBehavior>
+                  <button>Get a Mount</button>
+                </Link>
+              </div>
+            )}
+            </div>
             <div className={styles.card3}>
             <h2 ref={specialItemsRef} className={styles.subtitle_card3}>
               Special Treats
