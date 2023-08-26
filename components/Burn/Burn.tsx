@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
-import { Stage, AnimatedSprite } from "@inlet/react-pixi";
+import { Stage, AnimatedSprite, Container } from "@inlet/react-pixi";
+import { BlurFilter } from 'pixi.js';
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
 import styles from "../../styles/css/burn.module.css";
@@ -39,7 +40,7 @@ const Burn = () => {
 
   const handleCharacterSelect = (character: { id: string; contract: string }) => {
     setSelectedCharacter(character);
-    setBurnScreen(BurnScreen.Portal)
+    
   };
 
   const [windowSize, setWindowSize] = useState([
@@ -74,7 +75,7 @@ const Burn = () => {
       style={{
         position: "relative",
         overflow: "hidden",
-        height: 700,
+        height: 2000,
         width: "100%",
       }}
     >
@@ -187,16 +188,26 @@ const Burn = () => {
               />
             ))}
           </div>
+          <button
+                          className={styles["connect-button"]}
+                          onClick={() =>
+                            setBurnScreen(BurnScreen.Portal)
+                          }
+                          
+                        >
+                          Proceed{" "}
+                          <HiOutlineArrowRight color="#000" fontSize="16" />
+                        </button>
         </div>
       )}
       {burnScreen === BurnScreen.Portal && (
         <>
-          <Stage width={windowSize[0]} height={700} id="burnStage">
+          <Stage width={windowSize[0]} height={1400} id="burnStage">
             <ViewPort
               screenWidth={windowSize[0]}
-              screenHeight={700}
+              screenHeight={1400}
               worldWidth={1400}
-              worldHeight={750}
+              worldHeight={1450}
             >
               <AnimatedSprite
                 isPlaying={true}
@@ -229,8 +240,11 @@ const Burn = () => {
                 hitArea={noHitArea}
                 cursor="pointer"
                 width={1400}
-              />
+              />     
+           
+            
             </ViewPort>
+            
           </Stage>
         </>
       )}
