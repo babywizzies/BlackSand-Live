@@ -34,6 +34,16 @@ const ITEM_CONTRACT = "0x7c104b4db94494688027cced1e2ebfb89642c80f";
 const COLLECTION_SET_ID =
   "bf561a706d2a9487e9e176267adb0320d87aefe449bed39767ddb29a8b290948";
 
+const noBabyIDs = [4, 5, 6, 7, 8, 9, 10, 14, 16, 17, 18, 19, 20, 22, 25, 27, 29, 31, 32, 34, 35, 39, 40, 41, 62, 63, 64, 66, 68, 69, 71, 72, 79, 77, 75, 74, 73];
+const Random = Math.floor(Math.random() * noBabyIDs.length);
+const RandomBabyID = noBabyIDs[Random];
+const houses = ["Emerald Eagles", "Red Panda", "Purple Cobras", "Blue Bandits"];
+const getRandomHouse = () => {
+  const randomIndex = Math.floor(Math.random() * houses.length);
+  return houses[randomIndex];
+};
+const assignedHouse = getRandomHouse();
+
 const SPECIAL_RACE_RULES: Record<
   string,
   { dieSides: number; dieCount: number; max: number; required_item?: number }
@@ -225,14 +235,17 @@ const Paddock = () => {
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
   const [selectedBaby, setSelectedBaby] = useState<string | undefined>();
-
+  const [house, setHouse] = useState<string | undefined>();
   const [selectedItems, setSelectedItems] = useState<SelectedTreat[]>([]);
   const [discordHandle, setDiscordHandle] = useState("");
   const [success, setSuccess] = useState(false);
   const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
   const [registeredModalOpen, setRegisteredModalOpen] = useState(false);
-
+  const assignRandomBaby = () => {
+    setSelectedBaby(BABY_CONTRACT +":" + RandomBabyID.toString());
+    setHouse(getRandomHouse)
+  }
   // Sounds
   useAudio("/audio/paddock-bg.mp3", {
     autoplay: true,
@@ -501,6 +514,7 @@ const Paddock = () => {
                   }}
                 />
                 </div>
+        
                 <input
                   placeholder="Discord Handle"
                   className={styles["discord-handle-input"]}
@@ -536,6 +550,7 @@ const Paddock = () => {
                         message: "Register for BlackSand Race",
                       });
                       const racerPieces = selectedRacer.split(":");
+                      const babyID = selectedBaby.split(":");
 
                       const response = await axios.post(
                         "http://localhost:3000/api/blacksand/registration/create",
@@ -544,7 +559,8 @@ const Paddock = () => {
                           collection: racerPieces[0],
                           discord_handle: discordHandle,
                           treats: selectedItems.map((item) => item.id),
-                          baby: selectedBaby,
+                          baby: babyID[1],
+                          team: house,
                           signature,
                         }
                       );
@@ -682,6 +698,7 @@ const Paddock = () => {
                   item={item}
                   setSelectedRacer={(id) => {
                     setSelectedBaby(id);
+                    setHouse(getRandomHouse)
                     horseSelectedSound?.play();
                   }}
                 />
@@ -694,11 +711,13 @@ const Paddock = () => {
                     color: "white",
                   }}
                 >
-                  Looks like you don't have any mounts
+                  Looks like you don't have any babies, but that's okay! There are many orphans who want to race. Click the button below to get assigned a cutie!
                 </p>
-                <Link href="/mint" legacyBehavior>
-                  <button>Get a Mount</button>
-                </Link>
+                
+                <button onClick={assignRandomBaby} className={styles["assign-random-baby-button"]}>
+                    Assign Random Baby
+                  </button>
+                                
               </div>
             )}
             </div>
@@ -932,11 +951,13 @@ const Paddock = () => {
         </div>
       )}
       <Modal open={registeredModalOpen} setOpen={setRegisteredModalOpen}>
-        <h2 className={styles["modal-title"]}>Off to the Races!</h2>
+        <h2 className={styles["modal-title"]}>You've been assigned to the {house} team.</h2>
+
         <p style={{ color: "white", textAlign: "center" }}>
           You're all set, if you'd like to update your registration you can by
           submitting again before the race starts.
         </p>
+          
         <div className={styles["modal-actions"]}>
           <a
             href="https://discord.com/channels/853432452181262346/1047907741999566959"

@@ -6,4 +6,6 @@ export interface Registration {
     wallet?: string,
     pony_name?: string,
     signature?: string,
+    baby?: string,
+    team?: string,
 }
