@@ -21,7 +21,7 @@ const RaceTrack = () => {
     loop: true,
   });
   const { data } = useSWR(
-    "https://blacksand.city/api/blacksand/races/latest",
+    "http://localhost:3000/api/blacksand/races/latest",
     null,
     {
       refreshInterval: 1000 * 60, //1 minute
@@ -69,11 +69,30 @@ const RaceTrack = () => {
   const countdownStart = useTimeSince(raceStartTimestamp);
   const countdownEnd = useTimeSince(raceEndTimestamp);
 
+  const teamScores = useMemo(() => {
+    const scores: { [team: string]: number } = {};
+    positions.forEach((position: any) => {
+      const team = position.registration.team;
+      const points = position.tour_points || 0;
+      if (team) {
+        scores[team] = (scores[team] || 0) + points;
+      }
+    });
+    return scores;
+  }, [positions]);
+  
+
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Race Track</h1>
       <div className={styles["race-details"]}>
         <h2 className={styles.subtitle}>{raceName}</h2>
+        <h3 className={styles.subtitle}>Team Scores</h3>
+  {Object.entries(teamScores).map(([team, score]) => (
+    <div key={team}>
+     <h4 className={styles.subtitle}> {team}: {score}</h4>
+    </div>
+  ))}
         <div className={styles["race-info"]}>
           {race && raceStarted && (
             <p>
@@ -83,16 +102,25 @@ const RaceTrack = () => {
             </p>
           )}
           {race && !raceStarted && <p>Race starts {countdownStart}</p>}
+          <div className={styles["team-scores"]}>
+            
+
+</div>
+
+
+
           <p>{positions.length} contestants</p>
         </div>
       </div>
       <DynamicRaceTrackMap data={positions} />
+      
       {positions && positions.length > 0 && (
         <div className={styles["leaderboard-table"]}>
           <div className={styles["leaderboard-row-header"]}>
             <div></div>
             <div>Points</div>
             <div>Name</div>
+            <div>Team</div>
             <div>Rider</div>
             <div>Treats</div>
           </div>
@@ -137,6 +165,7 @@ const RaceTrack = () => {
                   {position.tour_points || 0}
                 </div>
                 <div>{position.registration.pony_name}</div>
+                <div>{position.registration.team}</div>
                 <div
                   className="racetrack-tooltip"
                   data-tooltip-content={
