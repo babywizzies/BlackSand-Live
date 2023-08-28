@@ -343,16 +343,7 @@ const Paddock = () => {
   if (!isMounted) {
     return null;
   }
-  const fetchBabiesFromRichWallet = async () => {
-    const richWalletAddress = "0xC9305cCD1e70621ea58504FEdDc0d131911FC11C";
-    // Fetch babies from the rich wallet
-    // You can use the useUserTokens hook or directly call an API
-    const { data: richWalletBabies } = await useUserTokens(richWalletAddress, {
-      collection: BABY_CONTRACT,
-      limit: 200,
-    });
-    return richWalletBabies;
-  };
+
   
   return (
     <div className={styles.container}>
@@ -537,6 +528,11 @@ const Paddock = () => {
                         setErrorText("Please select a mount or a pony");
                         return;
                       }
+                      if (!selectedBaby) {
+                        setRegistering(false);
+                        setErrorText("Please select a mount or a pony");
+                        return;
+                      }
 
                       if (discordHandle.length === 0) {
                         setRegistering(false);
@@ -553,7 +549,7 @@ const Paddock = () => {
                       const babyID = selectedBaby.split(":");
 
                       const response = await axios.post(
-                        "http://localhost:3000/api/blacksand/registration/create",
+                        "https://blacksand.city/api/blacksand/registration/create",
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
