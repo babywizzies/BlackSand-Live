@@ -7,7 +7,7 @@ type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
 let canvasHeight = 600;
-let lapPoints = 800;
+let lapPoints = 500;
 let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
@@ -22,7 +22,7 @@ const bgFrameRate = 5;
 
 function preload(p5: p5) {
   background = [
-    p5.loadImage("./img/race-track-map/mountainrangenamed.png")
+    p5.loadImage("./img/race-track-map/elysiancircuit.png")
   ];
 
   if (!images.length) {
@@ -119,21 +119,18 @@ function createRaceTrack(p5: p5, numPoints: number) {
 
 function createGrandTourTrack(p5: p5) {
   let points = [];
-  points.push(p5.createVector(380, 100));
-  points.push(p5.createVector(60, 230));
-  points.push(p5.createVector(80, 300));
-  points.push(p5.createVector(300, 250));
-  points.push(p5.createVector(500, 330));
-  points.push(p5.createVector(800, 400));
-  points.push(p5.createVector(900, 420));
-  points.push(p5.createVector(900, 370));
-  points.push(p5.createVector(800, 320));
-  points.push(p5.createVector(600, 290));
-  points.push(p5.createVector(500, 200));
-  points.push(p5.createVector(660, 150));
-  points.push(p5.createVector(690, 100));
-  points.push(p5.createVector(750, 80));
-  points.push(p5.createVector(750, 80));
+  
+  points.push(p5.createVector(600, 100));
+  points.push(p5.createVector(170, 140));
+  points.push(p5.createVector(170, 470));
+  points.push(p5.createVector(400, 490));
+  points.push(p5.createVector(420, 520));
+  points.push(p5.createVector(600, 500));
+  points.push(p5.createVector(770, 470));
+  points.push(p5.createVector(770, 200));
+  points.push(p5.createVector(820, 500));
+ 
+
 
   return points;
 }
@@ -149,7 +146,7 @@ function drawStartingArc(track: any, p5: p5) {
   let tangent = secondPoint.copy().sub(lastPoint).normalize();
   let angle = p5.atan2(tangent.y, tangent.x);
 
-  p5.fill(220, 220, 220);
+  p5.fill(220, 220, 220, 1);
   p5.noStroke();
   p5.rectMode(p5.CENTER);
 
