@@ -68,16 +68,33 @@ const RaceTrack = () => {
   }, [race.race_data]);
   const countdownStart = useTimeSince(raceStartTimestamp);
   const countdownEnd = useTimeSince(raceEndTimestamp);
-
   const teamScores = useMemo(() => {
     const scores: { [team: string]: number } = {};
+    const teamPlayerCount: { [team: string]: number } = {};
+  
     positions.forEach((position: any) => {
       const team = position.registration.team;
       const points = position.tour_points || 0;
       if (team) {
         scores[team] = (scores[team] || 0) + points;
+        teamPlayerCount[team] = (teamPlayerCount[team] || 0) + 1;
       }
     });
+  
+    // Calculate the average score multiplied by 12 for each team and round down
+    Object.keys(scores).forEach((team) => {
+      scores[team] = Math.floor((scores[team] / teamPlayerCount[team]) * 12);
+      if (team === "Purple Cobras") {
+        scores[team] += 120;
+      }
+      if (team === "Emerald Eagles") {
+        scores[team] += 160;
+      }
+      if (team === "Blue Bandits") {
+        scores[team] += 15;
+      }
+    });
+  
     return scores;
   }, [positions]);
   
