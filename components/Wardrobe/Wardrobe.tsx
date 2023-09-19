@@ -22,6 +22,7 @@ import axios from "axios";
 import Confetti from "react-dom-confetti";
 import useAudio from "../../hooks/useAudio";
 import Modal from "../Modal";
+import CharacterSelect from "../Burn/CharacterSelect";
 
 export type SelectedTreat = {
   name: string;
@@ -37,6 +38,7 @@ const WARRIOR_CONTRACT = "0x9690b63eb85467be5267a3603f770589ab12dc95";
 const ITEM_CONTRACT = "0x7c104b4db94494688027cced1e2ebfb89642c80f";
 const COLLECTION_SET_ID =
   "c22b4bd34c1aed0b6ac30ca32937b787275f3c59315b57d4b441dafe196448a7";
+
 
 
 
@@ -104,8 +106,17 @@ const Wardrobe = () => {
   const [ownership, setOwnership] = useState(false);
   const [adult, setAdult] = useState(1);
   const [pushId, setPushId] = useState ("0");
-  
+  const [selectedCharacter, setSelectedCharacter] = useState<any>(null);
 
+  const handleCharacterSelect = (character: { id: string; contract: string }) => {
+    setSelectedCharacter(character);
+    
+  };
+  const { address: accountAddress } = useAccount();
+  const { data: tokens } = useUserTokens(accountAddress, {
+    collectionsSetId:
+      "2bbf8c77426ecef122b930e50d37eef1eefd8de0eaad268e3ee3abc05d3a2937",
+  });
   // Sounds
   useAudio("/audio/paddock-bg.mp3", {
     autoplay: true,
@@ -191,7 +202,34 @@ const Wardrobe = () => {
 
   return (
     <div className={styles.container}>
-      <h1 className={styles.title}>Paddock</h1>
+     <h2 className={styles.title}>Choose your Adventurer</h2>
+          {selectedCharacter && (
+        <div>
+          Selected Character ID: {selectedCharacter.id}
+        </div>
+      )}
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              gap: 20,
+              margin: "20px 60px",
+              flexWrap: "wrap",
+              overflowY: "auto",
+              height: 600,
+            }}
+          >
+            {tokens.map((token, i) => (
+              <CharacterSelect
+                id={token?.token?.tokenId as string}
+                contract={token?.token?.contract}
+                key={i}
+                onSelect={handleCharacterSelect}
+                isSelected={selectedCharacter?.id === token?.token?.tokenId}
+              />
+            ))}
+          </div>
+      
       {!address && (
         <div className={styles["connect-container"]}>
           <div className={styles["connect-subtitle"]}>
@@ -200,6 +238,7 @@ const Wardrobe = () => {
           <ConnectButton />
         </div>
       )}
+      
       {address && (
         <div className={styles.paddock_container}>
 

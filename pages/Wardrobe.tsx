@@ -1,7 +1,7 @@
 import React from "react";
 import type { NextPage } from "next";
 import Head from "next/head";
-import Wardrobe from "../components/Wardrobe/Wardrobe";
+import Wardrobe2 from "../components/Wardrobe/Wardrobe2";
 
 const WardrobePage: NextPage = () => {
   return (
@@ -13,7 +13,7 @@ const WardrobePage: NextPage = () => {
       </Head>
 
       <main className="main">
-        <Wardrobe />
+        <Wardrobe2 />
       </main>
     </div>
   );

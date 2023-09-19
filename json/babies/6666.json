@@ -1,0 +1,28 @@
+{
+  "name": "Baby Spot Hunter",
+  "image": "https://forgottenbabies.com/uri/json/6666.png",
+  "serial": 6666,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "body",
+      "value": "hunter_onesie"
+    },
+    {
+      "trait_type": "head",
+      "value": "baby_gfunk_head"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "young_aura_wolf"
+    },
+    {
+      "trait_type": "prop",
+      "value": "flimsy_joint"
+    }
+  ],
+  "compiler": "Baby Maker v2"
+}
