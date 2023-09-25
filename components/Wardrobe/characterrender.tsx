@@ -1,4 +1,5 @@
 import React from 'react';
+import styles from "../../styles/css/wardrobe2.module.css"
 
 interface Trait {
     trait_type: string;
@@ -56,22 +57,16 @@ const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection })
     console.log("Props in CharacterRender:", { traits, collection });    const orderedTraits = orderTraits(traits);
 
     return (
-        <div style={{ width: '500px', height: '500px', position: 'relative' }}>
+        <div className={styles.adventurer_container} >
             {orderedTraits.map((trait, index) => {
-    console.log(generateImagePath(trait.trait_type, trait.value));
+            console.log(generateImagePath(trait.trait_type, trait.value));
     return (
-<img 
-    key={index}
-    src={generateImagePath(trait.trait_type, trait.value, collection)} // Pass the collection's name here
-    alt={trait.value}
-    style={{
-        position: 'absolute',
-        top: 0,
-        left: 0,
-        width: '100%',
-        height: '100%'
-    }}
-/>
+        <img 
+            className={styles.adventurer_img}
+            key={index}
+            src={generateImagePath(trait.trait_type, trait.value, collection)} // Pass the collection's name here
+            alt={trait.value}
+        />
     );
 })}
         </div>
