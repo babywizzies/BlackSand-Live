@@ -1,0 +1,115 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+}
+
+.title {
+    font-family: 'Origen';
+    font-size: clamp(2.8rem, 1.8769rem + 3.451vw, 5rem);
+    background: -webkit-linear-gradient(#fbea71, #d4b42c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+    line-height: 110px;
+}
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.adventurer_select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adventurer_container{
+    position: relative;
+    width: 300px;
+    height: 300px;
+}
+
+.adventurer_img{
+    width: 300px;
+    height: 300px;
+    padding: 25px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    background-image: url('/img/burn/scroll/frame.png');
+    background-size: 300px 300px;
+}
+
+.athenaeum_container{
+    display: flex;
+    gap: 10px;
+}
+
+.athenaeum_item{
+    width: 120px;
+    background-image: url('/img/burn/scroll/frame.png');
+    background-size: 117px 117px;
+    padding-left: 20px;
+    padding-top: 20px;
+    background-repeat: no-repeat;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    color: white;
+}
+
+.select_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.char_img{
+    width: 200px;
+    height: 200px;
+}
+
+.container3{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    overflow-y: auto;
+}
+
+.container4{
+    
+}
+
+.connect_container{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    overflow-y: auto;
+}
+
+.connect_button{
+    font-size: 1.3rem;
+  margin-top: 30px;
+  padding: 10px 20px;
+  background-color: #d4b42c;
+  color: black;
+  font-family: 'Piilani';
+  border-radius: 10px;
+}

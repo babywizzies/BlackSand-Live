@@ -1,11 +1,12 @@
 import React, { useEffect, useState, useRef } from "react";
-import styles from "../../styles/css/wardrobe.module.css";
+import styles from "../../styles/css/wardrobe2.module.css"
 import { HiOutlineArrowRight } from "react-icons/hi";
 import CharacterSelect from "../Burn/CharacterSelect";
 import { useUserTokens } from "@reservoir0x/reservoir-kit-ui";
 import { useAccount } from "wagmi";
 import useCharacterData from "../../hooks/useCharacterData"
 import RenderCharacter from "./characterrender"
+import { ConnectButton } from "@rainbow-me/rainbowkit";
 
 enum EquipScreen {
     CharacterSelection,
@@ -83,40 +84,43 @@ const Wardrobe2: React.FC = () => {
 
     return (
         
-        <div>
+        <div className={styles.container}>
             <h2 className={styles.title}>Choose your Adventurer</h2>
             {equipScreen === EquipScreen.Equip && (
-
-             <div><RenderCharacter traits={characterData.attributes} collection={collectionName} />
-             <div className="athenaeum-items">
-                 {athenaeumItems?.map((item, i) => {
-                     const imagePath = `/assets/athenaeum/${item?.token?.name?.toLowerCase().replace(/\s+/g, '_').replace(/'/g, "")}.png`;
-                     return (
-                         <img
-                             key={i}
-                             src={imagePath}
-                             alt="MISSINGNO"
-                             width="25%"
-                             onClick={() => handleEquipItem(item?.token?.name?.toLowerCase().replace(/\s+/g, '_').replace(/'/g, ""), 'prop')}
-                             className="athenaeum-item"
-                         />
-                     );
-                 })}
-             </div></div>   
+             <div className={styles.container1}>
+                <div className={styles.adventurer_select}>
+                <RenderCharacter traits={characterData.attributes} collection={collectionName} />
+                </div>
+                <div className={styles.athenaeum_container}>
+                    {athenaeumItems?.map((item, i) => {
+                        const imagePath = `/assets/athenaeum/${item?.token?.name?.toLowerCase().replace(/\s+/g, '_').replace(/'/g, "")}.png`;
+                        return (
+                            <img
+                                key={i}
+                                src={imagePath}
+                                alt="MISSINGNO"
+                                onClick={() => handleEquipItem(item?.token?.name?.toLowerCase().replace(/\s+/g, '_').replace(/'/g, ""), 'prop')}
+                                className={styles.athenaeum_item}
+                            />
+                        );
+                        
+                    })}
+                </div>
+             </div>   
             )}   
                 
             {selectedCharacter && (
-                <div>
-                    Selected Character ID: {selectedCharacter.id}
+                <div className={styles.container2}>
+                    <p>Selected Character ID: {selectedCharacter.id}</p>
                     Selected Character Contract: {selectedCharacter.contract} {collectionName}
                     {/* Modified this block to display the character data */}
                     {loading ? (
                         "Loading character data..."
                     ) : (
                         characterData && (
-                            <div>
+                            <div className={styles.select_container}>
                                 <p>Name: {characterData.name}</p>
-                                <img src={characterData.image} alt={characterData.name} />
+                                <img className={styles.char_img} src={characterData.image} alt={characterData.name} />
                                 {characterData.attributes.map((attr, index) => (
                                     <p key={index}>
                                         {attr.trait_type}: {attr.value}
@@ -128,15 +132,9 @@ const Wardrobe2: React.FC = () => {
                 </div>
             )}
             {equipScreen === EquipScreen.CharacterSelection && (
-            <div style={{
-                display: "flex",
-                justifyContent: "center",
-                gap: 20,
-                margin: "20px 60px",
-                flexWrap: "wrap",
-                overflowY: "auto",
-                height: 600,
-            }}>
+            <div
+                className={styles.container3}
+             >
                 {tokens.map((token, i) => (
                     <CharacterSelect
                         id={token?.token?.tokenId as string}
@@ -146,13 +144,75 @@ const Wardrobe2: React.FC = () => {
                         isSelected={selectedCharacter?.id === token?.token?.tokenId}
                     />
                 ))}
-            </div>)}
+            </div>
+            )}
             {equipScreen === EquipScreen.CharacterSelection && (
-            <button
-                className={styles["connect-button"]}
-                onClick={() => setEquipScreen(EquipScreen.Equip)}>  {/* Modified this line */}
-                Proceed <HiOutlineArrowRight color="#000" fontSize="16" />
-            </button>)}
+                <div className={styles.connect_container}>
+             <ConnectButton.Custom>
+             {({
+               account,
+               chain,
+               openChainModal,
+               openConnectModal,
+               mounted,
+             }) => {
+               const ready = mounted && "loading";
+               const connected = ready && account && chain && "authenticated";
+ 
+               return (
+                 <div
+                   {...(!ready && {
+                     "aria-hidden": true,
+                     style: {
+                       opacity: 0,
+                       pointerEvents: "none",
+                       userSelect: "none",
+                     },
+                   })}
+                 >
+                   {(() => {
+                     if (!connected) {
+                       return (
+                         <button
+                         className={styles.connect_button}
+                           onClick={openConnectModal}
+                           type="button"
+                         >
+                           Connect Wallet
+                         </button>
+                       );
+                     }
+ 
+                     if (chain.unsupported) {
+                       return (
+                         <button
+                           className={styles["connect-button"]}
+                           onClick={openChainModal}
+                           type="button"
+                         >
+                           Switch Networks
+                         </button>
+                       );
+                     }
+ 
+                     return (
+                       <button
+                         className={styles.connect_button}
+                         onClick={() => setEquipScreen(EquipScreen.Equip)}>  {/* Modified this line */}
+                        
+                         Proceed
+                         <HiOutlineArrowRight color="#000" fontSize="16" />
+                       </button>
+                     );
+                   })()}
+                 </div>
+               );
+             }}
+           </ConnectButton.Custom>
+
+            
+           </div>
+            )}
         </div>
     );
 }

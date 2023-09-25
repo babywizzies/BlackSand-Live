@@ -1,9 +1,9 @@
 .container {
     width: 80%;
     margin: 0 auto;
-  
+    border: 1px solid red;
   }
-  
+
   .athenaeum-items {
     display: flex;
     gap: 10px;
