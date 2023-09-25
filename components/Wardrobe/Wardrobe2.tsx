@@ -1,7 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import styles from "../../styles/css/wardrobe.module.css";
 import { HiOutlineArrowRight } from "react-icons/hi";
-import CharacterSelect from "../Burn/CharacterSelect";
+import CharacterSelect from "./CharacterSelect";
 import { useUserTokens } from "@reservoir0x/reservoir-kit-ui";
 import { useAccount } from "wagmi";
 import useCharacterData from "../../hooks/useCharacterData"
