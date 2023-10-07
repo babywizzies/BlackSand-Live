@@ -1,51 +1,41 @@
 {
+  "idx": "12743",
   "name": "Romney Defeater of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12743",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Tunic Armor"
+      "value": "Blue Tunic Armor",
+      "filename": "body_shirtarmor_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Knight Helm"
+      "value": "Blue Knight Helm",
+      "filename": "head_knight_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spetum"
+      "trait_type": "prop",
+      "value": "Spetum",
+      "filename": "weapon_spear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

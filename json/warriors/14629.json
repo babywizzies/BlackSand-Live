@@ -1,51 +1,41 @@
 {
+  "idx": "14629",
   "name": "Harvey Terror of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14629",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Yellow Cloak"
+      "value": "Aura Knight with Yellow Cloak",
+      "filename": "body_auraknight_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_jeff.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

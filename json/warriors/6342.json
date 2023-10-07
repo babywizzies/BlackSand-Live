@@ -1,51 +1,41 @@
 {
+  "idx": "6342",
   "name": "Herman Armageddon of Lions",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6342",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Ronin Armor"
+      "value": "Dark Ronin Armor",
+      "filename": "body_samurai_dark.png"
     },
     {
       "trait_type": "head",
-      "value": "Imperial Helmet"
+      "value": "Imperial Helmet",
+      "filename": "head_fanhelmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

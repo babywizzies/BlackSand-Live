@@ -1,47 +1,36 @@
 {
+  "idx": "1663",
   "name": "Wilda Lightbearer of the Keep",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1663",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat"
+      "value": "Black Goat",
+      "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Violet Camo"
+      "value": "Street Punk with Violet Camo",
+      "filename": "body_streetpunk_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Autumn Warrior"
+      "value": "Autumn Warrior",
+      "filename": "head_femhelm_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

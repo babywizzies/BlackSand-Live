@@ -1,51 +1,41 @@
 {
+  "idx": "14286",
   "name": "Beron Protector of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14286",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Fur Barbarian"
+      "value": "Fur Barbarian",
+      "filename": "body_fur_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Dwarven Helm"
+      "value": "Blue Dwarven Helm",
+      "filename": "head_glork.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spetum"
+      "trait_type": "prop",
+      "value": "Spetum",
+      "filename": "weapon_spear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

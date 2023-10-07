@@ -1,51 +1,41 @@
 {
+  "idx": "14744",
   "name": "Verus Leveler of Area 71",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14744",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Cyber Viking"
+      "value": "Cyber Viking",
+      "filename": "body_cyberviking.png"
     },
     {
       "trait_type": "head",
-      "value": "Gladiator Helmet"
+      "value": "Gladiator Helmet",
+      "filename": "head_gladiator.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield"
+      "value": "Magic Shield",
+      "filename": "shield_magic.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wratchet"
+      "trait_type": "prop",
+      "value": "Wratchet",
+      "filename": "weapon_wratchet.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

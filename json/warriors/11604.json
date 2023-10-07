@@ -1,43 +1,31 @@
 {
+  "idx": "11604",
   "name": "Shurgz Leveler of the Hell Chamber",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11604",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Raider"
+      "value": "Goblin Raider",
+      "filename": "body_goblin_skull.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin"
+      "value": "Goblin",
+      "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

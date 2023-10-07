@@ -1,43 +1,31 @@
 {
+  "idx": "13518",
   "name": "Lucy Traveler of Titans",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13518",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Honor Guard of the North"
+      "value": "Honor Guard of the North",
+      "filename": "body_femguard_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Oasis"
+      "value": "Lady of the Oasis ",
+      "filename": "head_tori.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

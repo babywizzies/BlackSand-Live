@@ -1,51 +1,41 @@
 {
+  "idx": "568",
   "name": "Maud Stalker of the Grass",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/568",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Greater Cassowary"
+      "value": "Greater Cassowary",
+      "filename": "companion_cassowary.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Amazonian Jumpsuit"
+      "value": "Red Amazonian Jumpsuit",
+      "filename": "body_amazon_red_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Daughter of the Brine"
+      "value": "Daughter of the Brine",
+      "filename": "head_sloanna.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hunting Knife"
+      "trait_type": "prop",
+      "value": "Hunting Knife",
+      "filename": "weapon_knife.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

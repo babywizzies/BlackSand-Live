@@ -1,51 +1,41 @@
 {
+  "idx": "14535",
   "name": "Loz Sorrow of the Nightmare Dominion",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14535",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Old World Mandrill"
+      "value": "Old World Mandrill",
+      "filename": "companion_mandrill.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Toga"
+      "value": "Goblin Toga",
+      "filename": "body_goblin_brute.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin"
+      "value": "Goblin",
+      "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Horror"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

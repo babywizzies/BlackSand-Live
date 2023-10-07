@@ -1,43 +1,31 @@
 {
+  "idx": "15341",
   "name": "Amelia Antihero of Bears",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15341",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Woodlander"
+      "value": "Woodlander",
+      "filename": "head_sharon.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Estoc"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Estoc",
+      "filename": "weapon_estoc.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

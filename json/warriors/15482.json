@@ -1,51 +1,41 @@
 {
+  "idx": "15482",
   "name": "Blake Champion of Dragons",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15482",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Nord Armor"
+      "value": "Nord Armor",
+      "filename": "body_nordarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Winter Warrior"
+      "value": "Winter Warrior",
+      "filename": "head_femhelm_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield"
+      "value": "Triple Triangle Shield",
+      "filename": "shield_3tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sai"
+      "trait_type": "prop",
+      "value": "Sai",
+      "filename": "weapon_sai.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

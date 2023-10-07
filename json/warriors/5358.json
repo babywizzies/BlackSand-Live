@@ -1,43 +1,31 @@
 {
+  "idx": "5358",
   "name": "Callan Knockout of the Range",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5358",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Tower Plate Armor"
+      "value": "Tower Plate Armor",
+      "filename": "body_plateArmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Macho Man"
+      "value": "Macho Man",
+      "filename": "head_mucho.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

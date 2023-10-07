@@ -1,51 +1,41 @@
 {
+  "idx": "15918",
   "name": "Orion Shaver of the Riverlands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15918",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Dominion Plate Armor"
+      "value": "Dominion Plate Armor",
+      "filename": "body_plateArmor_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Executioner"
+      "value": "Executioner",
+      "filename": "head_executioner.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

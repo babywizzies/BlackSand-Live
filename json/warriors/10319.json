@@ -1,51 +1,41 @@
 {
+  "idx": "10319",
   "name": "Marcus Beater of the North",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10319",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound"
+      "value": "Demon Hound",
+      "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Blue Cloak"
+      "value": "Aura Knight with Blue Cloak",
+      "filename": "body_auraknight_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skindark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Iron Buckler"
+      "value": "Iron Buckler",
+      "filename": "shield_buckler.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Nunchaku"
+      "trait_type": "prop",
+      "value": "Nunchaku",
+      "filename": "weapon_nunchucku.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Protection"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Protection",
+      "filename": "rune_protection.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

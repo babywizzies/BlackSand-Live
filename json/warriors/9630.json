@@ -1,43 +1,31 @@
 {
+  "idx": "9630",
   "name": "Bane Apocalypse of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9630",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Wrestling Singlet"
+      "value": "Yellow Wrestling Singlet",
+      "filename": "body_wrestler_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

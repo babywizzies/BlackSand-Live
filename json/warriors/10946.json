@@ -1,51 +1,41 @@
 {
+  "idx": "10946",
   "name": "Einer Death of Cataclysm",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10946",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Hedge Knight Armor"
+      "value": "Red Hedge Knight Armor",
+      "filename": "body_knight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Wrestler Giant"
+      "value": "Wrestler Giant",
+      "filename": "head_barga.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Guardian Sword"
+      "trait_type": "prop",
+      "value": "Guardian Sword",
+      "filename": "weapon_sword_gear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

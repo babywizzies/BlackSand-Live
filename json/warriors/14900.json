@@ -1,51 +1,41 @@
 {
+  "idx": "14900",
   "name": "Thomas Mangler of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14900",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Tunic Armor"
+      "value": "Purple Tunic Armor",
+      "filename": "body_shirtarmor_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Templar"
+      "value": "Templar ",
+      "filename": "head_crusader.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Yellow Chainsaw"
+      "trait_type": "prop",
+      "value": "Yellow Chainsaw",
+      "filename": "weapon_chainsaw_yellow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

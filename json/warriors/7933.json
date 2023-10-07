@@ -1,47 +1,36 @@
 {
+  "idx": "7933",
   "name": "Aurelia Lumper of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7933",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Bikini"
+      "value": "Classic Gold Barbarian Bikini",
+      "filename": "body_fembarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Mountain"
+      "value": "Lady of the Mountain ",
+      "filename": "head_velbeh.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

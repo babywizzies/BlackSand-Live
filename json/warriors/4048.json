@@ -1,43 +1,31 @@
 {
+  "idx": "4048",
   "name": "Maxim Stormer of Flowers",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4048",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": "head_yan.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Scimitar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Scimitar",
+      "filename": "weapon_scimitar.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

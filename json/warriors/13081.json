@@ -1,47 +1,36 @@
 {
+  "idx": "13081",
   "name": "Gorgo Hero of the Duck Alliance",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13081",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Wrestling Singlet"
+      "value": "Yellow Wrestling Singlet",
+      "filename": "body_wrestler_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Contender Helm"
+      "value": "Contender Helm",
+      "filename": "head_helmet.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladiator Sword"
+      "trait_type": "prop",
+      "value": "Gladiator Sword",
+      "filename": "weapon_sword_spartan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

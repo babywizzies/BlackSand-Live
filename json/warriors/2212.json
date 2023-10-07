@@ -1,43 +1,31 @@
 {
+  "idx": "2212",
   "name": "Alex Granulator of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2212",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Bone Warrior"
+      "value": "Bone Warrior",
+      "filename": "body_wildbone_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sharyl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

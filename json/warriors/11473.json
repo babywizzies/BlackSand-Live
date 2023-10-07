@@ -1,51 +1,41 @@
 {
+  "idx": "11473",
   "name": "Harland Peacemaker of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11473",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Provocator Garb"
+      "value": "Purple Provocator Garb",
+      "filename": "body_provoc_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Earth Guard"
+      "value": "Earth Guard",
+      "filename": "head_jardem.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tate Shield"
+      "value": "Tate Shield",
+      "filename": "shield_samurai.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Chakram"
+      "trait_type": "prop",
+      "value": "Chakram",
+      "filename": "weapon_chakram.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "9551",
   "name": "Winchester Savior of Monsters",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9551",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Iron Knight of the Hills"
+      "value": "Iron Knight of the Hills",
+      "filename": "body_grillknight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_steve.png"
     },
     {
       "trait_type": "shield",
-      "value": "Horseshoe Shield"
+      "value": "Horseshoe Shield",
+      "filename": "shield_horseshoe.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

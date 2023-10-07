@@ -1,43 +1,31 @@
 {
+  "idx": "14720",
   "name": "Ferocina Razer of the Capital",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14720",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "White Dominatrix Gear"
+      "value": "White Dominatrix Gear",
+      "filename": "body_dom_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Valkyrie"
+      "value": "Valkyrie",
+      "filename": "head_valkyrun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Flame Thrower"
+      "trait_type": "prop",
+      "value": "Flame Thrower",
+      "filename": "weapon_flamethrower.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Horror"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

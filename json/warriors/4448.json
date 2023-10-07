@@ -1,51 +1,41 @@
 {
+  "idx": "4448",
   "name": "Eon Defeater of Ruffians",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4448",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Summer Warrior"
+      "value": "Summer Warrior",
+      "filename": "head_femhelm_green.png"
     },
     {
       "trait_type": "shield",
-      "value": "Toxin Shield"
+      "value": "Toxin Shield",
+      "filename": "shield_hazard.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

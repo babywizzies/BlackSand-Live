@@ -1,51 +1,41 @@
 {
+  "idx": "7221",
   "name": "Hedgie Punisher of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7221",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of the Forest"
+      "value": "Banded Armor of the Forest",
+      "filename": "body_bandArmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Moon"
+      "value": "Shield of the Moon",
+      "filename": "shield_moon.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Broadsword"
+      "trait_type": "prop",
+      "value": "Red Broadsword",
+      "filename": "weapon_sword_bigbarb_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

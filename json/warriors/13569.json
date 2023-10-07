@@ -1,51 +1,41 @@
 {
+  "idx": "13569",
   "name": "Faust Impaler of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13569",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Desert Wear"
+      "value": "Desert Wear",
+      "filename": "body_desert.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Bearded Berserker"
+      "value": "Red Bearded Berserker",
+      "filename": "head_berserker_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "5445",
   "name": "Neo Raider of the Savannah",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5445",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Leather Barbarian Briefs"
+      "value": "Classic Leather Barbarian Briefs",
+      "filename": "body_barbarian_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Hero"
+      "value": "Action Hero",
+      "filename": "head_rocky.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Battle Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Battle Axe",
+      "filename": "weapon_axe.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

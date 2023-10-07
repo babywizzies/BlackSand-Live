@@ -1,51 +1,41 @@
 {
+  "idx": "4500",
   "name": "Sauda Despoiler of the Cockatrice",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4500",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Valkyrie Armor"
+      "value": "Purple Valkyrie Armor",
+      "filename": "body_valkyrie_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Divanae"
+      "value": "Divanae",
+      "filename": "head_maude.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield"
+      "value": "Triple Triangle Shield",
+      "filename": "shield_3tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

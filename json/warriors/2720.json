@@ -1,39 +1,26 @@
 {
+  "idx": "2720",
   "name": "Pak Dicer of Goblins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2720",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "White Tunic Armor"
+      "value": "White Tunic Armor",
+      "filename": "body_shirtarmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Imp Warrior"
+      "value": "Imp Warrior",
+      "filename": "head_impy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Teal"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

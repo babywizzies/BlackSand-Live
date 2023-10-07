@@ -1,51 +1,41 @@
 {
+  "idx": "8461",
   "name": "Mushloom Vanquisher of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8461",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic Armor"
+      "value": "Brown Tunic Armor",
+      "filename": "body_shirtarmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

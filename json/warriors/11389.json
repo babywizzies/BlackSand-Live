@@ -1,47 +1,36 @@
 {
+  "idx": "11389",
   "name": "Wolfe Smasher of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11389",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Provocator Garb"
+      "value": "Purple Provocator Garb",
+      "filename": "body_provoc_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Moon"
+      "value": "Shield of the Moon",
+      "filename": "shield_moon.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spiked Ball and Chain"
+      "trait_type": "prop",
+      "value": "Spiked Ball and Chain",
+      "filename": "weapon_ballchain.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

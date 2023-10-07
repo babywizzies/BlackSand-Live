@@ -1,43 +1,31 @@
 {
+  "idx": "10157",
   "name": "Jag Eliminator of the Mist",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10157",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Raider"
+      "value": "Goblin Raider",
+      "filename": "body_goblin_skull.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin"
+      "value": "Capped Goblin",
+      "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

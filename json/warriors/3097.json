@@ -1,39 +1,26 @@
 {
+  "idx": "3097",
   "name": "Billy Razer of Lizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3097",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Commando Fatigues"
+      "value": "Commando Fatigues",
+      "filename": "body_commando_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Earth Guard"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Earth Guard",
+      "filename": "head_jardem.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

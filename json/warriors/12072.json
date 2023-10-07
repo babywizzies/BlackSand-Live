@@ -1,47 +1,36 @@
 {
+  "idx": "12072",
   "name": "Serge Paragon of Honor",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12072",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "White Tunic Armor"
+      "value": "White Tunic Armor",
+      "filename": "body_shirtarmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Loxodonta"
+      "value": "Loxodonta",
+      "filename": "head_elephant.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Aspis"
+      "value": "Green Aspis",
+      "filename": "shield_circle_cross_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Chakram"
+      "trait_type": "prop",
+      "value": "Chakram",
+      "filename": "weapon_chakram.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

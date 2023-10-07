@@ -1,43 +1,31 @@
 {
+  "idx": "2696",
   "name": "Brianne Demolisher of Knights",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2696",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red One Piece"
+      "value": "Red One Piece",
+      "filename": "body_onepiece_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Mountain"
+      "value": "Lady of the Mountain ",
+      "filename": "head_velbi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Moon"
+      "value": "Shield of the Moon",
+      "filename": "shield_moon.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

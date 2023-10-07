@@ -1,51 +1,41 @@
 {
+  "idx": "11599",
   "name": "Makena Amputator of Turtles",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11599",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Chelonian Armor"
+      "value": "Chelonian Armor",
+      "filename": "body_knightTurtle_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Peahen Warrior"
+      "value": "Peahen Warrior",
+      "filename": "head_sel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Dragon Pike"
+      "trait_type": "prop",
+      "value": "Silver Dragon Pike",
+      "filename": "weapon_dragonpike_silver.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

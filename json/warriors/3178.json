@@ -1,47 +1,36 @@
 {
+  "idx": "3178",
   "name": "Desta Cataclysm of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3178",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Rose Camo"
+      "value": "Street Punk with Rose Camo",
+      "filename": "body_streetpunk_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Peacock Warrior"
+      "value": "Peacock Warrior",
+      "filename": "head_sol.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Sword"
+      "trait_type": "prop",
+      "value": "Goblin Sword",
+      "filename": "weapon_sword_goblin.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

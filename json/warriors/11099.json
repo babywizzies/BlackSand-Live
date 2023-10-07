@@ -1,43 +1,31 @@
 {
+  "idx": "11099",
   "name": "Mbali Cruncher of Thieves",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11099",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Knight"
+      "value": "Brown Knight",
+      "filename": "body_fem_knight_brown_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Abyssinian"
+      "value": "Abyssinian",
+      "filename": "head_nala.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Aspis"
+      "value": "Green Aspis",
+      "filename": "shield_circle_cross_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

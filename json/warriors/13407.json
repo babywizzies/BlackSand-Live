@@ -1,47 +1,36 @@
 {
+  "idx": "13407",
   "name": "Thorne Impaler of Atlantis",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13407",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Fur Barbarian"
+      "value": "Fur Barbarian",
+      "filename": "body_fur_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "South Sider"
+      "value": "South Sider",
+      "filename": "head_rockmov.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

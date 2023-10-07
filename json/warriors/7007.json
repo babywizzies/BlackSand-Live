@@ -1,51 +1,41 @@
 {
+  "idx": "7007",
   "name": "Dot Wrecker of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7007",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Green Briefs"
+      "value": "Gladiator's Cloak with Green Briefs",
+      "filename": "body_spartan_silver_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Metabot"
+      "value": "Metabot",
+      "filename": "head_metabot.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spiked Ball and Chain"
+      "trait_type": "prop",
+      "value": "Spiked Ball and Chain",
+      "filename": "weapon_ballchain.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

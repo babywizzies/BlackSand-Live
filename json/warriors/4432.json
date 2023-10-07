@@ -1,51 +1,41 @@
 {
+  "idx": "4432",
   "name": "Stewie Chainsaw of Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4432",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Earth"
+      "value": "Armor of Earth",
+      "filename": "body_knightearth.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Yellow Chainsaw"
+      "trait_type": "prop",
+      "value": "Yellow Chainsaw",
+      "filename": "weapon_chainsaw_yellow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

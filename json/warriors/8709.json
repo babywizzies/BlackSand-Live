@@ -1,51 +1,41 @@
 {
+  "idx": "8709",
   "name": "Sigmund Breaker of Devils",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8709",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound"
+      "value": "Demon Hound",
+      "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Dominion Plate Armor"
+      "value": "Dominion Plate Armor",
+      "filename": "body_plateArmor_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Motor Assassin"
+      "value": "Motor Assassin",
+      "filename": "head_arnie.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Skull"
+      "value": "Shield of the Skull",
+      "filename": "shield_skull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

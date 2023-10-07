@@ -1,43 +1,31 @@
 {
+  "idx": "10151",
   "name": "Mungo Mincer of the Apocalypse",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10151",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Hedge Knight Armor"
+      "value": "Purple Hedge Knight Armor",
+      "filename": "body_knight_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Anuran Warrior"
+      "value": "Anuran Warrior",
+      "filename": "head_puzu.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Battle Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Battle Axe",
+      "filename": "weapon_axe.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

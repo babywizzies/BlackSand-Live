@@ -1,51 +1,41 @@
 {
+  "idx": "14250",
   "name": "Duncan Sorrow of the Sacred Pillars",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14250",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Tunic Armor"
+      "value": "Purple Tunic Armor",
+      "filename": "body_shirtarmor_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Bad Mofo"
+      "value": "Bad Mofo",
+      "filename": "head_jules.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Dragon Pike"
+      "trait_type": "prop",
+      "value": "Malachite Dragon Pike",
+      "filename": "weapon_dragonpike_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

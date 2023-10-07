@@ -1,51 +1,41 @@
 {
+  "idx": "13320",
   "name": "Ernest Hellraiser of the Duck Alliance",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13320",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Provocator Garb"
+      "value": "Red Provocator Garb",
+      "filename": "body_provoc_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Ronin"
+      "value": "Red Ronin",
+      "filename": "head_samurai_red.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Titan Cleaver"
+      "trait_type": "prop",
+      "value": "Titan Cleaver",
+      "filename": "weapon_cleaver_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

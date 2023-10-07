@@ -1,51 +1,41 @@
 {
+  "idx": "3277",
   "name": "Naberius Champion of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3277",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Provocator Garb"
+      "value": "Purple Provocator Garb",
+      "filename": "body_provoc_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Ether Horn Helm"
+      "value": "Ether Horn Helm",
+      "filename": "head_helmethorn_light.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield"
+      "value": "Triple Triangle Shield",
+      "filename": "shield_3tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Plains Boomerang"
+      "trait_type": "prop",
+      "value": "Plains Boomerang",
+      "filename": "weapon_boomerang_yellow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

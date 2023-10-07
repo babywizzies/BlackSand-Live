@@ -1,51 +1,41 @@
 {
+  "idx": "4017",
   "name": "Toka Armageddon of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4017",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Fire"
+      "value": "Armor of Fire",
+      "filename": "body_knightfire.png"
     },
     {
       "trait_type": "head",
-      "value": "Anuran Warrior"
+      "value": "Anuran Warrior",
+      "filename": "head_puzu.png"
     },
     {
       "trait_type": "shield",
-      "value": "Peace Shield"
+      "value": "Peace Shield",
+      "filename": "shield_peace.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Dragon Pike"
+      "trait_type": "prop",
+      "value": "Silver Dragon Pike",
+      "filename": "weapon_dragonpike_silver.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

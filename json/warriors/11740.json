@@ -1,51 +1,41 @@
 {
+  "idx": "11740",
   "name": "Frankie Champion of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11740",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Road Spandex"
+      "value": "Green Road Spandex",
+      "filename": "body_roadwarrior_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bambam"
+      "value": "Bambam",
+      "filename": "head_bambam.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Aspis"
+      "value": "Red Aspis",
+      "filename": "shield_circle_cross_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

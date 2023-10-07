@@ -1,51 +1,41 @@
 {
+  "idx": "12744",
   "name": "Nick Render of the Worms",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12744",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Toga"
+      "value": "Goblin Toga",
+      "filename": "body_goblin_brute.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin"
+      "value": "Capped Goblin",
+      "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Green Longsword"
+      "trait_type": "prop",
+      "value": "Green Longsword",
+      "filename": "weapon_longsword_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

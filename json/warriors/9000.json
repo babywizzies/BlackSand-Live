@@ -1,51 +1,41 @@
 {
+  "idx": "9000",
   "name": "Baako of Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9000",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle"
+      "value": "Mutant Snapping Turtle",
+      "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Knight"
+      "value": "Green Knight",
+      "filename": "body_fem_knight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Peahen Warrior"
+      "value": "Peahen Warrior",
+      "filename": "head_sel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hambone"
+      "trait_type": "prop",
+      "value": "Hambone",
+      "filename": "item_hambone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

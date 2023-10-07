@@ -1,51 +1,41 @@
 {
+  "idx": "7491",
   "name": "Jojo Mercenary of the Dawn",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7491",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "White Knight"
+      "value": "White Knight",
+      "filename": "body_fem_knight_white_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Kushite"
+      "value": "Kushite",
+      "filename": "head_chane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Dane Axe"
+      "trait_type": "prop",
+      "value": "Dane Axe",
+      "filename": "weapon_axe_dane.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

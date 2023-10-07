@@ -1,47 +1,36 @@
 {
+  "idx": "10030",
   "name": "Titus Shatterer of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10030",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Briefs"
+      "value": "Classic Gold Barbarian Briefs",
+      "filename": "body_barbarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Stunt Man"
+      "value": "Stunt Man",
+      "filename": "head_joremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Aspis"
+      "value": "Green Aspis",
+      "filename": "shield_circle_cross_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Hammer"
+      "trait_type": "prop",
+      "value": "Wooden Hammer",
+      "filename": "weapon_hammer_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

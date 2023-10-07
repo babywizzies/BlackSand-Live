@@ -1,51 +1,41 @@
 {
+  "idx": "8604",
   "name": "Genkei Attacker of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8604",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle"
+      "value": "Mutant Snapping Turtle",
+      "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Chelonian Armor"
+      "value": "Chelonian Armor",
+      "filename": "body_knightTurtle_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Ronin"
+      "value": "Red Ronin",
+      "filename": "head_samurai_red.png"
     },
     {
       "trait_type": "shield",
-      "value": "Kraken Shield"
+      "value": "Kraken Shield",
+      "filename": "shield_kraken.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

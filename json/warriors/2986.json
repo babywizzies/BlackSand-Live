@@ -1,51 +1,41 @@
 {
+  "idx": "2986",
   "name": "Denali Eidolon of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2986",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Blue"
+      "value": "Traveller's Cloak Blue",
+      "filename": "body_cloak_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Colloidal Silver Man"
+      "value": "Colloidal Silver Man",
+      "filename": "head_blueman.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Poleaxe"
+      "trait_type": "prop",
+      "value": "Silver Poleaxe",
+      "filename": "weapon_poleaxe_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

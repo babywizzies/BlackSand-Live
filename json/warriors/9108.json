@@ -1,43 +1,31 @@
 {
+  "idx": "9108",
   "name": "Hamma Apocalypse of the Back Alley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9108",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "body",
-      "value": "South Island MMA Pants"
+      "value": "South Island MMA Pants",
+      "filename": "body_martial_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Viking Helm"
+      "value": "Purple Viking Helm",
+      "filename": "head_gerj.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Sword"
+      "trait_type": "prop",
+      "value": "Goblin Sword",
+      "filename": "weapon_sword_goblin.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

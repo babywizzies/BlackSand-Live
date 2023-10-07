@@ -1,51 +1,41 @@
 {
+  "idx": "5709",
   "name": "Bruno Razer of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5709",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Majestic Epic Gear"
+      "value": "Majestic Epic Gear",
+      "filename": "body_meso_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Golden Round Shield"
+      "value": "Golden Round Shield",
+      "filename": "shield_goldcircle.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blood Sword"
+      "trait_type": "prop",
+      "value": "Blood Sword",
+      "filename": "weapon_sword_blood.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

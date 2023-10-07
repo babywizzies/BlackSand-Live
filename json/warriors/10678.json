@@ -1,51 +1,41 @@
 {
+  "idx": "10678",
   "name": "Porto Fencer of the Duck Alliance",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10678",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of the Forest"
+      "value": "Banded Armor of the Forest",
+      "filename": "body_bandArmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

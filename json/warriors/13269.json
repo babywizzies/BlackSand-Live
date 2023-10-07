@@ -1,43 +1,31 @@
 {
+  "idx": "13269",
   "name": "Wambe Guillotiner of the Bay",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13269",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Garb"
+      "value": "Pirate Garb",
+      "filename": "body_pirateWar.png"
     },
     {
       "trait_type": "head",
-      "value": "Imp Warrior"
+      "value": "Imp Warrior",
+      "filename": "head_impy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

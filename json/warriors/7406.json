@@ -1,47 +1,36 @@
 {
+  "idx": "7406",
   "name": "Ayodele of the West",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7406",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "South Woodland Cloak"
+      "value": "South Woodland Cloak",
+      "filename": "body_woodfem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Archipelagian"
+      "value": "Archipelagian",
+      "filename": "head_shelley.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bottle of Goblin Beer"
+      "trait_type": "prop",
+      "value": "Bottle of Goblin Beer ",
+      "filename": "item_beer_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

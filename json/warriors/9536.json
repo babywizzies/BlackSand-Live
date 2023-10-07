@@ -1,39 +1,26 @@
 {
+  "idx": "9536",
   "name": "Floyd Cataclysm of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9536",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Belt Ruffian"
+      "value": "Purple Belt Ruffian",
+      "filename": "body_sharp_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Mandinka"
+      "value": "Mandinka",
+      "filename": "head_rocktim.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

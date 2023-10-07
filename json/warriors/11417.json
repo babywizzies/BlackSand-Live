@@ -1,43 +1,31 @@
 {
+  "idx": "11417",
   "name": "Coco Piercer of Imps",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11417",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Red Camo"
+      "value": "Street Punk with Red Camo",
+      "filename": "body_streetpunk_red_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Metabot"
+      "value": "Metabot",
+      "filename": "head_metabot.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

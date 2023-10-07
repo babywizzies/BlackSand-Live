@@ -1,43 +1,31 @@
 {
+  "idx": "5899",
   "name": "Rothschild Apocalypse of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5899",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Red Camo"
+      "value": "Street Punk with Red Camo",
+      "filename": "body_streetpunk_red_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Spiked Helm"
+      "value": "Spiked Helm",
+      "filename": "head_helmet_spike.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Brown Longsword"
+      "trait_type": "prop",
+      "value": "Brown Longsword",
+      "filename": "weapon_longsword_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

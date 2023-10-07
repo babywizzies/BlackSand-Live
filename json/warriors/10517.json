@@ -1,51 +1,41 @@
 {
+  "idx": "10517",
   "name": "Allan Traveler of the Wood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10517",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Harpy Eagle"
+      "value": "Harpy Eagle",
+      "filename": "companion_eagle_harpy.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Red"
+      "value": "Traveller's Cloak Red",
+      "filename": "body_cloak_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Guardian Helm"
+      "value": "Guardian Helm",
+      "filename": "head_guardian_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

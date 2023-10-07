@@ -1,43 +1,31 @@
 {
+  "idx": "4982",
   "name": "Pippa Dicer of the Keep",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4982",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat"
+      "value": "Black Goat",
+      "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Teal Camo"
+      "value": "Street Punk with Teal Camo",
+      "filename": "body_streetpunk_fem_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "She Wolf"
+      "value": "She Wolf",
+      "filename": "head_tania.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

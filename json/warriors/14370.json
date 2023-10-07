@@ -1,43 +1,31 @@
 {
+  "idx": "14370",
   "name": "Sal Mercenary of the Wild",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14370",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Battle Bikini"
+      "value": "Red Battle Bikini",
+      "filename": "body_lea_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady Barbarian"
+      "value": "Lady Barbarian",
+      "filename": "head_shana.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

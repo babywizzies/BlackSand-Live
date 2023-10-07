@@ -1,43 +1,31 @@
 {
+  "idx": "5807",
   "name": "Crom Belligerent of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5807",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Alabaster Paladin Gear"
+      "value": "Alabaster Paladin Gear",
+      "filename": "body_starcleric_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_steve.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladiator Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Gladiator Sword",
+      "filename": "weapon_sword_spartan.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

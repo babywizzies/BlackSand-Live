@@ -1,51 +1,41 @@
 {
+  "idx": "3712",
   "name": "Tidum Calamity of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3712",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of Earth"
+      "value": "Banded Armor of Earth",
+      "filename": "body_bandArmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Jarl Raider"
+      "value": "Jarl Raider",
+      "filename": "head_dormok.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,39 +1,26 @@
 {
+  "idx": "12280",
   "name": "Wharton Chisler of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12280",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Tunic Armor"
+      "value": "Purple Tunic Armor",
+      "filename": "body_shirtarmor_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Dune Man"
+      "value": "Dune Man",
+      "filename": "head_willson.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

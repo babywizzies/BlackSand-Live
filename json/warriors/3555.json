@@ -1,51 +1,41 @@
 {
+  "idx": "3555",
   "name": "Ezra Shark of Muscle Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3555",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Scarlet Macaw"
+      "value": "Scarlet Macaw",
+      "filename": "companion_macaw.png"
     },
     {
       "trait_type": "body",
-      "value": "Dominion Plate Armor"
+      "value": "Dominion Plate Armor",
+      "filename": "body_plateArmor_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Blood Horn Helm"
+      "value": "Blood Horn Helm",
+      "filename": "head_helmethorn_dark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bamboo Pole"
+      "trait_type": "prop",
+      "value": "Bamboo Pole",
+      "filename": "weapon_bamboo.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

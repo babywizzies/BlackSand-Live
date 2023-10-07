@@ -1,51 +1,41 @@
 {
+  "idx": "3307",
   "name": "Zoe Dispatcher of Honor",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3307",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Avalonian"
+      "value": "Avalonian",
+      "filename": "head_piper.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

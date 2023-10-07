@@ -1,51 +1,41 @@
 {
+  "idx": "4247",
   "name": "Keren Contaminator of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4247",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Knight"
+      "value": "Brown Knight",
+      "filename": "body_fem_knight_brown_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Oasis"
+      "value": "Lady of the Oasis ",
+      "filename": "head_tora.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wolf Shield"
+      "value": "Wolf Shield",
+      "filename": "shield_wolf.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

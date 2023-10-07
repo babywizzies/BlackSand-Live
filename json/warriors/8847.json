@@ -1,51 +1,41 @@
 {
+  "idx": "8847",
   "name": "Cicero Impaler of Komodi",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8847",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Ronin Armor"
+      "value": "Red Ronin Armor",
+      "filename": "body_samurai_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Aspis"
+      "value": "Red Aspis",
+      "filename": "shield_circle_cross_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

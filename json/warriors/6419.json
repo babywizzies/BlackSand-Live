@@ -1,51 +1,41 @@
 {
+  "idx": "6419",
   "name": "Crom Guardian of Kobolds",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6419",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Hedge Knight Armor"
+      "value": "Red Hedge Knight Armor",
+      "filename": "body_knight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,47 +1,36 @@
 {
+  "idx": "1216",
   "name": "Scraps Annihilator of Machines",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1216",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Superalloy Bot"
+      "value": "Superalloy Bot ",
+      "filename": "body_robo_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 26"
+      "value": "BucketHead: Atomic 26",
+      "filename": "head_buckethead.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Night Razor"
+      "trait_type": "prop",
+      "value": "Night Razor",
+      "filename": "weapon_sword_razor.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cyber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "11289",
   "name": "Alpha Mangler of Pain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11289",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "White Dominatrix Gear"
+      "value": "White Dominatrix Gear",
+      "filename": "body_dom_male_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Metabot"
+      "value": "Metabot",
+      "filename": "head_metabot.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Hammer"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Wooden Hammer",
+      "filename": "weapon_hammer_brown.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

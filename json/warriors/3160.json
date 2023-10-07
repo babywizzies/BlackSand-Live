@@ -1,51 +1,41 @@
 {
+  "idx": "3160",
   "name": "Frida Scoundrel of Glory",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3160",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sherah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mushroom Shield"
+      "value": "Mushroom Shield",
+      "filename": "shield_shroom.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hunting Knife"
+      "trait_type": "prop",
+      "value": "Hunting Knife",
+      "filename": "weapon_knife.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

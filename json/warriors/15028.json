@@ -1,47 +1,36 @@
 {
+  "idx": "15028",
   "name": "Lucy Scissor of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15028",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Bone Warrior"
+      "value": "Bone Warrior",
+      "filename": "body_wildbone_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sharyl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Battle Axe"
+      "trait_type": "prop",
+      "value": "Battle Axe",
+      "filename": "weapon_axe.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Axe"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

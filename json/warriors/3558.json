@@ -1,51 +1,41 @@
 {
+  "idx": "3558",
   "name": "Erin Render of Honor",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3558",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Nord Armor"
+      "value": "Nord Armor",
+      "filename": "body_nordarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Winter Warrior"
+      "value": "Winter Warrior",
+      "filename": "head_femhelm_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Longsword"
+      "trait_type": "prop",
+      "value": "Blue Longsword",
+      "filename": "weapon_longsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "2183",
   "name": "Humphrey Bludgeoner of Destiny",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2183",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Greater Cassowary"
+      "value": "Greater Cassowary",
+      "filename": "companion_cassowary.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Hedge Knight Armor"
+      "value": "Green Hedge Knight Armor",
+      "filename": "body_knight_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Green Knight Helm"
+      "value": "Green Knight Helm",
+      "filename": "head_knight_green.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tate Shield"
+      "value": "Tate Shield",
+      "filename": "shield_samurai.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bone Club"
+      "trait_type": "prop",
+      "value": "Bone Club",
+      "filename": "weapon_bone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

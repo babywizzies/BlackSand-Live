@@ -1,51 +1,41 @@
 {
+  "idx": "13123",
   "name": "Vega Dispatcher of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13123",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Nord Armor"
+      "value": "Nord Armor",
+      "filename": "body_nordarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Marsh Girl"
+      "value": "Marsh Girl",
+      "filename": "head_pippa.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

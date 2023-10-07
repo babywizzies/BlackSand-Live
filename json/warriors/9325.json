@@ -1,51 +1,41 @@
 {
+  "idx": "9325",
   "name": "Toshiko Apocalypse of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9325",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Amazonian Jumpsuit"
+      "value": "Green Amazonian Jumpsuit",
+      "filename": "body_amazon_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Onna-Musha"
+      "value": "Onna-Musha",
+      "filename": "head_onna.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amaryllis Fey Sword"
+      "trait_type": "prop",
+      "value": "Amaryllis Fey Sword",
+      "filename": "weapon_feysword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

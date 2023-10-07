@@ -1,47 +1,36 @@
 {
+  "idx": "5355",
   "name": "Ekene Sword of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5355",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "White Hedge Knight Armor"
+      "value": "White Hedge Knight Armor",
+      "filename": "body_knight_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Meriotic Warrior"
+      "value": "Meriotic Warrior",
+      "filename": "head_rommi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tate Shield"
+      "value": "Tate Shield",
+      "filename": "shield_samurai.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Scimitar"
+      "trait_type": "prop",
+      "value": "Scimitar",
+      "filename": "weapon_scimitar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

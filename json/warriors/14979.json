@@ -1,43 +1,31 @@
 {
+  "idx": "14979",
   "name": "Wyatt Antihero of the Street",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14979",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Belt Ruffian"
+      "value": "Purple Belt Ruffian",
+      "filename": "body_sharp_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Mandinka"
+      "value": "Mandinka",
+      "filename": "head_rocktim.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Estoc"
+      "trait_type": "prop",
+      "value": "Estoc",
+      "filename": "weapon_estoc.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

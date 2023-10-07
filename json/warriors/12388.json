@@ -1,51 +1,41 @@
 {
+  "idx": "12388",
   "name": "Ezra Piercer of the Baobabs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12388",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Leather Briefs"
+      "value": "Gladiator's Cloak with Leather Briefs",
+      "filename": "body_spartan_gold_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Medieval Skull"
+      "value": "Medieval Skull",
+      "filename": "head_medSkull.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Scimitar"
+      "trait_type": "prop",
+      "value": "Scimitar",
+      "filename": "weapon_scimitar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "4271",
   "name": "Dando Deadeye of Warlocks",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4271",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Hedge Knight Armor"
+      "value": "Brown Hedge Knight Armor",
+      "filename": "body_knight_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Blonde Bearded Berserker"
+      "value": "Blonde Bearded Berserker",
+      "filename": "head_berserker_skindark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mushroom Shield"
+      "value": "Mushroom Shield",
+      "filename": "shield_shroom.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,47 +1,36 @@
 {
+  "idx": "6842",
   "name": "Argos Obliterator of Blood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6842",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Commando Fatigues"
+      "value": "Commando Fatigues",
+      "filename": "body_commando_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Viking Helm"
+      "value": "Purple Viking Helm",
+      "filename": "head_gerj.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bone Club"
+      "trait_type": "prop",
+      "value": "Bone Club",
+      "filename": "weapon_bone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

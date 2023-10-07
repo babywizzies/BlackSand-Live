@@ -1,51 +1,41 @@
 {
+  "idx": "13242",
   "name": "Eligor Champion of Liches",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13242",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Alchemist Armor"
+      "value": "Alchemist Armor",
+      "filename": "body_knight.png"
     },
     {
       "trait_type": "head",
-      "value": "Spiked Helm"
+      "value": "Spiked Helm",
+      "filename": "head_helmet_spike.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Poleaxe"
+      "trait_type": "prop",
+      "value": "Silver Poleaxe",
+      "filename": "weapon_poleaxe_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

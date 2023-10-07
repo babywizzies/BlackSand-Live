@@ -1,47 +1,36 @@
 {
+  "idx": "12066",
   "name": "Zagan Mercenary of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12066",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Amethyst Spike Armor"
+      "value": "Amethyst Spike Armor",
+      "filename": "body_spikeBarb_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Executioner"
+      "value": "Executioner",
+      "filename": "head_executioner.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

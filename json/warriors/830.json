@@ -1,51 +1,41 @@
 {
+  "idx": "830",
   "name": "John Paragon of the Hall",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/830",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Red"
+      "value": "Traveller's Cloak Red",
+      "filename": "body_cloak_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Knight Helm"
+      "value": "Blue Knight Helm",
+      "filename": "head_knight_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

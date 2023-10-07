@@ -1,43 +1,31 @@
 {
+  "idx": "13246",
   "name": "Ash Eradicator of Machines",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13246",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Megasuit"
+      "value": "Megasuit",
+      "filename": "body_megasuit.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_miguel.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

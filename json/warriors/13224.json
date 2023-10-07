@@ -1,51 +1,41 @@
 {
+  "idx": "13224",
   "name": "Akira Vagabond of Brigands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13224",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Tunic Armor"
+      "value": "Blue Tunic Armor",
+      "filename": "body_shirtarmor_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Leo"
+      "value": "Leo",
+      "filename": "head_lion.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

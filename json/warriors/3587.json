@@ -1,51 +1,41 @@
 {
+  "idx": "3587",
   "name": "Shira Savior of Scoundrels",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3587",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Nord Armor"
+      "value": "Nord Armor",
+      "filename": "body_nordarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Winter Warrior"
+      "value": "Winter Warrior",
+      "filename": "head_femhelm_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spetum"
+      "trait_type": "prop",
+      "value": "Spetum",
+      "filename": "weapon_spear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

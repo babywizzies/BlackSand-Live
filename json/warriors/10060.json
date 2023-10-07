@@ -1,51 +1,41 @@
 {
+  "idx": "10060",
   "name": "Farrell Eliminator of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10060",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Green Briefs"
+      "value": "Gladiator's Cloak with Green Briefs",
+      "filename": "body_spartan_silver_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Mescaline Warrior"
+      "value": "Mescaline Warrior",
+      "filename": "head_stan.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Green Longsword"
+      "trait_type": "prop",
+      "value": "Green Longsword",
+      "filename": "weapon_longsword_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

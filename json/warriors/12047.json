@@ -1,39 +1,26 @@
 {
+  "idx": "12047",
   "name": "Duncan Basher of the Snow",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12047",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": "body_redcover.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_bill.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Monk"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

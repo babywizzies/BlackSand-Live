@@ -1,43 +1,31 @@
 {
+  "idx": "6188",
   "name": "Tori Champion of the Thorn",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6188",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bambam"
+      "value": "Bambam",
+      "filename": "head_bambam.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

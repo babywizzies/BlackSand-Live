@@ -1,51 +1,41 @@
 {
+  "idx": "7336",
   "name": "Auberon Lopper of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7336",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Majestic Epic Gear"
+      "value": "Majestic Epic Gear",
+      "filename": "body_meso_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Hood of Torment"
+      "value": "Hood of Torment",
+      "filename": "head_garth.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Aspis"
+      "value": "Red Aspis",
+      "filename": "shield_circle_cross_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rogue Falchion"
+      "trait_type": "prop",
+      "value": "Rogue Falchion",
+      "filename": "weapon_sword_falchion_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

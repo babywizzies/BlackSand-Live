@@ -1,43 +1,31 @@
 {
+  "idx": "13326",
   "name": "Roddrick Leveler of the Hills",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13326",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Highlander's Tartan"
+      "value": "Highlander's Tartan",
+      "filename": "body_highlander.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_bill.png"
     },
     {
       "trait_type": "shield",
-      "value": "Iron Buckler"
+      "value": "Iron Buckler",
+      "filename": "shield_buckler.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,47 +1,36 @@
 {
+  "idx": "3910",
   "name": "Richard Killer of the Villa",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3910",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Tunic Armor"
+      "value": "Green Tunic Armor",
+      "filename": "body_shirtarmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Green Knight Helm"
+      "value": "Green Knight Helm",
+      "filename": "head_knight_green.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

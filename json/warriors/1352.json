@@ -1,47 +1,36 @@
 {
+  "idx": "1352",
   "name": "Valentino Wrecker of Titans",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1352",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": "body_redcover.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Viking"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

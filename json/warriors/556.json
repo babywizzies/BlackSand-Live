@@ -1,51 +1,41 @@
 {
+  "idx": "556",
   "name": "Romulus Dicer of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/556",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Water"
+      "value": "Armor of Water",
+      "filename": "body_knightwater.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Guardian Sword"
+      "trait_type": "prop",
+      "value": "Guardian Sword",
+      "filename": "weapon_sword_gear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

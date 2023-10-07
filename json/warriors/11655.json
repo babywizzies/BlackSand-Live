@@ -1,47 +1,36 @@
 {
+  "idx": "11655",
   "name": "Duke Bruiser of the Ring",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11655",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Wrestling Singlet"
+      "value": "Yellow Wrestling Singlet",
+      "filename": "body_wrestler_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Mescaline Warrior"
+      "value": "Mescaline Warrior",
+      "filename": "head_stan.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

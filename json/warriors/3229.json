@@ -1,51 +1,41 @@
 {
+  "idx": "3229",
   "name": "Wilder Mercenary of the Bamboo Forest",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3229",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Ronin Armor"
+      "value": "Dark Ronin Armor",
+      "filename": "body_samurai_dark.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_jeff.png"
     },
     {
       "trait_type": "shield",
-      "value": "Iron Buckler"
+      "value": "Iron Buckler",
+      "filename": "shield_buckler.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Journeyman Falchion"
+      "trait_type": "prop",
+      "value": "Journeyman Falchion",
+      "filename": "weapon_sword_falchion_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "1057",
   "name": "Tumelo Death of the Storm",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1057",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Valkyrie Armor"
+      "value": "Purple Valkyrie Armor",
+      "filename": "body_valkyrie_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Styxian"
+      "value": "Styxian",
+      "filename": "head_mellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Dane Axe"
+      "trait_type": "prop",
+      "value": "Dane Axe",
+      "filename": "weapon_axe_dane.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

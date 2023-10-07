@@ -1,51 +1,41 @@
 {
+  "idx": "13933",
   "name": "Chevy Guardian of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13933",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Sand Cobra"
+      "value": "Sand Cobra",
+      "filename": "companion_cobra_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Provocator Garb"
+      "value": "Green Provocator Garb",
+      "filename": "body_provoc_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Jungle Commando"
+      "value": "Jungle Commando",
+      "filename": "head_brandan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Poleaxe"
+      "trait_type": "prop",
+      "value": "Silver Poleaxe",
+      "filename": "weapon_poleaxe_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

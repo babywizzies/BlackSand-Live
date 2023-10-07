@@ -1,51 +1,41 @@
 {
+  "idx": "10644",
   "name": "Sharon Render of the Rune Raiders",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10644",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Old World Mandrill"
+      "value": "Old World Mandrill",
+      "filename": "companion_mandrill.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Marsh Girl"
+      "value": "Marsh Girl",
+      "filename": "head_pippa.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Cleaver"
+      "trait_type": "prop",
+      "value": "Malachite Cleaver",
+      "filename": "weapon_cleaver_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

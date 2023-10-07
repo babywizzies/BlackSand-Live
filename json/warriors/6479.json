@@ -1,51 +1,41 @@
 {
+  "idx": "6479",
   "name": "Citus Menace of Brigands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6479",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Tunic Armor"
+      "value": "Blue Tunic Armor",
+      "filename": "body_shirtarmor_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skindark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "854",
   "name": "Soran Cleaver of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/854",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Sable Cobra"
+      "value": "Sable Cobra",
+      "filename": "companion_cobra_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of the Ether"
+      "value": "Banded Armor of the Ether",
+      "filename": "body_bandArmor_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Ether Horn Helm"
+      "value": "Ether Horn Helm",
+      "filename": "head_helmethorn_light.png"
     },
     {
       "trait_type": "shield",
-      "value": "Prism Shield"
+      "value": "Prism Shield",
+      "filename": "shield_prism.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

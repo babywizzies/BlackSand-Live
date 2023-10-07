@@ -1,51 +1,41 @@
 {
+  "idx": "2484",
   "name": "George Hero of Machines",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2484",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Harpy Eagle"
+      "value": "Harpy Eagle",
+      "filename": "companion_eagle_harpy.png"
     },
     {
       "trait_type": "body",
-      "value": "Guardian Zero"
+      "value": "Guardian Zero",
+      "filename": "body_guardian_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Motor Assassin"
+      "value": "Motor Assassin",
+      "filename": "head_arnie.png"
     },
     {
       "trait_type": "shield",
-      "value": "Water Elemental Shield"
+      "value": "Water Elemental Shield",
+      "filename": "shield_water.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

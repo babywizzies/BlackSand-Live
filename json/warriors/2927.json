@@ -1,51 +1,41 @@
 {
+  "idx": "2927",
   "name": "Grumel Annihilator of the Prism",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2927",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Prism Armor"
+      "value": "Prism Armor",
+      "filename": "body_prismknight.png"
     },
     {
       "trait_type": "head",
-      "value": "Darkling"
+      "value": "Darkling",
+      "filename": "head_voideth.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

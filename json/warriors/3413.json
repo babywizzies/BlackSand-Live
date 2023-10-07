@@ -1,51 +1,41 @@
 {
+  "idx": "3413",
   "name": "Charlie Apocalypse of the Riverlands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3413",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Amazonian Jumpsuit"
+      "value": "Yellow Amazonian Jumpsuit",
+      "filename": "body_amazon_yellow_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Corsair"
+      "value": "Corsair",
+      "filename": "head_pari.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Battle Axe"
+      "trait_type": "prop",
+      "value": "Battle Axe",
+      "filename": "weapon_axe.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

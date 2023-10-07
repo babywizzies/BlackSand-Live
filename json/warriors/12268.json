@@ -1,47 +1,36 @@
 {
+  "idx": "12268",
   "name": "Knox Basher of the East",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12268",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_bill.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spiked Ball and Chain"
+      "trait_type": "prop",
+      "value": "Spiked Ball and Chain",
+      "filename": "weapon_ballchain.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

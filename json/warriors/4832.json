@@ -1,43 +1,31 @@
 {
+  "idx": "4832",
   "name": "Ethan Basher of Penguins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4832",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": "body_redcover.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_jeff.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

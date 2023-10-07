@@ -1,51 +1,41 @@
 {
+  "idx": "288",
   "name": "Urhamsi Antagonist of Bugbears",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/288",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Sovereign Epic Gear"
+      "value": "Sovereign Epic Gear",
+      "filename": "body_meso_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamish.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Golden Sword"
+      "trait_type": "prop",
+      "value": "Golden Sword",
+      "filename": "weapon_sword_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

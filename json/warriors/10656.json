@@ -1,43 +1,31 @@
 {
+  "idx": "10656",
   "name": "Anwir Sorrow of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10656",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Spiked Helm"
+      "value": "Spiked Helm",
+      "filename": "head_helmet_spike.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

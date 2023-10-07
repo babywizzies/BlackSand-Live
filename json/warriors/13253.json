@@ -1,47 +1,36 @@
 {
+  "idx": "13253",
   "name": "Kaggle Battler of Robots",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13253",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Argyropoeia Bot"
+      "value": "Argyropoeia Bot",
+      "filename": "body_robo_grey.png"
     },
     {
       "trait_type": "head",
-      "value": "Visor Knight"
+      "value": "Visor Knight",
+      "filename": "head_visorman.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cyber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

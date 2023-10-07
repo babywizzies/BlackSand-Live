@@ -1,43 +1,31 @@
 {
+  "idx": "1883",
   "name": "Zenon Slaughterer of Flowers",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1883",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Tunic Armor"
+      "value": "Purple Tunic Armor",
+      "filename": "body_shirtarmor_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Highlander"
+      "value": "Highlander",
+      "filename": "head_shawn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Axe"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

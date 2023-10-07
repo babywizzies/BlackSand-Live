@@ -1,51 +1,41 @@
 {
+  "idx": "8630",
   "name": "Bernard Slayer of Scoundrels",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8630",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Water"
+      "value": "Armor of Water",
+      "filename": "body_knightwater.png"
     },
     {
       "trait_type": "head",
-      "value": "Guardian Helm"
+      "value": "Guardian Helm",
+      "filename": "head_guardian_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Longsword"
+      "trait_type": "prop",
+      "value": "Blue Longsword",
+      "filename": "weapon_longsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

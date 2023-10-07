@@ -1,51 +1,41 @@
 {
+  "idx": "8396",
   "name": "Yejide Shaver of Honor",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8396",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Nord Armor"
+      "value": "Nord Armor",
+      "filename": "body_nordarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Nubian"
+      "value": "Nubian",
+      "filename": "head_grace.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

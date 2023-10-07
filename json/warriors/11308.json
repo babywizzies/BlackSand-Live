@@ -1,51 +1,41 @@
 {
+  "idx": "11308",
   "name": "Faris Despoiler of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11308",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Hedge Knight Armor"
+      "value": "Brown Hedge Knight Armor",
+      "filename": "body_knight_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Polar Man"
+      "value": "Polar Man",
+      "filename": "head_polarman.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sword of Babylon"
+      "trait_type": "prop",
+      "value": "Sword of Babylon",
+      "filename": "weapon_swordBabylon.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

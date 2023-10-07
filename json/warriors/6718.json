@@ -1,39 +1,26 @@
 {
+  "idx": "6718",
   "name": "Wylan Punisher of the Savannah",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6718",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Olive Briefs"
+      "value": "Gladiator's Cloak with Olive Briefs",
+      "filename": "body_spartan_silver_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Highlander"
+      "value": "Highlander",
+      "filename": "head_shawn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

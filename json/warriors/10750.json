@@ -1,43 +1,31 @@
 {
+  "idx": "10750",
   "name": "Jack Shaver of the Lowlands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10750",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Highlander's Tartan"
+      "value": "Highlander's Tartan",
+      "filename": "body_highlander.png"
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": "head_yan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sabre"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "1"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "25 percent"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

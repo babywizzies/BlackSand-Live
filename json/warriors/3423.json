@@ -1,47 +1,36 @@
 {
+  "idx": "3423",
   "name": "Julie Disintegrator of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3423",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Knight"
+      "value": "Yellow Knight",
+      "filename": "body_fem_knight_yellow_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Horn Lady Buff"
+      "value": "Yellow Horn Lady Buff",
+      "filename": "head_buffy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

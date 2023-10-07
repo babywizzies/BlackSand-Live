@@ -1,51 +1,41 @@
 {
+  "idx": "10514",
   "name": "Ernest Champion of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10514",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Provocator Garb"
+      "value": "Yellow Provocator Garb",
+      "filename": "body_provoc_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Mandinka"
+      "value": "Mandinka",
+      "filename": "head_rocktim.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sol Sword"
+      "trait_type": "prop",
+      "value": "Sol Sword",
+      "filename": "weapon_sword_jewel_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

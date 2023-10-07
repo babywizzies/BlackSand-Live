@@ -1,43 +1,31 @@
 {
+  "idx": "13438",
   "name": "Fayaad Eradicator of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13438",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Tunic Armor"
+      "value": "Yellow Tunic Armor",
+      "filename": "body_shirtarmor_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Stratiotai"
+      "value": "Stratiotai",
+      "filename": "head_byzantine.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladiator Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Gladiator Sword",
+      "filename": "weapon_sword_spartan.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

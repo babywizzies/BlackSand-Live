@@ -1,51 +1,41 @@
 {
+  "idx": "9924",
   "name": "King Cleaver of the Savannah",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9924",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Macho Pants"
+      "value": "Red Macho Pants",
+      "filename": "body_suspenders_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Rocket Helm"
+      "value": "Rocket Helm",
+      "filename": "head_rocketman.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rogue Falchion"
+      "trait_type": "prop",
+      "value": "Rogue Falchion",
+      "filename": "weapon_sword_falchion_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

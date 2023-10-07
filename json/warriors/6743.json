@@ -1,51 +1,41 @@
 {
+  "idx": "6743",
   "name": "Amelia Attacker of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6743",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Valkyrie Armor"
+      "value": "Purple Valkyrie Armor",
+      "filename": "body_valkyrie_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Corsair"
+      "value": "Corsair",
+      "filename": "head_parah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Water Elemental Shield"
+      "value": "Water Elemental Shield",
+      "filename": "shield_water.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladiator Sword"
+      "trait_type": "prop",
+      "value": "Gladiator Sword",
+      "filename": "weapon_sword_spartan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

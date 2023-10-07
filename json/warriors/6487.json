@@ -1,51 +1,41 @@
 {
+  "idx": "6487",
   "name": "Chance Rapscallion of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6487",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak"
+      "value": "Aura Knight with Red Cloak",
+      "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Brigand"
+      "value": "Brigand",
+      "filename": "head_willy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Plains Boomerang"
+      "trait_type": "prop",
+      "value": "Plains Boomerang",
+      "filename": "weapon_boomerang_yellow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cape"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

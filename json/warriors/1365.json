@@ -1,51 +1,41 @@
 {
+  "idx": "1365",
   "name": "Hobbs Guardian of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1365",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Terrapin Armor"
+      "value": "Terrapin Armor",
+      "filename": "body_knightTurtle_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Furgnome Mercenary"
+      "value": "Furgnome Mercenary",
+      "filename": "head_furgnomehelmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Balance"
+      "value": "Shield of Balance",
+      "filename": "shield_tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

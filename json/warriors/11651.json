@@ -1,51 +1,41 @@
 {
+  "idx": "11651",
   "name": "Jarek Mischief Maker of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11651",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Exalted Epic Gear"
+      "value": "Exalted Epic Gear",
+      "filename": "body_meso_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kempo"
+      "value": "Kempo",
+      "filename": "head_chun.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cape"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

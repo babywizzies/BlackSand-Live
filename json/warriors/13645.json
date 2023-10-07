@@ -1,43 +1,31 @@
 {
+  "idx": "13645",
   "name": "Leena Pounder of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13645",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Violet Camo"
+      "value": "Street Punk with Violet Camo",
+      "filename": "body_streetpunk_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bambam"
+      "value": "Bambam",
+      "filename": "head_bambam.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Hammer"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Wooden Hammer",
+      "filename": "weapon_hammer_brown.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

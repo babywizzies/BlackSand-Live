@@ -1,51 +1,41 @@
 {
+  "idx": "15402",
   "name": "Mack Defeater of the Cockatrice",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15402",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Man"
+      "value": "Action Man",
+      "filename": "head_jeremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ranseur"
+      "trait_type": "prop",
+      "value": "Ranseur",
+      "filename": "weapon_speargold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

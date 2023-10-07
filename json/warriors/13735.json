@@ -1,47 +1,36 @@
 {
+  "idx": "13735",
   "name": "Crash Ravager of Carnal Delights",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13735",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Nude"
+      "value": "Nude",
+      "filename": "body_nude_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Lycan Warrior"
+      "value": "Lycan Warrior",
+      "filename": "head_logum.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

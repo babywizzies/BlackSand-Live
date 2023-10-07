@@ -1,43 +1,31 @@
 {
+  "idx": "3194",
   "name": "Lucy Cad of the Elysian Fields",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3194",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Woodland Armor"
+      "value": "Woodland Armor",
+      "filename": "body_woodarmor_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Horn Lady Buff"
+      "value": "Yellow Horn Lady Buff",
+      "filename": "head_buffy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "5234",
   "name": "Bambam Fencer of Brigands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5234",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "White Knight"
+      "value": "White Knight",
+      "filename": "body_fem_knight_white_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Horn Lady Buff"
+      "value": "Red Horn Lady Buff",
+      "filename": "head_biffi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

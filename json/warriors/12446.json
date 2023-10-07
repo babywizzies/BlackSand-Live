@@ -1,51 +1,41 @@
 {
+  "idx": "12446",
   "name": "Teny Cutter of Thunder Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12446",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Black One Piece"
+      "value": "Black One Piece",
+      "filename": "body_onepiece_black_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Avalonian"
+      "value": "Avalonian",
+      "filename": "head_piper.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

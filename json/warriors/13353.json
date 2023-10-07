@@ -1,43 +1,31 @@
 {
+  "idx": "13353",
   "name": " Marauder of the Disco",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13353",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gold Belt Ruffian"
+      "value": "Gold Belt Ruffian",
+      "filename": "body_sharp_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Indigo Mendicant"
+      "value": "Indigo Mendicant",
+      "filename": "head_armak.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

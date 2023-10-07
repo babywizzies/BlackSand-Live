@@ -1,51 +1,41 @@
 {
+  "idx": "11404",
   "name": "Jabir Bloodbath of the Wood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11404",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Red"
+      "value": "Traveller's Cloak Red",
+      "filename": "body_cloak_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Stratiotai"
+      "value": "Stratiotai",
+      "filename": "head_byzantine.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Chainsaw"
+      "trait_type": "prop",
+      "value": "Blue Chainsaw",
+      "filename": "weapon_chainsaw_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

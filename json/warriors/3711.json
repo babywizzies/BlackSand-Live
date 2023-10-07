@@ -1,51 +1,41 @@
 {
+  "idx": "3711",
   "name": "Mycho Thief of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3711",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Earth"
+      "value": "Armor of Earth",
+      "filename": "body_knightearth.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Aspis"
+      "value": "Green Aspis",
+      "filename": "shield_circle_cross_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "5592",
   "name": "Geoffrey Nailer of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5592",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Xanthous Paladin Gear"
+      "value": "Xanthous Paladin Gear",
+      "filename": "body_starcleric_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Green Knight Helm"
+      "value": "Green Knight Helm",
+      "filename": "head_knight_green.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mushroom Shield"
+      "value": "Mushroom Shield",
+      "filename": "shield_shroom.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

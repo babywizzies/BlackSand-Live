@@ -1,47 +1,36 @@
 {
+  "idx": "14866",
   "name": "Maximus Raider of the Sacred Pillars",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14866",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Tunic Armor"
+      "value": "Yellow Tunic Armor",
+      "filename": "body_shirtarmor_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Leo"
+      "value": "Leo",
+      "filename": "head_lion.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Purple Longsword"
+      "trait_type": "prop",
+      "value": "Purple Longsword",
+      "filename": "weapon_longsword_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

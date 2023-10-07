@@ -1,51 +1,41 @@
 {
+  "idx": "761",
   "name": "Xiulin Armageddon of the Moon",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/761",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Greater Cassowary"
+      "value": "Greater Cassowary",
+      "filename": "companion_cassowary.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Amazonian Jumpsuit"
+      "value": "Green Amazonian Jumpsuit",
+      "filename": "body_amazon_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kempo"
+      "value": "Kempo",
+      "filename": "head_lina.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Dragon Pike"
+      "trait_type": "prop",
+      "value": "Malachite Dragon Pike",
+      "filename": "weapon_dragonpike_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Power"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Power",
+      "filename": "rune_power.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

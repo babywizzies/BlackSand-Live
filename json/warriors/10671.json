@@ -1,39 +1,26 @@
 {
+  "idx": "10671",
   "name": "Althia Dicer of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10671",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Northern Barbarian"
+      "value": "Northern Barbarian ",
+      "filename": "body_femwolf.png"
     },
     {
       "trait_type": "head",
-      "value": "Moorish Girl"
+      "value": "Moorish Girl",
+      "filename": "head_pippin.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

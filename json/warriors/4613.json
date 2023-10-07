@@ -1,43 +1,31 @@
 {
+  "idx": "4613",
   "name": "Vic Shaver of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4613",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier"
+      "value": "Goblin Footsoldier",
+      "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin"
+      "value": "Capped Goblin",
+      "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Battle Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Battle Axe",
+      "filename": "weapon_axe.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

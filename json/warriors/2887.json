@@ -1,51 +1,41 @@
 {
+  "idx": "2887",
   "name": "Boarhead Disintegrator of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2887",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Hedge Knight Armor"
+      "value": "Yellow Hedge Knight Armor",
+      "filename": "body_knight_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Mountain Warrior"
+      "value": "Mountain Warrior",
+      "filename": "head_zubbik.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

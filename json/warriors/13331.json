@@ -1,51 +1,41 @@
 {
+  "idx": "13331",
   "name": "Orion Eidolon of Robots",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13331",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Cyber Viking"
+      "value": "Cyber Viking",
+      "filename": "body_cyberviking.png"
     },
     {
       "trait_type": "head",
-      "value": "Hood of Torment"
+      "value": "Hood of Torment",
+      "filename": "head_garth.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Golden Sword"
+      "trait_type": "prop",
+      "value": "Golden Sword",
+      "filename": "weapon_sword_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

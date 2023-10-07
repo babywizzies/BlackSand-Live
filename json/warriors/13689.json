@@ -1,51 +1,41 @@
 {
+  "idx": "13689",
   "name": "Orion Champion of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13689",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Green Briefs"
+      "value": "Gladiator's Cloak with Green Briefs",
+      "filename": "body_spartan_silver_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Contender Helm"
+      "value": "Contender Helm",
+      "filename": "head_helmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Chakram"
+      "trait_type": "prop",
+      "value": "Chakram",
+      "filename": "weapon_chakram.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

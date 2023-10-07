@@ -1,51 +1,41 @@
 {
+  "idx": "11859",
   "name": "Shinju Rival of Atlantis",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11859",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound"
+      "value": "Demon Hound",
+      "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Battle Bikini"
+      "value": "Red Battle Bikini",
+      "filename": "body_lea_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Onna-Musha"
+      "value": "Onna-Musha",
+      "filename": "head_onna.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amaryllis Fey Sword"
+      "trait_type": "prop",
+      "value": "Amaryllis Fey Sword",
+      "filename": "weapon_feysword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

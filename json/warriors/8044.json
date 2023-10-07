@@ -1,43 +1,31 @@
 {
+  "idx": "8044",
   "name": "Amir Exterminator of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8044",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Red Camo"
+      "value": "Street Punk with Red Camo",
+      "filename": "body_streetpunk_red_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Stratiotai"
+      "value": "Stratiotai",
+      "filename": "head_byzantine.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "5943",
   "name": "Nick Slaughterer of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5943",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Skylord Plate Armor"
+      "value": "Skylord Plate Armor",
+      "filename": "body_plateArmor_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Warrior Monk"
+      "value": "Warrior Monk",
+      "filename": "head_akon.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

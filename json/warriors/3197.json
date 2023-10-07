@@ -1,43 +1,31 @@
 {
+  "idx": "3197",
   "name": "Arnie Striker of the Sunset",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3197",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "White Tunic Armor"
+      "value": "White Tunic Armor",
+      "filename": "body_shirtarmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Elder"
+      "value": "Elder",
+      "filename": "head_wharton.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,47 +1,36 @@
 {
+  "idx": "81",
   "name": "Dormok of the Ruins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/81",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle"
+      "value": "Mutant Snapping Turtle",
+      "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Commando Fatigues"
+      "value": "Commando Fatigues",
+      "filename": "body_commando_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Highlander"
+      "value": "Highlander",
+      "filename": "head_shawn.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bottle of Rune Beer"
+      "trait_type": "prop",
+      "value": "Bottle of Rune Beer",
+      "filename": "item_beer_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

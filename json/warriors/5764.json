@@ -1,43 +1,31 @@
 {
+  "idx": "5764",
   "name": "Keren Basher of the Ice",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5764",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Bone Warrior"
+      "value": "Bone Warrior",
+      "filename": "body_wildbone_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Bambam"
+      "value": "Bambam",
+      "filename": "head_bambam.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

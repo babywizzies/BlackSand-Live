@@ -1,51 +1,41 @@
 {
+  "idx": "13347",
   "name": "Joan Destroyer of the Wild",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13347",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "White Knight"
+      "value": "White Knight",
+      "filename": "body_fem_knight_white_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Horn Lady Buff"
+      "value": "Red Horn Lady Buff",
+      "filename": "head_biffi.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

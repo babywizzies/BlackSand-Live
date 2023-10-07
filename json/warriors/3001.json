@@ -1,51 +1,41 @@
 {
+  "idx": "3001",
   "name": "Vidal Exterminator of Worlds",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3001",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Xanthous Paladin Gear"
+      "value": "Xanthous Paladin Gear",
+      "filename": "body_starcleric_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Strongman"
+      "value": "Strongman",
+      "filename": "head_fuchow.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jade Sword"
+      "trait_type": "prop",
+      "value": "Jade Sword",
+      "filename": "weapon_sword_jade.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

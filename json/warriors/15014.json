@@ -1,51 +1,41 @@
 {
+  "idx": "15014",
   "name": "Brander Champion of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15014",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Executioner"
+      "value": "Executioner",
+      "filename": "head_executioner.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mushroom Shield"
+      "value": "Mushroom Shield",
+      "filename": "shield_shroom.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spetum"
+      "trait_type": "prop",
+      "value": "Spetum",
+      "filename": "weapon_spear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

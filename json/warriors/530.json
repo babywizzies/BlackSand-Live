@@ -1,43 +1,31 @@
 {
+  "idx": "530",
   "name": "Laasya Eliminator of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/530",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Vedic Warrior"
+      "value": "Vedic Warrior",
+      "filename": "head_hindi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

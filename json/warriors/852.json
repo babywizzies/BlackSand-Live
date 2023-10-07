@@ -1,51 +1,41 @@
 {
+  "idx": "852",
   "name": "Tracy Carver of the Ridge",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/852",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Battle Bikini"
+      "value": "Red Battle Bikini",
+      "filename": "body_lea_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady Barbarian"
+      "value": "Lady Barbarian",
+      "filename": "head_shana.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

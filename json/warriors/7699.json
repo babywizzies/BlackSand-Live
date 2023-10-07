@@ -1,51 +1,41 @@
 {
+  "idx": "7699",
   "name": "Aamon Blaster of the Flame",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7699",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "White Hedge Knight Armor"
+      "value": "White Hedge Knight Armor",
+      "filename": "body_knight_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Contender Helm"
+      "value": "Contender Helm",
+      "filename": "head_helmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Hammer"
+      "trait_type": "prop",
+      "value": "Wooden Hammer",
+      "filename": "weapon_hammer_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

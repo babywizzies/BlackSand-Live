@@ -1,43 +1,31 @@
 {
+  "idx": "1144",
   "name": "Mick Battler of the Flame",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1144",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Hedge Knight Armor"
+      "value": "Red Hedge Knight Armor",
+      "filename": "body_knight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

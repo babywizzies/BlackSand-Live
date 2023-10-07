@@ -1,43 +1,31 @@
 {
+  "idx": "14753",
   "name": "Sharon Stabber of Bees",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14753",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sharyl.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sword"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

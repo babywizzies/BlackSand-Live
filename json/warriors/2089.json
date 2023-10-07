@@ -1,51 +1,41 @@
 {
+  "idx": "2089",
   "name": "Hongo Debilitator of the Dawn",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2089",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Tunic Armor"
+      "value": "Green Tunic Armor",
+      "filename": "body_shirtarmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Horseshoe Shield"
+      "value": "Horseshoe Shield",
+      "filename": "shield_horseshoe.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

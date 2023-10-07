@@ -1,51 +1,41 @@
 {
+  "idx": "8154",
   "name": "Gruzzon Exterminator of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8154",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Viking Helm"
+      "value": "Yellow Viking Helm",
+      "filename": "head_gorj.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

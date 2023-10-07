@@ -1,51 +1,41 @@
 {
+  "idx": "11191",
   "name": "Kojak Antagonist of Destiny",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11191",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "White Hedge Knight Armor"
+      "value": "White Hedge Knight Armor",
+      "filename": "body_knight_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_jeff.png"
     },
     {
       "trait_type": "shield",
-      "value": "Pony Shield"
+      "value": "Pony Shield",
+      "filename": "shield_pony.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Green Longsword"
+      "trait_type": "prop",
+      "value": "Green Longsword",
+      "filename": "weapon_longsword_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

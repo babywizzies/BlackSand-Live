@@ -1,39 +1,26 @@
 {
+  "idx": "4554",
   "name": "Matteo Dueler of the Docks",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4554",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Road Warrior"
+      "value": "Purple Road Warrior",
+      "filename": "body_roadwarrior_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_jeff.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

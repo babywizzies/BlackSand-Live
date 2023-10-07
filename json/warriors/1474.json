@@ -1,51 +1,41 @@
 {
+  "idx": "1474",
   "name": "Knutz Antagonist of the Crossroad",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1474",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound"
+      "value": "Demon Hound",
+      "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Kobold Grunt Gear"
+      "value": "Kobold Grunt Gear",
+      "filename": "body_kobold_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Kobold Captain"
+      "value": "Kobold Captain",
+      "filename": "head_wambe.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Skull"
+      "value": "Shield of the Skull",
+      "filename": "shield_skull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

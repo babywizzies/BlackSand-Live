@@ -1,35 +1,21 @@
 {
+  "idx": "6424",
   "name": "Wolfgang Amputator of the Ditch",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6424",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Brown Camo"
+      "value": "Street Punk with Brown Camo",
+      "filename": "body_streetpunk_purple_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Grizzly Man"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Grizzly Man",
+      "filename": "head_bearman.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

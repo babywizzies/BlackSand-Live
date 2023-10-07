@@ -1,51 +1,41 @@
 {
+  "idx": "5531",
   "name": "Isabella Savior of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5531",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Nord Armor"
+      "value": "Nord Armor",
+      "filename": "body_nordarmour_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Corsair"
+      "value": "Corsair",
+      "filename": "head_pari.png"
     },
     {
       "trait_type": "shield",
-      "value": "Water Elemental Shield"
+      "value": "Water Elemental Shield",
+      "filename": "shield_water.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spetum"
+      "trait_type": "prop",
+      "value": "Spetum",
+      "filename": "weapon_spear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

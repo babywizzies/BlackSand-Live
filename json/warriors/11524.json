@@ -1,51 +1,41 @@
 {
+  "idx": "11524",
   "name": "Dell Ruin of the Capital",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11524",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat"
+      "value": "Black Goat",
+      "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Kobold Road Warrior"
+      "value": "Kobold Road Warrior",
+      "filename": "body_roadwarrior_kobold.png"
     },
     {
       "trait_type": "head",
-      "value": "Kobold Captain"
+      "value": "Kobold Captain",
+      "filename": "head_wambe.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mjolnir"
+      "trait_type": "prop",
+      "value": "Mjolnir",
+      "filename": "weapon_mjolnir.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

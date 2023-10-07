@@ -1,51 +1,41 @@
 {
+  "idx": "84",
   "name": "Dean Assailant of Scoundrels",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/84",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "White Tunic Armor"
+      "value": "White Tunic Armor",
+      "filename": "body_shirtarmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

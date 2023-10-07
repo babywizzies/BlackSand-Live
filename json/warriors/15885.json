@@ -1,51 +1,41 @@
 {
+  "idx": "15885",
   "name": "Delu Flagellator of the East",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15885",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Divanae"
+      "value": "Divanae",
+      "filename": "head_maude.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bone Club"
+      "trait_type": "prop",
+      "value": "Bone Club",
+      "filename": "weapon_bone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sigma",
+      "filename": "rune_sigma.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "15102",
   "name": "Drulek of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15102",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Olive Briefs"
+      "value": "Gladiator's Cloak with Olive Briefs",
+      "filename": "body_spartan_silver_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Thrall Ruffian"
+      "value": "Thrall Ruffian",
+      "filename": "head_crom.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Aspis"
+      "value": "Green Aspis",
+      "filename": "shield_circle_cross_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hambone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Hambone",
+      "filename": "item_hambone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

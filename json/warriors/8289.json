@@ -1,43 +1,31 @@
 {
+  "idx": "8289",
   "name": "Ajax Impaler of Bugbears",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8289",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Auric Spike Armor"
+      "value": "Auric Spike Armor",
+      "filename": "body_spikeBarb_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skindark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

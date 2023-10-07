@@ -1,39 +1,26 @@
 {
+  "idx": "14486",
   "name": "Rogue Vanquisher of the Ring",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14486",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Wrestling Singlet"
+      "value": "Purple Wrestling Singlet",
+      "filename": "body_wrestler_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Brigand"
+      "value": "Brigand",
+      "filename": "head_willy.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

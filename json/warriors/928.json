@@ -1,47 +1,36 @@
 {
+  "idx": "928",
   "name": "Arvid Protector of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/928",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Violet Camo"
+      "value": "Street Punk with Violet Camo",
+      "filename": "body_streetpunk_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": "head_marci.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

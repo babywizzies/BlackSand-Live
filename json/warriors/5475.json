@@ -1,51 +1,41 @@
 {
+  "idx": "5475",
   "name": "Devon Menace of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5475",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Oasis"
+      "value": "Lady of the Oasis ",
+      "filename": "head_tora.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

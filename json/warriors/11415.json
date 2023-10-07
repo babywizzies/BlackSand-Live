@@ -1,51 +1,41 @@
 {
+  "idx": "11415",
   "name": "Casper Hero of the Range",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11415",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Earth"
+      "value": "Armor of Earth",
+      "filename": "body_knightearth.png"
     },
     {
       "trait_type": "head",
-      "value": "Furgnome Marauder"
+      "value": "Furgnome Marauder",
+      "filename": "head_furgnomehorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Aspis"
+      "value": "Red Aspis",
+      "filename": "shield_circle_cross_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

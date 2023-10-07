@@ -1,0 +1,26 @@
+{
+  "idx": "2027",
+  "name": "Ectoplasmic Spectre Zelroth of the XYZ",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ecto Spectral Body",
+      "filename": "body_spectre_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ecto Spectre",
+      "filename": "head_spectre_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Quantum Key",
+      "filename": "item_key_quantum_soul.png"
+    }
+  ]
+}

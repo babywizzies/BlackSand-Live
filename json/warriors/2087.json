@@ -1,51 +1,41 @@
 {
+  "idx": "2087",
   "name": "Amanita Defeater of the Wood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2087",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Tunic Armor"
+      "value": "Green Tunic Armor",
+      "filename": "body_shirtarmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

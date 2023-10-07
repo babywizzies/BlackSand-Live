@@ -1,51 +1,41 @@
 {
+  "idx": "1272",
   "name": "Azriel Antagonist of Kobolds",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1272",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Iron Knight of the Heath"
+      "value": "Iron Knight of the Heath",
+      "filename": "body_grillknight_blue_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Jarl Raider"
+      "value": "Jarl Raider",
+      "filename": "head_dormok.png"
     },
     {
       "trait_type": "shield",
-      "value": "Iron Buckler"
+      "value": "Iron Buckler",
+      "filename": "shield_buckler.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Shortsword"
+      "trait_type": "prop",
+      "value": "Blue Shortsword",
+      "filename": "weapon_shortsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

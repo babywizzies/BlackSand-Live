@@ -1,39 +1,26 @@
 {
+  "idx": "15120",
   "name": "Bernadette Assaulter of Nothing",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15120",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Woodlander"
+      "value": "Woodlander",
+      "filename": "head_sharon.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

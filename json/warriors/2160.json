@@ -1,51 +1,41 @@
 {
+  "idx": "2160",
   "name": "Bernadette Contaminator of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2160",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Knight"
+      "value": "Green Knight",
+      "filename": "body_fem_knight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": "head_marci.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Purple Longsword"
+      "trait_type": "prop",
+      "value": "Purple Longsword",
+      "filename": "weapon_longsword_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

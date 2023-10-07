@@ -1,51 +1,41 @@
 {
+  "idx": "9556",
   "name": "Aurelia Paragon of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9556",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Valkyrie Armor"
+      "value": "Blue Valkyrie Armor",
+      "filename": "body_valkyrie_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Spring Warrior"
+      "value": "Spring Warrior",
+      "filename": "head_femhelm_brush.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Aspis"
+      "value": "Red Aspis",
+      "filename": "shield_circle_cross_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rogue Falchion"
+      "trait_type": "prop",
+      "value": "Rogue Falchion",
+      "filename": "weapon_sword_falchion_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

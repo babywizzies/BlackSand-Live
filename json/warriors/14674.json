@@ -1,43 +1,31 @@
 {
+  "idx": "14674",
   "name": "Jordan Swashbuckler of the Dawn",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14674",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Medieval Livery"
+      "value": "Green Medieval Livery",
+      "filename": "body_clericknight_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "4070",
   "name": "Commodus Sword of the Forest",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4070",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Nastyass Honey Badger"
+      "value": "Nastyass Honey Badger",
+      "filename": "companion_ratel.png"
     },
     {
       "trait_type": "body",
-      "value": "Nude"
+      "value": "Nude",
+      "filename": "body_nude_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_darell.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Firebrand"
+      "trait_type": "prop",
+      "value": "Firebrand",
+      "filename": "weapon_sword_firebrand.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

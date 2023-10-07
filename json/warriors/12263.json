@@ -1,51 +1,41 @@
 {
+  "idx": "12263",
   "name": "Krull Battler of Glory",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12263",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Medieval Skull"
+      "value": "Medieval Skull",
+      "filename": "head_medSkull.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

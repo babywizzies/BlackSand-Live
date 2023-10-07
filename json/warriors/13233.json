@@ -1,51 +1,41 @@
 {
+  "idx": "13233",
   "name": "Baako of the Rune Raiders",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13233",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Nubian"
+      "value": "Nubian",
+      "filename": "head_grace.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mug of Ale"
+      "trait_type": "prop",
+      "value": "Mug of Ale",
+      "filename": "item_ale.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

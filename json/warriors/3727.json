@@ -1,47 +1,36 @@
 {
+  "idx": "3727",
   "name": "Soran Shaver of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3727",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Amethyst Spike Armor"
+      "value": "Amethyst Spike Armor",
+      "filename": "body_spikeBarb_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Executioner"
+      "value": "Executioner",
+      "filename": "head_executioner.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blood Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "trait_type": "prop",
+      "value": "Blood Sword",
+      "filename": "weapon_sword_blood.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

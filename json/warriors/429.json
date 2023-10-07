@@ -1,51 +1,41 @@
 {
+  "idx": "429",
   "name": "Bruce Hero of the Ridge",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/429",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak"
+      "value": "Aura Knight with Red Cloak",
+      "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Rocket Helm"
+      "value": "Rocket Helm",
+      "filename": "head_rocketman.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

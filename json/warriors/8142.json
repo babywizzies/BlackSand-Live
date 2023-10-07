@@ -1,43 +1,31 @@
 {
+  "idx": "8142",
   "name": "Bellatrix Miscreant of Destiny",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8142",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Battle Bikini"
+      "value": "Battle Bikini",
+      "filename": "body_bea_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Horn Lady Buff"
+      "value": "Red Horn Lady Buff",
+      "filename": "head_biffi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield"
+      "value": "Magic Shield",
+      "filename": "shield_magic.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Estoc"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Estoc",
+      "filename": "weapon_estoc.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

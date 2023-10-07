@@ -1,51 +1,41 @@
 {
+  "idx": "12654",
   "name": "Wuri Liquidator of the Sacred Pillars",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12654",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Tunic Armor"
+      "value": "Blue Tunic Armor",
+      "filename": "body_shirtarmor_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Jarl Raider"
+      "value": "Jarl Raider",
+      "filename": "head_dormok.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Club"
+      "trait_type": "prop",
+      "value": "Wooden Club",
+      "filename": "weapon_club.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

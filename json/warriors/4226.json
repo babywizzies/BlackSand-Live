@@ -1,39 +1,26 @@
 {
+  "idx": "4226",
   "name": "Dingus Assailant of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4226",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Alabaster Paladin Gear"
+      "value": "Alabaster Paladin Gear",
+      "filename": "body_starcleric_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Wild Kobold"
+      "value": "Wild Kobold ",
+      "filename": "head_womble.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

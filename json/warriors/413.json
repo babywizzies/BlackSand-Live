@@ -1,39 +1,26 @@
 {
+  "idx": "413",
   "name": "Dando Waster of the Glitch",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/413",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Megasuit"
+      "value": "Megasuit",
+      "filename": "body_megasuit.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Viking Helm"
+      "value": "Yellow Viking Helm",
+      "filename": "head_gorj.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

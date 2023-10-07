@@ -1,39 +1,26 @@
 {
+  "idx": "5629",
   "name": "Rachel Render of the Forest",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5629",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Honor Guard of the North"
+      "value": "Honor Guard of the North",
+      "filename": "body_femguard_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady Barbarian"
+      "value": "Lady Barbarian",
+      "filename": "head_shana.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

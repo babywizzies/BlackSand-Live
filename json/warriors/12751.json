@@ -1,51 +1,41 @@
 {
+  "idx": "12751",
   "name": "Matteo Chisler of Liches",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12751",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Dominion Plate Armor"
+      "value": "Dominion Plate Armor",
+      "filename": "body_plateArmor_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_steve.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "6"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

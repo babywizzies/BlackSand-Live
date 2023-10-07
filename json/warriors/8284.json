@@ -1,51 +1,41 @@
 {
+  "idx": "8284",
   "name": "Mako Vanquisher of the Marsh",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8284",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Cardinal Raptor"
+      "value": "Cardinal Raptor",
+      "filename": "companion_raptor_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Kobold Captain Gear"
+      "value": "Kobold Captain Gear",
+      "filename": "body_kobold_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Kobold Captain"
+      "value": "Kobold Captain",
+      "filename": "head_wambe.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Flaming Skull"
+      "value": "Shield of the Flaming Skull ",
+      "filename": "shield_skullflame.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

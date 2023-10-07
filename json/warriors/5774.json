@@ -1,51 +1,41 @@
 {
+  "idx": "5774",
   "name": "Kaz Dissector of the South",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5774",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Hedge Knight Armor"
+      "value": "Green Hedge Knight Armor",
+      "filename": "body_knight_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Hero"
+      "value": "Action Hero",
+      "filename": "head_rocky.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Skull"
+      "value": "Shield of the Skull",
+      "filename": "shield_skull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "11103",
   "name": "Barret Combatant of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11103",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Briefs"
+      "value": "Classic Gold Barbarian Briefs",
+      "filename": "body_barbarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Stunt Man"
+      "value": "Stunt Man",
+      "filename": "head_joremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

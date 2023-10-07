@@ -1,43 +1,31 @@
 {
+  "idx": "13464",
   "name": "Serena Sword of the Ruins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13464",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Valkyrie Armor"
+      "value": "Purple Valkyrie Armor",
+      "filename": "body_valkyrie_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Daughter of the Brine"
+      "value": "Daughter of the Brine",
+      "filename": "head_sloanna.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Shortsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Blue Shortsword",
+      "filename": "weapon_shortsword_blue.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

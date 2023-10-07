@@ -1,47 +1,36 @@
 {
+  "idx": "1761",
   "name": "Halil Cutter of Brigands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1761",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Tunic Armor"
+      "value": "Yellow Tunic Armor",
+      "filename": "body_shirtarmor_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Olive Mendicant"
+      "value": "Olive Mendicant",
+      "filename": "head_armok.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

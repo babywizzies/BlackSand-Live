@@ -1,51 +1,41 @@
 {
+  "idx": "1052",
   "name": "Boris Combatant of Thieves",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1052",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of the Ether"
+      "value": "Banded Armor of the Ether",
+      "filename": "body_bandArmor_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Cyber Wolfkin"
+      "value": "Cyber Wolfkin",
+      "filename": "head_cyberwolf.png"
     },
     {
       "trait_type": "shield",
-      "value": "Horseshoe Shield"
+      "value": "Horseshoe Shield",
+      "filename": "shield_horseshoe.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

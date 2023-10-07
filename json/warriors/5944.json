@@ -1,43 +1,31 @@
 {
+  "idx": "5944",
   "name": "Leena Crusher of the Rune Raiders",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5944",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Valkyrie Armor"
+      "value": "Purple Valkyrie Armor",
+      "filename": "body_valkyrie_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Horn Lady Buff"
+      "value": "Red Horn Lady Buff",
+      "filename": "head_biffi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

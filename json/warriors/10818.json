@@ -1,39 +1,26 @@
 {
+  "idx": "10818",
   "name": "Tori Cleaver of the Atoll",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10818",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Garb"
+      "value": "Pirate Garb",
+      "filename": "body_fempirateWar.png"
     },
     {
       "trait_type": "head",
-      "value": "Woodlander"
+      "value": "Woodlander",
+      "filename": "head_sharon.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

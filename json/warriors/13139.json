@@ -1,51 +1,41 @@
 {
+  "idx": "13139",
   "name": "Valentina Breaker of the Docks",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13139",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Road Spandex"
+      "value": "Yellow Road Spandex",
+      "filename": "body_roadwarrior_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Marsh Girl"
+      "value": "Marsh Girl",
+      "filename": "head_pippa.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wratchet"
+      "trait_type": "prop",
+      "value": "Wratchet",
+      "filename": "weapon_wratchet.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Machine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

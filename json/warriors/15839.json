@@ -1,39 +1,26 @@
 {
+  "idx": "15839",
   "name": "Vommbar Divider of Dragons",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15839",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Ronin Armor"
+      "value": "Dark Ronin Armor",
+      "filename": "body_samurai_dark.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Viking Helm"
+      "value": "Purple Viking Helm",
+      "filename": "head_gerj.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

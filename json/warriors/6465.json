@@ -1,43 +1,31 @@
 {
+  "idx": "6465",
   "name": "Asper Sword of Komodi",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6465",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Boxing Shorts"
+      "value": "Red Boxing Shorts",
+      "filename": "body_mma_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skindark.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Sword"
+      "trait_type": "prop",
+      "value": "Goblin Sword",
+      "filename": "weapon_sword_goblin.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

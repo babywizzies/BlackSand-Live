@@ -1,51 +1,41 @@
 {
+  "idx": "5270",
   "name": "Akane Terror of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5270",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Knight"
+      "value": "Green Knight",
+      "filename": "body_fem_knight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Onna-Musha"
+      "value": "Onna-Musha",
+      "filename": "head_onna.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Longsword"
+      "trait_type": "prop",
+      "value": "Red Longsword",
+      "filename": "weapon_longsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

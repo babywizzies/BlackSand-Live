@@ -1,39 +1,26 @@
 {
+  "idx": "7264",
   "name": "Adele Contender of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7264",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Zuli Suit"
+      "value": "Zuli Suit",
+      "filename": "body_wildfem.png"
     },
     {
       "trait_type": "head",
-      "value": "Corsair"
+      "value": "Corsair",
+      "filename": "head_parah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Moon"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Shield of the Moon",
+      "filename": "shield_moon.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

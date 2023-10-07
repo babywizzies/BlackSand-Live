@@ -1,47 +1,36 @@
 {
+  "idx": "6094",
   "name": "Rico Mincer of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6094",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Green Camo"
+      "value": "Street Punk with Green Camo",
+      "filename": "body_streetpunk_green_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Zimbala"
+      "value": "Zimbala",
+      "filename": "head_impeh.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

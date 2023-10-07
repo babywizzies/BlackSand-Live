@@ -1,51 +1,41 @@
 {
+  "idx": "9520",
   "name": "Doldain Champion of the Baobabs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9520",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Macho Pants"
+      "value": "Red Macho Pants",
+      "filename": "body_suspenders_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Dwarven Helm"
+      "value": "Purple Dwarven Helm",
+      "filename": "head_glorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Eternal Love Shield"
+      "value": "Eternal Love Shield",
+      "filename": "shield_heart.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lazurite Dragon Sword"
+      "trait_type": "prop",
+      "value": "Lazurite Dragon Sword",
+      "filename": "weapon_dragonsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

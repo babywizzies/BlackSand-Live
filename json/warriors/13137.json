@@ -1,43 +1,31 @@
 {
+  "idx": "13137",
   "name": "Mondo Rogue of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13137",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "South Island MMA Pants"
+      "value": "South Island MMA Pants",
+      "filename": "body_martial_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Hero"
+      "value": "Action Hero",
+      "filename": "head_rocky.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

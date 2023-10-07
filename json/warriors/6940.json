@@ -1,47 +1,36 @@
 {
+  "idx": "6940",
   "name": "Edwin Assaulter of Rats",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6940",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Cerulean Ceratopsian"
+      "value": "Cerulean Ceratopsian",
+      "filename": "companion_tritops_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Hoodlum"
+      "value": "Street Hoodlum",
+      "filename": "body_gruffer_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Green Knight Helm"
+      "value": "Green Knight Helm",
+      "filename": "head_knight_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Longsword"
+      "trait_type": "prop",
+      "value": "Red Longsword",
+      "filename": "weapon_longsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

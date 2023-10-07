@@ -1,51 +1,41 @@
 {
+  "idx": "12365",
   "name": "Sauda Guardian of Liches",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12365",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Sand Cobra"
+      "value": "Sand Cobra",
+      "filename": "companion_cobra_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sherah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Eternal Love Shield"
+      "value": "Eternal Love Shield",
+      "filename": "shield_heart.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

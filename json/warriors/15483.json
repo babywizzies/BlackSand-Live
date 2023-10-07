@@ -1,51 +1,41 @@
 {
+  "idx": "15483",
   "name": "Asper Obliterator of the Lost City",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15483",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Ronin Armor"
+      "value": "Red Ronin Armor",
+      "filename": "body_samurai_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Legionnaire Helmet"
+      "value": "Legionnaire Helmet",
+      "filename": "head_legionnaire.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Nunchaku"
+      "trait_type": "prop",
+      "value": "Nunchaku",
+      "filename": "weapon_nunchucku.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

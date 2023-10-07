@@ -1,51 +1,41 @@
 {
+  "idx": "7925",
   "name": "Mushen Protector of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7925",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Exalted Epic Gear"
+      "value": "Exalted Epic Gear",
+      "filename": "body_meso_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamosh.png"
     },
     {
       "trait_type": "shield",
-      "value": "Horseshoe Shield"
+      "value": "Horseshoe Shield",
+      "filename": "shield_horseshoe.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spetum"
+      "trait_type": "prop",
+      "value": "Spetum",
+      "filename": "weapon_spear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "10586",
   "name": "Athina Ranger of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10586",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Road Spandex"
+      "value": "Yellow Road Spandex",
+      "filename": "body_roadwarrior_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Mountain"
+      "value": "Lady of the Mountain ",
+      "filename": "head_velbeh.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

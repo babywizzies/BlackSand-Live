@@ -1,43 +1,31 @@
 {
+  "idx": "14262",
   "name": "Pippa Carver of Leaves",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14262",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bonnie Lass"
+      "value": "Bonnie Lass",
+      "filename": "head_sloane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Battle Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Battle Axe",
+      "filename": "weapon_axe.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

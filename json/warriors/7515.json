@@ -1,47 +1,36 @@
 {
+  "idx": "7515",
   "name": "Damon Provocateur of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7515",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Orange Road Warrior"
+      "value": "Orange Road Warrior",
+      "filename": "body_roadwarrior_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skindark.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Bomb"
+      "trait_type": "prop",
+      "value": "Red Bomb",
+      "filename": "weapon_bomb_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Omega",
+      "filename": "rune_omega.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

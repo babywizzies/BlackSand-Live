@@ -1,43 +1,31 @@
 {
+  "idx": "8623",
   "name": "Arthur of the Ring",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8623",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Boxing Shorts"
+      "value": "Red Boxing Shorts",
+      "filename": "body_mma_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Frankish Helm"
+      "value": "Frankish Helm",
+      "filename": "head_marlan.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hambone"
+      "trait_type": "prop",
+      "value": "Hambone",
+      "filename": "item_hambone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

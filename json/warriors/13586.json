@@ -1,43 +1,31 @@
 {
+  "idx": "13586",
   "name": "Zola of Runes",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13586",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Honor Guard of the South"
+      "value": "Honor Guard of the South",
+      "filename": "body_femguard_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Kushite"
+      "value": "Kushite",
+      "filename": "head_chane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hambone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Hambone",
+      "filename": "item_hambone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

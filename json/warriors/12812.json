@@ -1,43 +1,31 @@
 {
+  "idx": "12812",
   "name": "Luna Protector of the West",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12812",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Knight"
+      "value": "Yellow Knight",
+      "filename": "body_fem_knight_yellow_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Mountain"
+      "value": "Lady of the Mountain ",
+      "filename": "head_velbi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

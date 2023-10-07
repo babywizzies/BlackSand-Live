@@ -1,51 +1,41 @@
 {
+  "idx": "14864",
   "name": "Vommbar Obliterator of Dragons",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14864",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Fire"
+      "value": "Armor of Fire",
+      "filename": "body_knightfire.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Dwarven Helm"
+      "value": "Blue Dwarven Helm",
+      "filename": "head_glork.png"
     },
     {
       "trait_type": "shield",
-      "value": "Eternal Love Shield"
+      "value": "Eternal Love Shield",
+      "filename": "shield_heart.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

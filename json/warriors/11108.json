@@ -1,35 +1,21 @@
 {
+  "idx": "11108",
   "name": "Fenjeon Ruin of the Dojo",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11108",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "North Island MMA Pants"
+      "value": "North Island MMA Pants",
+      "filename": "body_martial_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Viking Helm"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Yellow Viking Helm",
+      "filename": "head_gorj.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

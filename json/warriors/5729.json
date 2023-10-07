@@ -1,51 +1,41 @@
 {
+  "idx": "5729",
   "name": "Marcheline Wounder of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5729",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Amazonian Jumpsuit"
+      "value": "Green Amazonian Jumpsuit",
+      "filename": "body_amazon_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": "head_marci.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

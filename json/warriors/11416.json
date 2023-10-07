@@ -1,47 +1,36 @@
 {
+  "idx": "11416",
   "name": "Jethro Slasher of the Grass",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11416",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Magpie"
+      "value": "Magpie",
+      "filename": "companion_magpie.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Medieval Livery"
+      "value": "Blue Medieval Livery",
+      "filename": "body_clericknight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Shutter Knight"
+      "value": "Shutter Knight",
+      "filename": "head_shutterknight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lazurite Dragon Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Lazurite Dragon Sword",
+      "filename": "weapon_dragonsword_blue.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

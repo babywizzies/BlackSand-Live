@@ -1,51 +1,41 @@
 {
+  "idx": "12139",
   "name": "Nori Striker of Monsters",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12139",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound"
+      "value": "Demon Hound",
+      "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Black One Piece"
+      "value": "Black One Piece",
+      "filename": "body_onepiece_black_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Cat Girl"
+      "value": "Cat Girl",
+      "filename": "head_catgirl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blood Sword"
+      "trait_type": "prop",
+      "value": "Blood Sword",
+      "filename": "weapon_sword_blood.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

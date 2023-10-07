@@ -1,0 +1,26 @@
+{
+  "idx": "9805",
+  "name": "Lich Baron Merlon of Torment Manor",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Decaying Skeleton",
+      "filename": "body_skeleton_bloody.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Baron",
+      "filename": "head_lich_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Penumbra Potion",
+      "filename": "item_potion_soul.png"
+    }
+  ]
+}

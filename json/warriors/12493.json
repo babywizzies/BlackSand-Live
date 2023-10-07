@@ -1,51 +1,41 @@
 {
+  "idx": "12493",
   "name": "Chance Hacker of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12493",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Sand Cobra"
+      "value": "Sand Cobra",
+      "filename": "companion_cobra_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Omega Plate Armor"
+      "value": "Omega Plate Armor",
+      "filename": "body_plateArmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Jungle Commando"
+      "value": "Jungle Commando",
+      "filename": "head_brock.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Sword"
+      "trait_type": "prop",
+      "value": "Goblin Sword",
+      "filename": "weapon_sword_goblin.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

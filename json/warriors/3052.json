@@ -1,51 +1,41 @@
 {
+  "idx": "3052",
   "name": "Dutch Dueler of the Villa",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3052",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Dominion Plate Armor"
+      "value": "Dominion Plate Armor",
+      "filename": "body_plateArmor_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Golden Sword"
+      "trait_type": "prop",
+      "value": "Golden Sword",
+      "filename": "weapon_sword_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

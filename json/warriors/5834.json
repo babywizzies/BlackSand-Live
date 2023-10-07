@@ -1,51 +1,41 @@
 {
+  "idx": "5834",
   "name": "Mango Shadow the Rune Raiders",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5834",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat"
+      "value": "Black Goat",
+      "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Kobold Grunt Gear"
+      "value": "Kobold Grunt Gear",
+      "filename": "body_kobold_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Kobold Captain"
+      "value": "Kobold Captain",
+      "filename": "head_wambe.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Apollo's Bow"
+      "trait_type": "prop",
+      "value": "Apollo's Bow",
+      "filename": "weapon_goldenbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "2072",
   "name": "Raddix Assaulter of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2072",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Road Warrior"
+      "value": "Purple Road Warrior",
+      "filename": "body_roadwarrior_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Basic Bro"
+      "value": "Basic Bro",
+      "filename": "head_base_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

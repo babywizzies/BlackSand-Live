@@ -1,51 +1,41 @@
 {
+  "idx": "6208",
   "name": "Rufaro Savior of the Cockatrice",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6208",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Zuli Suit"
+      "value": "Zuli Suit",
+      "filename": "body_wildfem.png"
     },
     {
       "trait_type": "head",
-      "value": "Archipelagian"
+      "value": "Archipelagian",
+      "filename": "head_shelley.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

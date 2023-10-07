@@ -1,43 +1,31 @@
 {
+  "idx": "11774",
   "name": "Alvey Eradicator of the East",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11774",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Tower Plate Armor"
+      "value": "Tower Plate Armor",
+      "filename": "body_plateArmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Happy Viking"
+      "value": "Happy Viking",
+      "filename": "head_victor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield"
+      "value": "Triple Triangle Shield",
+      "filename": "shield_3tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

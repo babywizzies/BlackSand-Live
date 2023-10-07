@@ -1,51 +1,41 @@
 {
+  "idx": "1062",
   "name": "Rico Masher of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1062",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Iron Knight of the Hills"
+      "value": "Iron Knight of the Hills",
+      "filename": "body_grillknight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Brigand"
+      "value": "Brigand",
+      "filename": "head_willy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Hammer"
+      "trait_type": "prop",
+      "value": "Wooden Hammer",
+      "filename": "weapon_hammer_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

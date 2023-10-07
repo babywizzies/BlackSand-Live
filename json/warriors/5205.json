@@ -1,51 +1,41 @@
 {
+  "idx": "5205",
   "name": "Waldo of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5205",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Provocator Garb"
+      "value": "Green Provocator Garb",
+      "filename": "body_provoc_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Hero"
+      "value": "Action Hero",
+      "filename": "head_rocky.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Cheeseburger"
+      "trait_type": "prop",
+      "value": "Cheeseburger",
+      "filename": "item_hamburger.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

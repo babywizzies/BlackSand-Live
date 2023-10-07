@@ -1,51 +1,41 @@
 {
+  "idx": "4387",
   "name": "Izible Rogue of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4387",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Red"
+      "value": "Traveller's Cloak Red",
+      "filename": "body_cloak_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Furgnome Marauder"
+      "value": "Furgnome Marauder",
+      "filename": "head_furgnomehorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Shortbow"
+      "trait_type": "prop",
+      "value": "Shortbow",
+      "filename": "weapon_shortbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

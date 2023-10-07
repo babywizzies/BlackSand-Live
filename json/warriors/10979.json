@@ -1,51 +1,41 @@
 {
+  "idx": "10979",
   "name": "Edwin Lopper of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10979",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Scarlet Swine"
+      "value": "Scarlet Swine",
+      "filename": "companion_boar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Exalted Epic Gear"
+      "value": "Exalted Epic Gear",
+      "filename": "body_meso_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Knight Helm"
+      "value": "Blue Knight Helm",
+      "filename": "head_knight_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rogue Falchion"
+      "trait_type": "prop",
+      "value": "Rogue Falchion",
+      "filename": "weapon_sword_falchion_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

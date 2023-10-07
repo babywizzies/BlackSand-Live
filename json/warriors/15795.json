@@ -1,43 +1,31 @@
 {
+  "idx": "15795",
   "name": "Belteshazzar Lopper of the Street",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15795",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Boxing Shorts"
+      "value": "Red Boxing Shorts",
+      "filename": "body_mma_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamesh.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Katana"
+      "trait_type": "prop",
+      "value": "Katana",
+      "filename": "weapon_katana.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sword"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

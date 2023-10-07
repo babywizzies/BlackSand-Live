@@ -1,47 +1,36 @@
 {
+  "idx": "14048",
   "name": "Tumelo of the Villa",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14048",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Styxian"
+      "value": "Styxian",
+      "filename": "head_mellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mug of Ale"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "trait_type": "prop",
+      "value": "Mug of Ale",
+      "filename": "item_ale.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

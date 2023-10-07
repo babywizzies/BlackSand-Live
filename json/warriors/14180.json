@@ -1,51 +1,41 @@
 {
+  "idx": "14180",
   "name": "Lubalar Raider of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14180",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Scarlet Swine"
+      "value": "Scarlet Swine",
+      "filename": "companion_boar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Dwarven Helm"
+      "value": "Purple Dwarven Helm",
+      "filename": "head_glorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Eternal Love Shield"
+      "value": "Eternal Love Shield",
+      "filename": "shield_heart.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Dragon Pike"
+      "trait_type": "prop",
+      "value": "Malachite Dragon Pike",
+      "filename": "weapon_dragonpike_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

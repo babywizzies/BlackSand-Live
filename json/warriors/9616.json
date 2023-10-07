@@ -1,51 +1,41 @@
 {
+  "idx": "9616",
   "name": "Fia Bifurcator of the Wild",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9616",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "West Woodland Cloak"
+      "value": "West Woodland Cloak",
+      "filename": "body_woodfem_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Summer Warrior"
+      "value": "Summer Warrior",
+      "filename": "head_femhelm_green.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Brown Longsword"
+      "trait_type": "prop",
+      "value": "Brown Longsword",
+      "filename": "weapon_longsword_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "6"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

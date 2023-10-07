@@ -1,43 +1,31 @@
 {
+  "idx": "10647",
   "name": "Aden Obliterator of the Cage",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10647",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Attack Drone"
+      "value": "Attack Drone",
+      "filename": "companion_drone.png"
     },
     {
       "trait_type": "body",
-      "value": "Capital City Keikogi"
+      "value": "Capital City Keikogi",
+      "filename": "body_judo_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Bearded Berserker"
+      "value": "Red Bearded Berserker",
+      "filename": "head_berserker_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Goblin Sword",
+      "filename": "weapon_sword_goblin.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

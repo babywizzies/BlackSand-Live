@@ -1,51 +1,41 @@
 {
+  "idx": "6590",
   "name": "Krull Vengeance of Giants",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6590",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Yellow Cloak"
+      "value": "Aura Knight with Yellow Cloak",
+      "filename": "body_auraknight_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Cyber Marauder"
+      "value": "Cyber Marauder",
+      "filename": "head_cyberhood.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cape"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

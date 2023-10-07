@@ -1,51 +1,41 @@
 {
+  "idx": "461",
   "name": "Dusty Assailant of Titans",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/461",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Tower Plate Armor"
+      "value": "Tower Plate Armor",
+      "filename": "body_plateArmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Brownlander"
+      "value": "Brownlander",
+      "filename": "head_robby.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sword of Babylon"
+      "trait_type": "prop",
+      "value": "Sword of Babylon",
+      "filename": "weapon_swordBabylon.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

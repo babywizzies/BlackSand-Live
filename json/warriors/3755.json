@@ -1,51 +1,41 @@
 {
+  "idx": "3755",
   "name": "Amanita Chopper of Beasts",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3755",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Royal Razorback"
+      "value": "Royal Razorback",
+      "filename": "companion_boar_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Tunic Armor"
+      "value": "Green Tunic Armor",
+      "filename": "body_shirtarmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Cleaver"
+      "trait_type": "prop",
+      "value": "Malachite Cleaver",
+      "filename": "weapon_cleaver_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

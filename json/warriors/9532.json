@@ -1,51 +1,41 @@
 {
+  "idx": "9532",
   "name": "Murdock Hammer of the Plains",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9532",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Tunic Armor"
+      "value": "Yellow Tunic Armor",
+      "filename": "body_shirtarmor_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Warrior Monk"
+      "value": "Warrior Monk",
+      "filename": "head_akon.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Morningstar"
+      "trait_type": "prop",
+      "value": "Morningstar",
+      "filename": "weapon_morningstar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "9139",
   "name": "Zod Contaminator of the Street",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9139",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "North Island MMA Pants"
+      "value": "North Island MMA Pants",
+      "filename": "body_martial_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Cyber Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Cyber Axe",
+      "filename": "weapon_axe_cyber.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

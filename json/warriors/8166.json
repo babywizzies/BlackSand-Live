@@ -1,51 +1,41 @@
 {
+  "idx": "8166",
   "name": "Atrox Champion of the Wild",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8166",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Imperial Helmet"
+      "value": "Imperial Helmet",
+      "filename": "head_fanhelmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

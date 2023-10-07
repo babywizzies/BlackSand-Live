@@ -1,39 +1,26 @@
 {
+  "idx": "13915",
   "name": "Victor Killer of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13915",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Leather Barbarian Briefs"
+      "value": "Classic Leather Barbarian Briefs",
+      "filename": "body_barbarian_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "South Sider"
+      "value": "South Sider",
+      "filename": "head_rockmov.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Herald Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Flesh"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Gold Herald Shield",
+      "filename": "shield_chevron_yellow.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

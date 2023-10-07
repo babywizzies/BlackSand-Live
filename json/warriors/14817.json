@@ -1,51 +1,41 @@
 {
+  "idx": "14817",
   "name": "Ace Hacker of Scallywags",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14817",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Iron Knight of the Heath"
+      "value": "Iron Knight of the Heath",
+      "filename": "body_grillknight_blue_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Blonde Bearded Berserker"
+      "value": "Blonde Bearded Berserker",
+      "filename": "head_berserker_skindark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

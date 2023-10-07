@@ -1,51 +1,41 @@
 {
+  "idx": "8694",
   "name": "Draco Heater of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8694",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Tunic Armor"
+      "value": "Blue Tunic Armor",
+      "filename": "body_shirtarmor_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Lycan Warrior"
+      "value": "Lycan Warrior",
+      "filename": "head_logan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Flame Thrower"
+      "trait_type": "prop",
+      "value": "Flame Thrower",
+      "filename": "weapon_flamethrower.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "11706",
   "name": "Sharla Rival of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11706",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Amazonian Jumpsuit"
+      "value": "Green Amazonian Jumpsuit",
+      "filename": "body_amazon_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Dominatrix"
+      "value": "Dominatrix",
+      "filename": "head_natrix.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Dragon Pike"
+      "trait_type": "prop",
+      "value": "Malachite Dragon Pike",
+      "filename": "weapon_dragonpike_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

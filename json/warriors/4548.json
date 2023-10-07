@@ -1,43 +1,31 @@
 {
+  "idx": "4548",
   "name": "Alex Fiend of Penguins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4548",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": "body_redcover.png"
     },
     {
       "trait_type": "head",
-      "value": "Basic Bro"
+      "value": "Basic Bro",
+      "filename": "head_base_skindark.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hunting Knife"
+      "trait_type": "prop",
+      "value": "Hunting Knife",
+      "filename": "weapon_knife.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Saturn"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "1"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "25 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

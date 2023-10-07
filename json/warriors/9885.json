@@ -1,43 +1,31 @@
 {
+  "idx": "9885",
   "name": "Leah Thief of the Elysian Fields",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9885",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sharyl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Estoc"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Estoc",
+      "filename": "weapon_estoc.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "3129",
   "name": "Ashanti Thief of the Lost City",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3129",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Peacock Warrior"
+      "value": "Peacock Warrior",
+      "filename": "head_sol.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

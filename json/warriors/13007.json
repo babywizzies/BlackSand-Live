@@ -1,51 +1,41 @@
 {
+  "idx": "13007",
   "name": "Baril Clobberer of the Ruins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13007",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Desert Wear"
+      "value": "Desert Wear",
+      "filename": "body_desert.png"
     },
     {
       "trait_type": "head",
-      "value": "Gold Dwarven Helm"
+      "value": "Gold Dwarven Helm",
+      "filename": "head_glorf.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler"
+      "value": "Green Buckler",
+      "filename": "shield_circle_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

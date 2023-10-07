@@ -1,51 +1,41 @@
 {
+  "idx": "5285",
   "name": "Silas Flagellator of Death",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5285",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Sand Cobra"
+      "value": "Sand Cobra",
+      "filename": "companion_cobra_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Assassin Tunic"
+      "value": "Dark Assassin Tunic",
+      "filename": "body_darkAssasin.png"
     },
     {
       "trait_type": "head",
-      "value": "Strongman"
+      "value": "Strongman",
+      "filename": "head_fuchow.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spiked Ball bat"
+      "trait_type": "prop",
+      "value": "Spiked Ball bat",
+      "filename": "weapon_ballbat.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Horror"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

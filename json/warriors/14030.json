@@ -1,51 +1,41 @@
 {
+  "idx": "14030",
   "name": "Quince Sword of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14030",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Xanthous Paladin Gear"
+      "value": "Xanthous Paladin Gear",
+      "filename": "body_starcleric_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Earth Guard"
+      "value": "Earth Guard",
+      "filename": "head_jardem.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Shortsword"
+      "trait_type": "prop",
+      "value": "Blue Shortsword",
+      "filename": "weapon_shortsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

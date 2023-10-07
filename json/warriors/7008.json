@@ -1,51 +1,41 @@
 {
+  "idx": "7008",
   "name": "Etana Contaminator of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7008",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Battle Bikini"
+      "value": "Red Battle Bikini",
+      "filename": "body_lea_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Autumn Warrior"
+      "value": "Autumn Warrior",
+      "filename": "head_femhelm_red.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

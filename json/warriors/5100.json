@@ -1,47 +1,36 @@
 {
+  "idx": "5100",
   "name": "Gunnar Paragon of Monsters",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5100",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Commando Fatigues"
+      "value": "Commando Fatigues",
+      "filename": "body_commando_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Zimbala"
+      "value": "Zimbala",
+      "filename": "head_impeh.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Cleaver"
+      "trait_type": "prop",
+      "value": "Malachite Cleaver",
+      "filename": "weapon_cleaver_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

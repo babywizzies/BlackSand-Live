@@ -1,43 +1,31 @@
 {
+  "idx": "4871",
   "name": "Gorgah Truncator of Zero",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4871",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Superalloy Bot"
+      "value": "Superalloy Bot ",
+      "filename": "body_robo_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Cyber Marauder"
+      "value": "Cyber Marauder",
+      "filename": "head_cyberhood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Yellow Chainsaw"
+      "trait_type": "prop",
+      "value": "Yellow Chainsaw",
+      "filename": "weapon_chainsaw_yellow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cyber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

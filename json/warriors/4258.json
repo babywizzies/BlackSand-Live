@@ -1,39 +1,26 @@
 {
+  "idx": "4258",
   "name": "Ferocina Ravager of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4258",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air"
+      "value": "Armor of Air",
+      "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Mountain"
+      "value": "Lady of the Mountain ",
+      "filename": "head_velbi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

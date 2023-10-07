@@ -1,51 +1,41 @@
 {
+  "idx": "408",
   "name": "Orion Doom of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/408",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Amethyst Spike Armor"
+      "value": "Amethyst Spike Armor",
+      "filename": "body_spikeBarb_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Executioner"
+      "value": "Executioner",
+      "filename": "head_executioner.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Titan Cleaver"
+      "trait_type": "prop",
+      "value": "Titan Cleaver",
+      "filename": "weapon_cleaver_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

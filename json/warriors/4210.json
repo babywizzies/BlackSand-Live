@@ -1,39 +1,26 @@
 {
+  "idx": "4210",
   "name": "Narfi Dismantler of the Sacred Pillars",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4210",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Tunic Armor"
+      "value": "Yellow Tunic Armor",
+      "filename": "body_shirtarmor_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Contender Helm"
+      "value": "Contender Helm",
+      "filename": "head_helmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

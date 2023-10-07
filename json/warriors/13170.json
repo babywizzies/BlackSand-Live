@@ -1,51 +1,41 @@
 {
+  "idx": "13170",
   "name": "Hacan Ravager of the Savannah",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13170",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Murmillo Gear"
+      "value": "Murmillo Gear",
+      "filename": "body_gladiator_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Ether Horn Helm"
+      "value": "Ether Horn Helm",
+      "filename": "head_helmethorn_light.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

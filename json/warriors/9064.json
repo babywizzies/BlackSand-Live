@@ -1,51 +1,41 @@
 {
+  "idx": "9064",
   "name": "Remi Poker of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9064",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Fur Barbarian"
+      "value": "Fur Barbarian",
+      "filename": "body_fur_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "East Sider"
+      "value": "East Sider",
+      "filename": "head_rockmer.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

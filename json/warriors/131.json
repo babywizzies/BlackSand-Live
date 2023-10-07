@@ -1,39 +1,26 @@
 {
+  "idx": "131",
   "name": "Barad Render of Nothing",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/131",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic Armor"
+      "value": "Brown Tunic Armor",
+      "filename": "body_shirtarmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Mandinka"
+      "value": "Mandinka",
+      "filename": "head_rocktim.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "10283",
   "name": "Chike Slaughterer of Area 71",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10283",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Guardian Zero"
+      "value": "Guardian Zero",
+      "filename": "body_guardian_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Zimbala"
+      "value": "Zimbala",
+      "filename": "head_impeh.png"
     },
     {
       "trait_type": "shield",
-      "value": "Iron Buckler"
+      "value": "Iron Buckler",
+      "filename": "shield_buckler.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

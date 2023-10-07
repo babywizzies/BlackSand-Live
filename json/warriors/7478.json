@@ -1,39 +1,26 @@
 {
+  "idx": "7478",
   "name": "Duzzle Combatant of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7478",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Yellow"
+      "value": "Traveller's Cloak Yellow",
+      "filename": "body_cloak_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Imp Warrior"
+      "value": "Imp Warrior",
+      "filename": "head_impy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

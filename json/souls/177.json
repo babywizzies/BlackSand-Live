@@ -1,0 +1,31 @@
+{
+  "idx": "177",
+  "name": "Death Crow Crowley of the Nether Regions",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Blight Rags",
+      "filename": "body_zombie_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Corvid Skull",
+      "filename": "head_corvin_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Underworld Peyote",
+      "filename": "item_peyote_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Blaze Frog",
+      "filename": "familiar_frog_fire.png"
+    }
+  ]
+}

@@ -1,43 +1,31 @@
 {
+  "idx": "15797",
   "name": "Asmodeus Protector of the Docks",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15797",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Road Warrior"
+      "value": "Purple Road Warrior",
+      "filename": "body_roadwarrior_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Contender Helm"
+      "value": "Contender Helm",
+      "filename": "head_helmet.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Purple Longsword"
+      "trait_type": "prop",
+      "value": "Purple Longsword",
+      "filename": "weapon_longsword_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

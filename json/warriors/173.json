@@ -1,51 +1,41 @@
 {
+  "idx": "173",
   "name": "Benedict Impaler of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/173",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Desert Wear"
+      "value": "Desert Wear",
+      "filename": "body_desert.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Bearded Berserker"
+      "value": "Red Bearded Berserker",
+      "filename": "head_berserker_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wolf Shield"
+      "value": "Wolf Shield",
+      "filename": "shield_wolf.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

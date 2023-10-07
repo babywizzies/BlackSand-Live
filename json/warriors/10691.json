@@ -1,51 +1,41 @@
 {
+  "idx": "10691",
   "name": "Jeremy Dodger of Giants",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10691",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Earth"
+      "value": "Armor of Earth",
+      "filename": "body_knightearth.png"
     },
     {
       "trait_type": "head",
-      "value": "Visor Knight"
+      "value": "Visor Knight",
+      "filename": "head_visorman.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mushroom Shield"
+      "value": "Mushroom Shield",
+      "filename": "shield_shroom.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

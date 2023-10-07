@@ -1,51 +1,41 @@
 {
+  "idx": "4923",
   "name": "Arthur Executor of the River",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4923",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Water"
+      "value": "Armor of Water",
+      "filename": "body_knightwater.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Knight Helm"
+      "value": "Blue Knight Helm",
+      "filename": "head_knight_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sol Sword"
+      "trait_type": "prop",
+      "value": "Sol Sword",
+      "filename": "weapon_sword_jewel_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

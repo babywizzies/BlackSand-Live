@@ -1,43 +1,31 @@
 {
+  "idx": "9851",
   "name": "Ayo Protector of Pain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9851",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "White Dominatrix Gear"
+      "value": "White Dominatrix Gear",
+      "filename": "body_dom_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Nubian"
+      "value": "Nubian",
+      "filename": "head_grace.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

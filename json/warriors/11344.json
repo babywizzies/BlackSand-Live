@@ -1,51 +1,41 @@
 {
+  "idx": "11344",
   "name": "Laasya Mangler of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11344",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Divine Battle Garment"
+      "value": "Divine Battle Garment",
+      "filename": "body_sariwar.png"
     },
     {
       "trait_type": "head",
-      "value": "Vedic Warrior"
+      "value": "Vedic Warrior",
+      "filename": "head_hindi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Morningstar"
+      "trait_type": "prop",
+      "value": "Morningstar",
+      "filename": "weapon_morningstar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

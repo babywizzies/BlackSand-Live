@@ -1,51 +1,41 @@
 {
+  "idx": "5342",
   "name": "Cerb Fiend of Chaos",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5342",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Prism Armor"
+      "value": "Prism Armor",
+      "filename": "body_prismknight.png"
     },
     {
       "trait_type": "head",
-      "value": "Darkling"
+      "value": "Darkling",
+      "filename": "head_voideth.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gae Bolg"
+      "trait_type": "prop",
+      "value": "Gae Bolg",
+      "filename": "weapon_gaebolg.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

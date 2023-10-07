@@ -1,51 +1,41 @@
 {
+  "idx": "198",
   "name": "Bellatrix Guardian of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/198",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Knight"
+      "value": "Blue Knight",
+      "filename": "body_fem_knight_blue_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bambam"
+      "value": "Bambam",
+      "filename": "head_bambam.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Poleaxe"
+      "trait_type": "prop",
+      "value": "Silver Poleaxe",
+      "filename": "weapon_poleaxe_grey.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

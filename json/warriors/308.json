@@ -1,43 +1,31 @@
 {
+  "idx": "308",
   "name": "Uri Lumper of the Pavillion",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/308",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Provocator Garb"
+      "value": "Purple Provocator Garb",
+      "filename": "body_provoc_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamesh.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

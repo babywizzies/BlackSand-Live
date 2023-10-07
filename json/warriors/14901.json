@@ -1,47 +1,36 @@
 {
+  "idx": "14901",
   "name": "Sami Executor of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14901",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Brown Camo"
+      "value": "Street Punk with Brown Camo",
+      "filename": "body_streetpunk_purple_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Desert Warrior"
+      "value": "Desert Warrior",
+      "filename": "head_arabian.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "White Longsword"
+      "trait_type": "prop",
+      "value": "White Longsword",
+      "filename": "weapon_longsword_white.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,47 +1,36 @@
 {
+  "idx": "9371",
   "name": "Riggs Wrecker of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9371",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of the Forest"
+      "value": "Banded Armor of the Forest",
+      "filename": "body_bandArmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Zimbala"
+      "value": "Zimbala",
+      "filename": "head_impeh.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Scimitar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "trait_type": "prop",
+      "value": "Scimitar",
+      "filename": "weapon_scimitar.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

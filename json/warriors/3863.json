@@ -1,51 +1,41 @@
 {
+  "idx": "3863",
   "name": "Sergio Stinger of the Wood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3863",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Hedge Knight Armor"
+      "value": "Blue Hedge Knight Armor",
+      "filename": "body_knight_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Man"
+      "value": "Action Man",
+      "filename": "head_jeremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Whip"
+      "trait_type": "prop",
+      "value": "Whip",
+      "filename": "weapon_whip.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

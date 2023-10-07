@@ -1,0 +1,26 @@
+{
+  "idx": "6010",
+  "name": "Blight Zombie Angus of the Severed Innocence",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Emerald Zombie",
+      "filename": "body_twopiecesuit_oz_zombie.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Blight Zombie",
+      "filename": "head_zombie_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Empty Mug of Ale",
+      "filename": "item_ale_soul.png"
+    }
+  ]
+}

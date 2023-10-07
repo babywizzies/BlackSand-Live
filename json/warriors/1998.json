@@ -1,43 +1,31 @@
 {
+  "idx": "1998",
   "name": "Joan Guillotiner of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1998",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Northern Barbarian"
+      "value": "Northern Barbarian ",
+      "filename": "body_femwolf.png"
     },
     {
       "trait_type": "head",
-      "value": "Moorish Girl"
+      "value": "Moorish Girl",
+      "filename": "head_pippin.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Moon"
+      "value": "Shield of the Moon",
+      "filename": "shield_moon.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Journeyman Falchion"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Journeyman Falchion",
+      "filename": "weapon_sword_falchion_gold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "11115",
   "name": "Ernie Menace of Honor",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11115",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic Armor"
+      "value": "Brown Tunic Armor",
+      "filename": "body_shirtarmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Frankish Helm"
+      "value": "Frankish Helm",
+      "filename": "head_marlan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Herald Shield"
+      "value": "Gold Herald Shield",
+      "filename": "shield_chevron_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

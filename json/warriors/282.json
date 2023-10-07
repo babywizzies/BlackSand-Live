@@ -1,51 +1,41 @@
 {
+  "idx": "282",
   "name": "Bruiser Disintegrator of Devils",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/282",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Earth"
+      "value": "Armor of Earth",
+      "filename": "body_knightearth.png"
     },
     {
       "trait_type": "head",
-      "value": "Thrall Ruffian"
+      "value": "Thrall Ruffian",
+      "filename": "head_crom.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Brown Longsword"
+      "trait_type": "prop",
+      "value": "Brown Longsword",
+      "filename": "weapon_longsword_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

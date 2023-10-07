@@ -1,51 +1,41 @@
 {
+  "idx": "15430",
   "name": "Kalo Assailant of Runes",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15430",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Hedge Knight Armor"
+      "value": "Purple Hedge Knight Armor",
+      "filename": "body_knight_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Anuran Warrior"
+      "value": "Anuran Warrior",
+      "filename": "head_puzu.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Cyber Axe"
+      "trait_type": "prop",
+      "value": "Cyber Axe",
+      "filename": "weapon_axe_cyber.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Power"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Power",
+      "filename": "rune_power.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "5182",
   "name": "Tildor Poker of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5182",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of Earth"
+      "value": "Banded Armor of Earth",
+      "filename": "body_bandArmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Viking Helm"
+      "value": "Purple Viking Helm",
+      "filename": "head_gerj.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

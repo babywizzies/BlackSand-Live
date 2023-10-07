@@ -1,47 +1,36 @@
 {
+  "idx": "13971",
   "name": "Rockefeller Assailant of the Street",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13971",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Boxing Shorts"
+      "value": "Blue Boxing Shorts",
+      "filename": "body_mma_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Broadsword"
+      "trait_type": "prop",
+      "value": "Blue Broadsword",
+      "filename": "weapon_sword_bigbarb_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

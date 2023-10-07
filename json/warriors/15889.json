@@ -1,51 +1,41 @@
 {
+  "idx": "15889",
   "name": "Vidal Bifurcator of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15889",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Amethyst Spike Armor"
+      "value": "Amethyst Spike Armor",
+      "filename": "body_spikeBarb_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Man"
+      "value": "Action Man",
+      "filename": "head_jeremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Chainsaw"
+      "trait_type": "prop",
+      "value": "Blue Chainsaw",
+      "filename": "weapon_chainsaw_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

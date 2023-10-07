@@ -1,43 +1,31 @@
 {
+  "idx": "10474",
   "name": "Myla Killer of the Lotus",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10474",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Battle Sari"
+      "value": "Battle Sari",
+      "filename": "body_sari.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Oasis"
+      "value": "Lady of the Oasis ",
+      "filename": "head_toru.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Balance"
+      "value": "Shield of Balance",
+      "filename": "shield_tri.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

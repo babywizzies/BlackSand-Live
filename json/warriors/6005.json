@@ -1,43 +1,31 @@
 {
+  "idx": "6005",
   "name": "Edmund Eidolon of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6005",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak"
+      "value": "Aura Knight with Red Cloak",
+      "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Templar"
+      "value": "Templar ",
+      "filename": "head_crusader.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

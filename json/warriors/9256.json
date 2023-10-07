@@ -1,51 +1,41 @@
 {
+  "idx": "9256",
   "name": "Agnes Dismantler of the Blue",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9256",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Garb"
+      "value": "Pirate Garb",
+      "filename": "body_fempirateWar.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Mountain"
+      "value": "Lady of the Mountain ",
+      "filename": "head_velbi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Cleaver"
+      "trait_type": "prop",
+      "value": "Malachite Cleaver",
+      "filename": "weapon_cleaver_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

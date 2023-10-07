@@ -1,51 +1,41 @@
 {
+  "idx": "8928",
   "name": "Antonia Peacemaker of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8928",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Azure Raptor"
+      "value": "Azure Raptor",
+      "filename": "companion_raptor_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Black One Piece"
+      "value": "Black One Piece",
+      "filename": "body_onepiece_black_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sharyl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Pony Shield"
+      "value": "Pony Shield",
+      "filename": "shield_pony.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bamboo Pole"
+      "trait_type": "prop",
+      "value": "Bamboo Pole",
+      "filename": "weapon_bamboo.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Sigma",
+      "filename": "rune_sigma.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

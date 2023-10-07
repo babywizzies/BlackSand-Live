@@ -1,51 +1,41 @@
 {
+  "idx": "14809",
   "name": "Orga Waster of the Worms",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14809",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Styxian Boar"
+      "value": "Styxian Boar",
+      "filename": "companion_boar_dark.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier"
+      "value": "Goblin Footsoldier",
+      "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin"
+      "value": "Goblin",
+      "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Herald Shield"
+      "value": "Gold Herald Shield",
+      "filename": "shield_chevron_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Dragon Pike"
+      "trait_type": "prop",
+      "value": "Silver Dragon Pike",
+      "filename": "weapon_dragonpike_silver.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

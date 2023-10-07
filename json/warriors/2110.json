@@ -1,51 +1,41 @@
 {
+  "idx": "2110",
   "name": "Zeeke Impaler of the Savannah",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2110",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Green Briefs"
+      "value": "Gladiator's Cloak with Green Briefs",
+      "filename": "body_spartan_silver_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Metabot"
+      "value": "Metabot",
+      "filename": "head_metabot.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

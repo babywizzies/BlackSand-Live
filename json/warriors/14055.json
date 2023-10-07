@@ -1,51 +1,41 @@
 {
+  "idx": "14055",
   "name": "Hazim Guillotiner of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14055",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Hedge Knight Armor"
+      "value": "Blue Hedge Knight Armor",
+      "filename": "body_knight_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Stratiotai"
+      "value": "Stratiotai",
+      "filename": "head_byzantine.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

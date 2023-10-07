@@ -1,51 +1,41 @@
 {
+  "idx": "6344",
   "name": "Luis Breaker of Light",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6344",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Harpy Eagle"
+      "value": "Harpy Eagle",
+      "filename": "companion_eagle_harpy.png"
     },
     {
       "trait_type": "body",
-      "value": "Omega Plate Armor"
+      "value": "Omega Plate Armor",
+      "filename": "body_plateArmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Man"
+      "value": "Action Man",
+      "filename": "head_jeremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Water Elemental Shield"
+      "value": "Water Elemental Shield",
+      "filename": "shield_water.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wratchet"
+      "trait_type": "prop",
+      "value": "Wratchet",
+      "filename": "weapon_wratchet.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

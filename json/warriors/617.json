@@ -1,51 +1,41 @@
 {
+  "idx": "617",
   "name": "Agnes Liquidator of the Street",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/617",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Road Spandex"
+      "value": "Green Road Spandex",
+      "filename": "body_roadwarrior_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sharyl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Guardian Shield"
+      "value": "Guardian Shield",
+      "filename": "shield_guardian.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wratchet"
+      "trait_type": "prop",
+      "value": "Wratchet",
+      "filename": "weapon_wratchet.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Machine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

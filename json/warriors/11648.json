@@ -1,43 +1,31 @@
 {
+  "idx": "11648",
   "name": "Titan Swashbuckler of the Ruins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11648",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Provocator Garb"
+      "value": "Purple Provocator Garb",
+      "filename": "body_provoc_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Polar Man"
+      "value": "Polar Man",
+      "filename": "head_polarman.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

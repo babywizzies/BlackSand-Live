@@ -1,51 +1,41 @@
 {
+  "idx": "9468",
   "name": "Werner Nullifier of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9468",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Exalted Epic Gear"
+      "value": "Exalted Epic Gear",
+      "filename": "body_meso_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Sea Guard"
+      "value": "Sea Guard",
+      "filename": "head_jordan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Broadsword"
+      "trait_type": "prop",
+      "value": "Red Broadsword",
+      "filename": "weapon_sword_bigbarb_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

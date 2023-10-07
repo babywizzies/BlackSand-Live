@@ -1,51 +1,41 @@
 {
+  "idx": "12858",
   "name": "Zula Beheader of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12858",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "White Knight"
+      "value": "White Knight",
+      "filename": "body_fem_knight_white_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Styxian"
+      "value": "Styxian",
+      "filename": "head_mellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sword of Babylon"
+      "trait_type": "prop",
+      "value": "Sword of Babylon",
+      "filename": "weapon_swordBabylon.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

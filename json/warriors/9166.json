@@ -1,51 +1,41 @@
 {
+  "idx": "9166",
   "name": "Urlok Guardian of Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9166",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Harpy Eagle"
+      "value": "Harpy Eagle",
+      "filename": "companion_eagle_harpy.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Road Warrior"
+      "value": "Goblin Road Warrior",
+      "filename": "body_roadwarrior_goblin.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin Chieftain"
+      "value": "Goblin Chieftain",
+      "filename": "head_goblin_skull.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

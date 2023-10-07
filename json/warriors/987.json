@@ -1,51 +1,41 @@
 {
+  "idx": "987",
   "name": "Cane Ruin of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/987",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Hedge Knight Armor"
+      "value": "Purple Hedge Knight Armor",
+      "filename": "body_knight_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Stunt Man"
+      "value": "Stunt Man",
+      "filename": "head_joremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "8926",
   "name": "Neko Monk of the Wild",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8926",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Alchemist Armor"
+      "value": "Alchemist Armor",
+      "filename": "body_knight.png"
     },
     {
       "trait_type": "head",
-      "value": "Tigris"
+      "value": "Tigris",
+      "filename": "head_tiger.png"
     },
     {
       "trait_type": "shield",
-      "value": "Water Elemental Shield"
+      "value": "Water Elemental Shield",
+      "filename": "shield_water.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

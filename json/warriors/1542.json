@@ -1,39 +1,26 @@
 {
+  "idx": "1542",
   "name": "Pontius Poker of the Street",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1542",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Orange Road Warrior"
+      "value": "Orange Road Warrior",
+      "filename": "body_roadwarrior_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skindark.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

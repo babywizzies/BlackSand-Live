@@ -1,51 +1,41 @@
 {
+  "idx": "5144",
   "name": "Devon Wrecker of Snakes",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5144",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Marsh Girl"
+      "value": "Marsh Girl",
+      "filename": "head_pippa.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Green Longsword"
+      "trait_type": "prop",
+      "value": "Green Longsword",
+      "filename": "weapon_longsword_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

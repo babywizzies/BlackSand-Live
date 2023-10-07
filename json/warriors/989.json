@@ -1,51 +1,41 @@
 {
+  "idx": "989",
   "name": "Wambe Eidolon of Brown-Hat Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/989",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Silver Goat"
+      "value": "Silver Goat",
+      "filename": "companion_goat_white.png"
     },
     {
       "trait_type": "body",
-      "value": "Kobold Grunt Gear"
+      "value": "Kobold Grunt Gear",
+      "filename": "body_kobold_black.png"
     },
     {
       "trait_type": "head",
-      "value": "Wild Kobold"
+      "value": "Wild Kobold ",
+      "filename": "head_womble.png"
     },
     {
       "trait_type": "shield",
-      "value": "Guardian Shield"
+      "value": "Guardian Shield",
+      "filename": "shield_guardian.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Pantheon Spear"
+      "trait_type": "prop",
+      "value": "Pantheon Spear",
+      "filename": "weapon_spearWing.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

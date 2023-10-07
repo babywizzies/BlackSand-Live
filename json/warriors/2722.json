@@ -1,43 +1,31 @@
 {
+  "idx": "2722",
   "name": "Thorne Traveler of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2722",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Murmillo Gear"
+      "value": "Murmillo Gear",
+      "filename": "body_gladiator_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Brigand"
+      "value": "Brigand",
+      "filename": "head_willy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

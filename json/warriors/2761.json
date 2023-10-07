@@ -1,51 +1,41 @@
 {
+  "idx": "2761",
   "name": "Mack Shadow of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2761",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Provocator Garb"
+      "value": "Green Provocator Garb",
+      "filename": "body_provoc_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Jungle Commando"
+      "value": "Jungle Commando",
+      "filename": "head_brandan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Protection"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Protection",
+      "filename": "rune_protection.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

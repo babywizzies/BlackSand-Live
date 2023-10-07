@@ -1,47 +1,36 @@
 {
+  "idx": "8201",
   "name": "Valerie Flame of Deer",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8201",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sherry.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Flame Thrower"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "trait_type": "prop",
+      "value": "Flame Thrower",
+      "filename": "weapon_flamethrower.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

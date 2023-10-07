@@ -1,51 +1,41 @@
 {
+  "idx": "12037",
   "name": "Meryl Beheader of the Wood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12037",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "South Woodland Cloak"
+      "value": "South Woodland Cloak",
+      "filename": "body_woodfem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Oasis"
+      "value": "Lady of the Oasis ",
+      "filename": "head_tora.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Golden Sword"
+      "trait_type": "prop",
+      "value": "Golden Sword",
+      "filename": "weapon_sword_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

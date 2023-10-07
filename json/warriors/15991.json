@@ -1,39 +1,26 @@
 {
+  "idx": "15991",
   "name": "Alam Wounder of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15991",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Belt Ruffian"
+      "value": "Purple Belt Ruffian",
+      "filename": "body_sharp_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamesh.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

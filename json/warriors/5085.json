@@ -1,39 +1,26 @@
 {
+  "idx": "5085",
   "name": "Jordan Axe of the Ruins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5085",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Lycan Warrior"
+      "value": "Lycan Warrior",
+      "filename": "head_logum.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

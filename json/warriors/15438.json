@@ -1,51 +1,41 @@
 {
+  "idx": "15438",
   "name": "Wharton Liquidator of Dragons",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15438",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Medieval Livery"
+      "value": "Blue Medieval Livery",
+      "filename": "body_clericknight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Guardian Shield"
+      "value": "Guardian Shield",
+      "filename": "shield_guardian.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spiked Ball bat"
+      "trait_type": "prop",
+      "value": "Spiked Ball bat",
+      "filename": "weapon_ballbat.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

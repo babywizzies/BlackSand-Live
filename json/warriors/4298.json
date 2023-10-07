@@ -1,39 +1,26 @@
 {
+  "idx": "4298",
   "name": "Lance Bludgeoner of Goblins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4298",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Brown Camo"
+      "value": "Street Punk with Brown Camo",
+      "filename": "body_streetpunk_purple_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Templar"
+      "value": "Templar ",
+      "filename": "head_crusader.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Hammer"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Wooden Hammer",
+      "filename": "weapon_hammer_brown.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

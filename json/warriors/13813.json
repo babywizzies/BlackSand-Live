@@ -1,47 +1,36 @@
 {
+  "idx": "13813",
   "name": "Drusilla Mischief Maker of the Baobabs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13813",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Bone Warrior"
+      "value": "Bone Warrior",
+      "filename": "body_wildbone_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Valkyrie"
+      "value": "Valkyrie",
+      "filename": "head_valkyrie.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

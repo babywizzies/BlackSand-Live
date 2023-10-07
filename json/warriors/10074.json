@@ -1,51 +1,41 @@
 {
+  "idx": "10074",
   "name": "Primus Masher of Magic",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10074",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Cyber Viking"
+      "value": "Cyber Viking",
+      "filename": "body_cyberviking.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 79"
+      "value": "BucketHead: Atomic 79",
+      "filename": "head_buckethead_gold.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wratchet"
+      "trait_type": "prop",
+      "value": "Wratchet",
+      "filename": "weapon_wratchet.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cyber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

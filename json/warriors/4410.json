@@ -1,39 +1,26 @@
 {
+  "idx": "4410",
   "name": "Maur Render of Devils",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4410",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Yellow"
+      "value": "Traveller's Cloak Yellow",
+      "filename": "body_cloak_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamish.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "4001",
   "name": "Jules Gambler of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4001",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Knight"
+      "value": "Green Knight",
+      "filename": "body_fem_knight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Psyche Warrior"
+      "value": "Psyche Warrior",
+      "filename": "head_riona.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

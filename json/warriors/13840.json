@@ -1,51 +1,41 @@
 {
+  "idx": "13840",
   "name": "Casper Ruin of Scoundrels",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13840",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Xanthous Paladin Gear"
+      "value": "Xanthous Paladin Gear",
+      "filename": "body_starcleric_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Furgnome Marauder"
+      "value": "Furgnome Marauder",
+      "filename": "head_furgnomehorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Pony Shield"
+      "value": "Pony Shield",
+      "filename": "shield_pony.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Dragon Pike"
+      "trait_type": "prop",
+      "value": "Malachite Dragon Pike",
+      "filename": "weapon_dragonpike_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

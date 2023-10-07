@@ -1,47 +1,36 @@
 {
+  "idx": "9572",
   "name": "Mbali Truncator of the Disco",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9572",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Rose Camo"
+      "value": "Street Punk with Rose Camo",
+      "filename": "body_streetpunk_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Divanae"
+      "value": "Divanae",
+      "filename": "head_maude.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Chainsaw"
+      "trait_type": "prop",
+      "value": "Red Chainsaw",
+      "filename": "weapon_chainsaw_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Horror"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

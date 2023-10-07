@@ -1,43 +1,31 @@
 {
+  "idx": "8052",
   "name": "Chirk Clobberer of Dragons",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8052",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "White Tunic Armor"
+      "value": "White Tunic Armor",
+      "filename": "body_shirtarmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Imp Warrior"
+      "value": "Imp Warrior",
+      "filename": "head_impy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler"
+      "value": "Green Buckler",
+      "filename": "shield_circle_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

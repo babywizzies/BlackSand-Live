@@ -1,43 +1,31 @@
 {
+  "idx": "632",
   "name": "Liam Slaughterer of the Hall",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/632",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Hedge Knight Armor"
+      "value": "Purple Hedge Knight Armor",
+      "filename": "body_knight_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Polar Man"
+      "value": "Polar Man",
+      "filename": "head_polarman.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

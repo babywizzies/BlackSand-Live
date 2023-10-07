@@ -1,39 +1,26 @@
 {
+  "idx": "11787",
   "name": "Marlan Cataclysm of the Snow",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11787",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": "body_redcover.png"
     },
     {
       "trait_type": "head",
-      "value": "Scout"
+      "value": "Scout",
+      "filename": "head_matthew.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "2745",
   "name": "Sekai Poker of Thieves",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2745",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Amazonian Jumpsuit"
+      "value": "Green Amazonian Jumpsuit",
+      "filename": "body_amazon_green_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Nubian"
+      "value": "Nubian",
+      "filename": "head_grace.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

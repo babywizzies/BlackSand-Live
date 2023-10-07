@@ -1,39 +1,26 @@
 {
+  "idx": "10235",
   "name": "Murphy Cataclysm of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10235",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Leather Briefs"
+      "value": "Gladiator's Cloak with Leather Briefs",
+      "filename": "body_spartan_gold_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_steve.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

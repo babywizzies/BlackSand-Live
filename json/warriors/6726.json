@@ -1,39 +1,26 @@
 {
+  "idx": "6726",
   "name": "Ryder Wrecker of Brigands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6726",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak"
+      "value": "Aura Knight with Red Cloak",
+      "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Hero"
+      "value": "Action Hero",
+      "filename": "head_rocky.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

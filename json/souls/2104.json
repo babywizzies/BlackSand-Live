@@ -1,0 +1,31 @@
+{
+  "idx": "2104",
+  "name": "Void Phantasm Zane of Phantasmagoria",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasmal body of the Void",
+      "filename": "body_phantasm_void.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Phantasm of the Void",
+      "filename": "head_phantasm_void.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Dragon hatchling",
+      "filename": "item_egg_dragon_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Resurrected Dodo",
+      "filename": "familiar_dodo.png"
+    }
+  ]
+}

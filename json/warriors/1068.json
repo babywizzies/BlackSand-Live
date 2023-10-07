@@ -1,51 +1,41 @@
 {
+  "idx": "1068",
   "name": "Baako Champion of the Wild",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1068",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Skylord Plate Armor"
+      "value": "Skylord Plate Armor",
+      "filename": "body_plateArmor_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Meriotic Warrior"
+      "value": "Meriotic Warrior",
+      "filename": "head_rommi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield"
+      "value": "Magic Shield",
+      "filename": "shield_magic.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

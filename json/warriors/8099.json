@@ -1,51 +1,41 @@
 {
+  "idx": "8099",
   "name": "Bambam Savior of the Cockatrice",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8099",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Leather Barbarian Bikini"
+      "value": "Classic Leather Barbarian Bikini",
+      "filename": "body_fembarian_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Horn Lady Buff"
+      "value": "Yellow Horn Lady Buff",
+      "filename": "head_buffy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

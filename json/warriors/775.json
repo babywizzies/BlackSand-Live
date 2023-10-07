@@ -1,51 +1,41 @@
 {
+  "idx": "775",
   "name": "Justice Combatant of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/775",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Styxian Boar"
+      "value": "Styxian Boar",
+      "filename": "companion_boar_dark.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Macho Pants"
+      "value": "Red Macho Pants",
+      "filename": "body_suspenders_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Illuminatus Shield"
+      "value": "Illuminatus Shield",
+      "filename": "shield_eye.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lavender Double Blade"
+      "trait_type": "prop",
+      "value": "Lavender Double Blade",
+      "filename": "weapon_doubleblade_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "7836",
   "name": "Arnie Leveler of Bugbears",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7836",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Murmillo Gear"
+      "value": "Murmillo Gear",
+      "filename": "body_gladiator_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Moon"
+      "value": "Shield of the Moon",
+      "filename": "shield_moon.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Viking"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

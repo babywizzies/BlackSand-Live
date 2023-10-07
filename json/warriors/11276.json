@@ -1,43 +1,31 @@
 {
+  "idx": "11276",
   "name": "Hurum Explorer of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11276",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Provocator Garb"
+      "value": "Red Provocator Garb",
+      "filename": "body_provoc_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Viking Helm"
+      "value": "Purple Viking Helm",
+      "filename": "head_gerj.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Chakram"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Chakram",
+      "filename": "weapon_chakram.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "350",
   "name": "Enki Carver of Monsters",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/350",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat"
+      "value": "Black Goat",
+      "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of the Forest"
+      "value": "Banded Armor of the Forest",
+      "filename": "body_bandArmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Furgnome Marauder"
+      "value": "Furgnome Marauder",
+      "filename": "head_furgnomehorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amaryllis Fey Sword"
+      "trait_type": "prop",
+      "value": "Amaryllis Fey Sword",
+      "filename": "weapon_feysword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

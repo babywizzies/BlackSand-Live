@@ -1,47 +1,36 @@
 {
+  "idx": "9053",
   "name": "Imani Belligerent of Devils",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9053",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Knight"
+      "value": "Purple Knight",
+      "filename": "body_fem_knight_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Styxian"
+      "value": "Styxian",
+      "filename": "head_mellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bone Club"
+      "trait_type": "prop",
+      "value": "Bone Club",
+      "filename": "weapon_bone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "15235",
   "name": "Donley Marauder of Lizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15235",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Commando Fatigues"
+      "value": "Commando Fatigues",
+      "filename": "body_commando_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Jungle Commando"
+      "value": "Jungle Commando",
+      "filename": "head_brandan.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "10862",
   "name": "Julia Shark of the Docks",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10862",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Road Spandex"
+      "value": "Green Road Spandex",
+      "filename": "body_roadwarrior_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Ishkuzai"
+      "value": "Ishkuzai",
+      "filename": "head_brianne.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Protection"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Protection",
+      "filename": "rune_protection.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "5387",
   "name": "Astaroth Assaulter of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5387",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Royal Razorback"
+      "value": "Royal Razorback",
+      "filename": "companion_boar_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Hedge Knight Armor"
+      "value": "Blue Hedge Knight Armor",
+      "filename": "body_knight_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Darkling"
+      "value": "Darkling",
+      "filename": "head_voideth.png"
     },
     {
       "trait_type": "shield",
-      "value": "Water Elemental Shield"
+      "value": "Water Elemental Shield",
+      "filename": "shield_water.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Longsword"
+      "trait_type": "prop",
+      "value": "Red Longsword",
+      "filename": "weapon_longsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

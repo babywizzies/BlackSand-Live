@@ -1,51 +1,41 @@
 {
+  "idx": "14652",
   "name": "Zasha Defender of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14652",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow One Piece"
+      "value": "Yellow One Piece",
+      "filename": "body_onepiece_yellow_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Corsair"
+      "value": "Corsair",
+      "filename": "head_parah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler"
+      "value": "Green Buckler",
+      "filename": "shield_circle_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Chakram"
+      "trait_type": "prop",
+      "value": "Chakram",
+      "filename": "weapon_chakram.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

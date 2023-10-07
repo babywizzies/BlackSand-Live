@@ -1,51 +1,41 @@
 {
+  "idx": "733",
   "name": "Gertrude Menace of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/733",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Amazonian Jumpsuit"
+      "value": "Yellow Amazonian Jumpsuit",
+      "filename": "body_amazon_yellow_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Psyche Warrior"
+      "value": "Psyche Warrior",
+      "filename": "head_riona.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield"
+      "value": "Magic Shield",
+      "filename": "shield_magic.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "12955",
   "name": "Aya Vanquisher of Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12955",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Cardinal Raptor"
+      "value": "Cardinal Raptor",
+      "filename": "companion_raptor_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Valkyrie Armor"
+      "value": "Blue Valkyrie Armor",
+      "filename": "body_valkyrie_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Onna-Musha"
+      "value": "Onna-Musha",
+      "filename": "head_onna.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Omega",
+      "filename": "rune_omega.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

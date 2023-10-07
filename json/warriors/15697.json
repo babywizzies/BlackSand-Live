@@ -1,51 +1,41 @@
 {
+  "idx": "15697",
   "name": "Anak Vindicator of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15697",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Yellow"
+      "value": "Traveller's Cloak Yellow",
+      "filename": "body_cloak_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Happy Viking"
+      "value": "Happy Viking",
+      "filename": "head_victor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Plains Boomerang"
+      "trait_type": "prop",
+      "value": "Plains Boomerang",
+      "filename": "weapon_boomerang_yellow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

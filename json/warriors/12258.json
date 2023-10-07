@@ -1,51 +1,41 @@
 {
+  "idx": "12258",
   "name": "Leila Dueler of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12258",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "White One Piece"
+      "value": "White One Piece",
+      "filename": "body_onepiece_white_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Summer Warrior"
+      "value": "Summer Warrior",
+      "filename": "head_femhelm_green.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Joyeuse"
+      "trait_type": "prop",
+      "value": "Joyeuse",
+      "filename": "weapon_joyeuse.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

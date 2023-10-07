@@ -1,39 +1,26 @@
 {
+  "idx": "1043",
   "name": "Thomas Cleaver of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1043",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Provocator Garb"
+      "value": "Red Provocator Garb",
+      "filename": "body_provoc_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Templar"
+      "value": "Templar ",
+      "filename": "head_crusader.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

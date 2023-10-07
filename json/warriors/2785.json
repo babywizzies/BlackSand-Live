@@ -1,51 +1,41 @@
 {
+  "idx": "2785",
   "name": "Wilda Thrasher of the Alley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2785",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Road Spandex"
+      "value": "Yellow Road Spandex",
+      "filename": "body_roadwarrior_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Horn Lady Buff"
+      "value": "Red Horn Lady Buff",
+      "filename": "head_biffi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Peace Shield"
+      "value": "Peace Shield",
+      "filename": "shield_peace.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Whip"
+      "trait_type": "prop",
+      "value": "Whip",
+      "filename": "weapon_whip.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

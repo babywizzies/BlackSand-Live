@@ -1,43 +1,31 @@
 {
+  "idx": "1201",
   "name": "Delu of Goblins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1201",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Knight"
+      "value": "Brown Knight",
+      "filename": "body_fem_knight_brown_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Nubian"
+      "value": "Nubian",
+      "filename": "head_grace.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hambone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Hambone",
+      "filename": "item_hambone.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

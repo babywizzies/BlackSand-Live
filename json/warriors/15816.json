@@ -1,39 +1,26 @@
 {
+  "idx": "15816",
   "name": "Samir Cad of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15816",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "South Island MMA Pants"
+      "value": "South Island MMA Pants",
+      "filename": "body_martial_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Desert Warrior"
+      "value": "Desert Warrior",
+      "filename": "head_arabian.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

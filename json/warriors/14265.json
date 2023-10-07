@@ -1,51 +1,41 @@
 {
+  "idx": "14265",
   "name": "Fayez Antihero of the Sacred Pillars",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14265",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Fire"
+      "value": "Armor of Fire",
+      "filename": "body_knightfire.png"
     },
     {
       "trait_type": "head",
-      "value": "Stratiotai"
+      "value": "Stratiotai",
+      "filename": "head_byzantine.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Aspis"
+      "value": "Red Aspis",
+      "filename": "shield_circle_cross_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Chainsaw"
+      "trait_type": "prop",
+      "value": "Blue Chainsaw",
+      "filename": "weapon_chainsaw_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

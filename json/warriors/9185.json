@@ -1,39 +1,26 @@
 {
+  "idx": "9185",
   "name": "Faris Nullifier of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9185",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Orange Road Warrior"
+      "value": "Orange Road Warrior",
+      "filename": "body_roadwarrior_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Dune Man"
+      "value": "Dune Man",
+      "filename": "head_willson.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

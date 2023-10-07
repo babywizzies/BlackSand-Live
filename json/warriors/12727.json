@@ -1,51 +1,41 @@
 {
+  "idx": "12727",
   "name": "Geoffrey Eradicator of Monsters",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12727",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Quantum Peacock"
+      "value": "Quantum Peacock",
+      "filename": "companion_peacock.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Tunic Armor"
+      "value": "Green Tunic Armor",
+      "filename": "body_shirtarmor_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Green Knight Helm"
+      "value": "Green Knight Helm",
+      "filename": "head_knight_green.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Green Longsword"
+      "trait_type": "prop",
+      "value": "Green Longsword",
+      "filename": "weapon_longsword_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

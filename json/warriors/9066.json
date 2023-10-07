@@ -1,43 +1,31 @@
 {
+  "idx": "9066",
   "name": "Nitro Trimmer of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9066",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Purple Briefs"
+      "value": "Gladiator's Cloak with Purple Briefs",
+      "filename": "body_spartan_gold_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "East Sider"
+      "value": "East Sider",
+      "filename": "head_rockmer.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "3223",
   "name": "Bronn Exterminator of the Tombs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3223",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Assassin Tunic"
+      "value": "Dark Assassin Tunic",
+      "filename": "body_darkAssasin.png"
     },
     {
       "trait_type": "head",
-      "value": "Cool Guy"
+      "value": "Cool Guy",
+      "filename": "head_john.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Black Goat"
+      "value": "Shield of the Black Goat",
+      "filename": "shield_goat.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Black Bomb"
+      "trait_type": "prop",
+      "value": "Black Bomb",
+      "filename": "weapon_bomb_black.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "6"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

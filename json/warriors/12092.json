@@ -1,59 +1,41 @@
 {
+  "idx": "12092",
   "name": "Benton Dicer of the Swamp",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12092",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound"
+      "value": "Demon Hound",
+      "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Terrapin Armor"
+      "value": "Terrapin Armor",
+      "filename": "body_knightTurtle_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Wild Furgnome"
+      "value": "Wild Furgnome ",
+      "filename": "head_furgnome.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Red Broadsword",
+      "filename": "weapon_sword_bigbarb_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "Red Alloy Broadsword"
-    },
-    {
-      "trait_type": "forged_with",
-      "value": "Golden Lock and Dryad's Ear: the Plant Spell"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "040D04",
-  "_spell_data": {
-    "frame_duration": 120,
-    "total_frames": 48
-  }
+  ]
 }

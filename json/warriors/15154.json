@@ -1,43 +1,31 @@
 {
+  "idx": "15154",
   "name": "Draxon Protector of Rats",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15154",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Hedge Knight Armor"
+      "value": "Brown Hedge Knight Armor",
+      "filename": "body_knight_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "South Sider"
+      "value": "South Sider",
+      "filename": "head_rockmov.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

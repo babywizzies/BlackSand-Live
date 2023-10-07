@@ -1,43 +1,31 @@
 {
+  "idx": "4776",
   "name": "Zula Paragon of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4776",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "White Knight"
+      "value": "White Knight",
+      "filename": "body_fem_knight_white_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Styxian"
+      "value": "Styxian",
+      "filename": "head_mellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

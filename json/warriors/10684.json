@@ -1,39 +1,26 @@
 {
+  "idx": "10684",
   "name": "Cassia Slayer of the West",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10684",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady of the Mountain"
+      "value": "Lady of the Mountain ",
+      "filename": "head_velbi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Balance"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Shield of Balance",
+      "filename": "shield_tri.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

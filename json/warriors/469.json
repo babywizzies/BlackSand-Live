@@ -1,51 +1,41 @@
 {
+  "idx": "469",
   "name": "Leena Axe of Goblins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/469",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "White One Piece"
+      "value": "White One Piece",
+      "filename": "body_onepiece_white_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "She Wolf"
+      "value": "She Wolf",
+      "filename": "head_tania.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Dane Axe"
+      "trait_type": "prop",
+      "value": "Dane Axe",
+      "filename": "weapon_axe_dane.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

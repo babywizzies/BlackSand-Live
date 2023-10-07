@@ -1,51 +1,41 @@
 {
+  "idx": "7272",
   "name": "Fen of Nothing",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7272",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Black One Piece"
+      "value": "Black One Piece",
+      "filename": "body_onepiece_black_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kempo"
+      "value": "Kempo",
+      "filename": "head_lina.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Cheeseburger"
+      "trait_type": "prop",
+      "value": "Cheeseburger",
+      "filename": "item_hamburger.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

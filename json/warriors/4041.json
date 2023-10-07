@@ -1,51 +1,41 @@
 {
+  "idx": "4041",
   "name": "Adele Terror of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4041",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Amazonian Jumpsuit"
+      "value": "Red Amazonian Jumpsuit",
+      "filename": "body_amazon_red_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Daughter of the Brine"
+      "value": "Daughter of the Brine",
+      "filename": "head_sloanna.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hunting Knife"
+      "trait_type": "prop",
+      "value": "Hunting Knife",
+      "filename": "weapon_knife.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

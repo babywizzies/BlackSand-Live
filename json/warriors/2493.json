@@ -1,43 +1,31 @@
 {
+  "idx": "2493",
   "name": "Winchester Ravager of Light",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2493",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Medieval Livery"
+      "value": "Green Medieval Livery",
+      "filename": "body_clericknight_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Happy Viking"
+      "value": "Happy Viking",
+      "filename": "head_victor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

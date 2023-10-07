@@ -1,51 +1,41 @@
 {
+  "idx": "6963",
   "name": "Auberon Blade of the Rune Raiders",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6963",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Purple Briefs"
+      "value": "Gladiator's Cloak with Purple Briefs",
+      "filename": "body_spartan_gold_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Ether Horn Helm"
+      "value": "Ether Horn Helm",
+      "filename": "head_helmethorn_light.png"
     },
     {
       "trait_type": "shield",
-      "value": "Peace Shield"
+      "value": "Peace Shield",
+      "filename": "shield_peace.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Dragon Pike"
+      "trait_type": "prop",
+      "value": "Silver Dragon Pike",
+      "filename": "weapon_dragonpike_silver.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

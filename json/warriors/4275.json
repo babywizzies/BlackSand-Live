@@ -1,51 +1,41 @@
 {
+  "idx": "4275",
   "name": "Vera Paragon of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4275",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Knight"
+      "value": "Red Knight",
+      "filename": "body_fem_knight_red_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Flower of the Wheel"
+      "value": "Flower of the Wheel",
+      "filename": "head_nourga.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Balance"
+      "value": "Shield of Balance",
+      "filename": "shield_tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

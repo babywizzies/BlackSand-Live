@@ -1,51 +1,41 @@
 {
+  "idx": "2108",
   "name": "Titus Protector of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2108",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Obsidian Raptor"
+      "value": "Obsidian Raptor",
+      "filename": "companion_raptor_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Earth"
+      "value": "Armor of Earth",
+      "filename": "body_knightearth.png"
     },
     {
       "trait_type": "head",
-      "value": "Mountain Warrior"
+      "value": "Mountain Warrior",
+      "filename": "head_zubbik.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield"
+      "value": "Magic Shield",
+      "filename": "shield_magic.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Brown Longsword"
+      "trait_type": "prop",
+      "value": "Brown Longsword",
+      "filename": "weapon_longsword_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

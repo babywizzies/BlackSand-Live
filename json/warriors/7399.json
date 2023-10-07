@@ -1,47 +1,36 @@
 {
+  "idx": "7399",
   "name": "Murphy Protector of Brigands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7399",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Red"
+      "value": "Traveller's Cloak Red",
+      "filename": "body_cloak_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Cool Guy"
+      "value": "Cool Guy",
+      "filename": "head_manuel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Longsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Blue Longsword",
+      "filename": "weapon_longsword_blue.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

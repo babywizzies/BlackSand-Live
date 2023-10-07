@@ -1,51 +1,41 @@
 {
+  "idx": "7792",
   "name": "Ethan Eradicator of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7792",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Silver Goat"
+      "value": "Silver Goat",
+      "filename": "companion_goat_white.png"
     },
     {
       "trait_type": "body",
-      "value": "Amethyst Spike Armor"
+      "value": "Amethyst Spike Armor",
+      "filename": "body_spikeBarb_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Man"
+      "value": "Action Man",
+      "filename": "head_jeremy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler"
+      "value": "Green Buckler",
+      "filename": "shield_circle_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Titan Cleaver"
+      "trait_type": "prop",
+      "value": "Titan Cleaver",
+      "filename": "weapon_cleaver_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

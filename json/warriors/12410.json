@@ -1,47 +1,36 @@
 {
+  "idx": "12410",
   "name": "Oula Dismantler of Rainbows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12410",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Obsidian Raptor"
+      "value": "Obsidian Raptor",
+      "filename": "companion_raptor_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Black Dominatrix Gear"
+      "value": "Black Dominatrix Gear",
+      "filename": "body_dom_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Hibernian"
+      "value": "Hibernian",
+      "filename": "head_mello.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Crowbar"
+      "trait_type": "prop",
+      "value": "Crowbar",
+      "filename": "weapon_crowbar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Horror"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

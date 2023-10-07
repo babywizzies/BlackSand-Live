@@ -1,43 +1,31 @@
 {
+  "idx": "5369",
   "name": "Buck Paragon of the Sacred Pillars",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5369",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air"
+      "value": "Armor of Air",
+      "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Jungle Commando"
+      "value": "Jungle Commando",
+      "filename": "head_brock.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Battle Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Battle Axe",
+      "filename": "weapon_axe.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

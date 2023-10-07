@@ -1,51 +1,41 @@
 {
+  "idx": "3205",
   "name": "Sloane Fragmenter of the South",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3205",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Red One Piece"
+      "value": "Red One Piece",
+      "filename": "body_onepiece_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bonnie Lass"
+      "value": "Bonnie Lass",
+      "filename": "head_sloane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tate Shield"
+      "value": "Tate Shield",
+      "filename": "shield_samurai.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

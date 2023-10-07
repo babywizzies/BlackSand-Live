@@ -1,51 +1,41 @@
 {
+  "idx": "777",
   "name": "Edge Eradicator of Muscle Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/777",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Greater Cassowary"
+      "value": "Greater Cassowary",
+      "filename": "companion_cassowary.png"
     },
     {
       "trait_type": "body",
-      "value": "Fur Barbarian"
+      "value": "Fur Barbarian",
+      "filename": "body_fur_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Motor Assassin"
+      "value": "Motor Assassin",
+      "filename": "head_arnie.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Green Longsword"
+      "trait_type": "prop",
+      "value": "Green Longsword",
+      "filename": "weapon_longsword_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

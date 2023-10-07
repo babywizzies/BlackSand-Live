@@ -1,51 +1,41 @@
 {
+  "idx": "4911",
   "name": "Gerol Exterminator of Domination",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4911",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Assassin Tunic"
+      "value": "Dark Assassin Tunic",
+      "filename": "body_darkAssasin.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Dwarven Helm"
+      "value": "Blue Dwarven Helm",
+      "filename": "head_glork.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Firebrand"
+      "trait_type": "prop",
+      "value": "Firebrand",
+      "filename": "weapon_sword_firebrand.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

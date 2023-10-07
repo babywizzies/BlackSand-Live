@@ -1,43 +1,31 @@
 {
+  "idx": "12730",
   "name": "Kobe Assaulter of Kobolds",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12730",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Road Warrior"
+      "value": "Purple Road Warrior",
+      "filename": "body_roadwarrior_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Basic Bro"
+      "value": "Basic Bro",
+      "filename": "head_base_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladiator Sword"
+      "trait_type": "prop",
+      "value": "Gladiator Sword",
+      "filename": "weapon_sword_spartan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

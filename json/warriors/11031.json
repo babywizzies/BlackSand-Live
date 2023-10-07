@@ -1,43 +1,31 @@
 {
+  "idx": "11031",
   "name": "Flamma Wounder of the Keep",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11031",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Green Camo"
+      "value": "Street Punk with Green Camo",
+      "filename": "body_streetpunk_green_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian"
+      "value": "Praetorian",
+      "filename": "head_spartan_skindark.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Cyber Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Cyber Axe",
+      "filename": "weapon_axe_cyber.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

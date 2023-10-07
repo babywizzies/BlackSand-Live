@@ -1,43 +1,31 @@
 {
+  "idx": "11717",
   "name": "Aya Scalder of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11717",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Bone Warrior"
+      "value": "Bone Warrior",
+      "filename": "body_wildbone_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Cat Girl"
+      "value": "Cat Girl",
+      "filename": "head_catgirl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Flame Thrower"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Flame Thrower",
+      "filename": "weapon_flamethrower.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

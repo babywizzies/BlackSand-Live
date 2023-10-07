@@ -1,51 +1,41 @@
 {
+  "idx": "14426",
   "name": "Nick Fiend of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14426",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Provocator Garb"
+      "value": "Red Provocator Garb",
+      "filename": "body_provoc_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Bearded Berserker"
+      "value": "Red Bearded Berserker",
+      "filename": "head_berserker_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Aspis"
+      "value": "Red Aspis",
+      "filename": "shield_circle_cross_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

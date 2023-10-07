@@ -1,59 +1,41 @@
 {
+  "idx": "1433",
   "name": "Boris Mincer of Domination",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1433",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Assassin Tunic"
+      "value": "Dark Assassin Tunic",
+      "filename": "body_darkAssasin.png"
     },
     {
       "trait_type": "head",
-      "value": "Cool Guy"
+      "value": "Cool Guy",
+      "filename": "head_manuel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Illuminatus Shield"
+      "value": "Illuminatus Shield",
+      "filename": "shield_eye.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "6"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "Sword of Absolute Zero"
-    },
-    {
-      "trait_type": "forged_with",
-      "value": "Quantum Lock and Odin's Despair: the Dark Cloud Spell"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "000000",
-  "_spell_data": {
-    "frame_duration": 100,
-    "total_frames": 24
-  }
+  ]
 }

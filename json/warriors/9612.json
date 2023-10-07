@@ -1,51 +1,41 @@
 {
+  "idx": "9612",
   "name": "Tooka Amputator of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9612",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle"
+      "value": "Mutant Snapping Turtle",
+      "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Chelonian Armor"
+      "value": "Chelonian Armor",
+      "filename": "body_knightTurtle_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Imp Warrior"
+      "value": "Imp Warrior",
+      "filename": "head_impy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Mars",
+      "filename": "rune_mars.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

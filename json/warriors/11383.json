@@ -1,39 +1,26 @@
 {
+  "idx": "11383",
   "name": "Ethan Render of the Lochs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11383",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Highlander's Tartan"
+      "value": "Highlander's Tartan",
+      "filename": "body_highlander.png"
     },
     {
       "trait_type": "head",
-      "value": "Brownlander"
+      "value": "Brownlander",
+      "filename": "head_robby.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

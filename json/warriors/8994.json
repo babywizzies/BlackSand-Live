@@ -1,35 +1,21 @@
 {
+  "idx": "8994",
   "name": "Azriel Divider of the Back Alley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8994",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "North Island MMA Pants"
+      "value": "North Island MMA Pants",
+      "filename": "body_martial_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Stunt Man"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Stunt Man",
+      "filename": "head_joremy.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

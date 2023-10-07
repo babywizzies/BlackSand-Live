@@ -1,51 +1,41 @@
 {
+  "idx": "11901",
   "name": "Tracy Disintegrator of the Apocalypse",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11901",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Knight"
+      "value": "Blue Knight",
+      "filename": "body_fem_knight_blue_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Archipelagian"
+      "value": "Archipelagian",
+      "filename": "head_shellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler"
+      "value": "Green Buckler",
+      "filename": "shield_circle_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Broadsword"
+      "trait_type": "prop",
+      "value": "Blue Broadsword",
+      "filename": "weapon_sword_bigbarb_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

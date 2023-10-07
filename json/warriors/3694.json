@@ -1,51 +1,41 @@
 {
+  "idx": "3694",
   "name": "Nadim Mangler of the Riverlands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3694",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air"
+      "value": "Armor of Air",
+      "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Stratiotai"
+      "value": "Stratiotai",
+      "filename": "head_byzantine.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "East Side Pipe Wrench"
+      "trait_type": "prop",
+      "value": "East Side Pipe Wrench",
+      "filename": "weapon_wrench_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

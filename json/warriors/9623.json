@@ -1,51 +1,41 @@
 {
+  "idx": "9623",
   "name": "Bernadette Cleaver of the Salt",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9623",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Garb"
+      "value": "Pirate Garb",
+      "filename": "body_fempirateWar.png"
     },
     {
       "trait_type": "head",
-      "value": "Ishkuzai"
+      "value": "Ishkuzai",
+      "filename": "head_brianne.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Katana"
+      "trait_type": "prop",
+      "value": "Katana",
+      "filename": "weapon_katana.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

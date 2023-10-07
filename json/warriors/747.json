@@ -1,39 +1,26 @@
 {
+  "idx": "747",
   "name": "Jerry Hero of Glory",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/747",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Dune Man"
+      "value": "Dune Man",
+      "filename": "head_willson.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

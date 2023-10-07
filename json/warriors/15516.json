@@ -1,59 +1,41 @@
 {
+  "idx": "15516",
   "name": "Salty Sloane Invader of Islands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15516",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Scarlet Macaw"
+      "value": "Scarlet Macaw",
+      "filename": "companion_macaw.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Captain"
+      "value": "Pirate Captain",
+      "filename": "body_femcaptain.png"
     },
     {
       "trait_type": "head",
-      "value": "Bonnie Lass"
+      "value": "Bonnie Lass",
+      "filename": "head_sloane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Kraken Shield"
+      "value": "Kraken Shield",
+      "filename": "shield_kraken.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Pirate Sword",
+      "filename": "weapon_sword_pirate.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "6"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "Pirate King Sword"
-    },
-    {
-      "trait_type": "forged_with",
-      "value": "Golden Lock and Kelpie's Fury: the Water Spell"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000",
-  "_spell_data": {
-    "frame_duration": 60,
-    "total_frames": 24
-  }
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "520",
   "name": "Boarhead Defeater of Imps",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/520",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gold Belt Ruffian"
+      "value": "Gold Belt Ruffian",
+      "filename": "body_sharp_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Happy Viking"
+      "value": "Happy Viking",
+      "filename": "head_victor.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

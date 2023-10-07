@@ -1,51 +1,41 @@
 {
+  "idx": "14940",
   "name": "Bruce Executor of Goblins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14940",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Cerulean Ceratopsian"
+      "value": "Cerulean Ceratopsian",
+      "filename": "companion_tritops_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Hedge Knight Armor"
+      "value": "Green Hedge Knight Armor",
+      "filename": "body_knight_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Jungle Commando"
+      "value": "Jungle Commando",
+      "filename": "head_brandan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jade Sword"
+      "trait_type": "prop",
+      "value": "Jade Sword",
+      "filename": "weapon_sword_jade.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

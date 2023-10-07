@@ -1,51 +1,41 @@
 {
+  "idx": "8134",
   "name": "Jasper Mercenary of Chaos",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8134",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Prism Armor"
+      "value": "Prism Armor",
+      "filename": "body_prismknight.png"
     },
     {
       "trait_type": "head",
-      "value": "Grappler Giant"
+      "value": "Grappler Giant",
+      "filename": "head_bargo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Shield"
+      "value": "Wooden Shield",
+      "filename": "shield_wood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Journeyman Falchion"
+      "trait_type": "prop",
+      "value": "Journeyman Falchion",
+      "filename": "weapon_sword_falchion_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

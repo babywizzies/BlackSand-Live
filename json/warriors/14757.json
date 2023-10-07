@@ -1,51 +1,41 @@
 {
+  "idx": "14757",
   "name": "Garth Undoer of the Obelisk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14757",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Silver Goat"
+      "value": "Silver Goat",
+      "filename": "companion_goat_white.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Macho Pants"
+      "value": "Purple Macho Pants",
+      "filename": "body_suspenders_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Blood Horn Helm"
+      "value": "Blood Horn Helm",
+      "filename": "head_helmethorn_dark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Death Bomb"
+      "trait_type": "prop",
+      "value": "Death Bomb",
+      "filename": "weapon_bomb_skull.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

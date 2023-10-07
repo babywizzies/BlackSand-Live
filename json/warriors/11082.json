@@ -1,47 +1,36 @@
 {
+  "idx": "11082",
   "name": "Haruko Striker of the Street",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11082",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Violet Camo"
+      "value": "Street Punk with Violet Camo",
+      "filename": "body_streetpunk_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Onna-Musha"
+      "value": "Onna-Musha",
+      "filename": "head_onna.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

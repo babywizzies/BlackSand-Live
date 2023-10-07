@@ -1,51 +1,41 @@
 {
+  "idx": "346",
   "name": "Nitro Doom of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/346",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Auric Spike Armor"
+      "value": "Auric Spike Armor",
+      "filename": "body_spikeBarb_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Chad Bro"
+      "value": "Chad Bro",
+      "filename": "head_chad_skindark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Skull"
+      "value": "Shield of the Skull",
+      "filename": "shield_skull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Cyber Axe"
+      "trait_type": "prop",
+      "value": "Cyber Axe",
+      "filename": "weapon_axe_cyber.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

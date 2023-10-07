@@ -1,51 +1,41 @@
 {
+  "idx": "1304",
   "name": "Wilda Belligerent of Scoundrels",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1304",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Knight"
+      "value": "Yellow Knight",
+      "filename": "body_fem_knight_yellow_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Psyche Warrior"
+      "value": "Psyche Warrior",
+      "filename": "head_riona.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gae Bolg"
+      "trait_type": "prop",
+      "value": "Gae Bolg",
+      "filename": "weapon_gaebolg.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

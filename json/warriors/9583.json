@@ -1,51 +1,41 @@
 {
+  "idx": "9583",
   "name": "Chase Mercenary of the Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9583",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Ultramarine Rhinoceros Beetle"
+      "value": "Ultramarine Rhinoceros Beetle",
+      "filename": "companion_beetle_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Ronin Armor"
+      "value": "Red Ronin Armor",
+      "filename": "body_samurai_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Longsword"
+      "trait_type": "prop",
+      "value": "Red Longsword",
+      "filename": "weapon_longsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

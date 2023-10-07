@@ -1,47 +1,36 @@
 {
+  "idx": "10700",
   "name": "Fingus Disintegrator of Chickens",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10700",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Kobold Road Warrior"
+      "value": "Kobold Road Warrior",
+      "filename": "body_roadwarrior_kobold.png"
     },
     {
       "trait_type": "head",
-      "value": "Kobold Captain"
+      "value": "Kobold Captain",
+      "filename": "head_wambe.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "White Longsword"
+      "trait_type": "prop",
+      "value": "White Longsword",
+      "filename": "weapon_longsword_white.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,47 +1,36 @@
 {
+  "idx": "14142",
   "name": "Titan Vanquisher of Tigers",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14142",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Wrestling Singlet"
+      "value": "Yellow Wrestling Singlet",
+      "filename": "body_wrestler_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Rocket Helm"
+      "value": "Rocket Helm",
+      "filename": "head_rocketman.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Hammer"
+      "trait_type": "prop",
+      "value": "Wooden Hammer",
+      "filename": "weapon_hammer_brown.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "13976",
   "name": "Bongani Hellraiser of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13976",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Meriotic Warrior"
+      "value": "Meriotic Warrior",
+      "filename": "head_rommi.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Moon"
+      "value": "Shield of the Moon",
+      "filename": "shield_moon.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Giant Cleaver"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Giant Cleaver",
+      "filename": "weapon_cleaver_purple.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

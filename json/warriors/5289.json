@@ -1,47 +1,36 @@
 {
+  "idx": "5289",
   "name": "Judy Shaver of the Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5289",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Sakura Dress"
+      "value": "Sakura Dress",
+      "filename": "body_rin.png"
     },
     {
       "trait_type": "head",
-      "value": "Spring Warrior"
+      "value": "Spring Warrior",
+      "filename": "head_femhelm_brush.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Broadsword"
+      "trait_type": "prop",
+      "value": "Red Broadsword",
+      "filename": "weapon_sword_bigbarb_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

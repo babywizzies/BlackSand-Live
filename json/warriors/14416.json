@@ -1,39 +1,26 @@
 {
+  "idx": "14416",
   "name": "Ekua Eradicator of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14416",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Bikini"
+      "value": "Classic Gold Barbarian Bikini",
+      "filename": "body_fembarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Styxian"
+      "value": "Styxian",
+      "filename": "head_mellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Aspis"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Green Aspis",
+      "filename": "shield_circle_cross_green.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

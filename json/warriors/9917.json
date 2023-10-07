@@ -1,51 +1,41 @@
 {
+  "idx": "9917",
   "name": "Rebyx of the Mist",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9917",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier"
+      "value": "Goblin Footsoldier",
+      "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin"
+      "value": "Goblin",
+      "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Peace Shield"
+      "value": "Peace Shield",
+      "filename": "shield_peace.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bottle of Rune Beer"
+      "trait_type": "prop",
+      "value": "Bottle of Rune Beer",
+      "filename": "item_beer_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

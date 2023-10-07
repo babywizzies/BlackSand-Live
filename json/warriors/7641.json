@@ -1,43 +1,31 @@
 {
+  "idx": "7641",
   "name": "Masika Contaminator of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7641",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Bikini"
+      "value": "Classic Gold Barbarian Bikini",
+      "filename": "body_fembarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Kushite"
+      "value": "Kushite",
+      "filename": "head_chane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Scimitar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Scimitar",
+      "filename": "weapon_scimitar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

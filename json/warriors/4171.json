@@ -1,51 +1,41 @@
 {
+  "idx": "4171",
   "name": "Gorgah Guardian of the Arc",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4171",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound"
+      "value": "Demon Hound",
+      "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Prism Armor"
+      "value": "Prism Armor",
+      "filename": "body_prismknight.png"
     },
     {
       "trait_type": "head",
-      "value": "Blood Horn Helm"
+      "value": "Blood Horn Helm",
+      "filename": "head_helmethorn_dark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ranseur"
+      "trait_type": "prop",
+      "value": "Ranseur",
+      "filename": "weapon_speargold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Omega",
+      "filename": "rune_omega.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

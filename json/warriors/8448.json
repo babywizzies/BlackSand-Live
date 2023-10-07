@@ -1,51 +1,41 @@
 {
+  "idx": "8448",
   "name": "Alexander Combatant of Atlantis",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8448",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Blue"
+      "value": "Traveller's Cloak Blue",
+      "filename": "body_cloak_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Broadsword"
+      "trait_type": "prop",
+      "value": "Blue Broadsword",
+      "filename": "weapon_sword_bigbarb_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

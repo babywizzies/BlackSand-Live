@@ -1,39 +1,26 @@
 {
+  "idx": "14291",
   "name": "Kane Cutter of the Hall",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14291",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Tunic Armor"
+      "value": "Yellow Tunic Armor",
+      "filename": "body_shirtarmor_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_miguel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Up Only"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Shield of Up Only",
+      "filename": "shield_kite_up.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

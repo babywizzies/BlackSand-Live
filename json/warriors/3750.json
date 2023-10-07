@@ -1,51 +1,41 @@
 {
+  "idx": "3750",
   "name": "Kace Hero of the Rune Raiders",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3750",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Amethyst Spike Armor"
+      "value": "Amethyst Spike Armor",
+      "filename": "body_spikeBarb_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Wrestler Giant"
+      "value": "Wrestler Giant",
+      "filename": "head_barga.png"
     },
     {
       "trait_type": "shield",
-      "value": "Guardian Shield"
+      "value": "Guardian Shield",
+      "filename": "shield_guardian.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Dragon Pike"
+      "trait_type": "prop",
+      "value": "Silver Dragon Pike",
+      "filename": "weapon_dragonpike_silver.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

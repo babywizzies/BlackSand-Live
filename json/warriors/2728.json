@@ -1,51 +1,41 @@
 {
+  "idx": "2728",
   "name": "Therrus Obliterator of Brigands",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2728",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Banded Armor of Earth"
+      "value": "Banded Armor of Earth",
+      "filename": "body_bandArmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Viking Helm"
+      "value": "Yellow Viking Helm",
+      "filename": "head_gorj.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Shortsword"
+      "trait_type": "prop",
+      "value": "Blue Shortsword",
+      "filename": "weapon_shortsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

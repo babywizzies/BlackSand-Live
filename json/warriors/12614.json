@@ -1,43 +1,31 @@
 {
+  "idx": "12614",
   "name": "Nyarai Cleaver of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12614",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Zuli Suit"
+      "value": "Zuli Suit",
+      "filename": "body_wildfem.png"
     },
     {
       "trait_type": "head",
-      "value": "Kushite"
+      "value": "Kushite",
+      "filename": "head_chane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

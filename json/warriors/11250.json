@@ -1,51 +1,41 @@
 {
+  "idx": "11250",
   "name": "Neo Sword of the Cockatrice",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11250",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Nastyass Honey Badger"
+      "value": "Nastyass Honey Badger",
+      "filename": "companion_ratel.png"
     },
     {
       "trait_type": "body",
-      "value": "Sovereign Epic Gear"
+      "value": "Sovereign Epic Gear",
+      "filename": "body_meso_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Mescaline Warrior"
+      "value": "Mescaline Warrior",
+      "filename": "head_stan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Cleaver"
+      "trait_type": "prop",
+      "value": "Malachite Cleaver",
+      "filename": "weapon_cleaver_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

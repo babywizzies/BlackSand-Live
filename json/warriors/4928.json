@@ -1,51 +1,41 @@
 {
+  "idx": "4928",
   "name": "Shelia Clubber of Arcadia",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4928",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Valkyrie Armor"
+      "value": "Blue Valkyrie Armor",
+      "filename": "body_valkyrie_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Hibernian"
+      "value": "Hibernian",
+      "filename": "head_mello.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Crowbar"
+      "trait_type": "prop",
+      "value": "Crowbar",
+      "filename": "weapon_crowbar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

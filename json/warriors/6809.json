@@ -1,51 +1,41 @@
 {
+  "idx": "6809",
   "name": "Zalika Scissor of the Villa",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6809",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Battle Bikini"
+      "value": "Battle Bikini",
+      "filename": "body_bea_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Divanae"
+      "value": "Divanae",
+      "filename": "head_maude.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Herald Shield"
+      "value": "Gold Herald Shield",
+      "filename": "shield_chevron_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladius"
+      "trait_type": "prop",
+      "value": "Gladius",
+      "filename": "weapon_gladius.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

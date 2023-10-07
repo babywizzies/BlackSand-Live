@@ -1,51 +1,41 @@
 {
+  "idx": "11406",
   "name": "Nicolas Sword of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11406",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Sovereign Epic Gear"
+      "value": "Sovereign Epic Gear",
+      "filename": "body_meso_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Durm and Strang"
+      "value": "Durm and Strang",
+      "filename": "head_rothkor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Night Razor"
+      "trait_type": "prop",
+      "value": "Night Razor",
+      "filename": "weapon_sword_razor.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cape"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

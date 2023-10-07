@@ -1,51 +1,41 @@
 {
+  "idx": "8327",
   "name": "Katie Vaporizer of Liches",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8327",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Battle Bikini"
+      "value": "Red Battle Bikini",
+      "filename": "body_lea_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Avalonian"
+      "value": "Avalonian",
+      "filename": "head_piper.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Skull"
+      "value": "Shield of the Skull",
+      "filename": "shield_skull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Bomb"
+      "trait_type": "prop",
+      "value": "Red Bomb",
+      "filename": "weapon_bomb_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

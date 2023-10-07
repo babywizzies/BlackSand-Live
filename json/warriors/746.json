@@ -1,51 +1,41 @@
 {
+  "idx": "746",
   "name": "Samson Killer of Monsters",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/746",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Garuda's Griffin"
+      "value": "Garuda's Griffin",
+      "filename": "companion_griffin.png"
     },
     {
       "trait_type": "body",
-      "value": "Alabaster Paladin Gear"
+      "value": "Alabaster Paladin Gear",
+      "filename": "body_starcleric_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_miguel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Apollo's Bow"
+      "trait_type": "prop",
+      "value": "Apollo's Bow",
+      "filename": "weapon_goldenbow.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Pantheon"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "2517",
   "name": "Jules the Righteous",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2517",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Business Suit"
+      "value": "Business Suit",
+      "filename": "body_suit_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Bad Mofo"
+      "value": "Bad Mofo",
+      "filename": "head_jules.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Cheeseburger"
+      "trait_type": "prop",
+      "value": "Cheeseburger",
+      "filename": "item_hamburger.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Food"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

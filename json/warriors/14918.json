@@ -1,51 +1,41 @@
 {
+  "idx": "14918",
   "name": "Ubel Poker of Cataclysm",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14918",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor"
+      "value": "Red Tunic Armor",
+      "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Hood of Torment"
+      "value": "Hood of Torment",
+      "filename": "head_garth.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Sigma",
+      "filename": "rune_sigma.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

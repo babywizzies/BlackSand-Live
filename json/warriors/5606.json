@@ -1,43 +1,31 @@
 {
+  "idx": "5606",
   "name": "Molly Mincer of Demons",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5606",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Sakura Dress"
+      "value": "Sakura Dress",
+      "filename": "body_rin.png"
     },
     {
       "trait_type": "head",
-      "value": "Autumn Warrior"
+      "value": "Autumn Warrior",
+      "filename": "head_femhelm_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

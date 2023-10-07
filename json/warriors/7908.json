@@ -1,43 +1,31 @@
 {
+  "idx": "7908",
   "name": "Sharon Paragon of Joy",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7908",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat"
+      "value": "Black Goat",
+      "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Black Dominatrix Gear"
+      "value": "Black Dominatrix Gear",
+      "filename": "body_dom_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Horn Lady Buff"
+      "value": "Yellow Horn Lady Buff",
+      "filename": "head_buffy.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ranseur"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Spike"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Ranseur",
+      "filename": "weapon_speargold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

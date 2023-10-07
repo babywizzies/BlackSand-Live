@@ -1,43 +1,31 @@
 {
+  "idx": "836",
   "name": "Maximus Defeater of Cataclysm",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/836",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Tunic Armor"
+      "value": "Purple Tunic Armor",
+      "filename": "body_shirtarmor_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Leo"
+      "value": "Leo",
+      "filename": "head_lion.png"
     },
     {
       "trait_type": "shield",
-      "value": "Snake Shield"
+      "value": "Snake Shield",
+      "filename": "shield_snake.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Stratiotai Spear"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Stratiotai Spear",
+      "filename": "weapon_spear_byzantine.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

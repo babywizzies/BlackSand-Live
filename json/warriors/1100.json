@@ -1,51 +1,41 @@
 {
+  "idx": "1100",
   "name": "Reginald Exterminator of the Range",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1100",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Red"
+      "value": "Traveller's Cloak Red",
+      "filename": "body_cloak_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Knight Helm"
+      "value": "Blue Knight Helm",
+      "filename": "head_knight_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Eternal Love Shield"
+      "value": "Eternal Love Shield",
+      "filename": "shield_heart.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Sigma",
+      "filename": "rune_sigma.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

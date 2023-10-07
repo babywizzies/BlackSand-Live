@@ -1,43 +1,31 @@
 {
+  "idx": "6968",
   "name": "Casey Bifurcator of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6968",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Honor Guard of the North"
+      "value": "Honor Guard of the North",
+      "filename": "body_femguard_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady"
+      "value": "Forgotten Lady",
+      "filename": "head_sherry.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Holy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "15504",
   "name": "Nourga Breaker of Chains",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15504",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Divine Battle Garment"
+      "value": "Divine Battle Garment",
+      "filename": "body_sariwar.png"
     },
     {
       "trait_type": "head",
-      "value": "Flower of the Wheel"
+      "value": "Flower of the Wheel",
+      "filename": "head_nourga.png"
     },
     {
       "trait_type": "shield",
-      "value": "Lotus Shield"
+      "value": "Lotus Shield",
+      "filename": "shield_lotus.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Teal"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

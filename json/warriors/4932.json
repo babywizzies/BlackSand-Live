@@ -1,39 +1,26 @@
 {
+  "idx": "4932",
   "name": "Rhys Impaler of the Ring",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4932",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Boxing Shorts"
+      "value": "Red Boxing Shorts",
+      "filename": "body_mma_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Stunt Man"
+      "value": "Stunt Man",
+      "filename": "head_joremy.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

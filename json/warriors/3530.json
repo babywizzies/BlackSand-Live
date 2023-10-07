@@ -1,51 +1,41 @@
 {
+  "idx": "3530",
   "name": "Harvey Sword of the Lost City",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3530",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle"
+      "value": "Mutant Snapping Turtle",
+      "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Green Briefs"
+      "value": "Gladiator's Cloak with Green Briefs",
+      "filename": "body_spartan_silver_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Mescaline Warrior"
+      "value": "Mescaline Warrior",
+      "filename": "head_stan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Guardian Sword"
+      "trait_type": "prop",
+      "value": "Guardian Sword",
+      "filename": "weapon_sword_gear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "15398",
   "name": "Lance Shadow of the Lost City",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15398",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Dirt Pig"
+      "value": "Dirt Pig",
+      "filename": "companion_boar_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Blue"
+      "value": "Traveller's Cloak Blue",
+      "filename": "body_cloak_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "Templar"
+      "value": "Templar ",
+      "filename": "head_crusader.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Shield"
+      "value": "Wooden Shield",
+      "filename": "shield_wood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Hunting Knife"
+      "trait_type": "prop",
+      "value": "Hunting Knife",
+      "filename": "weapon_knife.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

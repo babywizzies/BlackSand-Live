@@ -1,35 +1,21 @@
 {
+  "idx": "8707",
   "name": "Garrison Carver of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8707",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Orange Road Warrior"
+      "value": "Orange Road Warrior",
+      "filename": "body_roadwarrior_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

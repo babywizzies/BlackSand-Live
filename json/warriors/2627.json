@@ -1,51 +1,41 @@
 {
+  "idx": "2627",
   "name": "Astaroth Executor of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2627",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Provocator Garb"
+      "value": "Red Provocator Garb",
+      "filename": "body_provoc_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Hood of Torment"
+      "value": "Hood of Torment",
+      "filename": "head_garth.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Titan Cleaver"
+      "trait_type": "prop",
+      "value": "Titan Cleaver",
+      "filename": "weapon_cleaver_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

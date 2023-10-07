@@ -1,39 +1,26 @@
 {
+  "idx": "8628",
   "name": "Valentina Dicer of Atlantis",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8628",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Garb"
+      "value": "Pirate Garb",
+      "filename": "body_fempirateWar.png"
     },
     {
       "trait_type": "head",
-      "value": "Lady Barbarian"
+      "value": "Lady Barbarian",
+      "filename": "head_shana.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Magic Shield",
+      "filename": "shield_magic.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

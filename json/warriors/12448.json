@@ -1,39 +1,26 @@
 {
+  "idx": "12448",
   "name": "Dwyrik Amputator of the Baobabs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12448",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Provocator Garb"
+      "value": "Purple Provocator Garb",
+      "filename": "body_provoc_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Yellow Viking Helm"
+      "value": "Yellow Viking Helm",
+      "filename": "head_gorj.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

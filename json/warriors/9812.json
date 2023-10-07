@@ -1,39 +1,26 @@
 {
+  "idx": "9812",
   "name": "Howard Eidolon of the Dojo",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9812",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "North Island MMA Pants"
+      "value": "North Island MMA Pants",
+      "filename": "body_martial_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Basic Bro"
+      "value": "Basic Bro",
+      "filename": "head_base_skindark.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Partisan"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Partisan",
+      "filename": "weapon_partisan.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

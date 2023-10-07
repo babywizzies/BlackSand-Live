@@ -1,51 +1,41 @@
 {
+  "idx": "3062",
   "name": "Raiden Despoiler of the Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3062",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Spectacled Falcon"
+      "value": "Spectacled Falcon",
+      "filename": "companion_hawk.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Ronin Armor"
+      "value": "Red Ronin Armor",
+      "filename": "body_samurai_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": "head_yan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tate Shield"
+      "value": "Tate Shield",
+      "filename": "shield_samurai.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Katana"
+      "trait_type": "prop",
+      "value": "Katana",
+      "filename": "weapon_katana.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

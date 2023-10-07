@@ -1,47 +1,36 @@
 {
+  "idx": "1045",
   "name": "Neo Raider of Atlantis",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1045",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hyena"
+      "value": "Hyena",
+      "filename": "companion_hyena.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Provocator Garb"
+      "value": "Green Provocator Garb",
+      "filename": "body_provoc_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Grizzly Man"
+      "value": "Grizzly Man",
+      "filename": "head_bearman.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield"
+      "value": "Triple Triangle Shield",
+      "filename": "shield_3tri.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

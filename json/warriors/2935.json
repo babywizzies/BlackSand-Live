@@ -1,43 +1,31 @@
 {
+  "idx": "2935",
   "name": "Theo Cutter of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2935",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Olive Briefs"
+      "value": "Gladiator's Cloak with Olive Briefs",
+      "filename": "body_spartan_silver_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Brigand"
+      "value": "Brigand",
+      "filename": "head_willy.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Brown Longsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Brown Longsword",
+      "filename": "weapon_longsword_brown.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

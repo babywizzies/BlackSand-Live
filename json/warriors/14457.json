@@ -1,51 +1,41 @@
 {
+  "idx": "14457",
   "name": "Mondo Cruncher of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14457",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic Armor"
+      "value": "Brown Tunic Armor",
+      "filename": "body_shirtarmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Macho Man"
+      "value": "Macho Man",
+      "filename": "head_mucho.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Morningstar"
+      "trait_type": "prop",
+      "value": "Morningstar",
+      "filename": "weapon_morningstar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

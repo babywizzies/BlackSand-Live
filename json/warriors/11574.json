@@ -1,43 +1,31 @@
 {
+  "idx": "11574",
   "name": "Silas Basher of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11574",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Red Camo"
+      "value": "Street Punk with Red Camo",
+      "filename": "body_streetpunk_red_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_miguel.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bone Club"
+      "trait_type": "prop",
+      "value": "Bone Club",
+      "filename": "weapon_bone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,47 +1,36 @@
 {
+  "idx": "820",
   "name": "Imari Despoiler of Goblin Town",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/820",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Orange Road Warrior"
+      "value": "Orange Road Warrior",
+      "filename": "body_roadwarrior_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Meriotic Warrior"
+      "value": "Meriotic Warrior",
+      "filename": "head_rommi.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amber Dragon Sword"
+      "trait_type": "prop",
+      "value": "Amber Dragon Sword",
+      "filename": "weapon_dragonsword_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Power"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Power",
+      "filename": "rune_power.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

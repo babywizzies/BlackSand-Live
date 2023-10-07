@@ -1,51 +1,41 @@
 {
+  "idx": "2114",
   "name": "Aramastus Sword of the Prism",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2114",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Obsidian Raptor"
+      "value": "Obsidian Raptor",
+      "filename": "companion_raptor_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Prism Armor"
+      "value": "Prism Armor",
+      "filename": "body_prismknight.png"
     },
     {
       "trait_type": "head",
-      "value": "Blood Horn Helm"
+      "value": "Blood Horn Helm",
+      "filename": "head_helmethorn_dark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Balance"
+      "value": "Shield of Balance",
+      "filename": "shield_tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Shortsword"
+      "trait_type": "prop",
+      "value": "Blue Shortsword",
+      "filename": "weapon_shortsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

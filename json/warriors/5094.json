@@ -1,51 +1,41 @@
 {
+  "idx": "5094",
   "name": "Mirembe Bifurcator of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5094",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Bikini"
+      "value": "Classic Gold Barbarian Bikini",
+      "filename": "body_fembarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Divanae"
+      "value": "Divanae",
+      "filename": "head_maude.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield"
+      "value": "Magic Shield",
+      "filename": "shield_magic.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Dane Axe"
+      "trait_type": "prop",
+      "value": "Dane Axe",
+      "filename": "weapon_axe_dane.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

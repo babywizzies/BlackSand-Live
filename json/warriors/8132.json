@@ -1,43 +1,31 @@
 {
+  "idx": "8132",
   "name": "Werner Swashbuckler of the Alley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8132",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Road Warrior"
+      "value": "Purple Road Warrior",
+      "filename": "body_roadwarrior_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Estoc"
+      "trait_type": "prop",
+      "value": "Estoc",
+      "filename": "weapon_estoc.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

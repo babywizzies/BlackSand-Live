@@ -1,51 +1,41 @@
 {
+  "idx": "11591",
   "name": "Harland Ripper of the Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11591",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Ronin Armor"
+      "value": "Red Ronin Armor",
+      "filename": "body_samurai_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Barbarian"
+      "value": "Barbarian",
+      "filename": "head_conan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Butcher Knife"
+      "trait_type": "prop",
+      "value": "Butcher Knife",
+      "filename": "weapon_butcher.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

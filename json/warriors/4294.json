@@ -1,51 +1,41 @@
 {
+  "idx": "4294",
   "name": "Zazne Executor of the Dawn",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4294",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Iron Knight of the Hills"
+      "value": "Iron Knight of the Hills",
+      "filename": "body_grillknight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Jungle Commando"
+      "value": "Jungle Commando",
+      "filename": "head_brandan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amaryllis Fey Sword"
+      "trait_type": "prop",
+      "value": "Amaryllis Fey Sword",
+      "filename": "weapon_feysword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Omega",
+      "filename": "rune_omega.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

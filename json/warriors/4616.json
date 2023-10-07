@@ -1,51 +1,41 @@
 {
+  "idx": "4616",
   "name": "Zula Champion of Titans",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4616",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Knight"
+      "value": "Purple Knight",
+      "filename": "body_fem_knight_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Divanae"
+      "value": "Divanae",
+      "filename": "head_maude.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ranseur"
+      "trait_type": "prop",
+      "value": "Ranseur",
+      "filename": "weapon_speargold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Power"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Power",
+      "filename": "rune_power.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

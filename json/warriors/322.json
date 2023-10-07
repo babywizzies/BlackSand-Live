@@ -1,51 +1,41 @@
 {
+  "idx": "322",
   "name": "John Wounder of Monsters",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/322",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Yellow Cloak"
+      "value": "Aura Knight with Yellow Cloak",
+      "filename": "body_auraknight_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Scout"
+      "value": "Scout",
+      "filename": "head_matthew.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wolf Shield"
+      "value": "Wolf Shield",
+      "filename": "shield_wolf.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Skull Sword"
+      "trait_type": "prop",
+      "value": "Skull Sword",
+      "filename": "weapon_skullsword.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

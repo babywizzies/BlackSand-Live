@@ -1,47 +1,36 @@
 {
+  "idx": "10865",
   "name": "Lance Masher of Komodi",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10865",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Equatorial Keikogi"
+      "value": "Equatorial Keikogi",
+      "filename": "body_judo_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Green Knight Helm"
+      "value": "Green Knight Helm",
+      "filename": "head_knight_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spiked Ball and Chain"
+      "trait_type": "prop",
+      "value": "Spiked Ball and Chain",
+      "filename": "weapon_ballchain.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

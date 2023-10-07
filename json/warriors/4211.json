@@ -1,47 +1,36 @@
 {
+  "idx": "4211",
   "name": "Durdle Stabber of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4211",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk Kobold"
+      "value": "Street Punk Kobold",
+      "filename": "body_streetpunk_kobold.png"
     },
     {
       "trait_type": "head",
-      "value": "Kobold Captain"
+      "value": "Kobold Captain",
+      "filename": "head_wambe.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Guardian Sword"
+      "trait_type": "prop",
+      "value": "Guardian Sword",
+      "filename": "weapon_sword_gear.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

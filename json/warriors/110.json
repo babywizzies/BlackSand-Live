@@ -1,51 +1,41 @@
 {
+  "idx": "110",
   "name": "Griffin Blaster of the Dawn",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/110",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Xanthous Paladin Gear"
+      "value": "Xanthous Paladin Gear",
+      "filename": "body_starcleric_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Dune Man"
+      "value": "Dune Man",
+      "filename": "head_willson.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Kite"
+      "value": "Yellow Kite",
+      "filename": "shield_kite_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Nunchaku"
+      "trait_type": "prop",
+      "value": "Nunchaku",
+      "filename": "weapon_nunchucku.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "3554",
   "name": "Glug of Gross Gorge",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3554",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Raider"
+      "value": "Goblin Raider",
+      "filename": "body_goblin_skull.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin"
+      "value": "Goblin",
+      "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Herald Shield"
+      "value": "Gold Herald Shield",
+      "filename": "shield_chevron_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bottle of Goblin Beer"
+      "trait_type": "prop",
+      "value": "Bottle of Goblin Beer ",
+      "filename": "item_beer_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

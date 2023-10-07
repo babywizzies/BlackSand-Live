@@ -1,43 +1,31 @@
 {
+  "idx": "10804",
   "name": "Hardwin Hacker of Tigers",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10804",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "South Island MMA Pants"
+      "value": "South Island MMA Pants",
+      "filename": "body_martial_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Red Bearded Berserker"
+      "value": "Red Bearded Berserker",
+      "filename": "head_berserker_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "8948",
   "name": "Kat Shadow of the Forest",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8948",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Battle Penguin"
+      "value": "Battle Penguin",
+      "filename": "companion_penguin.png"
     },
     {
       "trait_type": "body",
-      "value": "Black One Piece"
+      "value": "Black One Piece",
+      "filename": "body_onepiece_black_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bonnie Lass"
+      "value": "Bonnie Lass",
+      "filename": "head_sloane.png"
     },
     {
       "trait_type": "shield",
-      "value": "Kraken Shield"
+      "value": "Kraken Shield",
+      "filename": "shield_kraken.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Butcher Knife"
+      "trait_type": "prop",
+      "value": "Butcher Knife",
+      "filename": "weapon_butcher.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "6"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

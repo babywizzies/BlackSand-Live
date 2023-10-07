@@ -1,47 +1,36 @@
 {
+  "idx": "7738",
   "name": "Wildin Beheader of the Swamps",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7738",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Kobold Captain Gear"
+      "value": "Kobold Captain Gear",
+      "filename": "body_kobold_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Dwarven Helm"
+      "value": "Blue Dwarven Helm",
+      "filename": "head_glork.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Blood Skull"
+      "value": "Shield of Blood Skull",
+      "filename": "shield_bloodSkull.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Firebrand"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Firebrand",
+      "filename": "weapon_sword_firebrand.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

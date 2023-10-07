@@ -1,39 +1,26 @@
 {
+  "idx": "1669",
   "name": "Augustus Hellraiser of Goblins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1669",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor"
+      "value": "Red Tunic Armor",
+      "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Action Hero"
+      "value": "Action Hero",
+      "filename": "head_rocky.png"
     },
     {
       "trait_type": "shield",
-      "value": "Frog Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Frog Shield",
+      "filename": "shield_frog.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "5190",
   "name": "Robbert Guardian of the Caves",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5190",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Orchid Rhinoceros Beetle"
+      "value": "Orchid Rhinoceros Beetle",
+      "filename": "companion_beetle_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Toga"
+      "value": "Goblin Toga",
+      "filename": "body_goblin_brute.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin"
+      "value": "Capped Goblin",
+      "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Lotus Shield"
+      "value": "Lotus Shield",
+      "filename": "shield_lotus.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Saturn",
+      "filename": "rune_saturn.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

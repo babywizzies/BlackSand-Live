@@ -1,51 +1,41 @@
 {
+  "idx": "3398",
   "name": "Nick Apocalypse of the Dread Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3398",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle"
+      "value": "Mutant Snapping Turtle",
+      "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Toga"
+      "value": "Goblin Toga",
+      "filename": "body_goblin_brute.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin Chieftain"
+      "value": "Goblin Chieftain",
+      "filename": "head_goblin_skull.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Balance"
+      "value": "Shield of Balance",
+      "filename": "shield_tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Cleaver"
+      "trait_type": "prop",
+      "value": "Malachite Cleaver",
+      "filename": "weapon_cleaver_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Olive"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

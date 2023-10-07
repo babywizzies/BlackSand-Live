@@ -1,43 +1,31 @@
 {
+  "idx": "6894",
   "name": "Isabella Armageddon of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6894",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "White One Piece"
+      "value": "White One Piece",
+      "filename": "body_onepiece_white_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Moorish Girl"
+      "value": "Moorish Girl",
+      "filename": "head_pippin.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

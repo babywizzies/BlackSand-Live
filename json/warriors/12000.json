@@ -1,39 +1,26 @@
 {
+  "idx": "12000",
   "name": "Heracles",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12000",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Wrestling Singlet"
+      "value": "Purple Wrestling Singlet",
+      "filename": "body_wrestler_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamosh.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Club of Heracles"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Club of Heracles",
+      "filename": "weapon_heraclesclub.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

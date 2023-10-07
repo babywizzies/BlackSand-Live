@@ -1,51 +1,41 @@
 {
+  "idx": "14352",
   "name": "Hongo Killer of Light",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14352",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air"
+      "value": "Armor of Air",
+      "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Kraken Shield"
+      "value": "Kraken Shield",
+      "filename": "shield_kraken.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Firebrand"
+      "trait_type": "prop",
+      "value": "Firebrand",
+      "filename": "weapon_sword_firebrand.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

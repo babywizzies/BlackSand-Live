@@ -1,47 +1,36 @@
 {
+  "idx": "14145",
   "name": "Barret Belligerent of the Quantum Downs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14145",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Crimson Jaguar"
+      "value": "Crimson Jaguar",
+      "filename": "companion_jaguar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Chrysopoeia Bot"
+      "value": "Chrysopoeia Bot ",
+      "filename": "body_robo_gold.png"
     },
     {
       "trait_type": "head",
-      "value": "Rocket Helm"
+      "value": "Rocket Helm",
+      "filename": "head_rocketman.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amaryllis Fey Sword"
+      "trait_type": "prop",
+      "value": "Amaryllis Fey Sword",
+      "filename": "weapon_feysword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Brass",
+      "filename": "rune_brass.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

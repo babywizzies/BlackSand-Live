@@ -1,47 +1,36 @@
 {
+  "idx": "5782",
   "name": "Dree Bludgeoner of Demons",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5782",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Woodland Wolverine"
+      "value": "Woodland Wolverine",
+      "filename": "companion_wolverine.png"
     },
     {
       "trait_type": "body",
-      "value": "Sakura Dress"
+      "value": "Sakura Dress",
+      "filename": "body_rin.png"
     },
     {
       "trait_type": "head",
-      "value": "Hibernian"
+      "value": "Hibernian",
+      "filename": "head_mello.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Spiked Ball and Chain"
+      "trait_type": "prop",
+      "value": "Spiked Ball and Chain",
+      "filename": "weapon_ballchain.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Fur"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

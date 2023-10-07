@@ -1,43 +1,31 @@
 {
+  "idx": "8854",
   "name": "Fenjeon Chopper of Concrete",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8854",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Nastyass Honey Badger"
+      "value": "Nastyass Honey Badger",
+      "filename": "companion_ratel.png"
     },
     {
       "trait_type": "body",
-      "value": "Capital City Keikogi"
+      "value": "Capital City Keikogi",
+      "filename": "body_judo_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Viking Helm"
+      "value": "Purple Viking Helm",
+      "filename": "head_gerj.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Broadsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Red Broadsword",
+      "filename": "weapon_sword_bigbarb_red.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

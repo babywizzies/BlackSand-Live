@@ -1,43 +1,31 @@
 {
+  "idx": "15971",
   "name": "Akinyi Poker of Wizards",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15971",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Rose Camo"
+      "value": "Street Punk with Rose Camo",
+      "filename": "body_streetpunk_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Peacock Warrior"
+      "value": "Peacock Warrior",
+      "filename": "head_sol.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ranseur"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Ranseur",
+      "filename": "weapon_speargold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

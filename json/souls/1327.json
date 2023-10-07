@@ -1,0 +1,26 @@
+{
+  "idx": "1327",
+  "name": "Malodorous Ghoul Ofaris of Goblin town",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Carnal Body of Sickness",
+      "filename": "body_ghoul_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ghoul of Sickness",
+      "filename": "head_ghoul_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Vile of Vomit",
+      "filename": "item_bloodvile_soul.png"
+    }
+  ]
+}

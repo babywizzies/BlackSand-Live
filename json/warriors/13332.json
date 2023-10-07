@@ -1,43 +1,31 @@
 {
+  "idx": "13332",
   "name": "Jax Savior of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13332",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Hedge Knight Armor"
+      "value": "Yellow Hedge Knight Armor",
+      "filename": "body_knight_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Weirdling"
+      "value": "Weirdling",
+      "filename": "head_whartel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tuck"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Tuck",
+      "filename": "weapon_needle.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

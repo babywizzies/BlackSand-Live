@@ -1,51 +1,41 @@
 {
+  "idx": "3613",
   "name": "Dayo Poker of the Trail",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3613",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Scarlet Swine"
+      "value": "Scarlet Swine",
+      "filename": "companion_boar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Amazonian Jumpsuit"
+      "value": "Red Amazonian Jumpsuit",
+      "filename": "body_amazon_red_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Nubian"
+      "value": "Nubian",
+      "filename": "head_grace.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wolf Shield"
+      "value": "Wolf Shield",
+      "filename": "shield_wolf.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

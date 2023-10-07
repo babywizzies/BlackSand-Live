@@ -1,51 +1,41 @@
 {
+  "idx": "1962",
   "name": "Hoc Cleaver of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1962",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Scarlet Swine"
+      "value": "Scarlet Swine",
+      "filename": "companion_boar_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Majestic Epic Gear"
+      "value": "Majestic Epic Gear",
+      "filename": "body_meso_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Dwarven Helm"
+      "value": "Purple Dwarven Helm",
+      "filename": "head_glorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "12443",
   "name": " Guardian of Devils",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12443",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Hedge Knight Armor"
+      "value": "Yellow Hedge Knight Armor",
+      "filename": "body_knight_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Indigo Mendicant"
+      "value": "Indigo Mendicant",
+      "filename": "head_armak.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

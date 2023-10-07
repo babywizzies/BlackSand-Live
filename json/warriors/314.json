@@ -1,43 +1,31 @@
 {
+  "idx": "314",
   "name": "Omega Hero of the Quantum Downs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/314",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Argyropoeia Bot"
+      "value": "Argyropoeia Bot",
+      "filename": "body_robo_grey.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 79"
+      "value": "BucketHead: Atomic 79",
+      "filename": "head_buckethead_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cyber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

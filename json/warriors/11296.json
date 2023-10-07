@@ -1,51 +1,41 @@
 {
+  "idx": "11296",
   "name": "Cadogan Cleaver of Thieves",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11296",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin"
+      "value": "Buffkin",
+      "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Hedge Knight Armor"
+      "value": "Red Hedge Knight Armor",
+      "filename": "body_knight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Hood of Torment"
+      "value": "Hood of Torment",
+      "filename": "head_garth.png"
     },
     {
       "trait_type": "shield",
-      "value": "Pony Shield"
+      "value": "Pony Shield",
+      "filename": "shield_pony.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Ishtar Sword"
+      "trait_type": "prop",
+      "value": "Ishtar Sword",
+      "filename": "weapon_sword_jewel_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

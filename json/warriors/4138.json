@@ -1,51 +1,41 @@
 {
+  "idx": "4138",
   "name": "Glorf Executor of the Lost City",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4138",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Null Goat"
+      "value": "Null Goat",
+      "filename": "companion_goat_purple.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Macho Pants"
+      "value": "Red Macho Pants",
+      "filename": "body_suspenders_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Dwarven Helm"
+      "value": "Purple Dwarven Helm",
+      "filename": "head_glorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield"
+      "value": "Triple Triangle Shield",
+      "filename": "shield_3tri.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tiger Eye Dragon Sword"
+      "trait_type": "prop",
+      "value": "Tiger Eye Dragon Sword",
+      "filename": "weapon_dragonsword_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

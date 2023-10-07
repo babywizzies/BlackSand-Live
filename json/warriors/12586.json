@@ -1,51 +1,41 @@
 {
+  "idx": "12586",
   "name": "Bardora Blaster of the Dawn",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12586",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Old World Mandrill"
+      "value": "Old World Mandrill",
+      "filename": "companion_mandrill.png"
     },
     {
       "trait_type": "body",
-      "value": "Iron Knight of the Hills"
+      "value": "Iron Knight of the Hills",
+      "filename": "body_grillknight_green_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Gold Dwarven Helm"
+      "value": "Gold Dwarven Helm",
+      "filename": "head_glorf.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Shield"
+      "value": "Wooden Shield",
+      "filename": "shield_wood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Death Bomb"
+      "trait_type": "prop",
+      "value": "Death Bomb",
+      "filename": "weapon_bomb_skull.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Down",
+      "filename": "rune_down.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,39 +1,26 @@
 {
+  "idx": "13883",
   "name": "Marmaduke Defeater of Glory",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13883",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Frankish Helm"
+      "value": "Frankish Helm",
+      "filename": "head_marlan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

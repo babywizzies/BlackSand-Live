@@ -1,51 +1,41 @@
 {
+  "idx": "12202",
   "name": "Luisa Lopper of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12202",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Knight"
+      "value": "Blue Knight",
+      "filename": "body_fem_knight_blue_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Hibernian"
+      "value": "Hibernian",
+      "filename": "head_mello.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Broadsword"
+      "trait_type": "prop",
+      "value": "Blue Broadsword",
+      "filename": "weapon_sword_bigbarb_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

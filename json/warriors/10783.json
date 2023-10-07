@@ -1,35 +1,21 @@
 {
+  "idx": "10783",
   "name": "Clyde Slayer of the Ring",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10783",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Wrestling Singlet"
+      "value": "Yellow Wrestling Singlet",
+      "filename": "body_wrestler_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Mountain Warrior"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Mountain Warrior",
+      "filename": "head_zubbik.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,39 +1,26 @@
 {
+  "idx": "5409",
   "name": "Finn Cleaver of the Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5409",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Dark Ronin Armor"
+      "value": "Dark Ronin Armor",
+      "filename": "body_samurai_dark.png"
     },
     {
       "trait_type": "head",
-      "value": "Happy Viking"
+      "value": "Happy Viking",
+      "filename": "head_victor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Herald Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Gold Herald Shield",
+      "filename": "shield_chevron_yellow.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

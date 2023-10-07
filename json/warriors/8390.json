@@ -1,51 +1,41 @@
 {
+  "idx": "8390",
   "name": "Grimmold Render of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8390",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Harpy Eagle"
+      "value": "Harpy Eagle",
+      "filename": "companion_eagle_harpy.png"
     },
     {
       "trait_type": "body",
-      "value": "Exalted Epic Gear"
+      "value": "Exalted Epic Gear",
+      "filename": "body_meso_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Dwarven Helm"
+      "value": "Purple Dwarven Helm",
+      "filename": "head_glorn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Kite"
+      "value": "Blue Kite",
+      "filename": "shield_kite_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Butcher Knife"
+      "trait_type": "prop",
+      "value": "Butcher Knife",
+      "filename": "weapon_butcher.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

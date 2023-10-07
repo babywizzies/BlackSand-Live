@@ -1,47 +1,36 @@
 {
+  "idx": "13918",
   "name": "Hagar Shadow of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13918",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Rattlesnake"
+      "value": "Rattlesnake",
+      "filename": "companion_rattlesnake.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Hoodlum"
+      "value": "Street Hoodlum",
+      "filename": "body_gruffer_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Barbarian"
+      "value": "Barbarian",
+      "filename": "head_conan.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Estoc"
+      "trait_type": "prop",
+      "value": "Estoc",
+      "filename": "weapon_estoc.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cape"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "40 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

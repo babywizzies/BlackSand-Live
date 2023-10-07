@@ -1,43 +1,31 @@
 {
+  "idx": "4125",
   "name": "Casey Battler of the Trees",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4125",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "West Woodland Cloak"
+      "value": "West Woodland Cloak",
+      "filename": "body_woodfem_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Moorish Girl"
+      "value": "Moorish Girl",
+      "filename": "head_pippin.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Brown Longsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Brown Longsword",
+      "filename": "weapon_longsword_brown.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "8687",
   "name": "Sal of the Wood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8687",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Scarlet Macaw"
+      "value": "Scarlet Macaw",
+      "filename": "companion_macaw.png"
     },
     {
       "trait_type": "body",
-      "value": "Red One Piece"
+      "value": "Red One Piece",
+      "filename": "body_onepiece_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Spring Warrior"
+      "value": "Spring Warrior",
+      "filename": "head_femhelm_brush.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite"
+      "value": "Red Kite",
+      "filename": "shield_kite_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bowl of Ramen"
+      "trait_type": "prop",
+      "value": "Bowl of Ramen",
+      "filename": "item_ramen.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "2535",
   "name": "Farol Rogue of the Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2535",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Alabaster Paladin Gear"
+      "value": "Alabaster Paladin Gear",
+      "filename": "body_starcleric_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Lycan Warrior"
+      "value": "Lycan Warrior",
+      "filename": "head_logum.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Chakram"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Spike"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Chakram",
+      "filename": "weapon_chakram.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

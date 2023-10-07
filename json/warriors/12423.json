@@ -1,39 +1,26 @@
 {
+  "idx": "12423",
   "name": "Nigel Savior of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12423",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Red Camo"
+      "value": "Street Punk with Red Camo",
+      "filename": "body_streetpunk_red_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_miguel.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Chakram"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Machine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Chakram",
+      "filename": "weapon_chakram.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

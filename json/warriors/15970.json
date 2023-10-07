@@ -1,51 +1,41 @@
 {
+  "idx": "15970",
   "name": "Damon Mincer of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15970",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Aurelian Rhinoceros Beetle"
+      "value": "Aurelian Rhinoceros Beetle",
+      "filename": "companion_beetle_gold.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Earth"
+      "value": "Armor of Earth",
+      "filename": "body_knightearth.png"
     },
     {
       "trait_type": "head",
-      "value": "Mescaline Warrior"
+      "value": "Mescaline Warrior",
+      "filename": "head_stan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jade Sword"
+      "trait_type": "prop",
+      "value": "Jade Sword",
+      "filename": "weapon_sword_jade.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

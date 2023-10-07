@@ -1,43 +1,31 @@
 {
+  "idx": "11478",
   "name": "Durdle Champion of the Marsh",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11478",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle"
+      "value": "Mutant Snapping Turtle",
+      "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk Kobold"
+      "value": "Street Punk Kobold",
+      "filename": "body_streetpunk_kobold.png"
     },
     {
       "trait_type": "head",
-      "value": "Wild Kobold"
+      "value": "Wild Kobold ",
+      "filename": "head_womble.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Kobold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "5124",
   "name": "Crom Savior of the Baobabs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5124",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx"
+      "value": "Northern Lynx",
+      "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Majestic Epic Gear"
+      "value": "Majestic Epic Gear",
+      "filename": "body_meso_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Earth Guard"
+      "value": "Earth Guard",
+      "filename": "head_jardem.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler"
+      "value": "Green Buckler",
+      "filename": "shield_circle_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Pantheon Spear"
+      "trait_type": "prop",
+      "value": "Pantheon Spear",
+      "filename": "weapon_spearWing.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

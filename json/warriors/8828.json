@@ -1,51 +1,41 @@
 {
+  "idx": "8828",
   "name": "Grogan Poker of the Savannah",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8828",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Garuda's Griffin"
+      "value": "Garuda's Griffin",
+      "filename": "companion_griffin.png"
     },
     {
       "trait_type": "body",
-      "value": "Murmillo Gear"
+      "value": "Murmillo Gear",
+      "filename": "body_gladiator_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Gold Dwarven Helm"
+      "value": "Gold Dwarven Helm",
+      "filename": "head_glorf.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Kite"
+      "value": "Green Kite",
+      "filename": "shield_kite_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Sigma",
+      "filename": "rune_sigma.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

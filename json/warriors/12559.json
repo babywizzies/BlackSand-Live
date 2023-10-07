@@ -1,43 +1,31 @@
 {
+  "idx": "12559",
   "name": "Doyle Defeater of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12559",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Leather Briefs"
+      "value": "Gladiator's Cloak with Leather Briefs",
+      "filename": "body_spartan_gold_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kempo"
+      "value": "Kempo",
+      "filename": "head_chun.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

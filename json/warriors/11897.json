@@ -1,47 +1,36 @@
 {
+  "idx": "11897",
   "name": "Azriel Lacerator of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11897",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Equatorial Keikogi"
+      "value": "Equatorial Keikogi",
+      "filename": "body_judo_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Bad Mofo"
+      "value": "Bad Mofo",
+      "filename": "head_jules.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Dragon Pike"
+      "trait_type": "prop",
+      "value": "Malachite Dragon Pike",
+      "filename": "weapon_dragonpike_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Muscle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Mercury",
+      "filename": "rune_mercury.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

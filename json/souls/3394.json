@@ -1,0 +1,26 @@
+{
+  "idx": "3394",
+  "name": "Putrid Zombie Caligula of the Bottomless Grave",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Putrid Rags",
+      "filename": "body_zombie_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Putrid Zombie",
+      "filename": "head_zombie_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Penumbra Potion",
+      "filename": "item_potion_soul.png"
+    }
+  ]
+}

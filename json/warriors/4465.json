@@ -1,43 +1,31 @@
 {
+  "idx": "4465",
   "name": "Wulfrum Paragon of Area 71",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4465",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Megasuit"
+      "value": "Megasuit",
+      "filename": "body_megasuit.png"
     },
     {
       "trait_type": "head",
-      "value": "Durm and Strang"
+      "value": "Durm and Strang",
+      "filename": "head_rothkor.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Rapier"
+      "trait_type": "prop",
+      "value": "Rapier",
+      "filename": "weapon_rapier.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

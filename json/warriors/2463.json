@@ -1,47 +1,36 @@
 {
+  "idx": "2463",
   "name": "Ekrin Striker of Scoundrels",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2463",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Silver Goat"
+      "value": "Silver Goat",
+      "filename": "companion_goat_white.png"
     },
     {
       "trait_type": "body",
-      "value": "Xanthous Paladin Gear"
+      "value": "Xanthous Paladin Gear",
+      "filename": "body_starcleric_green.png"
     },
     {
       "trait_type": "head",
-      "value": "Gold Dwarven Helm"
+      "value": "Gold Dwarven Helm",
+      "filename": "head_glorf.png"
     },
     {
       "trait_type": "shield",
-      "value": "Guardian Shield"
+      "value": "Guardian Shield",
+      "filename": "shield_guardian.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amaryllis Fey Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "trait_type": "prop",
+      "value": "Amaryllis Fey Sword",
+      "filename": "weapon_feysword_red.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

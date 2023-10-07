@@ -1,39 +1,26 @@
 {
+  "idx": "1526",
   "name": "Peter Contender of Power",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1526",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Boxing Shorts"
+      "value": "Red Boxing Shorts",
+      "filename": "body_mma_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Frankish Helm"
+      "value": "Frankish Helm",
+      "filename": "head_marlan.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Shortsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Blue Shortsword",
+      "filename": "weapon_shortsword_blue.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

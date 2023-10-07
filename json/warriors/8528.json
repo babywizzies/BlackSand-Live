@@ -1,43 +1,31 @@
 {
+  "idx": "8528",
   "name": "Imani Marauder of Giants",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8528",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Knight"
+      "value": "Purple Knight",
+      "filename": "body_fem_knight_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Abyssinian"
+      "value": "Abyssinian",
+      "filename": "head_nala.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Shortsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Red Shortsword",
+      "filename": "weapon_shortsword_red.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

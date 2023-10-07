@@ -1,43 +1,31 @@
 {
+  "idx": "13214",
   "name": "Nadir Obliterator of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13214",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Briefs"
+      "value": "Classic Gold Barbarian Briefs",
+      "filename": "body_barbarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Olive Mendicant"
+      "value": "Olive Mendicant",
+      "filename": "head_armok.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Goblin Axe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Goblin Axe",
+      "filename": "weapon_axe_goblin.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

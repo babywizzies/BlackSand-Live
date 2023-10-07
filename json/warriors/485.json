@@ -1,39 +1,26 @@
 {
+  "idx": "485",
   "name": "Cassius Death of the East",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/485",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Glory Knight"
+      "value": "Glory Knight",
+      "filename": "body_gloryKnight_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Brownlander"
+      "value": "Brownlander",
+      "filename": "head_robby.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

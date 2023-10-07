@@ -1,51 +1,41 @@
 {
+  "idx": "4991",
   "name": "Aspra Buster of the Hall",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4991",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Field Hound"
+      "value": "Field Hound",
+      "filename": "companion_pitHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Knight"
+      "value": "Purple Knight",
+      "filename": "body_fem_knight_purple_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Valkyrie"
+      "value": "Valkyrie",
+      "filename": "head_valkyrun.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wolf Shield"
+      "value": "Wolf Shield",
+      "filename": "shield_wolf.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Nunchaku"
+      "trait_type": "prop",
+      "value": "Nunchaku",
+      "filename": "weapon_nunchucku.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

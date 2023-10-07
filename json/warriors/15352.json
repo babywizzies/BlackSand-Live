@@ -1,43 +1,31 @@
 {
+  "idx": "15352",
   "name": "Bruno Beater of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15352",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Purple Briefs"
+      "value": "Gladiator's Cloak with Purple Briefs",
+      "filename": "body_spartan_gold_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "East Sider"
+      "value": "East Sider",
+      "filename": "head_rockmer.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Iron Hammer"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

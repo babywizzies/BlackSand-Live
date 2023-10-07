@@ -1,51 +1,41 @@
 {
+  "idx": "13346",
   "name": "Greta Vengeance of Worlds",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13346",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Nastyass Honey Badger"
+      "value": "Nastyass Honey Badger",
+      "filename": "companion_ratel.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Knight"
+      "value": "Blue Knight",
+      "filename": "body_fem_knight_blue_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bambam"
+      "value": "Bambam",
+      "filename": "head_bambam.png"
     },
     {
       "trait_type": "shield",
-      "value": "Pony Shield"
+      "value": "Pony Shield",
+      "filename": "shield_pony.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Jungle Boomerang"
+      "trait_type": "prop",
+      "value": "Jungle Boomerang",
+      "filename": "weapon_boomerang_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Earth",
+      "filename": "rune_earth.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

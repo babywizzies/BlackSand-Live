@@ -1,51 +1,41 @@
 {
+  "idx": "15533",
   "name": "Aella The Sassy",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15533",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Greater Cassowary"
+      "value": "Greater Cassowary",
+      "filename": "companion_cassowary.png"
     },
     {
       "trait_type": "body",
-      "value": "Sakura Dress"
+      "value": "Sakura Dress",
+      "filename": "body_rin.png"
     },
     {
       "trait_type": "head",
-      "value": "Cloud Champion"
+      "value": "Cloud Champion",
+      "filename": "head_cloud.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lollipop"
+      "trait_type": "prop",
+      "value": "Lollipop",
+      "filename": "item_lollipop.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Omega",
+      "filename": "rune_omega.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

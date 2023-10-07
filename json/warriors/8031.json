@@ -1,39 +1,26 @@
 {
+  "idx": "8031",
   "name": "Helen Razer of the Bay",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8031",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Garb"
+      "value": "Pirate Garb",
+      "filename": "body_fempirateWar.png"
     },
     {
       "trait_type": "head",
-      "value": "Autumn Warrior"
+      "value": "Autumn Warrior",
+      "filename": "head_femhelm_red.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

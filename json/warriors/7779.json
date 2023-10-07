@@ -1,51 +1,41 @@
 {
+  "idx": "7779",
   "name": "Malificia Defeater of the Valley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7779",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Wild Eagle"
+      "value": "Wild Eagle",
+      "filename": "companion_eagle_brown.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Knight"
+      "value": "Brown Knight",
+      "filename": "body_fem_knight_brown_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Valkyrie"
+      "value": "Valkyrie",
+      "filename": "head_valkyrun.png"
     },
     {
       "trait_type": "shield",
-      "value": "Infinity Shield"
+      "value": "Infinity Shield",
+      "filename": "shield_infinity.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Pantheon Spear"
+      "trait_type": "prop",
+      "value": "Pantheon Spear",
+      "filename": "weapon_spearWing.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Pluto",
+      "filename": "rune_pluto.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

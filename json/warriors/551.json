@@ -1,39 +1,26 @@
 {
+  "idx": "551",
   "name": "Grimmold Blade of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/551",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Purple Briefs"
+      "value": "Gladiator's Cloak with Purple Briefs",
+      "filename": "body_spartan_gold_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Mountain Warrior"
+      "value": "Mountain Warrior",
+      "filename": "head_zubbik.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

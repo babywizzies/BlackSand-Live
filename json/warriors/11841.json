@@ -1,51 +1,41 @@
 {
+  "idx": "11841",
   "name": "Liang Cleaver of Crystals",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11841",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Attack Drone"
+      "value": "Attack Drone",
+      "filename": "companion_drone.png"
     },
     {
       "trait_type": "body",
-      "value": "Rainbow Knight"
+      "value": "Rainbow Knight",
+      "filename": "body_fem_knight_color.png"
     },
     {
       "trait_type": "head",
-      "value": "Kempo"
+      "value": "Kempo",
+      "filename": "head_lina.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Dragon Pike"
+      "trait_type": "prop",
+      "value": "Malachite Dragon Pike",
+      "filename": "weapon_dragonpike_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

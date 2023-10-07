@@ -1,43 +1,31 @@
 {
+  "idx": "1149",
   "name": "Glorf Wrecker of Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1149",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk Goblin"
+      "value": "Street Punk Goblin",
+      "filename": "body_streetpunk_goblin.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin"
+      "value": "Goblin",
+      "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler"
+      "value": "Green Buckler",
+      "filename": "shield_circle_green.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Journeyman Falchion"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Goblin"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "trait_type": "prop",
+      "value": "Journeyman Falchion",
+      "filename": "weapon_sword_falchion_gold.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

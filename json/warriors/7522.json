@@ -1,39 +1,26 @@
 {
+  "idx": "7522",
   "name": "Sharon Defeater of the Fey",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7522",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "West Woodland Cloak"
+      "value": "West Woodland Cloak",
+      "filename": "body_woodfem_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Moorish Girl"
+      "value": "Moorish Girl",
+      "filename": "head_pippin.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

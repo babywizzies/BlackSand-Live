@@ -1,51 +1,41 @@
 {
+  "idx": "6824",
   "name": "John Assaulter of Atlantis",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6824",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Harpy Eagle"
+      "value": "Harpy Eagle",
+      "filename": "companion_eagle_harpy.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Guardian Helm"
+      "value": "Guardian Helm",
+      "filename": "head_guardian_blue.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler"
+      "value": "Blue Buckler",
+      "filename": "shield_circle_blue.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Lazurite Dragon Sword"
+      "trait_type": "prop",
+      "value": "Lazurite Dragon Sword",
+      "filename": "weapon_dragonsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Protection"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Protection",
+      "filename": "rune_protection.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

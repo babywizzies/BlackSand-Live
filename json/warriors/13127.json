@@ -1,51 +1,41 @@
 {
+  "idx": "13127",
   "name": "Evander of Giants",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13127",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Medieval Livery"
+      "value": "Blue Medieval Livery",
+      "filename": "body_clericknight_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Rocket Helm"
+      "value": "Rocket Helm",
+      "filename": "head_rocketman.png"
     },
     {
       "trait_type": "shield",
-      "value": "Pony Shield"
+      "value": "Pony Shield",
+      "filename": "shield_pony.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bottle of Goblin Beer"
+      "trait_type": "prop",
+      "value": "Bottle of Goblin Beer ",
+      "filename": "item_beer_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

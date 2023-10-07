@@ -1,47 +1,36 @@
 {
+  "idx": "11736",
   "name": "Jeremy Slasher of the Keep",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11736",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Duck"
+      "value": "Duck",
+      "filename": "companion_duck.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Green Camo"
+      "value": "Street Punk with Green Camo",
+      "filename": "body_streetpunk_green_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skindark.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Butcher Knife"
+      "trait_type": "prop",
+      "value": "Butcher Knife",
+      "filename": "weapon_butcher.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "value": "Rune of Neptune",
+      "filename": "rune_neptune.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

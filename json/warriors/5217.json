@@ -1,39 +1,26 @@
 {
+  "idx": "5217",
   "name": "Dean Disintegrator of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5217",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic Armor"
+      "value": "Brown Tunic Armor",
+      "filename": "body_shirtarmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
+      "value": "Forgotten Man",
+      "filename": "head_miguel.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

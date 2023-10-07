@@ -1,47 +1,36 @@
 {
+  "idx": "2150",
   "name": "Krafili Contender of Chickens",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2150",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Old World Mandrill"
+      "value": "Old World Mandrill",
+      "filename": "companion_mandrill.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk Kobold"
+      "value": "Street Punk Kobold",
+      "filename": "body_streetpunk_kobold.png"
     },
     {
       "trait_type": "head",
-      "value": "Blue Dwarven Helm"
+      "value": "Blue Dwarven Helm",
+      "filename": "head_glork.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Pirate Sword"
+      "trait_type": "prop",
+      "value": "Pirate Sword",
+      "filename": "weapon_sword_pirate.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,43 +1,31 @@
 {
+  "idx": "14883",
   "name": " Pulverizer of the Capital",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14883",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gold Belt Ruffian"
+      "value": "Gold Belt Ruffian",
+      "filename": "body_sharp_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Indigo Mendicant"
+      "value": "Indigo Mendicant",
+      "filename": "head_armak.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bo Staff"
+      "trait_type": "prop",
+      "value": "Bo Staff",
+      "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Uranus"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "1"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "25 percent"
+      "value": "Rune of Uranus",
+      "filename": "rune_uranus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

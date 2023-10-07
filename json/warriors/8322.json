@@ -1,39 +1,26 @@
 {
+  "idx": "8322",
   "name": "Rockford Archer of the Coliseum",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8322",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "South Island MMA Pants"
+      "value": "South Island MMA Pants",
+      "filename": "body_martial_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Elder"
+      "value": "Elder",
+      "filename": "head_wharton.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Longbow"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Rugged"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "trait_type": "prop",
+      "value": "Longbow",
+      "filename": "weapon_longbow.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

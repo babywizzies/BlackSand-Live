@@ -1,39 +1,26 @@
 {
+  "idx": "8578",
   "name": "Jerry Annihilator of Destiny",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8578",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air"
+      "value": "Armor of Air",
+      "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Highlander"
+      "value": "Highlander",
+      "filename": "head_shawn.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

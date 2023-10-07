@@ -1,39 +1,26 @@
 {
+  "idx": "10033",
   "name": "Rando Disintegrator of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10033",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak"
+      "value": "Aura Knight with Red Cloak",
+      "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Anuran Warrior"
+      "value": "Anuran Warrior",
+      "filename": "head_puzu.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Yellow Buckler",
+      "filename": "shield_circle_yellow.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

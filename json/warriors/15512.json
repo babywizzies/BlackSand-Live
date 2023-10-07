@@ -1,51 +1,41 @@
 {
+  "idx": "15512",
   "name": "LeoKnightas Beast of Blades",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15512",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Garuda's Griffin"
+      "value": "Garuda's Griffin",
+      "filename": "companion_griffin.png"
     },
     {
       "trait_type": "body",
-      "value": "Omega Plate Armor"
+      "value": "Omega Plate Armor",
+      "filename": "body_plateArmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Leo"
+      "value": "Leo",
+      "filename": "head_lion.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Aurelian Double Blade"
+      "trait_type": "prop",
+      "value": "Aurelian Double Blade",
+      "filename": "weapon_doubleblade_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

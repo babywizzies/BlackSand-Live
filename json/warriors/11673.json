@@ -1,43 +1,31 @@
 {
+  "idx": "11673",
   "name": "Riggs Chopper of the Capital",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11673",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Belt Ruffian"
+      "value": "Purple Belt Ruffian",
+      "filename": "body_sharp_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Dune Man"
+      "value": "Dune Man",
+      "filename": "head_willson.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Gladiator Sword"
+      "trait_type": "prop",
+      "value": "Gladiator Sword",
+      "filename": "weapon_sword_spartan.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Sun",
+      "filename": "rune_sun.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

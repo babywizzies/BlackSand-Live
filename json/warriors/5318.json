@@ -1,39 +1,26 @@
 {
+  "idx": "5318",
   "name": "Dormok Menace of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5318",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Provocator Garb"
+      "value": "Red Provocator Garb",
+      "filename": "body_provoc_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Brigand"
+      "value": "Brigand",
+      "filename": "head_willy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Flesh"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Shield of the Sun",
+      "filename": "shield_sun.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

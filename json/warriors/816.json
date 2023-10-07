@@ -1,39 +1,26 @@
 {
+  "idx": "816",
   "name": "Teny Attacker of Devils",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/816",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "White One Piece"
+      "value": "White One Piece",
+      "filename": "body_onepiece_white_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Moorish Girl"
+      "value": "Moorish Girl",
+      "filename": "head_pippin.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Guard"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

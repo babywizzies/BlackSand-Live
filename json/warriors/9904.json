@@ -1,35 +1,21 @@
 {
+  "idx": "9904",
   "name": "Louis Death of the Keep",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9904",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Belt Ruffian"
+      "value": "Purple Belt Ruffian",
+      "filename": "body_sharp_purple.png"
     },
     {
       "trait_type": "head",
-      "value": "Stunt Man"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "White Magic"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Stunt Man",
+      "filename": "head_joremy.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

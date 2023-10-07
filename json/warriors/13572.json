@@ -1,43 +1,31 @@
 {
+  "idx": "13572",
   "name": "Wolfgang Dicer of the Savannah",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13572",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Classic Gold Barbarian Briefs"
+      "value": "Classic Gold Barbarian Briefs",
+      "filename": "body_barbarian_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Blonde Bearded Berserker"
+      "value": "Blonde Bearded Berserker",
+      "filename": "head_berserker_skindark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Master Claymore"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Viking"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Master Claymore",
+      "filename": "weapon_claymore.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

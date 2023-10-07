@@ -1,51 +1,41 @@
 {
+  "idx": "4653",
   "name": "Ebele Bludgeoner of Bees",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4653",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Aurelian Rhinoceros Beetle"
+      "value": "Aurelian Rhinoceros Beetle",
+      "filename": "companion_beetle_gold.png"
     },
     {
       "trait_type": "body",
-      "value": "South Woodland Cloak"
+      "value": "South Woodland Cloak",
+      "filename": "body_woodfem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Styxian"
+      "value": "Styxian",
+      "filename": "head_mellah.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Shield"
+      "value": "Wooden Shield",
+      "filename": "shield_wood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "West Side Pipe Wrench"
+      "trait_type": "prop",
+      "value": "West Side Pipe Wrench",
+      "filename": "weapon_wrench_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Protection"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Protection",
+      "filename": "rune_protection.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

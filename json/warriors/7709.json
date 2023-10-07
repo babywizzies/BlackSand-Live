@@ -1,43 +1,31 @@
 {
+  "idx": "7709",
   "name": "Xander Wounder of the Disco",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7709",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Hamadryas Baboon"
+      "value": "Hamadryas Baboon",
+      "filename": "companion_baboon.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Hoodlum"
+      "value": "Street Hoodlum",
+      "filename": "body_gruffer_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Chad Bro"
+      "value": "Chad Bro",
+      "filename": "head_chad_skinlight.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Flesh"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,51 +1,41 @@
 {
+  "idx": "3268",
   "name": "Sita Protector of the Wood",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3268",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Surd Armor"
+      "value": "Surd Armor ",
+      "filename": "body_surdarmour_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Flower of the Wheel"
+      "value": "Flower of the Wheel",
+      "filename": "head_nourga.png"
     },
     {
       "trait_type": "shield",
-      "value": "Kraken Shield"
+      "value": "Kraken Shield",
+      "filename": "shield_kraken.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bush Spear"
+      "trait_type": "prop",
+      "value": "Bush Spear",
+      "filename": "weapon_spear_wild.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Jungle"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Water",
+      "filename": "rune_water.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

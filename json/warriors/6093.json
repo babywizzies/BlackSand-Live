@@ -1,51 +1,41 @@
 {
+  "idx": "6093",
   "name": "Serena Clubber of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/6093",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Green One Piece"
+      "value": "Green One Piece",
+      "filename": "body_onepiece_green_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "She Wolf"
+      "value": "She Wolf",
+      "filename": "head_tania.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Wooden Club"
+      "trait_type": "prop",
+      "value": "Wooden Club",
+      "filename": "weapon_club.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

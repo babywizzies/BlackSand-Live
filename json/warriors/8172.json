@@ -1,47 +1,36 @@
 {
+  "idx": "8172",
   "name": "Alyssia Annihilator of Thieves",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8172",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Duck"
+      "value": "Duck",
+      "filename": "companion_duck.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Rose Camo"
+      "value": "Street Punk with Rose Camo",
+      "filename": "body_streetpunk_fem_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Xanthe"
+      "value": "Xanthe ",
+      "filename": "head_marsha.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blood Sword"
+      "trait_type": "prop",
+      "value": "Blood Sword",
+      "filename": "weapon_sword_blood.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Air",
+      "filename": "rune_air.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,39 +1,26 @@
 {
+  "idx": "12235",
   "name": "Drogol Marauder of Chickens",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12235",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier"
+      "value": "Goblin Footsoldier",
+      "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin"
+      "value": "Goblin",
+      "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of Down Only"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Goblin"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Shield of Down Only",
+      "filename": "shield_kite_down.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

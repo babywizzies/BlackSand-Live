@@ -1,43 +1,31 @@
 {
+  "idx": "8427",
   "name": "Sandy Lacerator of Owls",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8427",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Woodland Armor"
+      "value": "Woodland Armor",
+      "filename": "body_woodarmor_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Psyche Warrior"
+      "value": "Psyche Warrior",
+      "filename": "head_riona.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

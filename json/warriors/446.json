@@ -1,39 +1,26 @@
 {
+  "idx": "446",
   "name": "Adele Ruin of the Sea",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/446",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Pirate Garb"
+      "value": "Pirate Garb",
+      "filename": "body_fempirateWar.png"
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": "head_marci.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Sea"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "idx": "7365",
+  "name": "Gangrenous Zombie Lamia of the Scum Barrel",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Gangrene Rags",
+      "filename": "body_zombie_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Gangrene Zombie",
+      "filename": "head_zombie_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Underworld Peyote",
+      "filename": "item_peyote_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ]
+}

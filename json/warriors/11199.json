@@ -1,39 +1,26 @@
 {
+  "idx": "11199",
   "name": "Tiberius Cataclysm of the Baobabs",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11199",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Leather Briefs"
+      "value": "Gladiator's Cloak with Leather Briefs",
+      "filename": "body_spartan_gold_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Legionnaire Helmet"
+      "value": "Legionnaire Helmet",
+      "filename": "head_legionnaire.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Wooden Buckler",
+      "filename": "shield_circlewood.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

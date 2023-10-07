@@ -1,43 +1,31 @@
 {
+  "idx": "1476",
   "name": "Divya Poker of the Underground",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/1476",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Road Spandex"
+      "value": "Green Road Spandex",
+      "filename": "body_roadwarrior_fem_skinmid.png"
     },
     {
       "trait_type": "head",
-      "value": "Flower of the Wheel"
+      "value": "Flower of the Wheel",
+      "filename": "head_nourga.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Trident"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Trident",
+      "filename": "weapon_trident.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

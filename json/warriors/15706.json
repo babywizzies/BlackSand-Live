@@ -1,51 +1,41 @@
 {
+  "idx": "15706",
   "name": "Grickle Dueler of the Cockatrice",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15706",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Grassland Ceratopsian"
+      "value": "Grassland Ceratopsian",
+      "filename": "companion_tritops_green.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Red"
+      "value": "Traveller's Cloak Red",
+      "filename": "body_cloak_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Wild Furgnome"
+      "value": "Wild Furgnome ",
+      "filename": "head_furgnome.png"
     },
     {
       "trait_type": "shield",
-      "value": "Lotus Shield"
+      "value": "Lotus Shield",
+      "filename": "shield_lotus.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Malachite Cleaver"
+      "trait_type": "prop",
+      "value": "Malachite Cleaver",
+      "filename": "weapon_cleaver_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Verdant"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Up",
+      "filename": "rune_up.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

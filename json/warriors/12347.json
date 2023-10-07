@@ -1,51 +1,41 @@
 {
+  "idx": "12347",
   "name": "Isabella Lumper of the Elysian Fields",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12347",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Styxian Boar"
+      "value": "Styxian Boar",
+      "filename": "companion_boar_dark.png"
     },
     {
       "trait_type": "body",
-      "value": "Athenian Robe"
+      "value": "Athenian Robe",
+      "filename": "body_athena_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Spring Warrior"
+      "value": "Spring Warrior",
+      "filename": "head_femhelm_brush.png"
     },
     {
       "trait_type": "shield",
-      "value": "Aegis"
+      "value": "Aegis",
+      "filename": "shield_aegis.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "West Side Pipe Wrench"
+      "trait_type": "prop",
+      "value": "West Side Pipe Wrench",
+      "filename": "weapon_wrench_green.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Pantheon"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Rune of Sigma",
+      "filename": "rune_sigma.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

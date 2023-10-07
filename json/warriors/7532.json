@@ -1,39 +1,26 @@
 {
+  "idx": "7532",
   "name": "Relic Combatant of the Sun",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7532",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Green Medieval Livery"
+      "value": "Green Medieval Livery",
+      "filename": "body_clericknight_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Cool Guy"
+      "value": "Cool Guy",
+      "filename": "head_john.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gladiator"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

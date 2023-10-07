@@ -1,43 +1,31 @@
 {
+  "idx": "4454",
   "name": "Butch Lacerator of the Dojo",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4454",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet"
+      "value": "Gigas Hornet",
+      "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Boxing Shorts"
+      "value": "Blue Boxing Shorts",
+      "filename": "body_mma_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Blue Broadsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Blue Broadsword",
+      "filename": "weapon_sword_bigbarb_blue.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

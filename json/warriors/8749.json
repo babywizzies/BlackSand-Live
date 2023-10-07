@@ -1,35 +1,21 @@
 {
+  "idx": "8749",
   "name": "Quinton Scissor of Kobolds",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8749",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gold Belt Ruffian"
+      "value": "Gold Belt Ruffian",
+      "filename": "body_sharp_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Lollipop"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "1"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

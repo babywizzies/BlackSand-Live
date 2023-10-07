@@ -1,39 +1,26 @@
 {
+  "idx": "5484",
   "name": "Zalika Mincer of Devils",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5484",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Battle Bikini"
+      "value": "Battle Bikini",
+      "filename": "body_bea_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Abyssinian"
+      "value": "Abyssinian",
+      "filename": "head_nala.png"
     },
     {
       "trait_type": "shield",
-      "value": "Bolt Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Amber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Bolt Shield",
+      "filename": "shield_bolt.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

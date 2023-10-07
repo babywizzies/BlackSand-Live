@@ -1,39 +1,26 @@
 {
+  "idx": "7167",
   "name": "Khaliq Executor of the Tower",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7167",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor"
+      "value": "Red Tunic Armor",
+      "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Desert Warrior"
+      "value": "Desert Warrior",
+      "filename": "head_arabian.png"
     },
     {
       "trait_type": "shield",
-      "value": "Brown Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Medieval"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Brown Kite",
+      "filename": "shield_kite_brown.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

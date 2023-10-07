@@ -1,51 +1,41 @@
 {
+  "idx": "15537",
   "name": "Guardian Michael of the First Flame",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15537",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Cardinal Raptor"
+      "value": "Cardinal Raptor",
+      "filename": "companion_raptor_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Guardian of the Flame"
+      "value": "Guardian of the Flame",
+      "filename": "body_guardian_grey.png"
     },
     {
       "trait_type": "head",
-      "value": "Flame Guardian Helm"
+      "value": "Flame Guardian Helm",
+      "filename": "head_guardian_grey.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield"
+      "value": "Fire Shield",
+      "filename": "shield_fire.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Firebrand"
+      "trait_type": "prop",
+      "value": "Firebrand",
+      "filename": "weapon_sword_firebrand.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Fire"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Rune of Fire",
+      "filename": "rune_fire.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "idx": "260",
+  "name": "Shaded Spectre Eden ",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Shade Spectral Body",
+      "filename": "body_spectre_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Shade Spectre",
+      "filename": "head_spectre_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Seraphim's Touch: the Life Spell",
+      "filename": "spell_death_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Cat",
+      "filename": "familiar_cat_zombie.png"
+    }
+  ]
+}

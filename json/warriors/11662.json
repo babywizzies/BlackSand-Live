@@ -1,43 +1,31 @@
 {
+  "idx": "11662",
   "name": "Tuma Shatterer of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11662",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gold Lamellar"
+      "value": "Gold Lamellar",
+      "filename": "body_byzantine.png"
     },
     {
       "trait_type": "head",
-      "value": "Warrior Monk"
+      "value": "Warrior Monk",
+      "filename": "head_akon.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Herald Shield"
+      "value": "Gold Herald Shield",
+      "filename": "shield_chevron_yellow.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Knight"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Mace",
+      "filename": "weapon_mace.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

@@ -1,39 +1,26 @@
 {
+  "idx": "11703",
   "name": "Jahid Punisher of the Guild",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11703",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Traveller's Cloak Yellow"
+      "value": "Traveller's Cloak Yellow",
+      "filename": "body_cloak_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Olive Mendicant"
+      "value": "Olive Mendicant",
+      "filename": "head_armok.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

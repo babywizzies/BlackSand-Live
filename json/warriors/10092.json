@@ -1,43 +1,31 @@
 {
+  "idx": "10092",
   "name": "Johnny Amputator of X",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10092",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Superalloy Bot"
+      "value": "Superalloy Bot ",
+      "filename": "body_robo_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 79"
+      "value": "BucketHead: Atomic 79",
+      "filename": "head_buckethead_gold.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sabre"
+      "trait_type": "prop",
+      "value": "Sabre",
+      "filename": "weapon_sabre.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cyber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Rune of Steel",
+      "filename": "rune_steel.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

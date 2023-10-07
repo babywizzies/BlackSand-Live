@@ -1,43 +1,31 @@
 {
+  "idx": "5261",
   "name": "Samson Killer of Area 71",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/5261",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat"
+      "value": "Black Goat",
+      "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Cyborg Body"
+      "value": "Cyborg Body",
+      "filename": "body_cyberhalf_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Zimbala"
+      "value": "Zimbala",
+      "filename": "head_impeh.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Amber Dragon Sword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Amber Dragon Sword",
+      "filename": "weapon_dragonsword_gold.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

@@ -1,0 +1,31 @@
+{
+  "idx": "9706",
+  "name": "Grim Ghoul Lenora of the Dread Tower",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lascivious Body of Death",
+      "filename": "body_ghoul_white_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Pale Ghoul",
+      "filename": "head_ghoul_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Skeleton Key",
+      "filename": "item_key_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    }
+  ]
+}

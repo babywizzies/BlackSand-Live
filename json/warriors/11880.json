@@ -1,39 +1,26 @@
 {
+  "idx": "11880",
   "name": "Alicia Obliterator of the Elysian Fields",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/11880",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": "head_marci.png"
     },
     {
       "trait_type": "shield",
-      "value": "Gold Holy Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Feminine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Gold Holy Shield",
+      "filename": "shield_holy_gold.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

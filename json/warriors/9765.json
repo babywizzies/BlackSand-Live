@@ -1,39 +1,26 @@
 {
+  "idx": "9765",
   "name": "Napoleon Protector of the Jungle",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9765",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gladiator's Cloak with Purple Briefs"
+      "value": "Gladiator's Cloak with Purple Briefs",
+      "filename": "body_spartan_gold_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Mountain Warrior"
+      "value": "Mountain Warrior",
+      "filename": "head_zubbik.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tanker Heater Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Tanker Heater Shield",
+      "filename": "shield_widex_red.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

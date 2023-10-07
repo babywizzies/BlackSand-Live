@@ -1,43 +1,31 @@
 {
+  "idx": "4953",
   "name": "Necro Cleaver of Area 71",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4953",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Golden Jaguar"
+      "value": "Golden Jaguar",
+      "filename": "companion_jaguar_yellow.png"
     },
     {
       "trait_type": "body",
-      "value": "Superalloy Bot"
+      "value": "Superalloy Bot ",
+      "filename": "body_robo_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 79"
+      "value": "BucketHead: Atomic 79",
+      "filename": "head_buckethead_gold.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "value": "Rune of Jupiter",
+      "filename": "rune_jupiter.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

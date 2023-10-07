@@ -1,43 +1,31 @@
 {
+  "idx": "8683",
   "name": "Dot Guardian of Machines",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/8683",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Superalloy Bot"
+      "value": "Superalloy Bot ",
+      "filename": "body_robo_blue.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 26"
+      "value": "BucketHead: Atomic 26",
+      "filename": "head_buckethead.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Silver Poleaxe"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blue Shift"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Silver Poleaxe",
+      "filename": "weapon_poleaxe_grey.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

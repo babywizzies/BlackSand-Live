@@ -1,39 +1,26 @@
 {
+  "idx": "15050",
   "name": "George Executor of Giants",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15050",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Alabaster Paladin Gear"
+      "value": "Alabaster Paladin Gear",
+      "filename": "body_starcleric_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Elder"
+      "value": "Elder",
+      "filename": "head_wharton.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Grey"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

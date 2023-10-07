@@ -1,35 +1,21 @@
 {
+  "idx": "15519",
   "name": "Panico Horror of Dusk",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15519",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Blood Suit"
+      "value": "Blood Suit",
+      "filename": "body_vampiresuit.png"
     },
     {
       "trait_type": "head",
-      "value": "Vampyre"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Vampyre"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Vampyre",
+      "filename": "head_drakul.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

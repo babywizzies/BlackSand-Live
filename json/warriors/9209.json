@@ -1,35 +1,21 @@
 {
+  "idx": "9209",
   "name": "Lars Annihilator of Goblins",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9209",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Road Warrior"
+      "value": "Purple Road Warrior",
+      "filename": "body_roadwarrior_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Machine"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Forgotten Man",
+      "filename": "head_bill.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

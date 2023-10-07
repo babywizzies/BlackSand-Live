@@ -1,47 +1,36 @@
 {
+  "idx": "7356",
   "name": "Wolfgang Masher of the Good Luck Squad",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7356",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Wrestling Singlet"
+      "value": "Purple Wrestling Singlet",
+      "filename": "body_wrestler_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Crowbar"
+      "trait_type": "prop",
+      "value": "Crowbar",
+      "filename": "weapon_crowbar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Flesh"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
+      "value": "Rune of Lime",
+      "filename": "rune_lime.png"
     }
-  ],
-  "background_color": "040D04"
+  ]
 }

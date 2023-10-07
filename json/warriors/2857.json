@@ -1,39 +1,26 @@
 {
+  "idx": "2857",
   "name": "Halil Divider of Muscle Mountain",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2857",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Fur Barbarian"
+      "value": "Fur Barbarian",
+      "filename": "body_fur_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Desert Warrior"
+      "value": "Desert Warrior",
+      "filename": "head_arabian.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Gold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Butterfly Shield",
+      "filename": "shield_butterfly.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

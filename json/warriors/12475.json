@@ -1,39 +1,26 @@
 {
+  "idx": "12475",
   "name": "Gishimmar Annihilator of Shadows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12475",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic Armor"
+      "value": "Brown Tunic Armor",
+      "filename": "body_shirtarmor_brown.png"
     },
     {
       "trait_type": "head",
-      "value": "Akkadian"
+      "value": "Akkadian ",
+      "filename": "head_gilgamesh.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Mace"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Might Shield",
+      "filename": "shield_might.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

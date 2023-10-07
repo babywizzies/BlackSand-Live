@@ -1,43 +1,31 @@
 {
+  "idx": "475",
   "name": "Diesel Traveler for Freedom",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/475",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Nastyass Honey Badger"
+      "value": "Nastyass Honey Badger",
+      "filename": "companion_ratel.png"
     },
     {
       "trait_type": "body",
-      "value": "Blue Boxing Shorts"
+      "value": "Blue Boxing Shorts",
+      "filename": "body_mma_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Bruiser"
+      "value": "Bruiser",
+      "filename": "head_brawler_skinlight.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Sai"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "MMMA"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
+      "trait_type": "prop",
+      "value": "Sai",
+      "filename": "weapon_sai.png"
     }
-  ],
-  "background_color": "1E0200"
+  ]
 }

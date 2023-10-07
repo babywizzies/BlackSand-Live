@@ -1,0 +1,31 @@
+{
+  "idx": "2120",
+  "name": "Death Shroom Mushy of the Haze",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasmal body of the Veil",
+      "filename": "body_phantasm_veil.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Death Shroom",
+      "filename": "head_mushroom_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Poison Apple",
+      "filename": "item_apple_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Blaze Frog",
+      "filename": "familiar_frog_fire.png"
+    }
+  ]
+}

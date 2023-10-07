@@ -1,35 +1,21 @@
 {
+  "idx": "4104",
   "name": "Richard Antagonist of the Ring",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4104",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "North Island MMA Pants"
+      "value": "North Island MMA Pants",
+      "filename": "body_martial_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Frankish Helm"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Darkness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Frankish Helm",
+      "filename": "head_marlan.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

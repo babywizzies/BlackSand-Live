@@ -1,51 +1,41 @@
 {
+  "idx": "4673",
   "name": "Tyson of the Swamp",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4673",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Sable Cobra"
+      "value": "Sable Cobra",
+      "filename": "companion_cobra_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Chelonian Armor"
+      "value": "Chelonian Armor",
+      "filename": "body_knightTurtle_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Dark Ronin"
+      "value": "Dark Ronin",
+      "filename": "head_samurai_dark.png"
     },
     {
       "trait_type": "shield",
-      "value": "Dotta Shield"
+      "value": "Dotta Shield",
+      "filename": "shield_dotta.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Bottle of Rune Beer"
+      "trait_type": "prop",
+      "value": "Bottle of Rune Beer",
+      "filename": "item_beer_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Protection"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Protection",
+      "filename": "rune_protection.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

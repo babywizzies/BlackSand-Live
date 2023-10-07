@@ -1,35 +1,21 @@
 {
+  "idx": "13138",
   "name": "Bonnard Ruin of the North",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13138",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": "body_redcover.png"
     },
     {
       "trait_type": "head",
-      "value": "Happy Viking"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cold"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "1"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "50 percent"
+      "value": "Happy Viking",
+      "filename": "head_victor.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

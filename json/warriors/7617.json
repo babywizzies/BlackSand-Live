@@ -1,39 +1,26 @@
 {
+  "idx": "7617",
   "name": "Werner Belligerent of Cataclysm",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/7617",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "White Tunic Armor"
+      "value": "White Tunic Armor",
+      "filename": "body_shirtarmor_white.png"
     },
     {
       "trait_type": "head",
-      "value": "Lycan Warrior"
+      "value": "Lycan Warrior",
+      "filename": "head_logum.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

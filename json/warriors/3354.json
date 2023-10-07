@@ -1,39 +1,26 @@
 {
+  "idx": "3354",
   "name": " Eradicator of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3354",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Indigo Mendicant"
+      "value": "Indigo Mendicant",
+      "filename": "head_armak.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Herald Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Crimson"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Red Herald Shield",
+      "filename": "shield_chevron_red.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

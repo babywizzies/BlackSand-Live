@@ -1,39 +1,26 @@
 {
+  "idx": "10604",
   "name": "Margarita Apocalypse of Mount Titan",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/10604",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Yellow Knight"
+      "value": "Yellow Knight",
+      "filename": "body_fem_knight_yellow_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Woodlander"
+      "value": "Woodlander",
+      "filename": "head_sharon.png"
     },
     {
       "trait_type": "shield",
-      "value": "Purple Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brownish"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "Purple Kite",
+      "filename": "shield_kite_purple.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

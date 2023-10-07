@@ -1,0 +1,31 @@
+{
+  "idx": "9894",
+  "name": "Rotten Revenant Amir of the Undying Chill",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Decaying Skeleton",
+      "filename": "body_skeleton_bloody.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Rotten Revenant",
+      "filename": "head_revenant_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Inverted Horseshoe",
+      "filename": "item_horseshoe_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    }
+  ]
+}

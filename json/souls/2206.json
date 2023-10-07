@@ -1,0 +1,31 @@
+{
+  "idx": "2206",
+  "name": "Putrid Zombie Juniper of the Scum Barrel",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Emerald Zombie",
+      "filename": "body_twopiecesuit_oz_zombie.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Putrid Zombie",
+      "filename": "head_zombie_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Shroom",
+      "filename": "item_mushroom_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Frog",
+      "filename": "familiar_frog_ghost.png"
+    }
+  ]
+}

@@ -1,12 +1,15 @@
 import React, { useEffect, useState, useRef } from "react";
 import styles from "../../styles/css/wardrobe2.module.css"
-import { HiOutlineArrowRight } from "react-icons/hi";
+import { HiOutlineArrowLeft, HiOutlineArrowRight } from "react-icons/hi";
 import CharacterSelect from "./CharacterSelect";
 import { useUserTokens } from "@reservoir0x/reservoir-kit-ui";
 import { useAccount } from "wagmi";
 import useCharacterData from "../../hooks/useCharacterData"
 import RenderCharacter from "./characterrender"
 import { ConnectButton } from "@rainbow-me/rainbowkit";
+import { matchTraitsToFile } from "./utils"; // Import the utility function
+import AthenaeumItem from './AthenaeumItem'; 
+import FreeItems from './FreeItems';
 
 enum EquipScreen {
     CharacterSelection,
@@ -18,14 +21,24 @@ enum EquipScreen {
 const CONTRACT_TO_COLLECTION_MAP: Record<string, string> = {
     '0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42': 'wizards',
     '0x4b1e130ae84c97b931ffbe91ead6b1da16993d45': 'babies',
-    '0x9690b63eb85467be5267a3603f770589ab12dc95': 'warriors'
+    '0x9690b63eb85467be5267a3603f770589ab12dc95': 'warriors',
+    '0x251b5f14a825c537ff788604ea1b58e49b70726f': 'souls'
 };
+
+const WARRIORS_CONTRACT = '0x9690b63eb85467be5267a3603f770589ab12dc95';
+
+const BABIES_CONTRACT = '0x4b1e130ae84c97b931ffbe91ead6b1da16993d45';
+
+const SOULS_CONTRACT = '0x251b5f14a825c537ff788604ea1b58e49b70726f';
+
 
 const Wardrobe2: React.FC = () => {
     const { address: accountAddress } = useAccount();
     const [selectedCharacter, setSelectedCharacter] = useState<any>(null);
     const { characterData, loading } = useCharacterData(selectedCharacter?.id, selectedCharacter?.contract); // Modified this line
     const [equipScreen, setEquipScreen] = useState<EquipScreen>(EquipScreen.CharacterSelection);
+    const [items, setItems] = useState([])
+    const [freeItems, setFreeItems] = useState<string[]>([]);
 
     useEffect(() => {
         console.log(characterData);
@@ -34,34 +47,114 @@ const Wardrobe2: React.FC = () => {
         
         setSelectedCharacter(character);
     };
-    const handleEquipItem = (itemId: string, traitType: string) => {
-        if (characterData && characterData.attributes) {
-            // Find the trait dynamically based on traitType
-            let targetTrait = characterData.attributes.find((attr) => attr.trait_type.toLowerCase() === traitType.toLowerCase());
+
+    useEffect(() => {
+      // Apply the transformation logic only for warriors
+      if (selectedCharacter?.contract === WARRIORS_CONTRACT && characterData && characterData.attributes) {
+        const matchedFiles = matchTraitsToFile(characterData.attributes);
+        // Do something with matchedFiles, e.g., pass it to RenderCharacter
+      }
+    }, [characterData, selectedCharacter]);
+
+
+useEffect(() => {
+  // Apply the transformation logic only for warriors
+  if (selectedCharacter?.contract === SOULS_CONTRACT && characterData && characterData.attributes) {
+    let transformedAttributes = characterData.attributes.map((attr) => {
+      return {
+        ...attr,
+        trait_type: attr.trait_type.toLowerCase(),
+        value: attr.value.toLowerCase(),
+        filename: attr.filename.toLowerCase(),
+      };
+    });
+    const matchedFiles = matchTraitsToFile(transformedAttributes);
+    // Do something with matchedFiles, e.g., pass it to RenderCharacter
+  }
+}, [characterData, selectedCharacter]);
+
+
     
-            // If the trait exists, update its value, else add the trait (optional, based on your use case)
-            if (targetTrait) {
-                targetTrait.value = itemId;
-            } else {
-                // This code will add the trait if it doesn't exist; remove if not needed.
-                targetTrait = { trait_type: traitType, value: itemId };
-                characterData.attributes.push(targetTrait);
-            }
-    
-            // Trigger a re-render (assuming selectedCharacter holds the entire character data, adjust accordingly if not)
-            setSelectedCharacter({ ...selectedCharacter });
+const handleEquipItem = (itemId: string, traitType: string) => {
+  if (characterData && characterData.attributes) {
+    // Add the contract check here
+    const isWarrior = selectedCharacter.contract === WARRIORS_CONTRACT;
+    console.log(isWarrior)
+
+    let targetTrait = characterData.attributes.find((attr) => attr.trait_type.toLowerCase() === traitType.toLowerCase());
+
+    if (targetTrait) {
+      targetTrait.value = itemId.toLowerCase();
+      targetTrait.filename = `${itemId.toLowerCase().replace(/ /g, '_')}.png`;
+    }
+
+    if (traitType.toLowerCase() === 'body') {
+      const headTrait = characterData.attributes.find((attr) => attr.trait_type.toLowerCase() === 'head');
+
+      if (itemId.endsWith('_Onesie')) {
+        if (headTrait) {
+          if (!headTrait.value.toLowerCase().endsWith('_onesie')) {
+            // If the character is a warrior, use filename; otherwise, use trait value
+            headTrait.value = isWarrior 
+              ? headTrait.filename.split('.')[0] + '_onesie'
+              : `${headTrait.value}_onesie`.toLowerCase();
+
+            headTrait.filename = isWarrior 
+              ? headTrait.filename.replace('.png', '_onesie.png')
+              : `${headTrait.value.replace(/ /g, '_')}.png`;
+          }
+        } else {
+          characterData.attributes.push({
+            trait_type: 'head',
+            value: 'default_onesie',
+            filename: 'default_onesie.png',
+          });
         }
-    };
+      } else {
+        if (headTrait && headTrait.value.toLowerCase().endsWith('_onesie')) {
+          headTrait.value = headTrait.value.slice(0, -7).toLowerCase();
+          headTrait.filename = `${headTrait.value.replace(/ /g, '_')}.png`;
+        }
+      }
+    }
+
+    setSelectedCharacter({ ...selectedCharacter });
+  }
+};
+    
+    
+
+    
     
     const collectionName = CONTRACT_TO_COLLECTION_MAP[selectedCharacter?.contract]
 
     
     const { data: tokens } = useUserTokens(accountAddress, {
-        collectionsSetId: "a047f7316e9f532792fe87506a904def7a16e09a2c9d09bcbef6a00d86a28135",
+        collectionsSetId: "bf781912648d9b6c1e0148bc991dceefc09f47fc9050ae8421414e8e33077100",
     });
     const { data: athenaeumItems } = useUserTokens(accountAddress, {
         collectionsSetId: "6d5746c01bf4b37216420f1f23590386fb69bb1806d38cadcfec37481a14c0d0",
     });
+
+    useEffect(() => {
+      fetch('/api/items')
+        .then(res => res.json())
+        .then(data => {
+          // Check directly if the user owns any "babies" tokens
+          const ownsBabies = tokens.some(token => token?.token?.contract === BABIES_CONTRACT);
+          
+          if (ownsBabies) {
+            // Fetch additional items for "babies" from another folder and merge with `data`
+            fetch('/api/items/babies')
+              .then(res => res.json())
+              .then(babiesData => {
+                setItems([...data, ...babiesData]);
+              });
+          } else {
+            setFreeItems(data);
+          }
+        });
+    }, [tokens]);
 
     const extractRelevantTraits = (data) => {
         const relevantKeys = ['head', 'body', 'prop', 'familiar', 'rune', 'background'];
@@ -92,45 +185,28 @@ const Wardrobe2: React.FC = () => {
                 <RenderCharacter traits={characterData.attributes} collection={collectionName} />
                 </div>
                 <div className={styles.athenaeum_container}>
-                    {athenaeumItems?.map((item, i) => {
-                        const imagePath = `/assets/athenaeum/${item?.token?.name?.toLowerCase().replace(/\s+/g, '_').replace(/'/g, "")}.png`;
-                        return (
-                            <img
-                                key={i}
-                                src={imagePath}
-                                alt="MISSINGNO"
-                                onClick={() => handleEquipItem(item?.token?.name?.toLowerCase().replace(/\s+/g, '_').replace(/'/g, ""), 'prop')}
-                                className={styles.athenaeum_item}
-                            />
-                        );
-                        
-                    })}
+                {athenaeumItems?.map((item, i) => (
+            <AthenaeumItem key={i} item={item} handleEquipItem={handleEquipItem} />
+          ))}
                 </div>
+                <div className={styles.free_item_container}>
+                {freeItems?.map((itemName, i) => (
+              <FreeItems key={i} itemName={itemName} handleEquipFreeItem={handleEquipItem} />
+            ))}
+            <br />
+                             <button
+                         className={styles.connect_button}
+                         onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}>  {/* Modified this line */}
+                        
+                         Back
+                         <HiOutlineArrowLeft color="#000" fontSize="16" />
+                       </button>
+
+    </div>
              </div>   
             )}   
                 
-            {selectedCharacter && (
-                <div className={styles.container2}>
-                    <p>Selected Character ID: {selectedCharacter.id}</p>
-                    Selected Character Contract: {selectedCharacter.contract} {collectionName}
-                    {/* Modified this block to display the character data */}
-                    {loading ? (
-                        "Loading character data..."
-                    ) : (
-                        characterData && (
-                            <div className={styles.select_container}>
-                                <p>Name: {characterData.name}</p>
-                                <img className={styles.char_img} src={characterData.image} alt={characterData.name} />
-                                {characterData.attributes.map((attr, index) => (
-                                    <p key={index}>
-                                        {attr.trait_type}: {attr.value}
-                                    </p>
-                                ))}
-                            </div>
-                        )
-                    )}
-                </div>
-            )}
+           
             {equipScreen === EquipScreen.CharacterSelection && (
             <div
                 className={styles.container3}
@@ -145,6 +221,7 @@ const Wardrobe2: React.FC = () => {
                     />
                 ))}
             </div>
+            
             )}
             {equipScreen === EquipScreen.CharacterSelection && (
                 <div className={styles.connect_container}>

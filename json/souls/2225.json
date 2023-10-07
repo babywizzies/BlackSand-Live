@@ -1,0 +1,31 @@
+{
+  "idx": "2225",
+  "name": "Wraith Deacon Shivra of the Chasm",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Corporeal Body",
+      "filename": "body_wraith_four.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Deacon",
+      "filename": "head_wraith_one.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Skeleton Key",
+      "filename": "item_key_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ]
+}

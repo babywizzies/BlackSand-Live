@@ -1,55 +1,36 @@
 {
+  "idx": "13265",
   "name": "Yuki Calamity of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/13265",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Onyx Panther"
+      "value": "Onyx Panther",
+      "filename": "companion_panther.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Violet Camo"
+      "value": "Street Punk with Violet Camo",
+      "filename": "body_streetpunk_fem_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Onna-Musha"
+      "value": "Onna-Musha",
+      "filename": "head_onna.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Excalibur",
+      "filename": "weapon_excalibur.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Blackness"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "60 percent"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "Alchemist's Excalibur"
-    },
-    {
-      "trait_type": "forged_with",
-      "value": "Golden Lock and The Everlasting Supreme Love Spell"
+      "value": "Rune of Brimstone",
+      "filename": "rune_brimstone.png"
     }
-  ],
-  "background_color": "000000",
-  "_spell_data": {
-    "frame_duration": 110,
-    "total_frames": 24
-  }
+  ]
 }

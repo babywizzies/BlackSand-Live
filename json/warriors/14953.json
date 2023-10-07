@@ -1,51 +1,41 @@
 {
+  "idx": "14953",
   "name": "Achilles Blaster of Magic",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/14953",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Robo Dog"
+      "value": "Robo Dog",
+      "filename": "companion_robodog.png"
     },
     {
       "trait_type": "body",
-      "value": "Cyber Viking"
+      "value": "Cyber Viking",
+      "filename": "body_cyberviking.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 26"
+      "value": "BucketHead: Atomic 26",
+      "filename": "head_buckethead.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Holy Shield"
+      "value": "White Holy Shield",
+      "filename": "shield_holy_cyber.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Red Bomb"
+      "trait_type": "prop",
+      "value": "Red Bomb",
+      "filename": "weapon_bomb_red.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Cyber"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "6"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "5"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "83 percent"
+      "value": "Rune of Venus",
+      "filename": "rune_venus.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

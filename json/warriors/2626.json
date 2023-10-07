@@ -1,39 +1,26 @@
 {
+  "idx": "2626",
   "name": "Emerson Razer of the Desert",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2626",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Provocator Garb"
+      "value": "Red Provocator Garb",
+      "filename": "body_provoc_red_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": "head_yan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Trinity"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "1"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "33 percent"
+      "value": "Triple Triangle Shield",
+      "filename": "shield_3tri.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

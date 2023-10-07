@@ -1,35 +1,21 @@
 {
+  "idx": "2487",
   "name": "Werner Combatant of the Back Alley",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/2487",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Wrestling Singlet"
+      "value": "Purple Wrestling Singlet",
+      "filename": "body_wrestler_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Forgotten Man",
+      "filename": "head_bill.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

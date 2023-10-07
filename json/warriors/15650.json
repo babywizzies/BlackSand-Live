@@ -1,35 +1,21 @@
 {
+  "idx": "15650",
   "name": "Wolfe Assaulter of the Arena",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15650",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Wrestling Singlet"
+      "value": "Purple Wrestling Singlet",
+      "filename": "body_wrestler_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "South Sider"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Flesh"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "South Sider",
+      "filename": "head_rockmov.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

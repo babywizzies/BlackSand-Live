@@ -1,35 +1,21 @@
 {
+  "idx": "9895",
   "name": "Roman Fiend of the Citadel",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/9895",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Orange Road Warrior"
+      "value": "Orange Road Warrior",
+      "filename": "body_roadwarrior_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Blonde Bearded Berserker"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Blonde Bearded Berserker",
+      "filename": "head_berserker_skindark.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

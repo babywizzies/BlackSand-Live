@@ -43,7 +43,7 @@
     position: absolute;
     display: flex;
     justify-content: center;
-    background-image: url('/img/burn/scroll/frame.png');
+    background-image: url('/img/frame_off.png');
     background-size: 300px 300px;
 }
 
@@ -54,12 +54,32 @@
 
 .athenaeum_item{
     width: 120px;
-    background-image: url('/img/burn/scroll/frame.png');
+    background-image: url('/img/frame_off.png');
     background-size: 117px 117px;
     padding-left: 20px;
     padding-top: 20px;
     background-repeat: no-repeat;
 }
+.athenaeum_item:hover {
+    background-image: url('/img/frame_on.png');
+}
+
+
+.free_item {
+    width: 120px;
+    height: 120px;
+    background-image: url('/img/frame_off.png');
+    background-size: 100%;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-repeat: no-repeat;
+}
+
+.free_item:hover {
+    background-image: url('/img/frame_on.png');
+}
+
 
 .container2{
     display: flex;

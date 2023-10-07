@@ -1,0 +1,36 @@
+{
+  "idx": "6810",
+  "name": "Holy Spectre Artis of the XYZ",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Shade Spectral Body",
+      "filename": "body_spectre_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Holy Spectre",
+      "filename": "head_spectre_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Medusa's Eye",
+      "filename": "item_eyeball_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Lime",
+      "filename": "rune_lime.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Cat",
+      "filename": "familiar_cat_skeleton.png"
+    }
+  ]
+}

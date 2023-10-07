@@ -1,39 +1,26 @@
 {
+  "idx": "15239",
   "name": "Alyssia Slasher of Flowers",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15239",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "North Woodland Cloak"
+      "value": "North Woodland Cloak",
+      "filename": "body_woodfem_brown_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Ishkuzai"
+      "value": "Ishkuzai",
+      "filename": "head_brianne.png"
     },
     {
       "trait_type": "shield",
-      "value": "Mercenary Heater Shield"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Mercenary Heater Shield",
+      "filename": "shield_widex_yellow.png"
     }
-  ],
-  "background_color": "000000"
+  ]
 }

@@ -1,51 +1,31 @@
 {
+  "idx": "3003",
   "name": "Diabolos Paragon of Joy",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3003",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Night Wolf"
+      "value": "Night Wolf",
+      "filename": "companion_nightwolf.png"
     },
     {
       "trait_type": "body",
-      "value": "Black Dominatrix Gear"
+      "value": "Black Dominatrix Gear",
+      "filename": "body_dom_male_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Executioner"
+      "value": "Executioner",
+      "filename": "head_executioner.png"
     },
     {
-      "trait_type": "Affinity",
-      "value": "Horror"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "3"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "75 percent"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "Vanitas Spear"
-    },
-    {
-      "trait_type": "forged_with",
-      "value": "Golden Lock and Grim Reaper's Breath: the Death Spell"
+      "trait_type": "prop",
+      "value": "Skull Spear",
+      "filename": "weapon_skullspear.png"
     }
-  ],
-  "background_color": "000000",
-  "_spell_data": {
-    "frame_duration": 140,
-    "total_frames": 24
-  }
+  ]
 }

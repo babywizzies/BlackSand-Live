@@ -1,43 +1,31 @@
 {
+  "idx": "653",
   "name": "Beetle Wounder of the Dojo",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/653",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Sable Cobra"
+      "value": "Sable Cobra",
+      "filename": "companion_cobra_black.png"
     },
     {
       "trait_type": "body",
-      "value": "North Island MMA Pants"
+      "value": "North Island MMA Pants",
+      "filename": "body_martial_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Wild Furgnome"
+      "value": "Wild Furgnome ",
+      "filename": "head_furgnome.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Tyrfing"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Purple Haze"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "trait_type": "prop",
+      "value": "Tyrfing",
+      "filename": "weapon_tyrfing.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

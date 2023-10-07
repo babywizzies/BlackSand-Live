@@ -1,51 +1,31 @@
 {
+  "idx": "4850",
   "name": "Kano Defeater of the Rock",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/4850",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Gold Lamellar"
+      "value": "Gold Lamellar",
+      "filename": "body_byzantine.png"
     },
     {
       "trait_type": "head",
-      "value": "Tigris"
+      "value": "Tigris",
+      "filename": "head_tiger.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield"
+      "value": "Air Elemental Shield",
+      "filename": "shield_wind.png"
     },
     {
-      "trait_type": "Affinity",
-      "value": "Armor"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "4"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
-    },
-    {
-      "trait_type": "weapon",
-      "value": "Dwarven Hammer"
-    },
-    {
-      "trait_type": "forged_with",
-      "value": "Golden Lock and The Gnome's Tooth: the Earth Spell"
+      "trait_type": "prop",
+      "value": "Iron Hammer",
+      "filename": "weapon_hammer_grey.png"
     }
-  ],
-  "background_color": "000000",
-  "_spell_data": {
-    "frame_duration": 120,
-    "total_frames": 24
-  }
+  ]
 }

@@ -1,39 +1,26 @@
 {
+  "idx": "3430",
   "name": "Max Chopper of the Lost City",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/3430",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Gallus Gear"
+      "value": "Gallus Gear",
+      "filename": "body_gaul_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Basic Bro"
+      "value": "Basic Bro",
+      "filename": "head_base_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "White Kite"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Brute"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "3"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "66 percent"
+      "value": "White Kite",
+      "filename": "shield_kite_white.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }

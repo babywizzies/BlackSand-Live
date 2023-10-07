@@ -1,47 +1,36 @@
 {
+  "idx": "15690",
   "name": "Numerius Slaughterer of Rainbows",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/15690",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Purple"
+      "value": "Purple",
+      "filename": "bg_purple.png"
     },
     {
       "trait_type": "companion",
-      "value": "Silver Goat"
+      "value": "Silver Goat",
+      "filename": "companion_goat_white.png"
     },
     {
       "trait_type": "body",
-      "value": "Hue Master Pass Guardian"
+      "value": "Hue Master Pass Guardian",
+      "filename": "body_colorArmor.png"
     },
     {
       "trait_type": "head",
-      "value": "Gladiator Helmet"
+      "value": "Gladiator Helmet",
+      "filename": "head_gladiator.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield"
+      "value": "Tomb Shield",
+      "filename": "shield_tomb.png"
     },
     {
-      "trait_type": "weapon",
-      "value": "Brown Longsword"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Heavy"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "5"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "4"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "80 percent"
+      "trait_type": "prop",
+      "value": "Brown Longsword",
+      "filename": "weapon_longsword_brown.png"
     }
-  ],
-  "background_color": "120315"
+  ]
 }

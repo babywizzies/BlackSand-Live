@@ -18,6 +18,7 @@ import TokenCard from "./TokenCard";
 import EditionCard from "./EditionCard"
 import PonyCard from "./PonyCard";
 import SelectedTreatCard from "./SelectedTreatCard";
+import WarriorCard from "./WarriorCard";
 import axios from "axios";
 import Confetti from "react-dom-confetti";
 import useAudio from "../../hooks/useAudio";

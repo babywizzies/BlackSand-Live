@@ -1,35 +1,21 @@
 {
+  "idx": "12216",
   "name": "Sylvester Wounder of the Road",
-  "image": "https://portal.forgottenrunes.com/api/warriors/img/12216",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Punk with Brown Camo"
+      "value": "Street Punk with Brown Camo",
+      "filename": "body_streetpunk_purple_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm"
-    },
-    {
-      "trait_type": "Affinity",
-      "value": "Wild"
-    },
-    {
-      "trait_type": "# Traits",
-      "value": "2"
-    },
-    {
-      "trait_type": "# Traits in Affinity",
-      "value": "2"
-    },
-    {
-      "trait_type": "% Traits in Affinity",
-      "value": "100 percent"
+      "value": "Foot Soldier Helm",
+      "filename": "head_gunthor.png"
     }
-  ],
-  "background_color": "09071B"
+  ]
 }
