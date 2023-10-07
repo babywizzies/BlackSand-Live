@@ -8,9 +8,8 @@ import useCharacterData from "../../hooks/useCharacterData"
 import RenderCharacter from "./characterrender"
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { matchTraitsToFile } from "./utils"; // Import the utility function
-import AthenaeumItem from './AthenaeumItem'; 
-import FreeItems from './FreeItems';
 
+import Items from './Items'
 enum EquipScreen {
     CharacterSelection,
     Equip,
@@ -174,37 +173,36 @@ const handleEquipItem = (itemId: string, traitType: string) => {
         return order.map(key => traits[key]);
     }
 
+    const itemsProps = {
+      athenaeumItems,
+      freeItems,
+      handleEquipItem,
+    };
+    
+
 
     return (
         
         <div className={styles.container}>
             <h2 className={styles.title}>Choose your Adventurer</h2>
             {equipScreen === EquipScreen.Equip && (
-             <div className={styles.container1}>
-                <div className={styles.adventurer_select}>
-                <RenderCharacter traits={characterData.attributes} collection={collectionName} />
-                </div>
-                <div className={styles.athenaeum_container}>
-                {athenaeumItems?.map((item, i) => (
-            <AthenaeumItem key={i} item={item} handleEquipItem={handleEquipItem} />
-          ))}
-                </div>
-                <div className={styles.free_item_container}>
-                {freeItems?.map((itemName, i) => (
-              <FreeItems key={i} itemName={itemName} handleEquipFreeItem={handleEquipItem} />
-            ))}
+        <div className={styles.container1}>
+          <div className={styles.adventurer_select}>
+            <RenderCharacter traits={characterData.attributes} collection={collectionName} />
+          </div>
+          <div className={styles.athenaeum_container}>
+          <Items itemsProps={itemsProps} />
             <br />
-                             <button
-                         className={styles.connect_button}
-                         onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}>  {/* Modified this line */}
-                        
-                         Back
-                         <HiOutlineArrowLeft color="#000" fontSize="16" />
-                       </button>
-
-    </div>
-             </div>   
-            )}   
+            <button
+              className={styles.connect_button}
+              onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}
+            >
+              Back
+              <HiOutlineArrowLeft color="#000" fontSize="16" />
+            </button>
+          </div>
+        </div>
+      )}
                 
            
             {equipScreen === EquipScreen.CharacterSelection && (
