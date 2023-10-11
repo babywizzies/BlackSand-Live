@@ -38,7 +38,7 @@ const Wardrobe2: React.FC = () => {
     const [equipScreen, setEquipScreen] = useState<EquipScreen>(EquipScreen.CharacterSelection);
     const [items, setItems] = useState([])
     const [freeItems, setFreeItems] = useState<string[]>([]);
-
+    const [blacksandEditionsItem, setBlacksandEditionsItem] = useState<string[]>([]);
     useEffect(() => {
         console.log(characterData);
     }, [characterData]);
@@ -75,6 +75,7 @@ useEffect(() => {
 
     
 const handleEquipItem = (itemId: string, traitType: string) => {
+  
   if (characterData && characterData.attributes) {
     // Add the contract check here
     const isWarrior = selectedCharacter.contract === WARRIORS_CONTRACT;
@@ -134,48 +135,42 @@ const handleEquipItem = (itemId: string, traitType: string) => {
     const { data: athenaeumItems } = useUserTokens(accountAddress, {
         collectionsSetId: "6d5746c01bf4b37216420f1f23590386fb69bb1806d38cadcfec37481a14c0d0",
     });
+    const { data: barrenCourt } = useUserTokens(accountAddress, {
+      collectionsSetId: "d6fe4f1befd2ebe963bf0c43b0e48c76aa1f850f0944f51682b3e2a25b19f25a",
+  });
+  const { data: blacksandEditions } = useUserTokens(accountAddress, {
+    collectionsSetId: "68829f4a0984256a3f10af3d371129ba55c179fd005f1601294b9d12b7e72c2e",
+  });
 
-    useEffect(() => {
-      fetch('/api/items')
-        .then(res => res.json())
-        .then(data => {
-          // Check directly if the user owns any "babies" tokens
-          const ownsBabies = tokens.some(token => token?.token?.contract === BABIES_CONTRACT);
-          
-          if (ownsBabies) {
-            // Fetch additional items for "babies" from another folder and merge with `data`
-            fetch('/api/items/babies')
-              .then(res => res.json())
-              .then(babiesData => {
-                setItems([...data, ...babiesData]);
-              });
-          } else {
-            setFreeItems(data);
-          }
-        });
-    }, [tokens]);
 
-    const extractRelevantTraits = (data) => {
-        const relevantKeys = ['head', 'body', 'prop', 'familiar', 'rune', 'background'];
-        let traits = {};
-    
-        data.attributes.forEach(attribute => {
-            if (relevantKeys.includes(attribute.trait_type.toLowerCase())) {
-                traits[attribute.trait_type.toLowerCase()] = attribute.value;
-            }
-        });
-    
-        return traits;
-    }
-    
-    const orderTraits = (traits) => {
-        const order = ['background', 'body', 'head', 'prop', 'familiar', 'rune'];
-        return order.map(key => traits[key]);
-    }
+  useEffect(() => {
+    fetch('/api/items')
+      .then(res => res.json())
+      .then(data => {
+        // Check directly if the user owns any "babies" tokens
+        const ownsBabies = tokens.some(token => token?.token?.contract === BABIES_CONTRACT);
+        
+        if (ownsBabies) {
+          // Fetch additional items for "babies" from another folder and merge with `data`
+          fetch('/api/items/babies')
+            .then(res => res.json())
+            .then(babiesData => {
+              setItems([...data, ...babiesData]);
+            });
+        } else {
+          setFreeItems(data);
+        }
+      });
+  }, [tokens]);
+  
+
+
 
     const itemsProps = {
       athenaeumItems,
       freeItems,
+      barrenCourt,
+      blacksandEditions,
       handleEquipItem,
     };
     

@@ -35,9 +35,7 @@ const generateImagePath = (type: string, value: string, filename?: string | null
   return `/assets/${type}/${finalFilename}`;
 };
 
-const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection }) => {
-  console.log(collection)
-  const orderedTraits = orderTraits(traits);
+const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection }) => {  const orderedTraits = orderTraits(traits);
 
   return (
     <div className={styles.adventurer_container}>
