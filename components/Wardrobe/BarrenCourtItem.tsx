@@ -20,12 +20,15 @@ const BarrenCourt: React.FC<BarrenCourtItemProps> = ({ item, handleEquipItem }) 
   const imagePath = `/assets/barrencourt/${sanitizedTokenName}.png`;
 
   return (
+    <>
+    <h2>Barren Court</h2>
     <img
       src={imagePath}
       alt="MISSINGNO"
       onClick={() => handleEquipItem(sanitizedTokenName, 'familiar')}
-      className={styles.BarrenCourt_item}
+      className={styles.free_item}
     />
+    </>
   );
 };
 
