@@ -21,7 +21,7 @@ const RaceTrack = () => {
     loop: true,
   });
   const { data } = useSWR(
-    "https://blacksand.city/api/blacksand/races/latest",
+    "http://localhost:3000/api/blacksand/races/latest",
     null,
     {
       refreshInterval: 1000 * 60, //1 minute

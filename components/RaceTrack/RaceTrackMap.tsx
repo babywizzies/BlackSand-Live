@@ -22,7 +22,7 @@ const bgFrameRate = 5;
 
 function preload(p5: p5) {
   background = [
-    p5.loadImage("./img/race-track-map/elysiancircuit.png")
+    p5.loadImage("./img/race-track-map/Cumberland.png")
   ];
 
   if (!images.length) {
@@ -120,15 +120,16 @@ function createRaceTrack(p5: p5, numPoints: number) {
 function createGrandTourTrack(p5: p5) {
   let points = [];
   
-  points.push(p5.createVector(600, 100));
+  points.push(p5.createVector(770, 240));
+  points.push(p5.createVector(570, 130));
+  points.push(p5.createVector(500, 170));
+  points.push(p5.createVector(400, 190));
   points.push(p5.createVector(170, 140));
-  points.push(p5.createVector(170, 470));
-  points.push(p5.createVector(400, 490));
+  points.push(p5.createVector(170, 400));
   points.push(p5.createVector(420, 520));
   points.push(p5.createVector(600, 500));
-  points.push(p5.createVector(770, 470));
-  points.push(p5.createVector(770, 200));
-  points.push(p5.createVector(820, 500));
+  points.push(p5.createVector(770, 240));
+  points.push(p5.createVector(770, 240));
  
 
 
