@@ -28,21 +28,11 @@ export type SelectedTreat = {
 };
 
 const PONY_CONTRACT = "0xf55b615b479482440135ebf1b907fd4c37ed9420";
-const BABY_CONTRACT = "0x4b1e130ae84c97b931ffbe91ead6b1da16993d45";
 const BS_MOUNT_CONTRACT = "0xf486f696b80164b5943191236eca114f4efab2ff";
 const ITEM_CONTRACT = "0x7c104b4db94494688027cced1e2ebfb89642c80f";
 const COLLECTION_SET_ID =
-  "bf561a706d2a9487e9e176267adb0320d87aefe449bed39767ddb29a8b290948";
+  "fd9e9cda66f0d8a4b77416c483f5e7be5c8761a043161bd7722fcbf3e3609c8a";
 
-const noBabyIDs = [4, 5, 6, 7, 8, 9, 10, 14, 16, 17, 18, 19, 20, 22, 25, 27, 29, 31, 32, 34, 35, 39, 40, 41, 62, 63, 64, 66, 68, 69, 71, 72, 79, 77, 75, 74, 73];
-const Random = Math.floor(Math.random() * noBabyIDs.length);
-const RandomBabyID = noBabyIDs[Random];
-const houses = ["Emerald Eagles", "Red Panda", "Purple Cobras", "Blue Bandits"];
-const getRandomHouse = () => {
-  const randomIndex = Math.floor(Math.random() * houses.length);
-  return houses[randomIndex];
-};
-const assignedHouse = getRandomHouse();
 
 const SPECIAL_RACE_RULES: Record<
   string,
@@ -234,18 +224,13 @@ const Paddock = () => {
   const { signMessageAsync } = useSignMessage();
   const isMounted = useIsMounted();
   const [selectedRacer, setSelectedRacer] = useState<string | undefined>();
-  const [selectedBaby, setSelectedBaby] = useState<string | undefined>();
-  const [house, setHouse] = useState<string | undefined>();
   const [selectedItems, setSelectedItems] = useState<SelectedTreat[]>([]);
   const [discordHandle, setDiscordHandle] = useState("");
   const [success, setSuccess] = useState(false);
   const [registering, setRegistering] = useState(false);
   const [errorText, setErrorText] = useState("");
   const [registeredModalOpen, setRegisteredModalOpen] = useState(false);
-  const assignRandomBaby = () => {
-    setSelectedBaby(BABY_CONTRACT +":" + RandomBabyID.toString());
-    setHouse(getRandomHouse)
-  }
+
   // Sounds
   useAudio("/audio/paddock-bg.mp3", {
     autoplay: true,
@@ -323,13 +308,7 @@ const Paddock = () => {
       ),
     [tokenData]
   );
-  const babyTokens = useMemo(
-    () =>
-      tokenData?.filter(
-        (tokenData) => tokenData?.token?.contract === BABY_CONTRACT
-      ),
-    [tokenData]
-  );
+
   const scrollToItemSection = useCallback(() => {
     specialItemsRef.current?.scrollIntoView({
       block: "nearest",
@@ -344,7 +323,6 @@ const Paddock = () => {
     return null;
   }
 
-  
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Paddock</h1>
@@ -402,42 +380,6 @@ const Paddock = () => {
                     loader={({ src }) => src}
                   />
                 )}
-
-              </div>
-              <div
-                className={styles["selection-pony"]}
-                onClick={() => {
-                  if (!selectedRacer) {
-                    poniesRef.current?.scrollIntoView({
-                      block: "nearest",
-                      inline: "start",
-                      behavior: "smooth",
-                      //@ts-ignore
-                      alignToTop: false,
-                    });
-                  }
-                }}
-              >
-                {!selectedBaby ? (
-                  <>
-                    <FaPlus />
-                    <Image
-                      src="/img/pony.png"
-                      width={60}
-                      height={60}
-                      alt="Placeholder"
-                    />
-                  </>
-                ) : (
-                  <Image
-                    src={`https://api.reservoir.tools/redirect/tokens/${selectedBaby}/image/v1`}
-                    alt="BabyWizard"
-                    fill
-                    unoptimized
-                    loader={({ src }) => src}
-                  />
-                )}
-
               </div>
               <div className={styles.card1}>
                 <div className={styles.treats_card}>
@@ -528,11 +470,7 @@ const Paddock = () => {
                         setErrorText("Please select a mount or a pony");
                         return;
                       }
-                      if (!selectedBaby) {
-                        setRegistering(false);
-                        setErrorText("Please select a mount or a pony");
-                        return;
-                      }
+                
 
                       if (discordHandle.length === 0) {
                         setRegistering(false);
@@ -546,8 +484,7 @@ const Paddock = () => {
                         message: "Register for BlackSand Race",
                       });
                       const racerPieces = selectedRacer.split(":");
-                      const babyID = selectedBaby.split(":");
-
+                     
                       const response = await axios.post(
                         "https://blacksand.city/api/blacksand/registration/create",
                         {
@@ -555,8 +492,6 @@ const Paddock = () => {
                           collection: racerPieces[0],
                           discord_handle: discordHandle,
                           treats: selectedItems.map((item) => item.id),
-                          baby: babyID[1],
-                          team: house,
                           signature,
                         }
                       );
@@ -682,38 +617,6 @@ const Paddock = () => {
                 <Link href="/mint" legacyBehavior>
                   <button>Get a Mount</button>
                 </Link>
-              </div>
-            )}
-            </div>
-            <div className={styles.card3}>
-            <h2 className={styles.subtitle_card3}>Babies</h2>
-            <div className={styles["token-grid"]}>
-              {babyTokens.map((item, i) => (
-                <TokenCard
-                  key={i}
-                  item={item}
-                  setSelectedRacer={(id) => {
-                    setSelectedBaby(id);
-                    setHouse(getRandomHouse)
-                    horseSelectedSound?.play();
-                  }}
-                />
-              ))}
-            </div>
-            {babyTokens.length <= 0 && !isLoadingTokens && (
-              <div className={styles["token-grid-empty"]}>
-                <p
-                  style={{
-                    color: "white",
-                  }}
-                >
-                  Looks like you don't have any babies, but that's okay! There are many orphans who want to race. Click the button below to get assigned a cutie!
-                </p>
-                
-                <button onClick={assignRandomBaby} className={styles["assign-random-baby-button"]}>
-                    Assign Random Baby
-                  </button>
-                                
               </div>
             )}
             </div>
@@ -947,7 +850,6 @@ const Paddock = () => {
         </div>
       )}
       <Modal open={registeredModalOpen} setOpen={setRegisteredModalOpen}>
-        <h2 className={styles["modal-title"]}>You've been assigned to the {house} team.</h2>
 
         <p style={{ color: "white", textAlign: "center" }}>
           You're all set, if you'd like to update your registration you can by
