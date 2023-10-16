@@ -15,7 +15,7 @@ const DynamicRaceTrackMap = dynamic(() => import("./RaceTrackMap"), {
 });
 
 const RaceTrack = () => {
-  useAudio("/audio/elysian_circuit.mp3", {
+  useAudio("/audio/cumcup.wav", {
     autoplay: true,
     volume: 0.09,
     loop: true,
@@ -82,19 +82,7 @@ const RaceTrack = () => {
     });
   
     // Calculate the average score multiplied by 12 for each team and round down
-    Object.keys(scores).forEach((team) => {
-      scores[team] = Math.floor((scores[team] / teamPlayerCount[team]) * 12);
-      if (team === "Purple Cobras") {
-        scores[team] += 120;
-      }
-      if (team === "Emerald Eagles") {
-        scores[team] += 160;
-      }
-      if (team === "Blue Bandits") {
-        scores[team] += 15;
-      }
-    });
-  
+
     return scores;
   }, [positions]);
   
@@ -104,12 +92,8 @@ const RaceTrack = () => {
       <h1 className={styles.title}>Race Track</h1>
       <div className={styles["race-details"]}>
         <h2 className={styles.subtitle}>{raceName}</h2>
-        <h3 className={styles.subtitle}>Team Scores</h3>
-  {Object.entries(teamScores).map(([team, score]) => (
-    <div key={team}>
-     <h4 className={styles.subtitle}> {team}: {score}</h4>
-    </div>
-  ))}
+      
+ 
         <div className={styles["race-info"]}>
           {race && raceStarted && (
             <p>
@@ -137,7 +121,6 @@ const RaceTrack = () => {
             <div></div>
             <div>Points</div>
             <div>Name</div>
-            <div>Team</div>
             <div>Rider</div>
             <div>Treats</div>
           </div>
@@ -182,7 +165,6 @@ const RaceTrack = () => {
                   {position.tour_points || 0}
                 </div>
                 <div>{position.registration.pony_name}</div>
-                <div>{position.registration.team}</div>
                 <div
                   className="racetrack-tooltip"
                   data-tooltip-content={
