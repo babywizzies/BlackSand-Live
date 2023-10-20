@@ -10,14 +10,13 @@ interface FreeItemProps {
     const imagePath = `/assets/onesies/${itemName}`;  
     const cleanedItemName = itemName.replace('.png', '');
 
-  
     return (
       <img
         src={imagePath}
         alt="MISSINGNO"
         onClick={() => handleEquipFreeItem(cleanedItemName, 'body')}
         className={styles.free_item}
-      />
+      />      
     );
   };
   

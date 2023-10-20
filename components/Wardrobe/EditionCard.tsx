@@ -15,32 +15,29 @@ const EditionCard: FC<Props> = ({ item, setSelectedEdition }) => {
     return null;
   }
 
-
-
   return (
     <div key={item?.token?.tokenId} className={styles["token-card"]}>
       <TokenMedia
         className={styles["token-image"]}
         token={item?.token as any}
       />
-      <p className={styles["token-name"]} title={item.token.name}>
-        {item.token.name}
-      </p>
-      <div className={styles["token-actions"]}>
-        <Link href={`/stables/mecha/${item.token.tokenId}`}>
-          <button className={styles["token-button"]}>View</button>
-        </Link>
-        <button
-          className={styles["token-button"]}
-          onClick={() => {
-            setSelectedEdition(
-              `${item.token?.collection?.id}:${item.token?.tokenId}`
-            );
-          }}
-        >
-          Select
-        </button>
-      </div>
+        <p className={styles["token-name"]} title={item.token.name}>
+          {item.token.name}
+        </p>
+          <div className={styles["token-actions"]}>
+            <Link href={`/stables/mecha/${item.token.tokenId}`}>
+              <button className={styles["token-button"]}>View</button>
+            </Link>
+              <button
+                className={styles["token-button"]}
+                onClick={() => {
+                  setSelectedEdition(
+                    `${item.token?.collection?.id}:${item.token?.tokenId}`
+                  );
+                }}>
+                Select
+              </button>
+          </div>
     </div>
   );
 };

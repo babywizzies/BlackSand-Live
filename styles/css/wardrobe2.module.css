@@ -16,6 +16,15 @@
     line-height: 110px;
 }
 
+.title_item{
+    font-family: 'Origen';
+    font-size: clamp(2.3rem, 2.0063rem + 1.098vw, 3rem);
+    background: -webkit-linear-gradient(#fbea71, #d4b42c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+
 .container1{
     display: flex;
     flex-direction: column;
@@ -36,44 +45,97 @@
     height: 300px;
 }
 
-.adventurer_img{
+.adventurer_item{
     width: 300px;
     height: 300px;
     padding: 50px;
     position: absolute;
     display: flex;
     justify-content: center;
+    align-items: center;
     background-image: url('/img/frame_off.png');
-    background-size: 300px 300px;
+    background-size: 100%;
+}
+
+.adventurer_img{
+    width: 218px;
+    width: 218px;
+}
+
+.items_container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 90vw;
 }
 
 .athenaeum_container{
     display: flex;
+    flex-direction: row;
     gap: 10px;
+    place-content: center;
+}
+
+.blacksand_container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    place-content: center;
+}
+
+.costume_item_container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    place-content: center;
 }
 
 .athenaeum_item{
-    width: 120px;
+    width: 140px;
+    height: 140px;
     background-image: url('/img/frame_off.png');
-    background-size: 117px 117px;
-    padding-left: 20px;
+    background-size: 100%;
+    padding-left: 30px;
     padding-top: 20px;
     background-repeat: no-repeat;
 }
+
 .athenaeum_item:hover {
     background-image: url('/img/frame_on.png');
 }
 
-
 .free_item {
-    width: 120px;
-    height: 120px;
+    width: 140px;
+    height: 140px;
     background-image: url('/img/frame_off.png');
     background-size: 100%;
     padding-right: 15px;
     padding-top: 20px;
     padding-bottom: 20px;
     background-repeat: no-repeat;
+}
+
+.background_item:hover {
+    background-image: url('/img/frame_on.png');
+}
+
+.background_item{
+    width: 140px;
+    height: 140px;
+    background-image: url('/img/frame_off.png');
+    background-size: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background_pic{
+    width: 102px;
+    height: 102px;
 }
 
 .free_item:hover {
@@ -106,14 +168,12 @@
 
 .container3{
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
     gap: 10px;
     flex-wrap: wrap;
     overflow-y: auto;
-}
-
-.container4{
-    
 }
 
 .connect_container{

@@ -5,7 +5,6 @@ interface BarrenCourtItemProps {
     item: any;  // Replace any with the type of your item, if available.
     handleEquipItem: (itemName: string, type: string) => void;
   }
-  
 
 const BarrenCourt: React.FC<BarrenCourtItemProps> = ({ item, handleEquipItem }) => {
 

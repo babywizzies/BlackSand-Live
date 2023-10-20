@@ -174,48 +174,42 @@ const handleEquipItem = (itemId: string, traitType: string) => {
       handleEquipItem,
     };
     
+    
 
 
     return (
         
         <div className={styles.container}>
-            <h2 className={styles.title}>Choose your Adventurer</h2>
-            {equipScreen === EquipScreen.Equip && (
-        <div className={styles.container1}>
-          <div className={styles.adventurer_select}>
-            <RenderCharacter traits={characterData.attributes} collection={collectionName} />
-          </div>
-          <div className={styles.athenaeum_container}>
-          <Items itemsProps={itemsProps} />
-            <br />
-            <button
-              className={styles.connect_button}
-              onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}
-            >
-              Back
-              <HiOutlineArrowLeft color="#000" fontSize="16" />
-            </button>
-          </div>
-        </div>
-      )}
-                
-           
-            {equipScreen === EquipScreen.CharacterSelection && (
-            <div
-                className={styles.container3}
-             >
+          {equipScreen === EquipScreen.Equip && (  
+            <div className={styles.container1}>
+              <h2 className={styles.title}>Costume Up</h2>
+                <div className={styles.adventurer_select}>
+                  <RenderCharacter traits={characterData.attributes} collection={collectionName} />
+                </div>
+                  <Items itemsProps={itemsProps} />
+                    <button className={styles.connect_button} onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}>
+                      Back <HiOutlineArrowLeft color="#000" fontSize="16" />
+                    </button>
+            </div>
+          )}
+
+          {equipScreen === EquipScreen.CharacterSelection && (
+            <div className={styles.container3}>
+              <h2 className={styles.title}>Choose your Adventurer</h2>
                 {tokens.map((token, i) => (
-                    <CharacterSelect
-                        id={token?.token?.tokenId as string}
-                        contract={token?.token?.contract}
-                        key={i}
-                        onSelect={handleCharacterSelect}
-                        isSelected={selectedCharacter?.id === token?.token?.tokenId}
-                    />
+                      <CharacterSelect
+                          id={token?.token?.tokenId as string}
+                          contract={token?.token?.contract}
+                          key={i}
+                          onSelect={handleCharacterSelect}
+                          isSelected={selectedCharacter?.id === token?.token?.tokenId}
+                      />
                 ))}
             </div>
+          )}    
+           
             
-            )}
+
             {equipScreen === EquipScreen.CharacterSelection && (
                 <div className={styles.connect_container}>
              <ConnectButton.Custom>

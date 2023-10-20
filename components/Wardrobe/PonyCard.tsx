@@ -23,24 +23,23 @@ const PonyCard: FC<Props> = ({ item, setSelectedPony }) => {
         className={styles["token-image"]}
         token={item?.token as any}
       />
-      <p className={styles["token-name"]} title={item.token.name}>
-        {item.token.name}
-      </p>
-      <div className={styles["token-actions"]}>
-        <Link href={`/stables/mecha/${item.token.tokenId}`}>
-          <button className={styles["token-button"]}>View</button>
-        </Link>
-        <button
-          className={styles["token-button"]}
-          onClick={() => {
-            setSelectedPony(
-              `${item.token?.collection?.id}:${item.token?.tokenId}`
-            );
-          }}
-        >
-          Select
-        </button>
-      </div>
+        <p className={styles["token-name"]} title={item.token.name}>
+          {item.token.name}
+        </p>
+          <div className={styles["token-actions"]}>
+            <Link href={`/stables/mecha/${item.token.tokenId}`}>
+              <button className={styles["token-button"]}>View</button>
+            </Link>
+            <button
+              className={styles["token-button"]}
+              onClick={() => {
+                setSelectedPony(
+                  `${item.token?.collection?.id}:${item.token?.tokenId}`
+                );
+              }}>
+                Select
+            </button>
+          </div>
     </div>
   );
 };

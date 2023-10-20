@@ -40,12 +40,14 @@ const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection })
   return (
     <div className={styles.adventurer_container}>
       {orderedTraits.map((trait, index) => (
+        <div className={styles.adventurer_item}>
         <img
           className={styles.adventurer_img}
           key={index}
           src={generateImagePath(trait.trait_type, trait.value, trait.filename, collection)}
           alt={trait.value}
         />
+        </div>
       ))}
     </div>
   );
