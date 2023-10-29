@@ -1,6 +1,7 @@
 {
-  "idx": "15193",
+  "id": "15193",
   "name": "Zeke Conqueror of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15193",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

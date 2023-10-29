@@ -1,6 +1,7 @@
 {
-  "idx": "13202",
+  "id": "13202",
   "name": "Alex Deadeye of the Berg",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13202",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

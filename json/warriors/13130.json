@@ -1,6 +1,7 @@
 {
-  "idx": "13130",
+  "id": "13130",
   "name": "Audacius Killer of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13130",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

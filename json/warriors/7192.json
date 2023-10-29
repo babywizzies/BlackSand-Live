@@ -1,6 +1,7 @@
 {
-  "idx": "7192",
+  "id": "7192",
   "name": "Solan Paragon of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7192",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 3500,
   "name": "Brave Malthus of the Bastion",
   "image": "http://forgottenbabies.com/uri/json/3500.png",
-  "serial": 3500,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_blue"
+      "value": "acute_aristocrat_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_shaolin"
+      "value": "small_shaolin",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "smol_eyeball"
+      "value": "smol_eyeball",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 462,
   "name": "Focused Ofaris of the Ether",
   "image": "http://forgottenbabies.com/uri/json/462.png",
-  "serial": 462,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_child_choir_robe"
+      "value": "green_child_choir_robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_bard"
+      "value": "baby_bard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mesozoic_chickatrice"
+      "value": "mesozoic_chickatrice",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kelpies_fury_the_water_spell"
+      "value": "kelpies_fury_the_water_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

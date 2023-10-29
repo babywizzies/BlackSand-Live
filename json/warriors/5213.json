@@ -1,6 +1,7 @@
 {
-  "idx": "5213",
+  "id": "5213",
   "name": "Sanaa Ruin of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5213",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

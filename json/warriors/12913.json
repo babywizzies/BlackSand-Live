@@ -1,6 +1,7 @@
 {
-  "idx": "12913",
+  "id": "12913",
   "name": "Silas Savior of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12913",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

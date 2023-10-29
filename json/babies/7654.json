@@ -1,32 +1,39 @@
 {
+  "id": 7654,
   "name": "Spunky Kalo of the Brine",
   "image": "http://forgottenbabies.com/uri/json/7654.png",
-  "serial": 7654,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_swashbuckling_gear"
+      "value": "small_swashbuckling_gear",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_green_wizard"
+      "value": "little_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_sphinx"
+      "value": "young_sphinx",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "magic_stick"
+      "value": "magic_stick",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

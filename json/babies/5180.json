@@ -1,32 +1,39 @@
 {
+  "id": 5180,
   "name": "Insightful Akron of the Quantum Realm",
   "image": "http://forgottenbabies.com/uri/json/5180.png",
-  "serial": 5180,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_kobold"
+      "value": "baby_kobold",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_orb_wand"
+      "value": "the_orb_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_down"
+      "value": "rune_of_down",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

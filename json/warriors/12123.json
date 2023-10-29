@@ -1,6 +1,7 @@
 {
-  "idx": "12123",
+  "id": "12123",
   "name": "Edmund Fragmenter of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12123",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

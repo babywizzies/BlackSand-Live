@@ -1,32 +1,39 @@
 {
+  "id": 8184,
   "name": "Romantic Benito of the Wold",
   "image": "http://forgottenbabies.com/uri/json/8184.png",
-  "serial": 8184,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_purple"
+      "value": "acute_aristocrat_purple",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_white_wizard"
+      "value": "small_white_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

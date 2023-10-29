@@ -1,32 +1,39 @@
 {
+  "id": 4968,
   "name": "Insightful Artis of Xanadu",
   "image": "http://forgottenbabies.com/uri/json/4968.png",
-  "serial": 4968,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_onesie"
+      "value": "purple_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_dark_sister"
+      "value": "small_dark_sister",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "salamanders_tongue_the_fire_spell"
+      "value": "salamanders_tongue_the_fire_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

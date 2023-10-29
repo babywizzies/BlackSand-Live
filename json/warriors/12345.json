@@ -1,6 +1,7 @@
 {
-  "idx": "12345",
+  "id": "12345",
   "name": "Jaya Cleaver of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12345",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

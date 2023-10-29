@@ -1,6 +1,7 @@
 {
-  "idx": "3740",
+  "id": "3740",
   "name": "Mondo Rogue of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3740",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

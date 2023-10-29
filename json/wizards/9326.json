@@ -1,52 +1,64 @@
 {
+  "id": 9326,
   "name": "Hedge Wizard Talon of the Thorn",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/9326.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 9326
+      "value": 9326,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Elven Cloak"
+      "value": "Green Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Onyx Wolf"
+      "value": "Onyx Wolf",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Mystic Ice Cream"
+      "value": "Mystic Ice Cream",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
+      "value": "Rune of Down",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

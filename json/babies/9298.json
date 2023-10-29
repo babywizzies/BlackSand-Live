@@ -1,32 +1,39 @@
 {
+  "id": 9298,
   "name": "Inventive Alizam of the Sacred Pillars",
   "image": "http://forgottenbabies.com/uri/json/9298.png",
-  "serial": 9298,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_white_tunic"
+      "value": "tiny_white_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_witch"
+      "value": "little_witch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fairy_glamour_the_dazzle_spell"
+      "value": "fairy_glamour_the_dazzle_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 4478,
   "name": "Chatty Iprix of the Land",
   "image": "http://forgottenbabies.com/uri/json/4478.png",
-  "serial": 4478,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_puffy_vest"
+      "value": "green_puffy_vest",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_lycanthrope"
+      "value": "little_lycanthrope",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "swamp_tadpoole"
+      "value": "swamp_tadpoole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "brahmans_breath_the_life_spell"
+      "value": "brahmans_breath_the_life_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

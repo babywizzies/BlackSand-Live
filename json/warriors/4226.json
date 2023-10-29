@@ -1,6 +1,7 @@
 {
-  "idx": "4226",
+  "id": "4226",
   "name": "Dingus Assailant of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4226",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of Up Only",
       "filename": "shield_kite_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

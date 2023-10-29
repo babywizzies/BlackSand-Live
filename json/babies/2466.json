@@ -1,32 +1,39 @@
 {
+  "id": 2466,
   "name": "Clever Iprix of the Hollow",
   "image": "http://forgottenbabies.com/uri/json/2466.png",
-  "serial": 2466,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "frozen_frock"
+      "value": "frozen_frock",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "macho_boy"
+      "value": "macho_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "magic_stick"
+      "value": "magic_stick",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

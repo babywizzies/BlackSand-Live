@@ -1,32 +1,39 @@
 {
+  "id": 1512,
   "name": "Insightful Sabina of the Cold",
   "image": "http://forgottenbabies.com/uri/json/1512.png",
-  "serial": 1512,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_tiny_caped_traveller"
+      "value": "orange_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "lil_mambo"
+      "value": "lil_mambo",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_midas_rod"
+      "value": "the_midas_rod",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

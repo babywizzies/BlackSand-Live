@@ -1,32 +1,39 @@
 {
+  "id": 5775,
   "name": "Resourceful Brutus of the Sun",
   "image": "http://forgottenbabies.com/uri/json/5775.png",
-  "serial": 5775,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_banded_overall"
+      "value": "small_banded_overall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kind_kelt"
+      "value": "kind_kelt",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_orb_wand"
+      "value": "the_orb_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

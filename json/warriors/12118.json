@@ -1,6 +1,7 @@
 {
-  "idx": "12118",
+  "id": "12118",
   "name": "Rock Cutter of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12118",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Aspis",
       "filename": "shield_circle_cross_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

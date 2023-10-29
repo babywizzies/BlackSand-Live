@@ -1,32 +1,39 @@
 {
+  "id": 1421,
   "name": "Genius Azahl of the Astral Plane",
   "image": "http://forgottenbabies.com/uri/json/1421.png",
-  "serial": 1421,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "yellow_jester_cape"
+      "value": "yellow_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kind_kelt"
+      "value": "kind_kelt",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "swamp_tadpoole"
+      "value": "swamp_tadpoole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "torn_piece_of_paper"
+      "value": "torn_piece_of_paper",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

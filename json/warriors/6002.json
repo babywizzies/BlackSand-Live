@@ -1,6 +1,7 @@
 {
-  "idx": "6002",
+  "id": "6002",
   "name": "Therman Armageddon of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6002",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

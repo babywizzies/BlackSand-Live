@@ -1,32 +1,39 @@
 {
+  "id": 1234,
   "name": "Daring Ozohr of the Toadstools",
   "image": "http://forgottenbabies.com/uri/json/1234.png",
-  "serial": 1234,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_white_tunic"
+      "value": "tiny_white_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_mandinka"
+      "value": "mini_mandinka",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

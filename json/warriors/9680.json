@@ -1,6 +1,7 @@
 {
-  "idx": "9680",
+  "id": "9680",
   "name": "Durden Wrecker of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9680",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

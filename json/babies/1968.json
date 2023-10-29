@@ -1,32 +1,39 @@
 {
+  "id": 1968,
   "name": "Shrewd Axel of the Light",
   "image": "http://forgottenbabies.com/uri/json/1968.png",
-  "serial": 1968,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_green_wizard"
+      "value": "little_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "joy_wand"
+      "value": "joy_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8681",
+  "id": "8681",
   "name": "Enzo Render of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8681",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Malachite Cleaver",
       "filename": "weapon_cleaver_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

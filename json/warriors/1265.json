@@ -1,6 +1,7 @@
 {
-  "idx": "1265",
+  "id": "1265",
   "name": "Rudolph Paragon of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1265",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

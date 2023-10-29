@@ -1,32 +1,39 @@
 {
+  "id": 3534,
   "name": "Curious Azar of the Secret Fire",
   "image": "http://forgottenbabies.com/uri/json/3534.png",
-  "serial": 3534,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_red"
+      "value": "child_cleric_red",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wildboy"
+      "value": "wildboy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

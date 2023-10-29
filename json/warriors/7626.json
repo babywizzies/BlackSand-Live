@@ -1,6 +1,7 @@
 {
-  "idx": "7626",
+  "id": "7626",
   "name": "Riggs Vanquisher of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7626",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

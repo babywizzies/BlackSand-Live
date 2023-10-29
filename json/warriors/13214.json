@@ -1,6 +1,7 @@
 {
-  "idx": "13214",
+  "id": "13214",
   "name": "Nadir Obliterator of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13214",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11483",
+  "id": "11483",
   "name": "Athina Annihilator of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11483",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

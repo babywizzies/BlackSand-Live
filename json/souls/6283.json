@@ -1,6 +1,7 @@
 {
-  "idx": "6283",
+  "id": "6283",
   "name": "White Lady",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "White Skull",
       "filename": "item_whiteskull.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

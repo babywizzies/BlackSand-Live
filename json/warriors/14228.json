@@ -1,6 +1,7 @@
 {
-  "idx": "14228",
+  "id": "14228",
   "name": "Gabe Executor of the Chimera",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14228",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

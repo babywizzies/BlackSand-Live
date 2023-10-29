@@ -1,6 +1,7 @@
 {
-  "idx": "1682",
+  "id": "1682",
   "name": "Bones Combatant of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1682",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

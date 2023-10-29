@@ -1,32 +1,39 @@
 {
+  "id": 6165,
   "name": "Inquisitive Black Goat of the Quantum Realm",
   "image": "http://forgottenbabies.com/uri/json/6165.png",
-  "serial": 6165,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_jester_cape"
+      "value": "blue_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_trickster"
+      "value": "tiny_trickster",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_brimstone"
+      "value": "rune_of_brimstone",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

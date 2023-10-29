@@ -1,6 +1,7 @@
 {
-  "idx": "5639",
+  "id": "5639",
   "name": "Beron Mauler of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5639",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

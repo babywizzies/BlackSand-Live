@@ -1,32 +1,39 @@
 {
+  "id": 5403,
   "name": "Honorable Allistair of the Capital",
   "image": "http://forgottenbabies.com/uri/json/5403.png",
-  "serial": 5403,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_black_wraith"
+      "value": "little_black_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "grumpy_gruffling"
+      "value": "grumpy_gruffling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_wand"
+      "value": "stellar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

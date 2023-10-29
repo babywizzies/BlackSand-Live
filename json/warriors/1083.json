@@ -1,6 +1,7 @@
 {
-  "idx": "1083",
+  "id": "1083",
   "name": "Alicia Contender of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1083",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

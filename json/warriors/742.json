@@ -1,6 +1,7 @@
 {
-  "idx": "742",
+  "id": "742",
   "name": "Shaw Crumbler of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/742",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 2719,
   "name": "Sorcerer Hashim of the Desert",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2719.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2719
+      "value": 2719,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Poncho"
+      "value": "Poncho",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Bliss Cat"
+      "value": "Bliss Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Punjabi"
+      "value": "Punjabi",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Bag of Tricks"
+      "value": "Bag of Tricks",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
+      "value": "Rune of Uranus",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Desert"
+      "value": "Desert",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

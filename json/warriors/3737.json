@@ -1,6 +1,7 @@
 {
-  "idx": "3737",
+  "id": "3737",
   "name": "Felix Eidolon of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3737",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

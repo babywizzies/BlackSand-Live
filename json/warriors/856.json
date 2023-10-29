@@ -1,6 +1,7 @@
 {
-  "idx": "856",
+  "id": "856",
   "name": "Arnie Guardian of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/856",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

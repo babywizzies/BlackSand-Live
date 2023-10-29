@@ -1,6 +1,7 @@
 {
-  "idx": "10507",
+  "id": "10507",
   "name": "Dagan Ruin of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10507",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

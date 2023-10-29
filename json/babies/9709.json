@@ -1,32 +1,39 @@
 {
+  "id": 9709,
   "name": "Fearless Jiang of the Canyon",
   "image": "http://forgottenbabies.com/uri/json/9709.png",
-  "serial": 9709,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_gray_tunic"
+      "value": "tiny_gray_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_green_wizard"
+      "value": "little_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "obnoxious_rattle"
+      "value": "obnoxious_rattle",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

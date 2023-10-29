@@ -1,32 +1,39 @@
 {
+  "id": 6603,
   "name": "Persuasive Magpie of the Obelisk",
   "image": "http://forgottenbabies.com/uri/json/6603.png",
-  "serial": 6603,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_canaanite"
+      "value": "young_canaanite",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "grape_juicebox"
+      "value": "grape_juicebox",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

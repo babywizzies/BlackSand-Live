@@ -1,32 +1,39 @@
 {
+  "id": 3083,
   "name": "Inquisitive Eggplant of the Crypt",
   "image": "http://forgottenbabies.com/uri/json/3083.png",
-  "serial": 3083,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Green_Shoulder_Cape"
+      "value": "Small_Green_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_dream_master"
+      "value": "mini_dream_master",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "emerald_wand"
+      "value": "emerald_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

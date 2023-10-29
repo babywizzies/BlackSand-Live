@@ -1,6 +1,7 @@
 {
-  "idx": "11079",
+  "id": "11079",
   "name": "Gibil Dueler of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11079",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

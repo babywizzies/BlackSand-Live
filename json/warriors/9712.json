@@ -1,6 +1,7 @@
 {
-  "idx": "9712",
+  "id": "9712",
   "name": "Kaggle Cleaver of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9712",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 8791,
   "name": "Reliable Tengu of Arcadia",
   "image": "http://forgottenbabies.com/uri/json/8791.png",
-  "serial": 8791,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "toddler_two_tone_coverall"
+      "value": "toddler_two_tone_coverall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_shaolin"
+      "value": "small_shaolin",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "grape_juicebox"
+      "value": "grape_juicebox",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

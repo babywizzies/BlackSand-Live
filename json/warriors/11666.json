@@ -1,6 +1,7 @@
 {
-  "idx": "11666",
+  "id": "11666",
   "name": "Juno of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11666",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6029",
+  "id": "6029",
   "name": "Baril Punisher of Brown-Hat Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6029",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

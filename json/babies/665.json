@@ -1,32 +1,39 @@
 {
+  "id": 665,
   "name": "Helpful Maia of the Woodlands",
   "image": "http://forgottenbabies.com/uri/json/665.png",
-  "serial": 665,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_blue"
+      "value": "child_cleric_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_vamp"
+      "value": "young_vamp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_brimstone"
+      "value": "rune_of_brimstone",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

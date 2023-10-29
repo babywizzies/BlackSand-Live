@@ -1,32 +1,39 @@
 {
+  "id": 3614,
   "name": "Zestful Trollin of the Ether",
   "image": "http://forgottenbabies.com/uri/json/3614.png",
-  "serial": 3614,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_seeing_robe"
+      "value": "small_seeing_robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_trickster"
+      "value": "tiny_trickster",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

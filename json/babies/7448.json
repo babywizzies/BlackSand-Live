@@ -1,32 +1,39 @@
 {
+  "id": 7448,
   "name": "Radical Caligula of the Astral Plane",
   "image": "http://forgottenbabies.com/uri/json/7448.png",
-  "serial": 7448,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_puffy_vest"
+      "value": "green_puffy_vest",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_fortune_seeker"
+      "value": "small_fortune_seeker",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "jinx_wand"
+      "value": "jinx_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

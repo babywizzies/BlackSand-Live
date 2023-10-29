@@ -1,6 +1,7 @@
 {
-  "idx": "6664",
+  "id": "6664",
   "name": "Murph Mangler of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6664",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

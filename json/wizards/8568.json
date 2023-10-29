@@ -1,52 +1,64 @@
 {
+  "id": 8568,
   "name": "Cosmic Mage Herne of the Realm",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8568.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8568
+      "value": 8568,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Grey Tunic"
+      "value": "Grey Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Field Dog"
+      "value": "Field Dog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hunter"
+      "value": "Hunter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Hobgoblin's Flame: the Wayward Spell"
+      "value": "Hobgoblin's Flame: the Wayward Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
+      "value": "Rune of Cinnabar",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

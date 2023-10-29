@@ -1,6 +1,7 @@
 {
-  "idx": "13625",
+  "id": "13625",
   "name": "Tera Ravager of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13625",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12010",
+  "id": "12010",
   "name": "Kremplin Vanquisher of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12010",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

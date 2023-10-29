@@ -1,32 +1,39 @@
 {
+  "id": 9045,
   "name": "Shrewd Kalo of the Platonic Shadow",
   "image": "http://forgottenbabies.com/uri/json/9045.png",
-  "serial": 9045,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_double_sash"
+      "value": "small_double_sash",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "great_young_one"
+      "value": "great_young_one",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "seven_of_hearts"
+      "value": "seven_of_hearts",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

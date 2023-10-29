@@ -1,6 +1,7 @@
 {
-  "idx": "1784",
+  "id": "1784",
   "name": "Jeremy Impaler of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1784",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

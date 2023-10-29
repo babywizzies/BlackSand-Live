@@ -1,32 +1,39 @@
 {
+  "id": 3337,
   "name": "Darling JackDaw ",
   "image": "http://forgottenbabies.com/uri/json/3337.png",
-  "serial": 3337,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_tiny_caped_traveller"
+      "value": "orange_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kuro"
+      "value": "kuro",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_green_asp"
+      "value": "small_green_asp",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_milk"
+      "value": "chocolate_milk",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

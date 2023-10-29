@@ -1,6 +1,7 @@
 {
-  "idx": "3763",
+  "id": "3763",
   "name": "Frankie Ruffian of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3763",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

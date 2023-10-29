@@ -1,6 +1,7 @@
 {
-  "idx": "10665",
+  "id": "10665",
   "name": "Dralin Slasher of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10665",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 6327,
   "name": "Shaman Dante of the Road",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6327.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6327
+      "value": 6327,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Coveralls"
+      "value": "Brown Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Lucky Black Cat"
+      "value": "Lucky Black Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Emerald Staff"
+      "value": "Emerald Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
+      "value": "Rune of Sun",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10319",
+  "id": "10319",
   "name": "Marcus Beater of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10319",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

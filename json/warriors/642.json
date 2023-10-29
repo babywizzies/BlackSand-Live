@@ -1,6 +1,7 @@
 {
-  "idx": "642",
+  "id": "642",
   "name": "Pippa Slaughterer of Leaves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/642",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

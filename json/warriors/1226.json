@@ -1,6 +1,7 @@
 {
-  "idx": "1226",
+  "id": "1226",
   "name": "Ezra Savior of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1226",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 5155,
   "name": "Diabolical Feng of the River",
   "image": "http://forgottenbabies.com/uri/json/5155.png",
-  "serial": 5155,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_orange"
+      "value": "small_scholar_orange",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "cloud_prince"
+      "value": "cloud_prince",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "harmony_wand"
+      "value": "harmony_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

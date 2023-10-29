@@ -1,32 +1,39 @@
 {
+  "id": 3448,
   "name": "Zestful Angus of Xanadu",
   "image": "http://forgottenbabies.com/uri/json/3448.png",
-  "serial": 3448,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_diviner"
+      "value": "tiny_diviner",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "nightshade_lollipop"
+      "value": "nightshade_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

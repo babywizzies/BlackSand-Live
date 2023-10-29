@@ -1,6 +1,7 @@
 {
-  "idx": "15104",
+  "id": "15104",
   "name": "Marlan Cleaver of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15104",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14576",
+  "id": "14576",
   "name": "Dex Clobberer of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14576",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

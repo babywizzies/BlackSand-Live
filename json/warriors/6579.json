@@ -1,6 +1,7 @@
 {
-  "idx": "6579",
+  "id": "6579",
   "name": "Humphrey Amputator of the Kraken",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6579",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Tanker Heater Shield",
       "filename": "shield_widex_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

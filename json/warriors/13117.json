@@ -1,6 +1,7 @@
 {
-  "idx": "13117",
+  "id": "13117",
   "name": "Crash Horror of the Disco",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13117",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Yellow Chainsaw",
       "filename": "weapon_chainsaw_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

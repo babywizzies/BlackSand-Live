@@ -1,6 +1,7 @@
 {
-  "idx": "2706",
+  "id": "2706",
   "name": "Wakesa Render of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2706",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

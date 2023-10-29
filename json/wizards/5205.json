@@ -1,44 +1,54 @@
 {
+  "id": 5205,
   "name": "Hedge Wizard Apollo of the Forest",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5205.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5205
+      "value": 5205,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Coveralls"
+      "value": "Green Coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Fortune Seeker"
+      "value": "Fortune Seeker",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Harmony Staff"
+      "value": "Harmony Staff",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Fortune Seeker"
+      "value": "Fortune Seeker",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "33"
+      "value": "33",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

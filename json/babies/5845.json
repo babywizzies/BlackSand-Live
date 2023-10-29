@@ -1,32 +1,39 @@
 {
+  "id": 5845,
   "name": "Inventive Magpie from the Crib",
   "image": "http://forgottenbabies.com/uri/json/5845.png",
-  "serial": 5845,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "jackson_five"
+      "value": "jackson_five",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_lycanthrope"
+      "value": "little_lycanthrope",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_lollipop"
+      "value": "chocolate_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

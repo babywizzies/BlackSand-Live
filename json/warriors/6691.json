@@ -1,6 +1,7 @@
 {
-  "idx": "6691",
+  "id": "6691",
   "name": "Jax Rogue of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6691",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

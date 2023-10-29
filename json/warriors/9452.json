@@ -1,6 +1,7 @@
 {
-  "idx": "9452",
+  "id": "9452",
   "name": "Bobur Bludgeoner of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9452",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11699",
+  "id": "11699",
   "name": "Baako Sniper of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11699",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

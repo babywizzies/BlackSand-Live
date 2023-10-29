@@ -1,6 +1,7 @@
 {
-  "idx": "14101",
+  "id": "14101",
   "name": "Ruthven Sorrow of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14101",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

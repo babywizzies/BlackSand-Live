@@ -1,32 +1,39 @@
 {
+  "id": 2480,
   "name": "Ambitious Magpie of Mu",
   "image": "http://forgottenbabies.com/uri/json/2480.png",
-  "serial": 2480,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "toddler_two_tone_coverall"
+      "value": "toddler_two_tone_coverall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "student"
+      "value": "student",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "salamanders_tongue_the_fire_spell"
+      "value": "salamanders_tongue_the_fire_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8926",
+  "id": "8926",
   "name": "Neko Monk of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8926",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

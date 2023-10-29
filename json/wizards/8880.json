@@ -1,52 +1,64 @@
 {
+  "id": 8880,
   "name": "Pyromancer Pepo ",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8880.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8880
+      "value": 8880,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Ice Robe"
+      "value": "Ice Robe",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Forever Bat"
+      "value": "Forever Bat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Pumpkin Head"
+      "value": "Pumpkin Head",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Salamander's Tongue: the Fire Spell"
+      "value": "Salamander's Tongue: the Fire Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Wraith"
+      "value": "Wraith",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

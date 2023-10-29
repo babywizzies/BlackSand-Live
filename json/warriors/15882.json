@@ -1,6 +1,7 @@
 {
-  "idx": "15882",
+  "id": "15882",
   "name": "Gerol Peacemaker of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15882",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

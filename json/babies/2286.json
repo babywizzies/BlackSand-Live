@@ -1,32 +1,39 @@
 {
+  "id": 2286,
   "name": "Intellectual Udor of the Wild",
   "image": "http://forgottenbabies.com/uri/json/2286.png",
-  "serial": 2286,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_tiny_caped_traveller"
+      "value": "orange_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_fortune_seeker"
+      "value": "small_fortune_seeker",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fairy_glamour_the_dazzle_spell"
+      "value": "fairy_glamour_the_dazzle_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

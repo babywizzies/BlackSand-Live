@@ -1,6 +1,7 @@
 {
-  "idx": "7301",
+  "id": "7301",
   "name": "Devon Basher of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7301",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

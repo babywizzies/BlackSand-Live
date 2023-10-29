@@ -1,32 +1,39 @@
 {
+  "id": 5410,
   "name": "Quirky Bathsheba from the Crib",
   "image": "http://forgottenbabies.com/uri/json/5410.png",
-  "serial": 5410,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_purple_spandex"
+      "value": "small_purple_spandex",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "fart_chick"
+      "value": "fart_chick",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "nightshade_lollipop"
+      "value": "nightshade_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

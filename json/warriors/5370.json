@@ -1,6 +1,7 @@
 {
-  "idx": "5370",
+  "id": "5370",
   "name": "Bronco Eidolon of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5370",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "338",
+  "id": "338",
   "name": "Rudolph Monk of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/338",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3007",
+  "id": "3007",
   "name": "Cadmus Chaos Agent of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3007",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

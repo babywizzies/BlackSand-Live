@@ -1,6 +1,7 @@
 {
-  "idx": "2901",
+  "id": "2901",
   "name": "Brokk Archer of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2901",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

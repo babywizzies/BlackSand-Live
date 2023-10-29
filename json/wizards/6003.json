@@ -1,52 +1,64 @@
 {
+  "id": 6003,
   "name": "Chaos Mage Setsuko of the Fey",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6003.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6003
+      "value": 6003,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Elven Cloak"
+      "value": "Green Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kabuki "
+      "value": "Kabuki ",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Salamander's Tongue: the Fire Spell"
+      "value": "Salamander's Tongue: the Fire Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
+      "value": "Rune of Lime",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

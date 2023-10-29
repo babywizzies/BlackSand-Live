@@ -1,6 +1,7 @@
 {
-  "idx": "10939",
+  "id": "10939",
   "name": "Ogechi Waster of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10939",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Aurelian Double Blade",
       "filename": "weapon_doubleblade_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

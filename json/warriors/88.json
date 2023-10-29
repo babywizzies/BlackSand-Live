@@ -1,6 +1,7 @@
 {
-  "idx": "88",
+  "id": "88",
   "name": "Hunter Nailer of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/88",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5360",
+  "id": "5360",
   "name": "Gabe Scissor of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5360",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9932",
+  "id": "9932",
   "name": "Amara Lightbearer of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9932",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

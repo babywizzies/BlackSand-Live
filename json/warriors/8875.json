@@ -1,6 +1,7 @@
 {
-  "idx": "8875",
+  "id": "8875",
   "name": "Tera Protector of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8875",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Pantheon Spear",
       "filename": "weapon_spearWing.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

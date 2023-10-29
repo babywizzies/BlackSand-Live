@@ -1,6 +1,7 @@
 {
-  "idx": "3131",
+  "id": "3131",
   "name": "Slater Guillotiner of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3131",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Mountain Warrior",
       "filename": "head_zubbik.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

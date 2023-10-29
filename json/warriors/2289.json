@@ -1,6 +1,7 @@
 {
-  "idx": "2289",
+  "id": "2289",
   "name": "Chase Doom of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2289",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

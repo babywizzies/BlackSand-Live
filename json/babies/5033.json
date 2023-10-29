@@ -1,32 +1,39 @@
 {
+  "id": 5033,
   "name": "Inquisitive Remus of the Hills",
   "image": "http://forgottenbabies.com/uri/json/5033.png",
-  "serial": 5033,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "argyle_sweater"
+      "value": "argyle_sweater",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_imp"
+      "value": "little_imp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

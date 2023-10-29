@@ -1,6 +1,7 @@
 {
-  "idx": "1955",
+  "id": "1955",
   "name": "Durus Dismantler of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1955",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

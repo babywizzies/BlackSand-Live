@@ -1,32 +1,39 @@
 {
+  "id": 3415,
   "name": "Cheerful Dwarzgarth of the Bastion",
   "image": "http://forgottenbabies.com/uri/json/3415.png",
-  "serial": 3415,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "puny_poncho"
+      "value": "puny_poncho",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "grumpy_gruffling"
+      "value": "grumpy_gruffling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 4770,
   "name": "Insightful Jay of the Forest",
   "image": "http://forgottenbabies.com/uri/json/4770.png",
-  "serial": 4770,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_stranger"
+      "value": "smol_stranger",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_lollipop"
+      "value": "stellar_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

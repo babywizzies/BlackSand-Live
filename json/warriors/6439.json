@@ -1,6 +1,7 @@
 {
-  "idx": "6439",
+  "id": "6439",
   "name": "Caesar of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6439",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

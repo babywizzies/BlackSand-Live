@@ -1,6 +1,7 @@
 {
-  "idx": "2919",
+  "id": "2919",
   "name": "Zasha Scoundrel of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2919",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

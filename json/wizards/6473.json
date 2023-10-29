@@ -1,44 +1,54 @@
 {
+  "id": 6473,
   "name": "Magus Kamil of the Wold",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6473.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6473
+      "value": 6473,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Coveralls"
+      "value": "Brown Coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Punjabi"
+      "value": "Punjabi",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Astral Potion"
+      "value": "Astral Potion",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Potion"
+      "value": "Potion",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "33"
+      "value": "33",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

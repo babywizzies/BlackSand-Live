@@ -1,32 +1,39 @@
 {
+  "id": 1773,
   "name": "Eager Gee of the Secret Fire",
   "image": "http://forgottenbabies.com/uri/json/1773.png",
-  "serial": 1773,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "young_scarecrow"
+      "value": "young_scarecrow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tengu_son"
+      "value": "tengu_son",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "swamp_tadpoole"
+      "value": "swamp_tadpoole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_red_mushroom"
+      "value": "mini_red_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

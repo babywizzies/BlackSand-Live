@@ -1,32 +1,39 @@
 {
+  "id": 1739,
   "name": "Cutie Monk of the Quantum Downs",
   "image": "http://forgottenbabies.com/uri/json/1739.png",
-  "serial": 1739,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_tiny_caped_traveller"
+      "value": "green_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_shaolin"
+      "value": "small_shaolin",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

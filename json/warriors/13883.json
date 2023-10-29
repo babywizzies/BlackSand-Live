@@ -1,6 +1,7 @@
 {
-  "idx": "13883",
+  "id": "13883",
   "name": "Marmaduke Defeater of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13883",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Air Elemental Shield",
       "filename": "shield_wind.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

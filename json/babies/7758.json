@@ -1,32 +1,39 @@
 {
+  "id": 7758,
   "name": "Strong Cassius of the Leap",
   "image": "http://forgottenbabies.com/uri/json/7758.png",
-  "serial": 7758,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_puffy_pants"
+      "value": "purple_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_green_wizard"
+      "value": "little_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_green_mushroom"
+      "value": "mini_green_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

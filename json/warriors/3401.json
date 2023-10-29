@@ -1,6 +1,7 @@
 {
-  "idx": "3401",
+  "id": "3401",
   "name": "Prometheus Assailant of the Quantum Downs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3401",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

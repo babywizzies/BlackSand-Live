@@ -1,32 +1,39 @@
 {
+  "id": 7887,
   "name": "Zestful Optimus of the Platonic Shadow",
   "image": "http://forgottenbabies.com/uri/json/7887.png",
-  "serial": 7887,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "finicky_formal_suit"
+      "value": "finicky_formal_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_brown_wizard"
+      "value": "baby_brown_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "astral_lollipop"
+      "value": "astral_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7454",
+  "id": "7454",
   "name": "Urmgurn Explorer of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7454",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Jungle Boomerang",
       "filename": "weapon_boomerang_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

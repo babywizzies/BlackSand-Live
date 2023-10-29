@@ -1,32 +1,39 @@
 {
+  "id": 3843,
   "name": "Determined Xiaobo of the Valley",
   "image": "http://forgottenbabies.com/uri/json/3843.png",
-  "serial": 3843,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "oversized_snowsuit"
+      "value": "oversized_snowsuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kind_kelt"
+      "value": "kind_kelt",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "kitten_of_the_sun"
+      "value": "kitten_of_the_sun",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fresh_egg"
+      "value": "fresh_egg",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

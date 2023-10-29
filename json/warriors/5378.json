@@ -1,6 +1,7 @@
 {
-  "idx": "5378",
+  "id": "5378",
   "name": "Jerry Dismantler of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5378",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 7296,
   "name": "Cutie Burnside of the Secret Fire",
   "image": "http://forgottenbabies.com/uri/json/7296.png",
-  "serial": 7296,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_double_sash"
+      "value": "small_double_sash",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_purple_wizard"
+      "value": "puny_purple_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

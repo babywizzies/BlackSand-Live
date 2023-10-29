@@ -1,6 +1,7 @@
 {
-  "idx": "1760",
+  "id": "1760",
   "name": "Adira Marauder of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1760",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

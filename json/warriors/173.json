@@ -1,6 +1,7 @@
 {
-  "idx": "173",
+  "id": "173",
   "name": "Benedict Impaler of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/173",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

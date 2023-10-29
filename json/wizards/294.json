@@ -1,52 +1,64 @@
 {
+  "id": 294,
   "name": "Sage Ariadne of the Wood",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/294.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 294
+      "value": 294,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Pouch"
+      "value": "Green Hip Pouch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Ember Frog"
+      "value": "Ember Frog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Coven Sister"
+      "value": "Coven Sister",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Solar Staff"
+      "value": "Solar Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
+      "value": "Rune of Sigma",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

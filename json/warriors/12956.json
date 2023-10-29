@@ -1,6 +1,7 @@
 {
-  "idx": "12956",
+  "id": "12956",
   "name": "Koffi Chaos Agent of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12956",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

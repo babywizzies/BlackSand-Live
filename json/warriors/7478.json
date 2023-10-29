@@ -1,6 +1,7 @@
 {
-  "idx": "7478",
+  "id": "7478",
   "name": "Duzzle Combatant of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7478",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bolt Shield",
       "filename": "shield_bolt.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

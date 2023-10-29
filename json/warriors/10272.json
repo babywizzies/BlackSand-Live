@@ -1,6 +1,7 @@
 {
-  "idx": "10272",
+  "id": "10272",
   "name": "Nia Eidolon of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10272",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

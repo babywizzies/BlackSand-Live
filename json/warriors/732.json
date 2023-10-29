@@ -1,6 +1,7 @@
 {
-  "idx": "732",
+  "id": "732",
   "name": "Adira Slasher of the Tundra",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/732",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

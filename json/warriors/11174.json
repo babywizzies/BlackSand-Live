@@ -1,6 +1,7 @@
 {
-  "idx": "11174",
+  "id": "11174",
   "name": "Octavius Thief of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11174",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

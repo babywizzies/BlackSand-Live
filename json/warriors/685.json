@@ -1,6 +1,7 @@
 {
-  "idx": "685",
+  "id": "685",
   "name": "Nitro of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/685",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mug of Ale",
       "filename": "item_ale.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

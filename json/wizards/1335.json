@@ -1,52 +1,64 @@
 {
+  "id": 1335,
   "name": "Magus Brown Cow of the Hall",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1335.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1335
+      "value": 1335,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Dapper Formal"
+      "value": "Dapper Formal",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Canaanite"
+      "value": "Canaanite",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Solar Staff"
+      "value": "Solar Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
+      "value": "Rune of Omega",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

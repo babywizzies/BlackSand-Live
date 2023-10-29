@@ -1,6 +1,7 @@
 {
-  "idx": "1951",
+  "id": "1951",
   "name": "Tisa Guardian of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1951",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

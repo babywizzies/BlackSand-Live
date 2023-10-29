@@ -1,32 +1,39 @@
 {
+  "id": 5166,
   "name": "Young Cullen of the Mountain",
   "image": "http://forgottenbabies.com/uri/json/5166.png",
-  "serial": 5166,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_tiny_caped_traveller"
+      "value": "orange_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "rogue_arcanist"
+      "value": "rogue_arcanist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

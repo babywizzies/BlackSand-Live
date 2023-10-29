@@ -1,6 +1,7 @@
 {
-  "idx": "1500",
+  "id": "1500",
   "name": "Bryan Fiend of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1500",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15807",
+  "id": "15807",
   "name": "Dex Battler of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15807",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

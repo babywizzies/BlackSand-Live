@@ -1,32 +1,39 @@
 {
+  "id": 4118,
   "name": "Inventive Malthus of the Thorn",
   "image": "http://forgottenbabies.com/uri/json/4118.png",
-  "serial": 4118,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_baby_buckle"
+      "value": "blue_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_brown_wizard"
+      "value": "baby_brown_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_lollipop"
+      "value": "stellar_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

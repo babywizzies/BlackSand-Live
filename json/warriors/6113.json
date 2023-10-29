@@ -1,6 +1,7 @@
 {
-  "idx": "6113",
+  "id": "6113",
   "name": "Alani Marauder of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6113",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

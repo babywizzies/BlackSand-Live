@@ -1,6 +1,7 @@
 {
-  "idx": "2510",
+  "id": "2510",
   "name": "Cadogan Champion of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2510",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

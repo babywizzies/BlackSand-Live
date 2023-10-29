@@ -1,32 +1,39 @@
 {
+  "id": 7527,
   "name": "Darling Hothor of the Toadstools",
   "image": "http://forgottenbabies.com/uri/json/7527.png",
-  "serial": 7527,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_banded_overall"
+      "value": "small_banded_overall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "son_of_the_sky"
+      "value": "son_of_the_sky",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

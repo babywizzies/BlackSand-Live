@@ -1,6 +1,7 @@
 {
-  "idx": "135",
+  "id": "135",
   "name": "Owen Vengeance of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/135",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Shortbow",
       "filename": "weapon_shortbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

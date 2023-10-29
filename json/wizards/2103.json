@@ -1,48 +1,59 @@
 {
+  "id": 2103,
   "name": "Artificer Jiggs of the Hall",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2103.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2103
+      "value": 2103,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Jester Diamonds"
+      "value": "Jester Diamonds",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Bliss Cat"
+      "value": "Bliss Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wooden Boy"
+      "value": "Wooden Boy",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Gorgon's Eye"
+      "value": "Gorgon's Eye",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Goofy"
+      "value": "Goofy",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

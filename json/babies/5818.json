@@ -1,32 +1,39 @@
 {
+  "id": 5818,
   "name": "Clever George of the Garden",
   "image": "http://forgottenbabies.com/uri/json/5818.png",
-  "serial": 5818,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_orange"
+      "value": "small_scholar_orange",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_myrddin"
+      "value": "young_myrddin",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11216",
+  "id": "11216",
   "name": "Evander Marauder of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11216",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

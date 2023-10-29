@@ -1,6 +1,7 @@
 {
-  "idx": "5245",
+  "id": "5245",
   "name": "Beezle Guillotiner of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5245",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

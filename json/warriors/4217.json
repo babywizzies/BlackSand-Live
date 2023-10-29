@@ -1,6 +1,7 @@
 {
-  "idx": "4217",
+  "id": "4217",
   "name": "Broadwin Champion of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4217",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1950",
+  "id": "1950",
   "name": "Max Defeater of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1950",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

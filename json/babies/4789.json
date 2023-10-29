@@ -1,32 +1,39 @@
 {
+  "id": 4789,
   "name": "Ambitious Hongo of the Hall",
   "image": "http://forgottenbabies.com/uri/json/4789.png",
-  "serial": 4789,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "young_scarecrow"
+      "value": "young_scarecrow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wildboy"
+      "value": "wildboy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

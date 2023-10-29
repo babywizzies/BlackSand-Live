@@ -1,6 +1,7 @@
 {
-  "idx": "8987",
+  "id": "8987",
   "name": "Luisa Guardian of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8987",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

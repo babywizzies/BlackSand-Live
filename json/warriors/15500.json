@@ -1,6 +1,7 @@
 {
-  "idx": "15500",
+  "id": "15500",
   "name": "Romney Crusher of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15500",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

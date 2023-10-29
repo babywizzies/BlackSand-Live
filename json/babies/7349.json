@@ -1,32 +1,39 @@
 {
+  "id": 7349,
   "name": "Perceptive Devin of the Quantum Shadow",
   "image": "http://forgottenbabies.com/uri/json/7349.png",
-  "serial": 7349,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_jester_cape"
+      "value": "green_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_dream_master"
+      "value": "mini_dream_master",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_topaz_slime"
+      "value": "small_topaz_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_single_candle"
+      "value": "a_single_candle",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

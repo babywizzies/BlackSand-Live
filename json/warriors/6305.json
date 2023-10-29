@@ -1,6 +1,7 @@
 {
-  "idx": "6305",
+  "id": "6305",
   "name": "Lance Ravager of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6305",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

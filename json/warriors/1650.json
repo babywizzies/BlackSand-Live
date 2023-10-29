@@ -1,6 +1,7 @@
 {
-  "idx": "1650",
+  "id": "1650",
   "name": "Zola Slaughterer of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1650",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

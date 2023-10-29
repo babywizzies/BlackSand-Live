@@ -1,52 +1,64 @@
 {
+  "id": 8714,
   "name": "Illusionist Merlon of the Mist",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8714.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8714
+      "value": 8714,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Scarf"
+      "value": "Green Hip Scarf",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Field Dog"
+      "value": "Field Dog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "White Wizard"
+      "value": "White Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Isaac's Apple"
+      "value": "Isaac's Apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
+      "value": "Rune of Down",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Mountains"
+      "value": "Mountains",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12775",
+  "id": "12775",
   "name": "Wyatt Amputator of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12775",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Frog Shield",
       "filename": "shield_frog.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

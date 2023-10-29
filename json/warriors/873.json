@@ -1,6 +1,7 @@
 {
-  "idx": "873",
+  "id": "873",
   "name": "Kaz Madcap of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/873",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

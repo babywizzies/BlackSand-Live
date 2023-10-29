@@ -1,52 +1,64 @@
 {
+  "id": 9406,
   "name": "Holy Monk Akron of Atlantis",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/9406.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 9406
+      "value": 9406,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Swashbuckling Gear"
+      "value": "Swashbuckling Gear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Crackerjack Crow"
+      "value": "Crackerjack Crow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Dapper Arcanist"
+      "value": "Dapper Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Emerald Staff"
+      "value": "Emerald Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
+      "value": "Rune of Brass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

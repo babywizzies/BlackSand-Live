@@ -1,6 +1,7 @@
 {
-  "idx": "6140",
+  "id": "6140",
   "name": "Keren Lacerator of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6140",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 7664,
   "name": "Strong Zaros of the Palms",
   "image": "http://forgottenbabies.com/uri/json/7664.png",
-  "serial": 7664,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Blue_Shoulder_Cape"
+      "value": "Small_Blue_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_anuran"
+      "value": "young_anuran",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "salamanders_tongue_the_fire_spell"
+      "value": "salamanders_tongue_the_fire_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

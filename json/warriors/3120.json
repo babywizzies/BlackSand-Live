@@ -1,6 +1,7 @@
 {
-  "idx": "3120",
+  "id": "3120",
   "name": "Trudy Contender of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3120",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

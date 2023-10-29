@@ -1,6 +1,7 @@
 {
-  "idx": "8862",
+  "id": "8862",
   "name": "Dex Swashbuckler of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8862",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

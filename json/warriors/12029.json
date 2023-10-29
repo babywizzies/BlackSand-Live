@@ -1,6 +1,7 @@
 {
-  "idx": "12029",
+  "id": "12029",
   "name": "Cadogan Assailant of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12029",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

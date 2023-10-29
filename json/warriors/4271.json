@@ -1,6 +1,7 @@
 {
-  "idx": "4271",
+  "id": "4271",
   "name": "Dando Deadeye of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4271",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

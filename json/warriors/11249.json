@@ -1,6 +1,7 @@
 {
-  "idx": "11249",
+  "id": "11249",
   "name": "Forneus Razer of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11249",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

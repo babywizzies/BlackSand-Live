@@ -1,32 +1,39 @@
 {
+  "id": 708,
   "name": "Cautious Milo of Cuckoo Land",
   "image": "http://forgottenbabies.com/uri/json/708.png",
-  "serial": 708,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_puffy_pants"
+      "value": "purple_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "grumpy_gruffling"
+      "value": "grumpy_gruffling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_black_kitten"
+      "value": "lucky_black_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "brahmans_breath_the_life_spell"
+      "value": "brahmans_breath_the_life_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

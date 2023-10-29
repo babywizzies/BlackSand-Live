@@ -1,6 +1,7 @@
 {
-  "idx": "150",
+  "id": "150",
   "name": "Gruttle of the Slime Pits",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/150",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

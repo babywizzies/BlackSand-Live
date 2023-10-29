@@ -1,6 +1,7 @@
 {
-  "idx": "14150",
+  "id": "14150",
   "name": "Cyrus Dispatcher of Unicorns",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14150",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

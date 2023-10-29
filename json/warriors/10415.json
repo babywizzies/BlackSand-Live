@@ -1,6 +1,7 @@
 {
-  "idx": "10415",
+  "id": "10415",
   "name": "Bargo Guardian of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10415",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Magic Shield",
       "filename": "shield_magic.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

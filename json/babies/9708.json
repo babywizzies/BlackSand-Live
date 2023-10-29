@@ -1,32 +1,39 @@
 {
+  "id": 9708,
   "name": "Inquisitive Devin of the Mist",
   "image": "http://forgottenbabies.com/uri/json/9708.png",
-  "serial": 9708,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_cape_in_the_wind"
+      "value": "small_cape_in_the_wind",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "shy_hermit"
+      "value": "shy_hermit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "raven_feather"
+      "value": "raven_feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

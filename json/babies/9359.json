@@ -1,32 +1,39 @@
 {
+  "id": 9359,
   "name": "Cautious Fark of the Belfry",
   "image": "http://forgottenbabies.com/uri/json/9359.png",
-  "serial": 9359,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "jackson_five"
+      "value": "jackson_five",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "cloud_prince"
+      "value": "cloud_prince",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "caduceus_wand"
+      "value": "caduceus_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

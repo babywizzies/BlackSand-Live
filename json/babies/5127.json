@@ -1,32 +1,39 @@
 {
+  "id": 5127,
   "name": "Crazy Nietzsche of the Thorn",
   "image": "http://forgottenbabies.com/uri/json/5127.png",
-  "serial": 5127,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_yellow"
+      "value": "child_cleric_yellow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wildboy"
+      "value": "wildboy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

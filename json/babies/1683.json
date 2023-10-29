@@ -1,32 +1,39 @@
 {
+  "id": 1683,
   "name": "Honorable Jabir of Arcadia",
   "image": "http://forgottenbabies.com/uri/json/1683.png",
-  "serial": 1683,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_white_tunic"
+      "value": "tiny_white_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_ascetic"
+      "value": "young_ascetic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "joy_wand"
+      "value": "joy_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

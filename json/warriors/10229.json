@@ -1,6 +1,7 @@
 {
-  "idx": "10229",
+  "id": "10229",
   "name": "Bram Ruin of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10229",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

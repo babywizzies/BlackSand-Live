@@ -1,6 +1,7 @@
 {
-  "idx": "3159",
+  "id": "3159",
   "name": "Brock Wounder of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3159",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

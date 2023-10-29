@@ -1,6 +1,7 @@
 {
-  "idx": "1303",
+  "id": "1303",
   "name": "Alesssandra Vanquisher of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1303",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

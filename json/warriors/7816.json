@@ -1,6 +1,7 @@
 {
-  "idx": "7816",
+  "id": "7816",
   "name": "Shira Rogue of Deer",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7816",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

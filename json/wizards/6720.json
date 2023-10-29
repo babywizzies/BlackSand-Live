@@ -1,44 +1,54 @@
 {
+  "id": 6720,
   "name": " Galatea of the Hollow",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6720.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6720
+      "value": 6720,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Overcoat"
+      "value": "Overcoat",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Green Asp"
+      "value": "Green Asp",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Botanic Master"
+      "value": "Botanic Master",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

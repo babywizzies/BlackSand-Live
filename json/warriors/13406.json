@@ -1,6 +1,7 @@
 {
-  "idx": "13406",
+  "id": "13406",
   "name": "Andrea of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13406",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

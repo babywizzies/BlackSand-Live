@@ -1,6 +1,7 @@
 {
-  "idx": "15800",
+  "id": "15800",
   "name": "Devon Dueler of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15800",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

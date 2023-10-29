@@ -1,6 +1,7 @@
 {
-  "idx": "113",
+  "id": "113",
   "name": "Emerson Paragon of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/113",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "138",
+  "id": "138",
   "name": "Sal Armageddon of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/138",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

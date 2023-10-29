@@ -1,6 +1,7 @@
 {
-  "idx": "2999",
+  "id": "2999",
   "name": "Burple Hammer the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2999",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

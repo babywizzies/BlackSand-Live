@@ -1,6 +1,7 @@
 {
-  "idx": "10311",
+  "id": "10311",
   "name": "Maximus Marauder the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10311",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

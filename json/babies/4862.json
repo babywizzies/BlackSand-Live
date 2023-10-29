@@ -1,32 +1,39 @@
 {
+  "id": 4862,
   "name": "Meticulous Magnus of the Wold",
   "image": "http://forgottenbabies.com/uri/json/4862.png",
-  "serial": 4862,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_puffy_pants"
+      "value": "purple_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_imp"
+      "value": "little_imp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

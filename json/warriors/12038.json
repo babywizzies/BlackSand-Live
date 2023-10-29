@@ -1,6 +1,7 @@
 {
-  "idx": "12038",
+  "id": "12038",
   "name": "Mondo Savior of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12038",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

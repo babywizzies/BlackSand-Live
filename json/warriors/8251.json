@@ -1,6 +1,7 @@
 {
-  "idx": "8251",
+  "id": "8251",
   "name": "Bronco Paragon of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8251",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

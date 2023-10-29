@@ -1,6 +1,7 @@
 {
-  "idx": "1187",
+  "id": "1187",
   "name": "Buffy Striker of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1187",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "4475",
+  "id": "4475",
   "name": "Dex Sorrow of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4475",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

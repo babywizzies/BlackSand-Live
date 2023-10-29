@@ -1,6 +1,7 @@
 {
-  "idx": "8123",
+  "id": "8123",
   "name": "Garth of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8123",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

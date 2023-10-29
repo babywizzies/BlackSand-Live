@@ -1,6 +1,7 @@
 {
-  "idx": "5780",
+  "id": "5780",
   "name": "Glorf Shark of Nightmare Paradise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5780",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12230",
+  "id": "12230",
   "name": "Inanna Exterminator of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12230",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of the Moon",
       "filename": "shield_moon.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 5947,
   "name": "Romantic Eggplant of the Light",
   "image": "http://forgottenbabies.com/uri/json/5947.png",
-  "serial": 5947,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_tiny_caped_traveller"
+      "value": "green_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_koopling"
+      "value": "young_koopling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

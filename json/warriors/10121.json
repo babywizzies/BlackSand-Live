@@ -1,6 +1,7 @@
 {
-  "idx": "10121",
+  "id": "10121",
   "name": "Natasha Belligerent of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10121",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Green Longsword",
       "filename": "weapon_longsword_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 3061,
   "name": "Witch Elena of the Rock",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3061.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3061
+      "value": 3061,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orchid Harem Pants"
+      "value": "Orchid Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Crackerjack Crow"
+      "value": "Crackerjack Crow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Swamp Witch"
+      "value": "Swamp Witch",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Siren's Bell"
+      "value": "Siren's Bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
+      "value": "Rune of Sigma",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

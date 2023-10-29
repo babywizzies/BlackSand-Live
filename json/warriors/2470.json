@@ -1,6 +1,7 @@
 {
-  "idx": "2470",
+  "id": "2470",
   "name": "Flamma Lacerator of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2470",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

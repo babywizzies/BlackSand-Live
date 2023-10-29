@@ -1,32 +1,39 @@
 {
+  "id": 7909,
   "name": "Fearless Teller of Arcadia",
   "image": "http://forgottenbabies.com/uri/json/7909.png",
-  "serial": 7909,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_crone"
+      "value": "small_crone",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_wand"
+      "value": "stellar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

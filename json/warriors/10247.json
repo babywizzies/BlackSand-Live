@@ -1,6 +1,7 @@
 {
-  "idx": "10247",
+  "id": "10247",
   "name": "Buck Romantic of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10247",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

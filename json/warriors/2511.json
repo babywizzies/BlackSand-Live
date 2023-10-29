@@ -1,6 +1,7 @@
 {
-  "idx": "2511",
+  "id": "2511",
   "name": "William Impaler of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2511",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

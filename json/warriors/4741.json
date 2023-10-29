@@ -1,6 +1,7 @@
 {
-  "idx": "4741",
+  "id": "4741",
   "name": "Glork Incinerator of Pain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4741",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

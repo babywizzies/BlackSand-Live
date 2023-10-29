@@ -1,6 +1,7 @@
 {
-  "idx": "8818",
+  "id": "8818",
   "name": "Grumel Cutter of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8818",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 5581,
   "name": "Observant Black Goat from the Abyss",
   "image": "http://forgottenbabies.com/uri/json/5581.png",
-  "serial": 5581,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_green"
+      "value": "acute_aristocrat_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wildboy"
+      "value": "wildboy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "harmony_wand"
+      "value": "harmony_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12598",
+  "id": "12598",
   "name": "Bellatrix of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12598",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 4601,
   "name": "Pyromancer Nixie of the Moors",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4601.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4601
+      "value": 4601,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Two Tone Fringe"
+      "value": "Two Tone Fringe",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kobold"
+      "value": "Kobold",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Hobgoblin's Flame: the Wayward Spell"
+      "value": "Hobgoblin's Flame: the Wayward Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
+      "value": "Rune of Air",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

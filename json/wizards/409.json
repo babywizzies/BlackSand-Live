@@ -1,52 +1,64 @@
 {
+  "id": 409,
   "name": "Magus Liliana of the Moors",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/409.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 409
+      "value": 409,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Vest Green"
+      "value": "Vest Green",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Green Asp"
+      "value": "Green Asp",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Swamp Witch"
+      "value": "Swamp Witch",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Green Mushroom"
+      "value": "Green Mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

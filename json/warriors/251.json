@@ -1,6 +1,7 @@
 {
-  "idx": "251",
+  "id": "251",
   "name": "Quinton Paragon of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/251",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6378",
+  "id": "6378",
   "name": "Titan Wanderer of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6378",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

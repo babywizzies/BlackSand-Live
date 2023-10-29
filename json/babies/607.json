@@ -1,32 +1,39 @@
 {
+  "id": 607,
   "name": "Methodical Bayard of Dreams",
   "image": "http://forgottenbabies.com/uri/json/607.png",
-  "serial": 607,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "yellow_jester_cape"
+      "value": "yellow_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_mandinka"
+      "value": "mini_mandinka",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "caduceus_wand"
+      "value": "caduceus_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

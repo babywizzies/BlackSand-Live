@@ -1,6 +1,7 @@
 {
-  "idx": "1530",
+  "id": "1530",
   "name": "Owen Breaker of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1530",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

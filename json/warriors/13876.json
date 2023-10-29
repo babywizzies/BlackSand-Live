@@ -1,6 +1,7 @@
 {
-  "idx": "13876",
+  "id": "13876",
   "name": "Alex Ruin of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13876",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "806",
+  "id": "806",
   "name": "Elbrus Menace of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/806",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 3163,
   "name": "Loyal Xiaobo of the River",
   "image": "http://forgottenbabies.com/uri/json/3163.png",
-  "serial": 3163,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "jackson_five"
+      "value": "jackson_five",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_bard"
+      "value": "baby_bard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

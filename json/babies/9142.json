@@ -1,32 +1,39 @@
 {
+  "id": 9142,
   "name": "Curious Malcom of the Waste",
   "image": "http://forgottenbabies.com/uri/json/9142.png",
-  "serial": 9142,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "jackson_five"
+      "value": "jackson_five",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_mandinka"
+      "value": "mini_mandinka",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_topaz_slime"
+      "value": "small_topaz_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

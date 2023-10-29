@@ -1,32 +1,39 @@
 {
+  "id": 6250,
   "name": "Fearless Tengu of the Field",
   "image": "http://forgottenbabies.com/uri/json/6250.png",
-  "serial": 6250,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "young_scarecrow"
+      "value": "young_scarecrow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_prophet"
+      "value": "puny_prophet",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mini_red_mamba"
+      "value": "mini_red_mamba",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "grape_juicebox"
+      "value": "grape_juicebox",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

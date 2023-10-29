@@ -1,6 +1,7 @@
 {
-  "idx": "5263",
+  "id": "5263",
   "name": "Margaret Impaler of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5263",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

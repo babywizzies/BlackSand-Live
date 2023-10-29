@@ -1,32 +1,39 @@
 {
+  "id": 7621,
   "name": "Ambitious Orpheus of the Crypt",
   "image": "http://forgottenbabies.com/uri/json/7621.png",
-  "serial": 7621,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "brown_koveralls"
+      "value": "brown_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "bold_baby"
+      "value": "bold_baby",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "friendly_fox"
+      "value": "friendly_fox",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

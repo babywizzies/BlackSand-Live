@@ -1,6 +1,7 @@
 {
-  "idx": "3616",
+  "id": "3616",
   "name": "Shelia Swashbuckler of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3616",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

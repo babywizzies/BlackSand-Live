@@ -1,6 +1,7 @@
 {
-  "idx": "10818",
+  "id": "10818",
   "name": "Tori Cleaver of the Atoll",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10818",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Butterfly Shield",
       "filename": "shield_butterfly.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

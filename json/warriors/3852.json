@@ -1,6 +1,7 @@
 {
-  "idx": "3852",
+  "id": "3852",
   "name": "Cassia Cleaver of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3852",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

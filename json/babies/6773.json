@@ -1,32 +1,39 @@
 {
+  "id": 6773,
   "name": "Insightful Bartholomew of the Secret Fire",
   "image": "http://forgottenbabies.com/uri/json/6773.png",
-  "serial": 6773,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_tech_coat"
+      "value": "tiny_tech_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_anuran"
+      "value": "young_anuran",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

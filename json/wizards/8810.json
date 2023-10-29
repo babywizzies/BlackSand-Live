@@ -1,52 +1,64 @@
 {
+  "id": 8810,
   "name": "Summoner Hadrien of the Surf",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8810.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8810
+      "value": 8810,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Swashbuckling Gear"
+      "value": "Swashbuckling Gear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Merlin's Monkey"
+      "value": "Merlin's Monkey",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "BrainDrain"
+      "value": "BrainDrain",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Egg of Unknown Beast"
+      "value": "Egg of Unknown Beast",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
+      "value": "Rune of Fire",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Jungle"
+      "value": "Jungle",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

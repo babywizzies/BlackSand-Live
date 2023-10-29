@@ -1,6 +1,7 @@
 {
-  "idx": "5220",
+  "id": "5220",
   "name": "Romulus Impaler of the Lantern",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5220",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

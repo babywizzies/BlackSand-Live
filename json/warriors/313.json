@@ -1,6 +1,7 @@
 {
-  "idx": "313",
+  "id": "313",
   "name": "Gabriela Slayer of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/313",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

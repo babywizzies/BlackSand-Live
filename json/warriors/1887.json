@@ -1,6 +1,7 @@
 {
-  "idx": "1887",
+  "id": "1887",
   "name": "Beron Ravager of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1887",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bolt Shield",
       "filename": "shield_bolt.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

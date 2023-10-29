@@ -1,52 +1,64 @@
 {
+  "id": 6829,
   "name": "Witch Marceline of the Veil",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6829.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6829
+      "value": 6829,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic"
+      "value": "Brown Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Ember Frog"
+      "value": "Ember Frog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hag"
+      "value": "Hag",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Candle of Intuition"
+      "value": "Candle of Intuition",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
+      "value": "Rune of Water",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Frog"
+      "value": "Frog",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

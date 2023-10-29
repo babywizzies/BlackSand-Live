@@ -1,6 +1,7 @@
 {
-  "idx": "12343",
+  "id": "12343",
   "name": "Marcellus Violator of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12343",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

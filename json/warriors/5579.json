@@ -1,6 +1,7 @@
 {
-  "idx": "5579",
+  "id": "5579",
   "name": "Ryder Paragon of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5579",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

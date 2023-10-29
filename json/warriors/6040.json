@@ -1,6 +1,7 @@
 {
-  "idx": "6040",
+  "id": "6040",
   "name": "Roddrick Conqueror of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6040",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

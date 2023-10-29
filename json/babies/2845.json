@@ -1,32 +1,39 @@
 {
+  "id": 2845,
   "name": "Inventive Luther from the Abyss",
   "image": "http://forgottenbabies.com/uri/json/2845.png",
-  "serial": 2845,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "jackson_five"
+      "value": "jackson_five",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "arcadian_apprentice"
+      "value": "arcadian_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "solar_wand"
+      "value": "solar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6801",
+  "id": "6801",
   "name": "Yasin Combatant of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6801",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

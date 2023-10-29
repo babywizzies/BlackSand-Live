@@ -1,6 +1,7 @@
 {
-  "idx": "1209",
+  "id": "1209",
   "name": "Valentina Impaler of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1209",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

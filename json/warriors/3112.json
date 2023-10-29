@@ -1,6 +1,7 @@
 {
-  "idx": "3112",
+  "id": "3112",
   "name": "Gorgah Champion of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3112",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

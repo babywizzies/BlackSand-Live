@@ -1,6 +1,7 @@
 {
-  "idx": "1633",
+  "id": "1633",
   "name": "Draxon Axe of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1633",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1801",
+  "id": "1801",
   "name": "Charon Sharpshooter of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1801",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

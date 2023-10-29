@@ -1,6 +1,7 @@
 {
-  "idx": "8118",
+  "id": "8118",
   "name": "Buffy Chopper of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8118",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8046",
+  "id": "8046",
   "name": "Kat Grifter of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8046",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 4333,
   "name": "Brave Jasper of the Steppe",
   "image": "http://forgottenbabies.com/uri/json/4333.png",
-  "serial": 4333,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_skipper"
+      "value": "little_skipper",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_punjabi"
+      "value": "young_punjabi",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

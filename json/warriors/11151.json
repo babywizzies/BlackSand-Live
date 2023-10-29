@@ -1,6 +1,7 @@
 {
-  "idx": "11151",
+  "id": "11151",
   "name": "Nomusa Attacker of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11151",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

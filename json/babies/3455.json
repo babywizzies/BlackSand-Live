@@ -1,32 +1,39 @@
 {
+  "id": 3455,
   "name": "Logical Lin of the Shadow",
   "image": "http://forgottenbabies.com/uri/json/3455.png",
-  "serial": 3455,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_red_suit"
+      "value": "small_red_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_vamp"
+      "value": "young_vamp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "zephyrs_laugh_the_wind_spell"
+      "value": "zephyrs_laugh_the_wind_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

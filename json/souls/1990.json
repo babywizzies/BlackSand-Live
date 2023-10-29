@@ -1,6 +1,7 @@
 {
-  "idx": "1990",
+  "id": "1990",
   "name": "Lich Marquis Larissa of Gross Gorge",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Skeleton Cat",
       "filename": "familiar_cat_skeleton.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

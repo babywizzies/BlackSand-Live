@@ -1,6 +1,7 @@
 {
-  "idx": "1241",
+  "id": "1241",
   "name": "Gulder Grifter of the Nightmare Dominion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1241",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

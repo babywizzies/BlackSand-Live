@@ -1,32 +1,39 @@
 {
+  "id": 2923,
   "name": "Energetic Bullock of Andolini",
   "image": "http://forgottenbabies.com/uri/json/2923.png",
-  "serial": 2923,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "toddler_two_tone_coverall"
+      "value": "toddler_two_tone_coverall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_thelemist"
+      "value": "young_thelemist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bag_of_sand"
+      "value": "bag_of_sand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

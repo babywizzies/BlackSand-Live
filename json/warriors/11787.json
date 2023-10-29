@@ -1,6 +1,7 @@
 {
-  "idx": "11787",
+  "id": "11787",
   "name": "Marlan Cataclysm of the Snow",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11787",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

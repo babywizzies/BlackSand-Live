@@ -1,6 +1,7 @@
 {
-  "idx": "8502",
+  "id": "8502",
   "name": "Wylan Ravager of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8502",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

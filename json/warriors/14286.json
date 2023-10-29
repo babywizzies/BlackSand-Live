@@ -1,6 +1,7 @@
 {
-  "idx": "14286",
+  "id": "14286",
   "name": "Beron Protector of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14286",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

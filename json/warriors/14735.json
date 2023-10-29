@@ -1,6 +1,7 @@
 {
-  "idx": "14735",
+  "id": "14735",
   "name": "Korlim Cataclysm of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14735",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

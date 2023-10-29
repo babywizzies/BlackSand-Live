@@ -1,32 +1,39 @@
 {
+  "id": 7119,
   "name": "Philosphical Zubin of the Isle",
   "image": "http://forgottenbabies.com/uri/json/7119.png",
-  "serial": 7119,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_coveralls"
+      "value": "green_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "cloud_prince"
+      "value": "cloud_prince",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "4758",
+  "id": "4758",
   "name": "Jaymin Marauder of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4758",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

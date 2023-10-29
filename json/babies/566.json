@@ -1,32 +1,39 @@
 {
+  "id": 566,
   "name": "Philosphical Eden of the Leap",
   "image": "http://forgottenbabies.com/uri/json/566.png",
-  "serial": 566,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "furry_coat"
+      "value": "furry_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "coven_sister"
+      "value": "coven_sister",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "heavy_scythe"
+      "value": "heavy_scythe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

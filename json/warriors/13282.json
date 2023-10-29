@@ -1,6 +1,7 @@
 {
-  "idx": "13282",
+  "id": "13282",
   "name": "Damon Amputator of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13282",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

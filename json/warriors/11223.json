@@ -1,6 +1,7 @@
 {
-  "idx": "11223",
+  "id": "11223",
   "name": "Vega of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11223",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

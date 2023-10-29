@@ -1,52 +1,64 @@
 {
+  "id": 4061,
   "name": "Archmagus Azahl of the Isle",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4061.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4061
+      "value": 4061,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Swashbuckling Gear"
+      "value": "Swashbuckling Gear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Red Mamba"
+      "value": "Red Mamba",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Warlock"
+      "value": "Warlock",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Kelpie's Fury: the Water Spell"
+      "value": "Kelpie's Fury: the Water Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
+      "value": "Rune of Steel",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

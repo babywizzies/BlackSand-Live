@@ -1,6 +1,7 @@
 {
-  "idx": "7705",
+  "id": "7705",
   "name": "Faris Render of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7705",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

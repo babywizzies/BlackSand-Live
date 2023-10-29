@@ -1,6 +1,7 @@
 {
-  "idx": "3516",
+  "id": "3516",
   "name": "Casey Paragon of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3516",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Silver Poleaxe",
       "filename": "weapon_poleaxe_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 1781,
   "name": "Diabolical Molek of La Bibliotheca",
   "image": "http://forgottenbabies.com/uri/json/1781.png",
-  "serial": 1781,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_blue"
+      "value": "child_cleric_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_lycanthrope"
+      "value": "little_lycanthrope",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

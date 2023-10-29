@@ -1,6 +1,7 @@
 {
-  "idx": "7482",
+  "id": "7482",
   "name": "Jules Render of the Blue",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7482",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

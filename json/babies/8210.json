@@ -1,32 +1,39 @@
 {
+  "id": 8210,
   "name": "Brave Eden of the Field",
   "image": "http://forgottenbabies.com/uri/json/8210.png",
-  "serial": 8210,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_tiny_caped_traveller"
+      "value": "green_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_enchantress"
+      "value": "little_enchantress",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "grape_juicebox"
+      "value": "grape_juicebox",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5417",
+  "id": "5417",
   "name": "Dean Hero of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5417",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

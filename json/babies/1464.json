@@ -1,32 +1,39 @@
 {
+  "id": 1464,
   "name": "Adventurous Hagar of the Quantum Shadow",
   "image": "http://forgottenbabies.com/uri/json/1464.png",
-  "serial": 1464,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "finicky_formal_suit"
+      "value": "finicky_formal_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_faustian"
+      "value": "young_faustian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

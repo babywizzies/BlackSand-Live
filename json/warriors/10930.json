@@ -1,6 +1,7 @@
 {
-  "idx": "10930",
+  "id": "10930",
   "name": "Aamon Eidolon of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10930",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8307",
+  "id": "8307",
   "name": "Marie Hero of Devils",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8307",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

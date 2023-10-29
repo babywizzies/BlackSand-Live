@@ -1,32 +1,39 @@
 {
+  "id": 9682,
   "name": "Zestful Bobbin of Dreams",
   "image": "http://forgottenbabies.com/uri/json/9682.png",
-  "serial": 9682,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_baby_buckle"
+      "value": "blue_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_olympian"
+      "value": "smol_olympian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "hobgoblins_flame_the_wayward_spell"
+      "value": "hobgoblins_flame_the_wayward_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

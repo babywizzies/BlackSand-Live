@@ -1,6 +1,7 @@
 {
-  "idx": "12715",
+  "id": "12715",
   "name": "Brock Dispatcher of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12715",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Yellow Buckler",
       "filename": "shield_circle_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

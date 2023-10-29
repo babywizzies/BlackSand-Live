@@ -1,32 +1,39 @@
 {
+  "id": 5896,
   "name": "Enchanting Pumlo of the Keep",
   "image": "http://forgottenbabies.com/uri/json/5896.png",
-  "serial": 5896,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_double_sash"
+      "value": "small_double_sash",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_lycanthrope"
+      "value": "little_lycanthrope",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fresh_egg"
+      "value": "fresh_egg",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

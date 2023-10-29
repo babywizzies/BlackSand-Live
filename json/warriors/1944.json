@@ -1,6 +1,7 @@
 {
-  "idx": "1944",
+  "id": "1944",
   "name": "Tumelo Champion of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1944",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Apollo's Bow",
       "filename": "weapon_goldenbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

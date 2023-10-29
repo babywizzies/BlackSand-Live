@@ -1,6 +1,7 @@
 {
-  "idx": "1558",
+  "id": "1558",
   "name": "Kaz Armageddon of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1558",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Magic Shield",
       "filename": "shield_magic.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

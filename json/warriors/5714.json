@@ -1,6 +1,7 @@
 {
-  "idx": "5714",
+  "id": "5714",
   "name": "Thomas Champion of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5714",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

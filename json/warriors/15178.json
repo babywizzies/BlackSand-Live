@@ -1,6 +1,7 @@
 {
-  "idx": "15178",
+  "id": "15178",
   "name": "Kaz Antihero of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15178",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

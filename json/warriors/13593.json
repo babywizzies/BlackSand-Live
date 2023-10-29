@@ -1,6 +1,7 @@
 {
-  "idx": "13593",
+  "id": "13593",
   "name": "Nails Chopper of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13593",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

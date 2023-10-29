@@ -1,32 +1,39 @@
 {
+  "id": 2016,
   "name": "Daring Ofaris of the Tundra",
   "image": "http://forgottenbabies.com/uri/json/2016.png",
-  "serial": 2016,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "jackson_five"
+      "value": "jackson_five",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "cloud_prince"
+      "value": "cloud_prince",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_milk"
+      "value": "chocolate_milk",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sigma"
+      "value": "rune_sigma",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15596",
+  "id": "15596",
   "name": "Bronn Exterminator of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15596",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

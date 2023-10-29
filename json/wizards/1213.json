@@ -1,44 +1,54 @@
 {
+  "id": 1213,
   "name": "Wild Mage Basil of the Temple",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1213.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1213
+      "value": 1213,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Juniper Shoulder Cape"
+      "value": "Juniper Shoulder Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Prophet"
+      "value": "Prophet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Guillaume's Broom"
+      "value": "Guillaume's Broom",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

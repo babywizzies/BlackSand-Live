@@ -1,6 +1,7 @@
 {
-  "idx": "3775",
+  "id": "3775",
   "name": "Wolfram Ruin of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3775",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

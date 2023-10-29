@@ -1,6 +1,7 @@
 {
-  "idx": "11240",
+  "id": "11240",
   "name": "Kaggle Mercenary for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11240",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

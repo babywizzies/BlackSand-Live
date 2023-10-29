@@ -1,6 +1,7 @@
 {
-  "idx": "7211",
+  "id": "7211",
   "name": "Archer Punisher of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7211",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

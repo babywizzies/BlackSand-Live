@@ -1,6 +1,7 @@
 {
-  "idx": "10626",
+  "id": "10626",
   "name": "Ayako Amputator of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10626",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

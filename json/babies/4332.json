@@ -1,32 +1,39 @@
 {
+  "id": 4332,
   "name": "Charming Azathoth from the Crib",
   "image": "http://forgottenbabies.com/uri/json/4332.png",
-  "serial": 4332,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_kerchif"
+      "value": "green_kerchif",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "macho_boy"
+      "value": "macho_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "celestial_sparkler"
+      "value": "celestial_sparkler",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

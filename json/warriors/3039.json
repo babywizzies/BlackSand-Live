@@ -1,6 +1,7 @@
 {
-  "idx": "3039",
+  "id": "3039",
   "name": "Keren Wounder of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3039",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

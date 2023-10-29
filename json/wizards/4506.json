@@ -1,52 +1,64 @@
 {
+  "id": 4506,
   "name": "Druid Angus from the Abyss",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4506.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4506
+      "value": 4506,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Wraith"
+      "value": "White Wraith",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Plague Rat"
+      "value": "Plague Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Gruffling"
+      "value": "Gruffling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Ruby Staff"
+      "value": "Ruby Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
+      "value": "Rune of Uranus",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

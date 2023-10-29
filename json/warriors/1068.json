@@ -1,6 +1,7 @@
 {
-  "idx": "1068",
+  "id": "1068",
   "name": "Baako Champion of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1068",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

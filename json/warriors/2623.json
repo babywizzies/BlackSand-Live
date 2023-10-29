@@ -1,6 +1,7 @@
 {
-  "idx": "2623",
+  "id": "2623",
   "name": "Rock Amputator of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2623",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

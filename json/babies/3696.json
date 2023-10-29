@@ -1,32 +1,39 @@
 {
+  "id": 3696,
   "name": "Inventive Vossler of the Toadstools",
   "image": "http://forgottenbabies.com/uri/json/3696.png",
-  "serial": 3696,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "childrens_cosmic_cardigan"
+      "value": "childrens_cosmic_cardigan",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wildboy"
+      "value": "wildboy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_single_candle"
+      "value": "a_single_candle",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

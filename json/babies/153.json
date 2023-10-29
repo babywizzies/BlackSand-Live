@@ -1,32 +1,39 @@
 {
+  "id": 153,
   "name": "Poetic Voidoth of the Quantum Realm",
   "image": "http://forgottenbabies.com/uri/json/153.png",
-  "serial": 153,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_coveralls"
+      "value": "green_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_pumpkin_head"
+      "value": "small_pumpkin_head",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_green_mushroom"
+      "value": "mini_green_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

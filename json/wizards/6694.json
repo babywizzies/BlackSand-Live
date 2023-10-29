@@ -1,52 +1,64 @@
 {
+  "id": 6694,
   "name": "Evoker Goliath of the Brine",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6694.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6694
+      "value": 6694,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Swashbuckling Gear"
+      "value": "Swashbuckling Gear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Green Asp"
+      "value": "Green Asp",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wildman"
+      "value": "Wildman",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Guillaume's Broom"
+      "value": "Guillaume's Broom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
+      "value": "Rune of Neptune",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9114",
+  "id": "9114",
   "name": "Ragnar Rival of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9114",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

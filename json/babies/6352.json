@@ -1,32 +1,39 @@
 {
+  "id": 6352,
   "name": "Confident Bearded of the Belfry",
   "image": "http://forgottenbabies.com/uri/json/6352.png",
-  "serial": 6352,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_jester_cape"
+      "value": "blue_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_myrddin"
+      "value": "young_myrddin",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

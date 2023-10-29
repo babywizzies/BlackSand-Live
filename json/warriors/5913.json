@@ -1,6 +1,7 @@
 {
-  "idx": "5913",
+  "id": "5913",
   "name": "Sweeny Impaler of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5913",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

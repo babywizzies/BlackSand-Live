@@ -1,6 +1,7 @@
 {
-  "idx": "4142",
+  "id": "4142",
   "name": "Amelia Eidolon of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4142",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

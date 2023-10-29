@@ -1,6 +1,7 @@
 {
-  "idx": "3991",
+  "id": "3991",
   "name": "Fia Exterminator of the Mud",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3991",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

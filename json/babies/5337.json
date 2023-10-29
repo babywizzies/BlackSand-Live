@@ -1,32 +1,39 @@
 {
+  "id": 5337,
   "name": "Courageous Celah of the Platonic Shadow",
   "image": "http://forgottenbabies.com/uri/json/5337.png",
-  "serial": 5337,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "puny_poncho"
+      "value": "puny_poncho",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_kobold"
+      "value": "baby_kobold",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 1238,
   "name": "Adventurous Ratko of the Tundra",
   "image": "http://forgottenbabies.com/uri/json/1238.png",
-  "serial": 1238,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_tiny_caped_traveller"
+      "value": "orange_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_animist"
+      "value": "young_animist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

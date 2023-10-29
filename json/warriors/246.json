@@ -1,6 +1,7 @@
 {
-  "idx": "246",
+  "id": "246",
   "name": "Ayo Eidolon of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/246",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

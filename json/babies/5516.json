@@ -1,32 +1,39 @@
 {
+  "id": 5516,
   "name": "Intuitive Udor of the Moors",
   "image": "http://forgottenbabies.com/uri/json/5516.png",
-  "serial": 5516,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_puffy_vest"
+      "value": "green_puffy_vest",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "arcadian_apprentice"
+      "value": "arcadian_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_lollipop"
+      "value": "stellar_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

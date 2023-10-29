@@ -1,32 +1,39 @@
 {
+  "id": 918,
   "name": "Romantic Malthus of the Forest",
   "image": "http://forgottenbabies.com/uri/json/918.png",
-  "serial": 918,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "robe_of_shade"
+      "value": "robe_of_shade",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "studying_astrologer"
+      "value": "studying_astrologer",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mini_red_mamba"
+      "value": "mini_red_mamba",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bottle_of_milk"
+      "value": "bottle_of_milk",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

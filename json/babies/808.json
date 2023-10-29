@@ -1,32 +1,39 @@
 {
+  "id": 808,
   "name": "Focused Brutus of the Cold",
   "image": "http://forgottenbabies.com/uri/json/808.png",
-  "serial": 808,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Desert_Wear_Small"
+      "value": "Desert_Wear_Small",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_prophet"
+      "value": "puny_prophet",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

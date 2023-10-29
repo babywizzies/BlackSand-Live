@@ -1,32 +1,39 @@
 {
+  "id": 5864,
   "name": "Loyal Aldus of the Thorn",
   "image": "http://forgottenbabies.com/uri/json/5864.png",
-  "serial": 5864,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "robe_of_shade"
+      "value": "robe_of_shade",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_woodland_shapeshifter"
+      "value": "small_woodland_shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "small_coinpurse"
+      "value": "small_coinpurse",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

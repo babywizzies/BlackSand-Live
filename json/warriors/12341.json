@@ -1,6 +1,7 @@
 {
-  "idx": "12341",
+  "id": "12341",
   "name": "Farida Impaler of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12341",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

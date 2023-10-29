@@ -1,32 +1,39 @@
 {
+  "id": 9093,
   "name": "Quirky Vossler of the River",
   "image": "http://forgottenbabies.com/uri/json/9093.png",
-  "serial": 9093,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "yellow_jester_cape"
+      "value": "yellow_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wildboy"
+      "value": "wildboy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bottle_of_milk"
+      "value": "bottle_of_milk",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

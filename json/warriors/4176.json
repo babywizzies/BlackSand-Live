@@ -1,6 +1,7 @@
 {
-  "idx": "4176",
+  "id": "4176",
   "name": "Margaret Rogue of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4176",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

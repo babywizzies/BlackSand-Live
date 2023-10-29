@@ -1,6 +1,7 @@
 {
-  "idx": "5239",
+  "id": "5239",
   "name": "Andrei Belligerent of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5239",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

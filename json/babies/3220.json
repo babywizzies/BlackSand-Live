@@ -1,32 +1,39 @@
 {
+  "id": 3220,
   "name": "Chatty Homer of the Sea",
   "image": "http://forgottenbabies.com/uri/json/3220.png",
-  "serial": 3220,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_coveralls"
+      "value": "green_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_green_wizard"
+      "value": "young_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "caduceus_wand"
+      "value": "caduceus_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

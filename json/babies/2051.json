@@ -1,32 +1,39 @@
 {
+  "id": 2051,
   "name": "Awkward Pumlo of the Steppe",
   "image": "http://forgottenbabies.com/uri/json/2051.png",
-  "serial": 2051,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "childrens_cosmic_cardigan"
+      "value": "childrens_cosmic_cardigan",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_anuran"
+      "value": "young_anuran",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "old_house_key"
+      "value": "old_house_key",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

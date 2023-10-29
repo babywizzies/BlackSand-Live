@@ -1,6 +1,7 @@
 {
-  "idx": "10208",
+  "id": "10208",
   "name": "Decima Hero of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10208",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

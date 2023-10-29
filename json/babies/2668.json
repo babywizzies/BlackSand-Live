@@ -1,32 +1,39 @@
 {
+  "id": 2668,
   "name": "Logical Eggplant of El Dorado",
   "image": "http://forgottenbabies.com/uri/json/2668.png",
-  "serial": 2668,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "furry_coat"
+      "value": "furry_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "rogue_arcanist"
+      "value": "rogue_arcanist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

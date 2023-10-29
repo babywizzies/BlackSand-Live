@@ -1,6 +1,7 @@
 {
-  "idx": "3502",
+  "id": "3502",
   "name": "Marco Champion of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3502",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

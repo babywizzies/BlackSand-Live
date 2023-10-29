@@ -1,6 +1,7 @@
 {
-  "idx": "15901",
+  "id": "15901",
   "name": "Ubel Render of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15901",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

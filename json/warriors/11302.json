@@ -1,6 +1,7 @@
 {
-  "idx": "11302",
+  "id": "11302",
   "name": "Braddock Eradicator of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11302",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

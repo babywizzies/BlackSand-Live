@@ -1,6 +1,7 @@
 {
-  "idx": "7572",
+  "id": "7572",
   "name": "Zane of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7572",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

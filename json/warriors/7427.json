@@ -1,6 +1,7 @@
 {
-  "idx": "7427",
+  "id": "7427",
   "name": "Jax Fortune-Hunter of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7427",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

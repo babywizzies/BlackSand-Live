@@ -1,6 +1,7 @@
 {
-  "idx": "429",
+  "id": "429",
   "name": "Bruce Hero of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/429",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

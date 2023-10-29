@@ -1,6 +1,7 @@
 {
-  "idx": "9792",
+  "id": "9792",
   "name": "Bambam Basher of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9792",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

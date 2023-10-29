@@ -1,6 +1,7 @@
 {
-  "idx": "12653",
+  "id": "12653",
   "name": "Drake Peacemaker of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12653",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Shortbow",
       "filename": "weapon_shortbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

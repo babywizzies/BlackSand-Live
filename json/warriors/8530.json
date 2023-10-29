@@ -1,6 +1,7 @@
 {
-  "idx": "8530",
+  "id": "8530",
   "name": "Fumbor Daredevil of the Prism",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8530",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

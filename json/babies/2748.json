@@ -1,32 +1,39 @@
 {
+  "id": 2748,
   "name": "Inquisitive Gaspard of the Carnival",
   "image": "http://forgottenbabies.com/uri/json/2748.png",
-  "serial": 2748,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "grey_puffy_pants"
+      "value": "grey_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "studying_astral_arcanist"
+      "value": "studying_astral_arcanist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mesozoic_chickatrice"
+      "value": "mesozoic_chickatrice",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

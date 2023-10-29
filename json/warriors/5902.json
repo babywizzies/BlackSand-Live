@@ -1,6 +1,7 @@
 {
-  "idx": "5902",
+  "id": "5902",
   "name": "Tracy Eradicator of Thunder Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5902",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

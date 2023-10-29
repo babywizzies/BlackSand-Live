@@ -1,6 +1,7 @@
 {
-  "idx": "625",
+  "id": "625",
   "name": "Judy Doom of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/625",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

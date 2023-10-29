@@ -1,32 +1,39 @@
 {
+  "id": 8976,
   "name": "Young Great of the Desert",
   "image": "http://forgottenbabies.com/uri/json/8976.png",
-  "serial": 8976,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "arcadian_apprentice"
+      "value": "arcadian_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_aura_wolf"
+      "value": "young_aura_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fresh_egg"
+      "value": "fresh_egg",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

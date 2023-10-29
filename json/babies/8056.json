@@ -1,32 +1,39 @@
 {
+  "id": 8056,
   "name": "Methodical Aleister of the Quantum Downs",
   "image": "http://forgottenbabies.com/uri/json/8056.png",
-  "serial": 8056,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "white_koveralls"
+      "value": "white_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_fur_gnome"
+      "value": "small_fur_gnome",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "solar_wand"
+      "value": "solar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

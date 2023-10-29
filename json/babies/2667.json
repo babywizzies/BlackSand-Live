@@ -1,32 +1,39 @@
 {
+  "id": 2667,
   "name": "Confident Aleister of the Steppe",
   "image": "http://forgottenbabies.com/uri/json/2667.png",
-  "serial": 2667,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "furry_coat"
+      "value": "furry_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "shy_hermit"
+      "value": "shy_hermit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "salamanders_tongue_the_fire_spell"
+      "value": "salamanders_tongue_the_fire_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

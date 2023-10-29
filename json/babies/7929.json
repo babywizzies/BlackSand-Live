@@ -1,32 +1,39 @@
 {
+  "id": 7929,
   "name": "Philosphical Magus of the Valley",
   "image": "http://forgottenbabies.com/uri/json/7929.png",
-  "serial": 7929,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_koveralls"
+      "value": "blue_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_dream_master"
+      "value": "mini_dream_master",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_black_kitten"
+      "value": "lucky_black_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chaos_wand"
+      "value": "chaos_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

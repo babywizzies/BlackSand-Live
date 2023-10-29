@@ -1,6 +1,7 @@
 {
-  "idx": "15318",
+  "id": "15318",
   "name": "Rogue Attacker of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15318",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9125",
+  "id": "9125",
   "name": "Marlan Rogue of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9125",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

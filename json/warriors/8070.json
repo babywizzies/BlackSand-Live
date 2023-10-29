@@ -1,6 +1,7 @@
 {
-  "idx": "8070",
+  "id": "8070",
   "name": "Casey Disintegrator of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8070",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

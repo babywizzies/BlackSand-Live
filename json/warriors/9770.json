@@ -1,6 +1,7 @@
 {
-  "idx": "9770",
+  "id": "9770",
   "name": "Aspra Render of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9770",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

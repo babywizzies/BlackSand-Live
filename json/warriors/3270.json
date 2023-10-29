@@ -1,6 +1,7 @@
 {
-  "idx": "3270",
+  "id": "3270",
   "name": "Krull Scorcher of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3270",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Flame Thrower",
       "filename": "weapon_flamethrower.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

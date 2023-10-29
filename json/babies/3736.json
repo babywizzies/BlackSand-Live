@@ -1,32 +1,39 @@
 {
+  "id": 3736,
   "name": "Honorable Porto of the Brambles",
   "image": "http://forgottenbabies.com/uri/json/3736.png",
-  "serial": 3736,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_coveralls"
+      "value": "green_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kind_kelt"
+      "value": "kind_kelt",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "raven_feather"
+      "value": "raven_feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7318",
+  "id": "7318",
   "name": "Alexa of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7318",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

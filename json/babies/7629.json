@@ -1,32 +1,39 @@
 {
+  "id": 7629,
   "name": "Cautious Hind of the Grotto",
   "image": "http://forgottenbabies.com/uri/json/7629.png",
-  "serial": 7629,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_swashbuckling_gear"
+      "value": "small_swashbuckling_gear",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_hag"
+      "value": "young_hag",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_orb_wand"
+      "value": "the_orb_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

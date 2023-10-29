@@ -1,52 +1,64 @@
 {
+  "id": 8449,
   "name": "Arcanist Magnus of the Atheneum",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8449.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8449
+      "value": 8449,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Cleric"
+      "value": "Red Cleric",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Red Mamba"
+      "value": "Red Mamba",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Candle of Intuition"
+      "value": "Candle of Intuition",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
+      "value": "Rune of Brass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

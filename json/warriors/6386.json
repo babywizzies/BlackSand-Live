@@ -1,6 +1,7 @@
 {
-  "idx": "6386",
+  "id": "6386",
   "name": "Ned Battler of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6386",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

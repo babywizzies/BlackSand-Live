@@ -1,6 +1,7 @@
 {
-  "idx": "3197",
+  "id": "3197",
   "name": "Arnie Striker of the Sunset",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3197",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

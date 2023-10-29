@@ -1,6 +1,7 @@
 {
-  "idx": "8350",
+  "id": "8350",
   "name": "Khadim Rogue of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8350",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

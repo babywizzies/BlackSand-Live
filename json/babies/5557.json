@@ -1,32 +1,39 @@
 {
+  "id": 5557,
   "name": "Joyful Silas of the Mountain",
   "image": "http://forgottenbabies.com/uri/json/5557.png",
-  "serial": 5557,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_coveralls"
+      "value": "green_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_flaming_skull"
+      "value": "small_flaming_skull",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "lunar_wand"
+      "value": "lunar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

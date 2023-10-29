@@ -1,6 +1,7 @@
 {
-  "idx": "6185",
+  "id": "6185",
   "name": "Maya Sword of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6185",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

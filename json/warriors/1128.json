@@ -1,6 +1,7 @@
 {
-  "idx": "1128",
+  "id": "1128",
   "name": "Samson Bandit of the Underground",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1128",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

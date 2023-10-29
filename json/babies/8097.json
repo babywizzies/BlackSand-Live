@@ -1,32 +1,39 @@
 {
+  "id": 8097,
   "name": "Intuitive Magi of the Gnostics",
   "image": "http://forgottenbabies.com/uri/json/8097.png",
-  "serial": 8097,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_puffy_vest"
+      "value": "green_puffy_vest",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "coven_sister"
+      "value": "coven_sister",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "old_house_key"
+      "value": "old_house_key",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 3623,
   "name": "Shrewd Durm of the Astral Plane",
   "image": "http://forgottenbabies.com/uri/json/3623.png",
-  "serial": 3623,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_seer"
+      "value": "small_seer",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "friendly_fox"
+      "value": "friendly_fox",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "zephyrs_laugh_the_wind_spell"
+      "value": "zephyrs_laugh_the_wind_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

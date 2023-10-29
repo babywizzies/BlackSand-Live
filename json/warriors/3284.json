@@ -1,6 +1,7 @@
 {
-  "idx": "3284",
+  "id": "3284",
   "name": "Helga of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3284",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

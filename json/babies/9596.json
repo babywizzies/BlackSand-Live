@@ -1,32 +1,39 @@
 {
+  "id": 9596,
   "name": "Genius Bobbin of Dreams",
   "image": "http://forgottenbabies.com/uri/json/9596.png",
-  "serial": 9596,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "finicky_formal_suit"
+      "value": "finicky_formal_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_mandinka"
+      "value": "mini_mandinka",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "little_hummingbird"
+      "value": "little_hummingbird",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

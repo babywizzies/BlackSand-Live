@@ -1,32 +1,39 @@
 {
+  "id": 4394,
   "name": "Determined Gogol of the Land",
   "image": "http://forgottenbabies.com/uri/json/4394.png",
-  "serial": 4394,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "childrens_cosmic_cardigan"
+      "value": "childrens_cosmic_cardigan",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_thelemist"
+      "value": "young_thelemist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "jinx_wand"
+      "value": "jinx_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

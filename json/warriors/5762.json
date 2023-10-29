@@ -1,6 +1,7 @@
 {
-  "idx": "5762",
+  "id": "5762",
   "name": "Henry Dispatcher of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5762",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

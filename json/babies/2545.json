@@ -1,32 +1,39 @@
 {
+  "id": 2545,
   "name": "Meticulous Monk of the Citadel",
   "image": "http://forgottenbabies.com/uri/json/2545.png",
-  "serial": 2545,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_kerchif"
+      "value": "orange_kerchif",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_brown_wizard"
+      "value": "baby_brown_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "little_hummingbird"
+      "value": "little_hummingbird",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

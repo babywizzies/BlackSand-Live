@@ -1,6 +1,7 @@
 {
-  "idx": "395",
+  "id": "395",
   "name": "Xander Champion of Doomsday",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/395",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

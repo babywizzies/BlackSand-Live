@@ -1,52 +1,64 @@
 {
+  "id": 1582,
   "name": "Sorcerer Kazem of the Palms",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1582.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1582
+      "value": 1582,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Double Sash"
+      "value": "Double Sash",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Fox Trickster"
+      "value": "Fox Trickster",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Djinn"
+      "value": "Djinn",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Courage Staff"
+      "value": "Courage Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
+      "value": "Rune of Omega",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

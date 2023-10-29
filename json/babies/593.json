@@ -1,32 +1,39 @@
 {
+  "id": 593,
   "name": "Magical Qasim of the Oasis",
   "image": "http://forgottenbabies.com/uri/json/593.png",
-  "serial": 593,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Desert_Wear_Small"
+      "value": "Desert_Wear_Small",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_creol"
+      "value": "young_creol",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_bone_wand"
+      "value": "the_bone_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sigma"
+      "value": "rune_sigma",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

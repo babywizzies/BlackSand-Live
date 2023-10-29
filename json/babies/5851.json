@@ -1,32 +1,39 @@
 {
+  "id": 5851,
   "name": "Optimist Salvatore of the Light",
   "image": "http://forgottenbabies.com/uri/json/5851.png",
-  "serial": 5851,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_purple"
+      "value": "acute_aristocrat_purple",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "studying_cosmic_arcanist"
+      "value": "studying_cosmic_arcanist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bottle_of_milk"
+      "value": "bottle_of_milk",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

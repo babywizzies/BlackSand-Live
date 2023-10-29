@@ -1,6 +1,7 @@
 {
-  "idx": "8022",
+  "id": "8022",
   "name": "Roddrick Waster of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8022",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

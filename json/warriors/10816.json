@@ -1,6 +1,7 @@
 {
-  "idx": "10816",
+  "id": "10816",
   "name": "Draxon Breaker of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10816",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

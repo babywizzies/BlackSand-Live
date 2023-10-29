@@ -1,32 +1,39 @@
 {
+  "id": 7684,
   "name": "Awkward Shivra of the Carnival",
   "image": "http://forgottenbabies.com/uri/json/7684.png",
-  "serial": 7684,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_onesie"
+      "value": "purple_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "fart_chick"
+      "value": "fart_chick",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "old_house_key"
+      "value": "old_house_key",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

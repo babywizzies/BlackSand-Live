@@ -1,32 +1,39 @@
 {
+  "id": 4640,
   "name": "Daring Atlanta of the Brine",
   "image": "http://forgottenbabies.com/uri/json/4640.png",
-  "serial": 4640,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_purple_spandex"
+      "value": "small_purple_spandex",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_red_priestess"
+      "value": "young_red_priestess",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "grape_juicebox"
+      "value": "grape_juicebox",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

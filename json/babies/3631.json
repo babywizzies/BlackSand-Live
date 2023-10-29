@@ -1,32 +1,39 @@
 {
+  "id": 3631,
   "name": "Clumsy Atlas of the Sacred Pillars",
   "image": "http://forgottenbabies.com/uri/json/3631.png",
-  "serial": 3631,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_white_wraith"
+      "value": "little_white_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_yellow_wizard"
+      "value": "young_yellow_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

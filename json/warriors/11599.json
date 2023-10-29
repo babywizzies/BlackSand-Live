@@ -1,6 +1,7 @@
 {
-  "idx": "11599",
+  "id": "11599",
   "name": "Makena Amputator of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11599",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 1130,
   "name": "Illusionist Hobbs of the Obelisk",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1130.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1130
+      "value": 1130,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Scarf"
+      "value": "Green Hip Scarf",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Plague Rat"
+      "value": "Plague Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Fur Gnome"
+      "value": "Fur Gnome",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Aphrodite's Heart: the Love Spell"
+      "value": "Aphrodite's Heart: the Love Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
+      "value": "Rune of Water",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

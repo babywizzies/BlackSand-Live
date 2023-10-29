@@ -1,6 +1,7 @@
 {
-  "idx": "1400",
+  "id": "1400",
   "name": "Althia Slayer of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1400",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

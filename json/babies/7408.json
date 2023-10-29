@@ -1,32 +1,39 @@
 {
+  "id": 7408,
   "name": "Perceptive Aamon of the Hills",
   "image": "http://forgottenbabies.com/uri/json/7408.png",
-  "serial": 7408,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "robe_of_shade"
+      "value": "robe_of_shade",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_swamp_witch"
+      "value": "small_swamp_witch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bag_of_sand"
+      "value": "bag_of_sand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

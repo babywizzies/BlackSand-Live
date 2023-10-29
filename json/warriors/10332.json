@@ -1,6 +1,7 @@
 {
-  "idx": "10332",
+  "id": "10332",
   "name": "Zoe of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10332",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

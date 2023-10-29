@@ -1,6 +1,7 @@
 {
-  "idx": "11623",
+  "id": "11623",
   "name": "Fang Disintegrator of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11623",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Pirate Sword",
       "filename": "weapon_sword_pirate.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

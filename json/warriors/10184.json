@@ -1,6 +1,7 @@
 {
-  "idx": "10184",
+  "id": "10184",
   "name": "Kaz Amputator of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10184",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

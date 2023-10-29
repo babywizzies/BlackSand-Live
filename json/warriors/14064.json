@@ -1,6 +1,7 @@
 {
-  "idx": "14064",
+  "id": "14064",
   "name": "Crom Attacker of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14064",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Magic Shield",
       "filename": "shield_magic.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

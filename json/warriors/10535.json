@@ -1,6 +1,7 @@
 {
-  "idx": "10535",
+  "id": "10535",
   "name": "Barret Champion of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10535",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

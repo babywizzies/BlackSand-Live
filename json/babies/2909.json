@@ -1,32 +1,39 @@
 {
+  "id": 2909,
   "name": "Clumsy Lumos of Mu",
   "image": "http://forgottenbabies.com/uri/json/2909.png",
-  "serial": 2909,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_swashbuckling_gear"
+      "value": "small_swashbuckling_gear",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_red_wizard"
+      "value": "little_red_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kelpies_fury_the_water_spell"
+      "value": "kelpies_fury_the_water_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_omega"
+      "value": "rune_omega",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

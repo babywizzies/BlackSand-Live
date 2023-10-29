@@ -1,6 +1,7 @@
 {
-  "idx": "5351",
+  "id": "5351",
   "name": "Narfi Dicer of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5351",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

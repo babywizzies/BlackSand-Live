@@ -1,6 +1,7 @@
 {
-  "idx": "11844",
+  "id": "11844",
   "name": "Charles Cleaver of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11844",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

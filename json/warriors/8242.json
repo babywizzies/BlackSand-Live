@@ -1,6 +1,7 @@
 {
-  "idx": "8242",
+  "id": "8242",
   "name": "Monty Wounder of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8242",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

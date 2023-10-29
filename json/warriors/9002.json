@@ -1,6 +1,7 @@
 {
-  "idx": "9002",
+  "id": "9002",
   "name": "Crash Dueler of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9002",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

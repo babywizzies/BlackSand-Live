@@ -1,6 +1,7 @@
 {
-  "idx": "3512",
+  "id": "3512",
   "name": "Imani Lumper of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3512",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

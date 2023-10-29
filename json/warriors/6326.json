@@ -1,6 +1,7 @@
 {
-  "idx": "6326",
+  "id": "6326",
   "name": "Myla of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6326",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

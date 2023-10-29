@@ -1,6 +1,7 @@
 {
-  "idx": "8096",
+  "id": "8096",
   "name": "Leona Chopper of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8096",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

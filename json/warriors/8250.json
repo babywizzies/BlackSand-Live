@@ -1,6 +1,7 @@
 {
-  "idx": "8250",
+  "id": "8250",
   "name": "Amara Ruin of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8250",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

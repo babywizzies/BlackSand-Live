@@ -1,6 +1,7 @@
 {
-  "idx": "10705",
+  "id": "10705",
   "name": "Xiulin Cataclysm of Thunder Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10705",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8304",
+  "id": "8304",
   "name": "Rudolph Cataclysm of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8304",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

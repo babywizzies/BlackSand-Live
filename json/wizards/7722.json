@@ -1,52 +1,64 @@
 {
+  "id": 7722,
   "name": "Cryptomancer Aiko of the Moors",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7722.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7722
+      "value": 7722,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Coveralls"
+      "value": "Blue Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Ember Frog"
+      "value": "Ember Frog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kabuki "
+      "value": "Kabuki ",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Solar Staff"
+      "value": "Solar Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
+      "value": "Rune of Neptune",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

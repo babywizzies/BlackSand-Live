@@ -1,6 +1,7 @@
 {
-  "idx": "4213",
+  "id": "4213",
   "name": "Grimmold Eliminator of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4213",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

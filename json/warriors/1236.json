@@ -1,6 +1,7 @@
 {
-  "idx": "1236",
+  "id": "1236",
   "name": "Marcellus Chopper of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1236",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

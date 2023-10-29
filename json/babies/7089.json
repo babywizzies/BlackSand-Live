@@ -1,32 +1,39 @@
 {
+  "id": 7089,
   "name": "Logical Gourdon of the Isle",
   "image": "http://forgottenbabies.com/uri/json/7089.png",
-  "serial": 7089,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "sweet_tracksuit"
+      "value": "sweet_tracksuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_death_eater"
+      "value": "young_death_eater",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mario_flytrap"
+      "value": "mario_flytrap",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "4090",
+  "id": "4090",
   "name": "Draxon Razer of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4090",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

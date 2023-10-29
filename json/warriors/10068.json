@@ -1,6 +1,7 @@
 {
-  "idx": "10068",
+  "id": "10068",
   "name": "Drulek Lacerator of the Good Luck Squad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10068",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

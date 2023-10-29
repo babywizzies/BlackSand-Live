@@ -1,6 +1,7 @@
 {
-  "idx": "15601",
+  "id": "15601",
   "name": "Bane Killer of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15601",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

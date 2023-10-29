@@ -1,6 +1,7 @@
 {
-  "idx": "12662",
+  "id": "12662",
   "name": "Abaddon Champion of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12662",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

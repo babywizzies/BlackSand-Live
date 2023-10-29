@@ -1,32 +1,39 @@
 {
+  "id": 5762,
   "name": "Romantic Azahl of the Atheneum",
   "image": "http://forgottenbabies.com/uri/json/5762.png",
-  "serial": 5762,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_child_choir_robe"
+      "value": "green_child_choir_robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_punjabi"
+      "value": "young_punjabi",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_sturdy_twig"
+      "value": "a_sturdy_twig",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 2077,
   "name": "Insightful Monk of the Cosmos",
   "image": "http://forgottenbabies.com/uri/json/2077.png",
-  "serial": 2077,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "oversized_snowsuit"
+      "value": "oversized_snowsuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_diviner"
+      "value": "tiny_diviner",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ruby_wand"
+      "value": "ruby_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

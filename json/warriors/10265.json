@@ -1,6 +1,7 @@
 {
-  "idx": "10265",
+  "id": "10265",
   "name": "Moka Grinder of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10265",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

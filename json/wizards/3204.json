@@ -1,52 +1,64 @@
 {
+  "id": 3204,
   "name": "Shadow Mage Marceline of the Grotto",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3204.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3204
+      "value": 3204,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Pouch"
+      "value": "Green Hip Pouch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Red Mamba"
+      "value": "Red Mamba",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wild Woman"
+      "value": "Wild Woman",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Salamander's Tongue: the Fire Spell"
+      "value": "Salamander's Tongue: the Fire Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
+      "value": "Rune of Brass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

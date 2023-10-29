@@ -1,6 +1,7 @@
 {
-  "idx": "13502",
+  "id": "13502",
   "name": "Oliver Eradicator of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13502",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Purple Longsword",
       "filename": "weapon_longsword_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

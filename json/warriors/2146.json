@@ -1,6 +1,7 @@
 {
-  "idx": "2146",
+  "id": "2146",
   "name": "Mei Champion of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2146",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "4135",
+  "id": "4135",
   "name": "Saiya Render of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4135",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

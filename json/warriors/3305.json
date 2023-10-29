@@ -1,6 +1,7 @@
 {
-  "idx": "3305",
+  "id": "3305",
   "name": "Aurelia Piercer of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3305",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

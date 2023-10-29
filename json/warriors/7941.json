@@ -1,6 +1,7 @@
 {
-  "idx": "7941",
+  "id": "7941",
   "name": "Koffi Fencer of the Underground",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7941",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

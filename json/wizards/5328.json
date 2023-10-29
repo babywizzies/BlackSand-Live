@@ -1,48 +1,59 @@
 {
+  "id": 5328,
   "name": "Alchemist Angus of the Wold",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5328.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5328
+      "value": 5328,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Lined Coveralls "
+      "value": "Blue Lined Coveralls ",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Topaz Slime"
+      "value": "Topaz Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "WereBeast"
+      "value": "WereBeast",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Mug of Ale"
+      "value": "Mug of Ale",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6081",
+  "id": "6081",
   "name": "Silas Assaulter of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6081",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

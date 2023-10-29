@@ -1,6 +1,7 @@
 {
-  "idx": "15267",
+  "id": "15267",
   "name": "Diana Hero of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15267",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

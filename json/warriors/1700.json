@@ -1,6 +1,7 @@
 {
-  "idx": "1700",
+  "id": "1700",
   "name": "Rufus Crusher of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1700",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

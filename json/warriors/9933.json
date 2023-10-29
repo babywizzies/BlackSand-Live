@@ -1,6 +1,7 @@
 {
-  "idx": "9933",
+  "id": "9933",
   "name": "Margarita Paragon of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9933",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

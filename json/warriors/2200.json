@@ -1,6 +1,7 @@
 {
-  "idx": "2200",
+  "id": "2200",
   "name": "Esther Peacemaker of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2200",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 7491,
   "name": "Young Atlas of the Woodlands",
   "image": "http://forgottenbabies.com/uri/json/7491.png",
-  "serial": 7491,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_gray_tunic"
+      "value": "tiny_gray_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_green_wizard"
+      "value": "little_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_lollipop"
+      "value": "chocolate_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 6422,
   "name": "Magical Huan of the Reach",
   "image": "http://forgottenbabies.com/uri/json/6422.png",
-  "serial": 6422,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_coveralls"
+      "value": "green_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_canaanite"
+      "value": "young_canaanite",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "heavy_scythe"
+      "value": "heavy_scythe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

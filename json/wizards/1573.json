@@ -1,52 +1,64 @@
 {
+  "id": 1573,
   "name": "Shaman Talbot of the Mist",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1573.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1573
+      "value": 1573,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Cleric"
+      "value": "Red Cleric",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Field Dog"
+      "value": "Field Dog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Swashbuckler"
+      "value": "Swashbuckler",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Ruby Staff"
+      "value": "Ruby Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
+      "value": "Rune of Air",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

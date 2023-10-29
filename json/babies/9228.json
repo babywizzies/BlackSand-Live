@@ -1,32 +1,39 @@
 {
+  "id": 9228,
   "name": "Cutie Cullen of the Bastion",
   "image": "http://forgottenbabies.com/uri/json/9228.png",
-  "serial": 9228,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_blue"
+      "value": "child_cleric_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_seer"
+      "value": "small_seer",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "hobgoblins_flame_the_wayward_spell"
+      "value": "hobgoblins_flame_the_wayward_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 4095,
   "name": "Focused Bartholomew of Arcadia",
   "image": "http://forgottenbabies.com/uri/json/4095.png",
-  "serial": 4095,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_yellow"
+      "value": "child_cleric_yellow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_green_wizard"
+      "value": "young_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "brahmans_breath_the_life_spell"
+      "value": "brahmans_breath_the_life_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sigma"
+      "value": "rune_sigma",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

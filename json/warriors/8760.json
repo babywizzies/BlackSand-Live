@@ -1,6 +1,7 @@
 {
-  "idx": "8760",
+  "id": "8760",
   "name": "Serge Belligerent of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8760",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13229",
+  "id": "13229",
   "name": "Zula Eidolon of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13229",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

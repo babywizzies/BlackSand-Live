@@ -1,6 +1,7 @@
 {
-  "idx": "2545",
+  "id": "2545",
   "name": "Thorne Impaler of the Glitch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2545",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

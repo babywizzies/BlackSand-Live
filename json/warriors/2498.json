@@ -1,6 +1,7 @@
 {
-  "idx": "2498",
+  "id": "2498",
   "name": "Aloros Cleaver of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2498",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

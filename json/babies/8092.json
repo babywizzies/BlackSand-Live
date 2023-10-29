@@ -1,32 +1,39 @@
 {
+  "id": 8092,
   "name": "Confident Burnside of the Sea",
   "image": "http://forgottenbabies.com/uri/json/8092.png",
-  "serial": 8092,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "young_scarecrow"
+      "value": "young_scarecrow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "grumpy_gruffling"
+      "value": "grumpy_gruffling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_marbles"
+      "value": "tiny_marbles",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12486",
+  "id": "12486",
   "name": "Lorthar Crumbler of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12486",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

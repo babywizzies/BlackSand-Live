@@ -1,44 +1,54 @@
 {
+  "id": 8379,
   "name": "Archmagus Ofaris of the Bibliotheca",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8379.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8379
+      "value": 8379,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Cleric"
+      "value": "Red Cleric",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hermit"
+      "value": "Hermit",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Lucky Horseshoe"
+      "value": "Lucky Horseshoe",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8945",
+  "id": "8945",
   "name": "Guy Champion of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8945",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 3599,
   "name": "Alchemist Xerxes of Alfheim",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3599.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3599
+      "value": 3599,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Elven Cloak"
+      "value": "Green Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Crackerjack Crow"
+      "value": "Crackerjack Crow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Rogue Arcanist"
+      "value": "Rogue Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Passion Potion"
+      "value": "Passion Potion",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
+      "value": "Rune of Sun",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

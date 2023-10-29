@@ -1,32 +1,39 @@
 {
+  "id": 4270,
   "name": "Ambitious Seth of the Court",
   "image": "http://forgottenbabies.com/uri/json/4270.png",
-  "serial": 4270,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "studying_dark_arcanist"
+      "value": "studying_dark_arcanist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

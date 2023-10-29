@@ -1,32 +1,39 @@
 {
+  "id": 4437,
   "name": "Philosphical Dwarzgarth of the Grotto",
   "image": "http://forgottenbabies.com/uri/json/4437.png",
-  "serial": 4437,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_white_wraith"
+      "value": "little_white_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "botanical_boy"
+      "value": "botanical_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

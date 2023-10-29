@@ -1,6 +1,7 @@
 {
-  "idx": "15535",
+  "id": "15535",
   "name": "Lethal Deadly Venom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15535",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Night Razor",
       "filename": "weapon_sword_razor.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

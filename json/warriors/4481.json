@@ -1,6 +1,7 @@
 {
-  "idx": "4481",
+  "id": "4481",
   "name": "Octavius Striker of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4481",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 1353,
   "name": "Focused Bolin of the Wold",
   "image": "http://forgottenbabies.com/uri/json/1353.png",
-  "serial": 1353,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_jester_cape"
+      "value": "green_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_hag"
+      "value": "young_hag",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "grape_juicebox"
+      "value": "grape_juicebox",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_brimstone"
+      "value": "rune_of_brimstone",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

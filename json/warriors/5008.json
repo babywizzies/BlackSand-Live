@@ -1,6 +1,7 @@
 {
-  "idx": "5008",
+  "id": "5008",
   "name": "Flamma Defeater of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5008",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

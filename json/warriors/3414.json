@@ -1,6 +1,7 @@
 {
-  "idx": "3414",
+  "id": "3414",
   "name": "Cage Dueler of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3414",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

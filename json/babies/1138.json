@@ -1,24 +1,29 @@
 {
+  "id": 1138,
   "name": "Luke from the Sands",
   "image": "https://forgottenbabies.com/uri/json/1388.png",
-  "serial": 1138,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "jedeye_tunic"
+      "value": "jedeye_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "luke"
+      "value": "luke",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "lightdagger"
+      "value": "lightdagger",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

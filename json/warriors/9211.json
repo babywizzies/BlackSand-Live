@@ -1,6 +1,7 @@
 {
-  "idx": "9211",
+  "id": "9211",
   "name": "Glork Cleaver of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9211",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

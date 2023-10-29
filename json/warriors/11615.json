@@ -1,6 +1,7 @@
 {
-  "idx": "11615",
+  "id": "11615",
   "name": "Allan Raider of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11615",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

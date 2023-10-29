@@ -1,6 +1,7 @@
 {
-  "idx": "2448",
+  "id": "2448",
   "name": "Clubber Obliterator of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2448",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Spiked Ball bat",
       "filename": "weapon_ballbat.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

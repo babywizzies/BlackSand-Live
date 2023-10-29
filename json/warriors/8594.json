@@ -1,6 +1,7 @@
 {
-  "idx": "8594",
+  "id": "8594",
   "name": "Baako Annihilator of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8594",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

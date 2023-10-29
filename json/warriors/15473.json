@@ -1,6 +1,7 @@
 {
-  "idx": "15473",
+  "id": "15473",
   "name": "Stormand Striker of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15473",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

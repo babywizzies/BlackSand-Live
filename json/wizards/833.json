@@ -1,44 +1,54 @@
 {
+  "id": 833,
   "name": "Druid Silas of the Mist",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/833.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 833
+      "value": 833,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Cleric"
+      "value": "Yellow Cleric",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hermit"
+      "value": "Hermit",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Shaman's Peyote"
+      "value": "Shaman's Peyote",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

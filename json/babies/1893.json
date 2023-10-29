@@ -1,32 +1,39 @@
 {
+  "id": 1893,
   "name": "Zestful Akron of the Sea",
   "image": "http://forgottenbabies.com/uri/json/1893.png",
-  "serial": 1893,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "puny_poncho"
+      "value": "puny_poncho",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_djinn"
+      "value": "young_djinn",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "nightshade_lollipop"
+      "value": "nightshade_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

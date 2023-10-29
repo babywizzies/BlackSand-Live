@@ -1,32 +1,39 @@
 {
+  "id": 449,
   "name": "Reliable Eric of the Berg",
   "image": "http://forgottenbabies.com/uri/json/449.png",
-  "serial": 449,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_white_wraith"
+      "value": "little_white_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_faustian"
+      "value": "young_faustian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_crystal_ball"
+      "value": "tiny_crystal_ball",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

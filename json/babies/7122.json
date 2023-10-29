@@ -1,32 +1,39 @@
 {
+  "id": 7122,
   "name": "Generous Nassif of the Shadow",
   "image": "http://forgottenbabies.com/uri/json/7122.png",
-  "serial": 7122,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Desert_Wear_Small"
+      "value": "Desert_Wear_Small",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_blue_wizard"
+      "value": "baby_blue_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "little_hummingbird"
+      "value": "little_hummingbird",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "joy_wand"
+      "value": "joy_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

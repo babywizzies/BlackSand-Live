@@ -1,6 +1,7 @@
 {
-  "idx": "11229",
+  "id": "11229",
   "name": "Valda Battler of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11229",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

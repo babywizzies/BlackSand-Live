@@ -1,6 +1,7 @@
 {
-  "idx": "2205",
+  "id": "2205",
   "name": "Valadin Trimmer of the Good Luck Squad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2205",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

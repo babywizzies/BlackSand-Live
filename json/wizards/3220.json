@@ -1,52 +1,64 @@
 {
+  "id": 3220,
   "name": "Arcanist Dr. Death of the Ether",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3220.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3220
+      "value": 3220,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Tech Coat"
+      "value": "Tech Coat",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Mesozoic Cockatrice"
+      "value": "Mesozoic Cockatrice",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Cyborg Skeleton Rogue"
+      "value": "Cyborg Skeleton Rogue",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Golden Soul Reaper"
+      "value": "Golden Soul Reaper",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Wraith"
+      "value": "Wraith",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

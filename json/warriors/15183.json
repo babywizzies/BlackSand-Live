@@ -1,6 +1,7 @@
 {
-  "idx": "15183",
+  "id": "15183",
   "name": "Boris Mercenary of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15183",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

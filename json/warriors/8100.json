@@ -1,6 +1,7 @@
 {
-  "idx": "8100",
+  "id": "8100",
   "name": "Bane Dispatcher of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8100",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

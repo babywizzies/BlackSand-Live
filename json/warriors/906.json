@@ -1,6 +1,7 @@
 {
-  "idx": "906",
+  "id": "906",
   "name": "Truffkin Antihero of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/906",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

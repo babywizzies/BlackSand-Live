@@ -1,6 +1,7 @@
 {
-  "idx": "6138",
+  "id": "6138",
   "name": "Smokey Contaminator of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6138",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Malachite Dragon Pike",
       "filename": "weapon_dragonpike_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

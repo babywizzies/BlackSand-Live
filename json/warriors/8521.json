@@ -1,6 +1,7 @@
 {
-  "idx": "8521",
+  "id": "8521",
   "name": "Isane Marauder of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8521",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

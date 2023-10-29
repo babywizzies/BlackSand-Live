@@ -1,32 +1,39 @@
 {
+  "id": 7838,
   "name": "Delightful Khudalf of Limbo",
   "image": "http://forgottenbabies.com/uri/json/7838.png",
-  "serial": 7838,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Green_Shoulder_Cape"
+      "value": "Small_Green_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_white_wizard"
+      "value": "small_white_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_marbles"
+      "value": "tiny_marbles",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

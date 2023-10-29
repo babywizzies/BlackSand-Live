@@ -1,6 +1,7 @@
 {
-  "idx": "3485",
+  "id": "3485",
   "name": "Glorf Stabber of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3485",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Aspis",
       "filename": "shield_circle_cross_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

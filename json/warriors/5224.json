@@ -1,6 +1,7 @@
 {
-  "idx": "5224",
+  "id": "5224",
   "name": "Wako Eidolon of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5224",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

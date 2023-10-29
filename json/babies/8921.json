@@ -1,32 +1,39 @@
 {
+  "id": 8921,
   "name": "Intellectual Ifran of the Reach",
   "image": "http://forgottenbabies.com/uri/json/8921.png",
-  "serial": 8921,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "brown_puffy_pants"
+      "value": "brown_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_witch"
+      "value": "little_witch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_milk"
+      "value": "chocolate_milk",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

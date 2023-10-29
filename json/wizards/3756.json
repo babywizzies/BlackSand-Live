@@ -1,48 +1,59 @@
 {
+  "id": 3756,
   "name": "Archmagus Amir of the Pit",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3756.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3756
+      "value": 3756,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Black Wraith"
+      "value": "Black Wraith",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Bliss Cat"
+      "value": "Bliss Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wicked Wizard"
+      "value": "Wicked Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Prometheus's Torch"
+      "value": "Prometheus's Torch",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

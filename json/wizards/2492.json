@@ -1,52 +1,64 @@
 {
+  "id": 2492,
   "name": "Battle Mage Durm of the Mountain",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2492.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2492
+      "value": 2492,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Coveralls"
+      "value": "White Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Dirt Rabbit"
+      "value": "Dirt Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Medicine Man"
+      "value": "Medicine Man",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Emerald Staff"
+      "value": "Emerald Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
+      "value": "Rune of Uranus",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

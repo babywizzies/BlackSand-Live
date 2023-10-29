@@ -1,6 +1,7 @@
 {
-  "idx": "1367",
+  "id": "1367",
   "name": "Homer Champion of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1367",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

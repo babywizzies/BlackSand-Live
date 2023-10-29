@@ -1,32 +1,39 @@
 {
+  "id": 7819,
   "name": "Perceptive Cassius of the River",
   "image": "http://forgottenbabies.com/uri/json/7819.png",
-  "serial": 7819,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "argyle_sweater"
+      "value": "argyle_sweater",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wildboy"
+      "value": "wildboy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "kitten_of_the_sun"
+      "value": "kitten_of_the_sun",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fresh_egg"
+      "value": "fresh_egg",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

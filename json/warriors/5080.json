@@ -1,6 +1,7 @@
 {
-  "idx": "5080",
+  "id": "5080",
   "name": "Romney Apocalypse of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5080",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

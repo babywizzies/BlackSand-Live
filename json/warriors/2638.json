@@ -1,6 +1,7 @@
 {
-  "idx": "2638",
+  "id": "2638",
   "name": "Ryker Paragon of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2638",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

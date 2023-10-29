@@ -1,48 +1,59 @@
 {
+  "id": 1488,
   "name": "Artificer Jaffer of the Cosmos",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1488.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1488
+      "value": 1488,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Grey Tunic"
+      "value": "Grey Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Dream Master"
+      "value": "Dream Master",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Key of the 7th Realm"
+      "value": "Key of the 7th Realm",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

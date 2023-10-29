@@ -1,32 +1,39 @@
 {
+  "id": 9024,
   "name": "Brave Rock of the Circle",
   "image": "http://forgottenbabies.com/uri/json/9024.png",
-  "serial": 9024,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "puny_poncho"
+      "value": "puny_poncho",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "lil_mambo"
+      "value": "lil_mambo",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_green_mushroom"
+      "value": "mini_green_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

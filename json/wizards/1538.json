@@ -1,52 +1,64 @@
 {
+  "id": 1538,
   "name": "Battle Mage Brutus of the Sacred Pillars",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1538.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1538
+      "value": 1538,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orange Hip Scarf "
+      "value": "Orange Hip Scarf ",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Merlin's Monkey"
+      "value": "Merlin's Monkey",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Medicine Man"
+      "value": "Medicine Man",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Thor's Wrath: the Lightning Spell"
+      "value": "Thor's Wrath: the Lightning Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
+      "value": "Rune of Sun",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Orange"
+      "value": "Orange",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

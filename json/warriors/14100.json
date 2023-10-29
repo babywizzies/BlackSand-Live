@@ -1,6 +1,7 @@
 {
-  "idx": "14100",
+  "id": "14100",
   "name": "Koffi Shark of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14100",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

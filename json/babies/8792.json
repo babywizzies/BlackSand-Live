@@ -1,32 +1,39 @@
 {
+  "id": 8792,
   "name": "Cheerful Brutus of El Dorado",
   "image": "http://forgottenbabies.com/uri/json/8792.png",
-  "serial": 8792,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "white_koveralls"
+      "value": "white_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_stranger"
+      "value": "smol_stranger",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

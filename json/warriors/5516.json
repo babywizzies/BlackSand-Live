@@ -1,6 +1,7 @@
 {
-  "idx": "5516",
+  "id": "5516",
   "name": "Millicent Scoundrel of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5516",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

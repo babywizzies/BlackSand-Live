@@ -1,32 +1,39 @@
 {
+  "id": 7624,
   "name": "Fearless Devin of the Reach",
   "image": "http://forgottenbabies.com/uri/json/7624.png",
-  "serial": 7624,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_lined_coveralls_blue"
+      "value": "little_lined_coveralls_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_wooden_boy"
+      "value": "small_wooden_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mini_red_mamba"
+      "value": "mini_red_mamba",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mario_flytrap"
+      "value": "mario_flytrap",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

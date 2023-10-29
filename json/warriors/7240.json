@@ -1,6 +1,7 @@
 {
-  "idx": "7240",
+  "id": "7240",
   "name": "Werner Marauder of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7240",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

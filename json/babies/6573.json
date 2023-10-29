@@ -1,32 +1,39 @@
 {
+  "id": 6573,
   "name": "Enchanting Atlanta of the Keep",
   "image": "http://forgottenbabies.com/uri/json/6573.png",
-  "serial": 6573,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_tiny_caped_traveller"
+      "value": "green_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "arcadian_apprentice"
+      "value": "arcadian_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "kitten_of_the_sun"
+      "value": "kitten_of_the_sun",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

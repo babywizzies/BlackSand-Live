@@ -1,32 +1,39 @@
 {
+  "id": 9406,
   "name": "Energetic Bathsheba of the Ball",
   "image": "http://forgottenbabies.com/uri/json/9406.png",
-  "serial": 9406,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "robe_of_shade"
+      "value": "robe_of_shade",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "lil_mambo"
+      "value": "lil_mambo",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "rosebud"
+      "value": "rosebud",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_up"
+      "value": "rune_up",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

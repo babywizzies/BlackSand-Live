@@ -1,6 +1,7 @@
 {
-  "idx": "3299",
+  "id": "3299",
   "name": "Erim Marauder of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3299",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

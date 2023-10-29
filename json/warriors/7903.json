@@ -1,6 +1,7 @@
 {
-  "idx": "7903",
+  "id": "7903",
   "name": "Maud Champion of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7903",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

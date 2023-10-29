@@ -1,44 +1,54 @@
 {
+  "id": 1380,
   "name": "Chronomancer Zane of the Obelisk",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1380.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1380
+      "value": 1380,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Juniper Shoulder Cape"
+      "value": "Juniper Shoulder Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Professor"
+      "value": "Professor",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Sphinx's Hourglass"
+      "value": "Sphinx's Hourglass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

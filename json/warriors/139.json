@@ -1,6 +1,7 @@
 {
-  "idx": "139",
+  "id": "139",
   "name": "Charlie Blaster of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/139",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Wooden Hammer",
       "filename": "weapon_hammer_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

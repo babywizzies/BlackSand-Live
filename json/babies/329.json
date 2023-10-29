@@ -1,32 +1,39 @@
 {
+  "id": 329,
   "name": "Enchanting Aldo of the North",
   "image": "http://forgottenbabies.com/uri/json/329.png",
-  "serial": 329,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_scholar"
+      "value": "smol_scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_orb_wand"
+      "value": "the_orb_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

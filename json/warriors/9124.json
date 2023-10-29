@@ -1,6 +1,7 @@
 {
-  "idx": "9124",
+  "id": "9124",
   "name": "Ash Contaminator of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9124",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "South Sider",
       "filename": "head_rockmov.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

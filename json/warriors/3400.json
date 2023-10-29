@@ -1,6 +1,7 @@
 {
-  "idx": "3400",
+  "id": "3400",
   "name": "Tora Lacerator of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3400",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sol Sword",
       "filename": "weapon_sword_jewel_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

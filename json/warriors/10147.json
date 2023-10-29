@@ -1,6 +1,7 @@
 {
-  "idx": "10147",
+  "id": "10147",
   "name": "Ragnar Protector of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10147",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

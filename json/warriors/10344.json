@@ -1,6 +1,7 @@
 {
-  "idx": "10344",
+  "id": "10344",
   "name": "Rico Guardian of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10344",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

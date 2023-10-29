@@ -1,6 +1,7 @@
 {
-  "idx": "5605",
+  "id": "5605",
   "name": "Charles Champion of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5605",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

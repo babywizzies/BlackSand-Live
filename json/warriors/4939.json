@@ -1,6 +1,7 @@
 {
-  "idx": "4939",
+  "id": "4939",
   "name": "Gruttle Render of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4939",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

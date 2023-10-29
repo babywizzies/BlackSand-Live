@@ -1,52 +1,64 @@
 {
+  "id": 2552,
   "name": "Archmagus Homer of the Villa",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2552.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2552
+      "value": 2552,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orange Caped Traveller"
+      "value": "Orange Caped Traveller",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Green Asp"
+      "value": "Green Asp",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Woodland Shapeshifter"
+      "value": "Woodland Shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Courage Staff"
+      "value": "Courage Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
+      "value": "Rune of Jupiter",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Forest"
+      "value": "Forest",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

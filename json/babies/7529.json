@@ -1,32 +1,39 @@
 {
+  "id": 7529,
   "name": "Eager Gaspard of the Atheneum",
   "image": "http://forgottenbabies.com/uri/json/7529.png",
-  "serial": 7529,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_jester_cape"
+      "value": "blue_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_koopling"
+      "value": "young_koopling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_crystal_ball"
+      "value": "tiny_crystal_ball",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 8409,
   "name": "Curious Auguste of the Cosmos",
   "image": "http://forgottenbabies.com/uri/json/8409.png",
-  "serial": 8409,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_animist"
+      "value": "young_animist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fairy_glamour_the_dazzle_spell"
+      "value": "fairy_glamour_the_dazzle_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

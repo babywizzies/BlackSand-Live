@@ -1,6 +1,7 @@
 {
-  "idx": "4222",
+  "id": "4222",
   "name": "Shart Dispatcher of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4222",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

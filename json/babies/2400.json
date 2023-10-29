@@ -1,32 +1,39 @@
 {
+  "id": 2400,
   "name": "Helpful Gourdon of the Moors",
   "image": "http://forgottenbabies.com/uri/json/2400.png",
-  "serial": 2400,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_jester_cape"
+      "value": "green_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_shaolin"
+      "value": "small_shaolin",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "swamp_tadpoole"
+      "value": "swamp_tadpoole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

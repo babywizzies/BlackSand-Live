@@ -1,6 +1,7 @@
 {
-  "idx": "901",
+  "id": "901",
   "name": "Chase Savior of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/901",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

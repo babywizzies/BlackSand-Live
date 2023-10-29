@@ -1,6 +1,7 @@
 {
-  "idx": "4215",
+  "id": "4215",
   "name": "Gibil Wounder of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4215",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

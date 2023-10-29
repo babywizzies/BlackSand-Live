@@ -1,6 +1,7 @@
 {
-  "idx": "12625",
+  "id": "12625",
   "name": "Boarhead Thief of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12625",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

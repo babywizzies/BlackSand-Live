@@ -1,6 +1,7 @@
 {
-  "idx": "5230",
+  "id": "5230",
   "name": "Turbo Executor of the Canyon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5230",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

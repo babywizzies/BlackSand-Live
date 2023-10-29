@@ -1,6 +1,7 @@
 {
-  "idx": "14048",
+  "id": "14048",
   "name": "Tumelo of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14048",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Mug of Ale",
       "filename": "item_ale.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5825",
+  "id": "5825",
   "name": "Riggs Cleaver of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5825",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

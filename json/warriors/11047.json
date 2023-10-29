@@ -1,6 +1,7 @@
 {
-  "idx": "11047",
+  "id": "11047",
   "name": "Jett Piercer of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11047",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

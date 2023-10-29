@@ -1,6 +1,7 @@
 {
-  "idx": "12000",
+  "id": "12000",
   "name": "Heracles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12000",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Club of Heracles",
       "filename": "weapon_heraclesclub.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

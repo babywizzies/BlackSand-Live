@@ -1,6 +1,7 @@
 {
-  "idx": "12102",
+  "id": "12102",
   "name": "Bardora Cataclysm of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12102",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Aspis",
       "filename": "shield_circle_cross_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

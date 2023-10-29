@@ -1,6 +1,7 @@
 {
-  "idx": "5356",
+  "id": "5356",
   "name": "Tracy Champion of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5356",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rogue Falchion",
       "filename": "weapon_sword_falchion_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

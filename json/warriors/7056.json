@@ -1,6 +1,7 @@
 {
-  "idx": "7056",
+  "id": "7056",
   "name": "Baako Protector of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7056",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

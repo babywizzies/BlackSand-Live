@@ -1,32 +1,39 @@
 {
+  "id": 5594,
   "name": "Amusing Bartholomew of the Leap",
   "image": "http://forgottenbabies.com/uri/json/5594.png",
-  "serial": 5594,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_dream_master"
+      "value": "mini_dream_master",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_single_candle"
+      "value": "a_single_candle",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

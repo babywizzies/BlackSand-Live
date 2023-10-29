@@ -1,6 +1,7 @@
 {
-  "idx": "12340",
+  "id": "12340",
   "name": "Shookle Nailer of Gross Gorge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12340",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

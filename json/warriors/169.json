@@ -1,6 +1,7 @@
 {
-  "idx": "169",
+  "id": "169",
   "name": "Javier Dissector of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/169",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

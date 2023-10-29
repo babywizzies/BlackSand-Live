@@ -1,52 +1,64 @@
 {
+  "id": 8224,
   "name": "Arcanist Milton of El Dorado",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8224.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8224
+      "value": 8224,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Gold Chain"
+      "value": "Gold Chain",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Cloud Prophet"
+      "value": "Cloud Prophet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Lunar Staff"
+      "value": "Lunar Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
+      "value": "Rune of Brass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

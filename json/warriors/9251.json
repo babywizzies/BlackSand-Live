@@ -1,6 +1,7 @@
 {
-  "idx": "9251",
+  "id": "9251",
   "name": "Tootles Attacker of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9251",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

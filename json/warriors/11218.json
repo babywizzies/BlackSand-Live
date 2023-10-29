@@ -1,6 +1,7 @@
 {
-  "idx": "11218",
+  "id": "11218",
   "name": "Dullahan Blade of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11218",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Aurelian Double Blade",
       "filename": "weapon_doubleblade_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

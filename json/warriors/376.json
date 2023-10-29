@@ -1,6 +1,7 @@
 {
-  "idx": "376",
+  "id": "376",
   "name": "Isabella of the Fey",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/376",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3015",
+  "id": "3015",
   "name": "Doyle Impaler of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3015",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

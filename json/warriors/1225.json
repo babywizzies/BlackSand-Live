@@ -1,6 +1,7 @@
 {
-  "idx": "1225",
+  "id": "1225",
   "name": "Harral Despoiler of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1225",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

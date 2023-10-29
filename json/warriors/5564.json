@@ -1,6 +1,7 @@
 {
-  "idx": "5564",
+  "id": "5564",
   "name": "Imu Stabber of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5564",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

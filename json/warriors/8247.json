@@ -1,6 +1,7 @@
 {
-  "idx": "8247",
+  "id": "8247",
   "name": "Mack Mincer of the Brine",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8247",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

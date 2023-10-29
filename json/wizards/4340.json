@@ -1,44 +1,54 @@
 {
+  "id": 4340,
   "name": "Cleric Baptiste of El Dorado",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4340.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4340
+      "value": 4340,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Aristocrat Green"
+      "value": "Aristocrat Green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Creol"
+      "value": "Creol",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "The Orb Staff"
+      "value": "The Orb Staff",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Creol"
+      "value": "Creol",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "33"
+      "value": "33",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

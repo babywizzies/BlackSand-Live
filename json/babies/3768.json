@@ -1,32 +1,39 @@
 {
+  "id": 3768,
   "name": "Leader Chandler of the Isle",
   "image": "http://forgottenbabies.com/uri/json/3768.png",
-  "serial": 3768,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_blue"
+      "value": "child_cleric_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wild_warlock"
+      "value": "wild_warlock",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_bone_wand"
+      "value": "the_bone_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_down"
+      "value": "rune_of_down",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

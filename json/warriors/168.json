@@ -1,6 +1,7 @@
 {
-  "idx": "168",
+  "id": "168",
   "name": "Chike Guardian of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/168",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

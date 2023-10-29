@@ -1,6 +1,7 @@
 {
-  "idx": "5011",
+  "id": "5011",
   "name": "Moni Dodger of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5011",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

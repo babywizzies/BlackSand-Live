@@ -1,32 +1,39 @@
 {
+  "id": 5208,
   "name": "Awkward Auguste of the Tundra",
   "image": "http://forgottenbabies.com/uri/json/5208.png",
-  "serial": 5208,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Green_Shoulder_Cape"
+      "value": "Small_Green_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wild_werebeast"
+      "value": "wild_werebeast",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

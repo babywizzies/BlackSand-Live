@@ -1,6 +1,7 @@
 {
-  "idx": "9910",
+  "id": "9910",
   "name": "Ernie Contender of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9910",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

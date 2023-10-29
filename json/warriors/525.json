@@ -1,6 +1,7 @@
 {
-  "idx": "525",
+  "id": "525",
   "name": "Archer Ass Kicker of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/525",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

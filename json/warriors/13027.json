@@ -1,6 +1,7 @@
 {
-  "idx": "13027",
+  "id": "13027",
   "name": "Thrug Vanquisher of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13027",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

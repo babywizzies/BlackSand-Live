@@ -1,6 +1,7 @@
 {
-  "idx": "4352",
+  "id": "4352",
   "name": "Poomu Beater of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4352",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

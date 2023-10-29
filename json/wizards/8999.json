@@ -1,52 +1,64 @@
 {
+  "id": 8999,
   "name": "Witch Delilah ",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8999.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8999
+      "value": 8999,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Grey Tunic"
+      "value": "Grey Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Astral Snail"
+      "value": "Astral Snail",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Crone"
+      "value": "Crone",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Phoenix Feather"
+      "value": "Phoenix Feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
+      "value": "Rune of Mars",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

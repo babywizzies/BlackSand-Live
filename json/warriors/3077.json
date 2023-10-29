@@ -1,6 +1,7 @@
 {
-  "idx": "3077",
+  "id": "3077",
   "name": "Goliath Plunderer of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3077",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

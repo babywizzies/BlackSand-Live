@@ -1,6 +1,7 @@
 {
-  "idx": "6148",
+  "id": "6148",
   "name": "Malificia Doom of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6148",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

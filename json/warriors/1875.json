@@ -1,6 +1,7 @@
 {
-  "idx": "1875",
+  "id": "1875",
   "name": "Larry Calamity of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1875",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

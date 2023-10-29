@@ -1,6 +1,7 @@
 {
-  "idx": "1006",
+  "id": "1006",
   "name": "Octavius Mincer of the Good Luck Squad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1006",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Longsword",
       "filename": "weapon_longsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

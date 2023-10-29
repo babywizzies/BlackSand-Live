@@ -1,6 +1,7 @@
 {
-  "idx": "6726",
+  "id": "6726",
   "name": "Ryder Wrecker of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6726",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gold Holy Shield",
       "filename": "shield_holy_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "546",
+  "id": "546",
   "name": "Ryder Champion of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/546",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

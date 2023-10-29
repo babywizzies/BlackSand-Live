@@ -1,6 +1,7 @@
 {
-  "idx": "12338",
+  "id": "12338",
   "name": "Sandy Armageddon of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12338",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

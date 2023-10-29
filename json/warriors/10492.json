@@ -1,6 +1,7 @@
 {
-  "idx": "10492",
+  "id": "10492",
   "name": "Hamlin Savior of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10492",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

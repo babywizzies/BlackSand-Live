@@ -1,6 +1,7 @@
 {
-  "idx": "825",
+  "id": "825",
   "name": "Maya Crusher of the Kitsune",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/825",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

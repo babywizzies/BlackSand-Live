@@ -1,6 +1,7 @@
 {
-  "idx": "15219",
+  "id": "15219",
   "name": "Bernadette Guardian of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15219",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13562",
+  "id": "13562",
   "name": "James Protector of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13562",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9900",
+  "id": "9900",
   "name": "Wraith Devout Kazem of Goblin town",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Soul Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

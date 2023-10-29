@@ -1,32 +1,39 @@
 {
+  "id": 9752,
   "name": "Awkward Magus of the Ball",
   "image": "http://forgottenbabies.com/uri/json/9752.png",
-  "serial": 9752,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_blue"
+      "value": "acute_aristocrat_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "student_of_color"
+      "value": "student_of_color",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_green_asp"
+      "value": "small_green_asp",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_midas_rod"
+      "value": "the_midas_rod",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

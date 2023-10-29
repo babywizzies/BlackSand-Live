@@ -1,6 +1,7 @@
 {
-  "idx": "9540",
+  "id": "9540",
   "name": "Sandra Hero of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9540",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

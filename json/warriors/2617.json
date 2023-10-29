@@ -1,6 +1,7 @@
 {
-  "idx": "2617",
+  "id": "2617",
   "name": "Jastor Carver of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2617",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

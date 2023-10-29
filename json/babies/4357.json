@@ -1,32 +1,39 @@
 {
+  "id": 4357,
   "name": "Logical Nazim of the Tundra",
   "image": "http://forgottenbabies.com/uri/json/4357.png",
-  "serial": 4357,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_kerchif"
+      "value": "orange_kerchif",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_swashbuckler"
+      "value": "young_swashbuckler",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "raven_feather"
+      "value": "raven_feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

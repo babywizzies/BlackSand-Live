@@ -1,39 +1,49 @@
 {
+  "id": null,
   "name": "Eldritch Horror Azathoth of the Worms",
   "image": "https://portal.forgottenrunes.com/api/souls/img/2987",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Famine"
+      "value": "Famine",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Carnal Body of Sickness"
+      "value": "Carnal Body of Sickness",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Eldritch Horror"
+      "value": "Eldritch Horror",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Double Phoenix Feather"
+      "value": "Double Phoenix Feather",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Ladybug Ghost"
+      "value": "Ladybug Ghost",
+      "filename": null
     },
     {
       "trait_type": "Transmuted from number",
-      "value": 2987
+      "value": 2987,
+      "filename": null
     },
     {
       "trait_type": "Transmuted from",
-      "value": "Shaman Azathoth of the Oasis"
+      "value": "Shaman Azathoth of the Oasis",
+      "filename": null
     },
     {
       "trait_type": "Burn order",
-      "value": 687
+      "value": 687,
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

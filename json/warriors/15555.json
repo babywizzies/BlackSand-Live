@@ -1,6 +1,7 @@
 {
-  "idx": "15555",
+  "id": "15555",
   "name": "Finn Crumbler of the Lochs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15555",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

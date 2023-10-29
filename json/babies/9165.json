@@ -1,32 +1,39 @@
 {
+  "id": 9165,
   "name": "Courageous Morrow of the Road",
   "image": "http://forgottenbabies.com/uri/json/9165.png",
-  "serial": 9165,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_tiny_caped_traveller"
+      "value": "orange_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "rogue_arcanist"
+      "value": "rogue_arcanist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_red_mushroom"
+      "value": "mini_red_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

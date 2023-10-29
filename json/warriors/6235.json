@@ -1,6 +1,7 @@
 {
-  "idx": "6235",
+  "id": "6235",
   "name": "Faust Ranger of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6235",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

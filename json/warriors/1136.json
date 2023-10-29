@@ -1,6 +1,7 @@
 {
-  "idx": "1136",
+  "id": "1136",
   "name": "Helga Granulator of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1136",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

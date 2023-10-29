@@ -1,6 +1,7 @@
 {
-  "idx": "5925",
+  "id": "5925",
   "name": "Mala Fencer of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5925",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 5633,
   "name": "Strong Khudalf of the Carnival",
   "image": "http://forgottenbabies.com/uri/json/5633.png",
-  "serial": 5633,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "arcadian_apprentice"
+      "value": "arcadian_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "salamanders_tongue_the_fire_spell"
+      "value": "salamanders_tongue_the_fire_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

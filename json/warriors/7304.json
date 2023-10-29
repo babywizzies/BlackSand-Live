@@ -1,6 +1,7 @@
 {
-  "idx": "7304",
+  "id": "7304",
   "name": "Rahid Guardian of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7304",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

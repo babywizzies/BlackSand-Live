@@ -1,32 +1,39 @@
 {
+  "id": 9653,
   "name": "Fearless Zaros of the Technochrome",
   "image": "http://forgottenbabies.com/uri/json/9653.png",
-  "serial": 9653,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_baby_buckle"
+      "value": "blue_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_diviner"
+      "value": "tiny_diviner",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "peace_wand"
+      "value": "peace_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

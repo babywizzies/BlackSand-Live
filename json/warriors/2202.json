@@ -1,6 +1,7 @@
 {
-  "idx": "2202",
+  "id": "2202",
   "name": "Sergio Battler of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2202",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

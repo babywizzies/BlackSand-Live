@@ -1,48 +1,59 @@
 {
+  "id": 6503,
   "name": "Geomancer Nixie of the Rock",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6503.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6503
+      "value": 6503,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Poncho"
+      "value": "Poncho",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Green Asp"
+      "value": "Green Asp",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Anuran"
+      "value": "Anuran",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "The Gnome's Tooth: the Earth Spell"
+      "value": "The Gnome's Tooth: the Earth Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

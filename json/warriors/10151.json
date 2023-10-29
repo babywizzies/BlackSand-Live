@@ -1,6 +1,7 @@
 {
-  "idx": "10151",
+  "id": "10151",
   "name": "Mungo Mincer of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10151",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 3284,
   "name": "Stellar Mage Bolin of the Havens",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3284.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3284
+      "value": 3284,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Tunic"
+      "value": "White Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Stellar Staff"
+      "value": "Stellar Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
+      "value": "Rune of Mars",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Monk"
+      "value": "Monk",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

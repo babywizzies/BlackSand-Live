@@ -1,6 +1,7 @@
 {
-  "idx": "7621",
+  "id": "7621",
   "name": "Gage Cleaver of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7621",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

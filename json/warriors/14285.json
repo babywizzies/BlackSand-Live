@@ -1,6 +1,7 @@
 {
-  "idx": "14285",
+  "id": "14285",
   "name": "Nick Hero of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14285",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

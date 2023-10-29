@@ -1,6 +1,7 @@
 {
-  "idx": "1463",
+  "id": "1463",
   "name": "Nigel Defender of the Highlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1463",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

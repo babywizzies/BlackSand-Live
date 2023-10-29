@@ -1,6 +1,7 @@
 {
-  "idx": "9071",
+  "id": "9071",
   "name": "Braddock Assailant of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9071",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

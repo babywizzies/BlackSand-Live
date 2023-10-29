@@ -1,52 +1,64 @@
 {
+  "id": 8325,
   "name": "Charmer Ariadne of the Marsh",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8325.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8325
+      "value": 8325,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Spandex  Green"
+      "value": "Spandex  Green",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Great Owl"
+      "value": "Great Owl",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Mambo"
+      "value": "Mambo",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Chaos Staff"
+      "value": "Chaos Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Feminine"
+      "value": "Feminine",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

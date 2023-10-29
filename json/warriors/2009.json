@@ -1,6 +1,7 @@
 {
-  "idx": "2009",
+  "id": "2009",
   "name": "Myla Obliterator of the Ocean",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2009",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Air Elemental Shield",
       "filename": "shield_wind.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

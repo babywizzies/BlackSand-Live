@@ -1,6 +1,7 @@
 {
-  "idx": "8277",
+  "id": "8277",
   "name": "Vommbar Slasher of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8277",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

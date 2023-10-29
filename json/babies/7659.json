@@ -1,32 +1,39 @@
 {
+  "id": 7659,
   "name": "Ambitious Qasim of Atlantis",
   "image": "http://forgottenbabies.com/uri/json/7659.png",
-  "serial": 7659,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_puffy_vest"
+      "value": "green_puffy_vest",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "botanical_boy"
+      "value": "botanical_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12400",
+  "id": "12400",
   "name": "Bambam Savior of the Swamp",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12400",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 5386,
   "name": "Insightful Gogol from the Crib",
   "image": "http://forgottenbabies.com/uri/json/5386.png",
-  "serial": 5386,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_purple_spandex"
+      "value": "small_purple_spandex",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_red_priestess"
+      "value": "young_red_priestess",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "magic_stick"
+      "value": "magic_stick",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

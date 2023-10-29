@@ -1,52 +1,64 @@
 {
+  "id": 3364,
   "name": "Arcanist Armstrong of the Sun",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3364.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3364
+      "value": 3364,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Double Sash"
+      "value": "Double Sash",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sun Cat"
+      "value": "Sun Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Gruffling"
+      "value": "Gruffling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Staff"
+      "value": "Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
+      "value": "Rune of Jupiter",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Orange"
+      "value": "Orange",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

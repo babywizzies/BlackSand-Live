@@ -1,32 +1,39 @@
 {
+  "id": 1608,
   "name": "Honorable Ekmira of Dreams",
   "image": "http://forgottenbabies.com/uri/json/1608.png",
-  "serial": 1608,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_red"
+      "value": "child_cleric_red",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_crone"
+      "value": "small_crone",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_topaz_slime"
+      "value": "small_topaz_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "adrenochrome"
+      "value": "adrenochrome",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

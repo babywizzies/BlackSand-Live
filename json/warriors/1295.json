@@ -1,6 +1,7 @@
 {
-  "idx": "1295",
+  "id": "1295",
   "name": "Mala Bludgeoner of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1295",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

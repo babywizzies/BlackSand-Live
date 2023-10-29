@@ -1,6 +1,7 @@
 {
-  "idx": "2077",
+  "id": "2077",
   "name": "Baal Piercer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2077",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

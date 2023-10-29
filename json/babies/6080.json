@@ -1,32 +1,39 @@
 {
+  "id": 6080,
   "name": "Spunky Jiang of the Temple",
   "image": "http://forgottenbabies.com/uri/json/6080.png",
-  "serial": 6080,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "finicky_formal_suit"
+      "value": "finicky_formal_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_dream_master"
+      "value": "mini_dream_master",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "lunar_wand"
+      "value": "lunar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

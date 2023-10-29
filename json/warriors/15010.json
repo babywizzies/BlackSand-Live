@@ -1,6 +1,7 @@
 {
-  "idx": "15010",
+  "id": "15010",
   "name": "Rufus Defeater of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15010",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8430",
+  "id": "8430",
   "name": "Mei Doom of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8430",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10850",
+  "id": "10850",
   "name": "Fia Nailer of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10850",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10005",
+  "id": "10005",
   "name": "Flavia Amputator of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10005",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

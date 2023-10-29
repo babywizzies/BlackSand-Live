@@ -1,6 +1,7 @@
 {
-  "idx": "9303",
+  "id": "9303",
   "name": "Cassius Vanquisher of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9303",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

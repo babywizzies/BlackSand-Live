@@ -1,32 +1,39 @@
 {
+  "id": 2591,
   "name": "Inquisitive Duzzle of the Villa",
   "image": "http://forgottenbabies.com/uri/json/2591.png",
-  "serial": 2591,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_coveralls"
+      "value": "green_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_red_wizard"
+      "value": "little_red_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fairy_glamour_the_dazzle_spell"
+      "value": "fairy_glamour_the_dazzle_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

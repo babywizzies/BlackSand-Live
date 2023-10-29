@@ -1,6 +1,7 @@
 {
-  "idx": "222",
+  "id": "222",
   "name": "Bralin Assailant of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/222",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

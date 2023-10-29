@@ -1,6 +1,7 @@
 {
-  "idx": "5387",
+  "id": "5387",
   "name": "Astaroth Assaulter of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5387",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

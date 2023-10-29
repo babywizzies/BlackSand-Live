@@ -1,6 +1,7 @@
 {
-  "idx": "13206",
+  "id": "13206",
   "name": "Tad Champion of Death",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13206",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

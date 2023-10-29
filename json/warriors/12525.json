@@ -1,6 +1,7 @@
 {
-  "idx": "12525",
+  "id": "12525",
   "name": "Glorn Cataclysm of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12525",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

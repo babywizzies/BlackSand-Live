@@ -1,52 +1,64 @@
 {
+  "id": 428,
   "name": "Witch Ivy of the Hills",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/428.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 428
+      "value": 428,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Purple Cloak"
+      "value": "Purple Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Lucky Black Cat"
+      "value": "Lucky Black Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Swamp Witch"
+      "value": "Swamp Witch",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Siren's Bell"
+      "value": "Siren's Bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Feminine"
+      "value": "Feminine",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

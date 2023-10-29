@@ -1,6 +1,7 @@
 {
-  "idx": "13110",
+  "id": "13110",
   "name": "Xavier Cleaver of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13110",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

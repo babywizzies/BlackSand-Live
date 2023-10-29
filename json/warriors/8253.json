@@ -1,6 +1,7 @@
 {
-  "idx": "8253",
+  "id": "8253",
   "name": "Wilder Dispatcher of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8253",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

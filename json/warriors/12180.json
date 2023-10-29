@@ -1,6 +1,7 @@
 {
-  "idx": "12180",
+  "id": "12180",
   "name": "Jett Assaulter of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12180",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

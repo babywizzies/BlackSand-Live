@@ -1,6 +1,7 @@
 {
-  "idx": "5904",
+  "id": "5904",
   "name": "Virilianus Protector of Penguins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5904",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "368",
+  "id": "368",
   "name": "Adira Impaler of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/368",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

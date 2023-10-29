@@ -1,32 +1,39 @@
 {
+  "id": 8188,
   "name": "Energetic Gourdon of the Light",
   "image": "http://forgottenbabies.com/uri/json/8188.png",
-  "serial": 8188,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "argyle_sweater"
+      "value": "argyle_sweater",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_trickster"
+      "value": "tiny_trickster",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

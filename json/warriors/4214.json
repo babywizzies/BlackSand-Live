@@ -1,6 +1,7 @@
 {
-  "idx": "4214",
+  "id": "4214",
   "name": "Zane Menace of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4214",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

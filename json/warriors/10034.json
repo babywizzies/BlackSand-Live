@@ -1,6 +1,7 @@
 {
-  "idx": "10034",
+  "id": "10034",
   "name": "Chevy Champion of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10034",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

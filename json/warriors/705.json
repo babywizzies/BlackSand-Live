@@ -1,6 +1,7 @@
 {
-  "idx": "705",
+  "id": "705",
   "name": "Jacob Guardian of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/705",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

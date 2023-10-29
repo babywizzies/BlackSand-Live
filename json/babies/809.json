@@ -1,32 +1,39 @@
 {
+  "id": 809,
   "name": "Cutie Hothor of the Sacred Pillars",
   "image": "http://forgottenbabies.com/uri/json/809.png",
-  "serial": 809,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "grey_puffy_pants"
+      "value": "grey_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_death_eater"
+      "value": "young_death_eater",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "small_coinpurse"
+      "value": "small_coinpurse",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

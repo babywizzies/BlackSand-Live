@@ -1,6 +1,7 @@
 {
-  "idx": "2387",
+  "id": "2387",
   "name": "Vega Hero of the Summit",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2387",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

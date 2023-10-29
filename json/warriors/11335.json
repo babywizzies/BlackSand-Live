@@ -1,6 +1,7 @@
 {
-  "idx": "11335",
+  "id": "11335",
   "name": "Khadim Cleaver of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11335",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

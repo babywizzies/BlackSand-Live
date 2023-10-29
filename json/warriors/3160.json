@@ -1,6 +1,7 @@
 {
-  "idx": "3160",
+  "id": "3160",
   "name": "Frida Scoundrel of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3160",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

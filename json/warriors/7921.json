@@ -1,6 +1,7 @@
 {
-  "idx": "7921",
+  "id": "7921",
   "name": "Taurus Wanderer of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7921",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

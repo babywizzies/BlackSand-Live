@@ -1,6 +1,7 @@
 {
-  "idx": "8736",
+  "id": "8736",
   "name": "Hamma Champion of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8736",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Yellow Buckler",
       "filename": "shield_circle_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 4425,
   "name": "Summoner Jig of the Citadel",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4425.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4425
+      "value": 4425,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Jester Diamonds"
+      "value": "Jester Diamonds",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Merlin's Monkey"
+      "value": "Merlin's Monkey",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kobold"
+      "value": "Kobold",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Gorgon's Eye"
+      "value": "Gorgon's Eye",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
+      "value": "Rune of Water",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Goofy"
+      "value": "Goofy",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

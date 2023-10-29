@@ -1,6 +1,7 @@
 {
-  "idx": "13540",
+  "id": "13540",
   "name": "Clubber Savior of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13540",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Silver Poleaxe",
       "filename": "weapon_poleaxe_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

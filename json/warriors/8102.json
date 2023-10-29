@@ -1,6 +1,7 @@
 {
-  "idx": "8102",
+  "id": "8102",
   "name": "Seven Hellraiser of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8102",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

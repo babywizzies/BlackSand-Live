@@ -1,6 +1,7 @@
 {
-  "idx": "7417",
+  "id": "7417",
   "name": "Mala Hero of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7417",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sol Sword",
       "filename": "weapon_sword_jewel_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

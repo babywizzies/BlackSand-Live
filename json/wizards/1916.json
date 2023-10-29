@@ -1,52 +1,64 @@
 {
+  "id": 1916,
   "name": "Adept Brown Cow from the Shadow",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1916.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1916
+      "value": 1916,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Robe of Shadow"
+      "value": "Robe of Shadow",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Crackerjack Crow"
+      "value": "Crackerjack Crow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Canaanite"
+      "value": "Canaanite",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "The Orb Staff"
+      "value": "The Orb Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
+      "value": "Rune of Mercury",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blackness"
+      "value": "Blackness",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

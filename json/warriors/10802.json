@@ -1,6 +1,7 @@
 {
-  "idx": "10802",
+  "id": "10802",
   "name": "Jimmy Contender of the Swamps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10802",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

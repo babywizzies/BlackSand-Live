@@ -1,6 +1,7 @@
 {
-  "idx": "6329",
+  "id": "6329",
   "name": "Bones Slasher of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6329",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

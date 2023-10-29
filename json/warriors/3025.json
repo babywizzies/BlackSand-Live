@@ -1,6 +1,7 @@
 {
-  "idx": "3025",
+  "id": "3025",
   "name": "Utultar Savior of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3025",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

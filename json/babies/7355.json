@@ -1,32 +1,39 @@
 {
+  "id": 7355,
   "name": "Clever Norix of the Grotto",
   "image": "http://forgottenbabies.com/uri/json/7355.png",
-  "serial": 7355,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_baby_buckle"
+      "value": "blue_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_faustian"
+      "value": "young_faustian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 6252,
   "name": "Artificer Yookoo of the Realm",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6252.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6252
+      "value": 6252,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Elven Cloak"
+      "value": "Green Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Merlin's Monkey"
+      "value": "Merlin's Monkey",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kobold"
+      "value": "Kobold",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Garnet Staff"
+      "value": "Garnet Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
+      "value": "Rune of Lime",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Goofy"
+      "value": "Goofy",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

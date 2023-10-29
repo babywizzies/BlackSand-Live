@@ -1,32 +1,39 @@
 {
+  "id": 611,
   "name": "Lovable Aden of the Riviera",
   "image": "http://forgottenbabies.com/uri/json/611.png",
-  "serial": 611,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "white_koveralls"
+      "value": "white_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_dream_master"
+      "value": "mini_dream_master",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bottle_of_milk"
+      "value": "bottle_of_milk",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

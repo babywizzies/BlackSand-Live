@@ -1,6 +1,7 @@
 {
-  "idx": "11680",
+  "id": "11680",
   "name": "Luis Hacker of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11680",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

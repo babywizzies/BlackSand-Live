@@ -1,6 +1,7 @@
 {
-  "idx": "11723",
+  "id": "11723",
   "name": "Myla Striker of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11723",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 8961,
   "name": "Poetic Gully of the Citadel",
   "image": "http://forgottenbabies.com/uri/json/8961.png",
-  "serial": 8961,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_puffy_pants"
+      "value": "purple_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_lycanthrope"
+      "value": "little_lycanthrope",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kelpies_fury_the_water_spell"
+      "value": "kelpies_fury_the_water_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11190",
+  "id": "11190",
   "name": "Ezra Amputator of the Tombs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11190",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

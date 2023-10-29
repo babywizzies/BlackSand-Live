@@ -1,6 +1,7 @@
 {
-  "idx": "101",
+  "id": "101",
   "name": "Lance Shaver of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/101",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

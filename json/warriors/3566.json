@@ -1,6 +1,7 @@
 {
-  "idx": "3566",
+  "id": "3566",
   "name": "Molly Vanquisher of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3566",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

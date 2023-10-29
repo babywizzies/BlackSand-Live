@@ -1,32 +1,39 @@
 {
+  "id": 9802,
   "name": "Cheerful Ivy of Andolini",
   "image": "http://forgottenbabies.com/uri/json/9802.png",
-  "serial": 9802,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_onesie"
+      "value": "red_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "floral_apprentice"
+      "value": "floral_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "solar_wand"
+      "value": "solar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8006",
+  "id": "8006",
   "name": "Putrid Zombie Milo of the Bottomless Grave",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Zombie Rat",
       "filename": "familiar_rat_zombie.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

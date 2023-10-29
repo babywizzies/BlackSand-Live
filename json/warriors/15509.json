@@ -1,6 +1,7 @@
 {
-  "idx": "15509",
+  "id": "15509",
   "name": "TV Master of Ceremonies",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15509",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Lightning Sword",
       "filename": "weapon_swordlightning.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 9080,
   "name": "Meticulous Hind of the Heath",
   "image": "http://forgottenbabies.com/uri/json/9080.png",
-  "serial": 9080,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "grey_puffy_pants"
+      "value": "grey_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_hag"
+      "value": "young_hag",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_lollipop"
+      "value": "chocolate_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

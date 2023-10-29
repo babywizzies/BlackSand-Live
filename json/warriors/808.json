@@ -1,6 +1,7 @@
 {
-  "idx": "808",
+  "id": "808",
   "name": "Koffi Peacemaker of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/808",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

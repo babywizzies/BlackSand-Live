@@ -1,6 +1,7 @@
 {
-  "idx": "12841",
+  "id": "12841",
   "name": "Roger Slasher of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12841",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Hunting Knife",
       "filename": "weapon_knife.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

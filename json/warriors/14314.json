@@ -1,6 +1,7 @@
 {
-  "idx": "14314",
+  "id": "14314",
   "name": "Glorn Piercer of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14314",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

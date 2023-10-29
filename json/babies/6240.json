@@ -1,32 +1,39 @@
 {
+  "id": 6240,
   "name": "Intuitive Impy of the Plains",
   "image": "http://forgottenbabies.com/uri/json/6240.png",
-  "serial": 6240,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_lined_coveralls_blue"
+      "value": "little_lined_coveralls_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_brown_wizard"
+      "value": "baby_brown_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "swamp_tadpoole"
+      "value": "swamp_tadpoole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bag_of_sand"
+      "value": "bag_of_sand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

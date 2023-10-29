@@ -1,6 +1,7 @@
 {
-  "idx": "12804",
+  "id": "12804",
   "name": "Silas Traveler of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12804",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

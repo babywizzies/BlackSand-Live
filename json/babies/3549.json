@@ -1,32 +1,39 @@
 {
+  "id": 3549,
   "name": "Intellectual Jerret of the Waste",
   "image": "http://forgottenbabies.com/uri/json/3549.png",
-  "serial": 3549,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Desert_Wear_Small"
+      "value": "Desert_Wear_Small",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_kobold"
+      "value": "baby_kobold",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2101",
+  "id": "2101",
   "name": "Pippa Stabber of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2101",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

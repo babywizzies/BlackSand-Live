@@ -1,6 +1,7 @@
 {
-  "idx": "14910",
+  "id": "14910",
   "name": "Microwave Scoundrel of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14910",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

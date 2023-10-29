@@ -1,6 +1,7 @@
 {
-  "idx": "84",
+  "id": "84",
   "name": "Dean Assailant of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/84",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

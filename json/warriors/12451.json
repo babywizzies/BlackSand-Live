@@ -1,6 +1,7 @@
 {
-  "idx": "12451",
+  "id": "12451",
   "name": "Radna Dissector of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12451",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Magic Shield",
       "filename": "shield_magic.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7673",
+  "id": "7673",
   "name": "Brooks Lightbearer of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7673",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

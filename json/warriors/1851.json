@@ -1,6 +1,7 @@
 {
-  "idx": "1851",
+  "id": "1851",
   "name": "Warden Dispatcher of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1851",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14963",
+  "id": "14963",
   "name": "Hunter Wrecker of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14963",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

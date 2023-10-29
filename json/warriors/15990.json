@@ -1,6 +1,7 @@
 {
-  "idx": "15990",
+  "id": "15990",
   "name": "Lance Lightbearer of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15990",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

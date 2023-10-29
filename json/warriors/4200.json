@@ -1,6 +1,7 @@
 {
-  "idx": "4200",
+  "id": "4200",
   "name": "Frida of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4200",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

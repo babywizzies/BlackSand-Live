@@ -1,6 +1,7 @@
 {
-  "idx": "8292",
+  "id": "8292",
   "name": "Trudy Obliterator of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8292",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

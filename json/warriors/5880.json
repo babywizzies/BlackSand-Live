@@ -1,6 +1,7 @@
 {
-  "idx": "5880",
+  "id": "5880",
   "name": "Dain Champion of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5880",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

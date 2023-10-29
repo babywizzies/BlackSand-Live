@@ -1,52 +1,64 @@
 {
+  "id": 2670,
   "name": "Sorcerer Isaac of the Mount",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2670.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2670
+      "value": 2670,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Juniper Shoulder Cape"
+      "value": "Juniper Shoulder Cape",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Skramps"
+      "value": "Skramps",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Prophet"
+      "value": "Prophet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Book of Magic"
+      "value": "Book of Magic",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
+      "value": "Rune of Saturn",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8435",
+  "id": "8435",
   "name": "Otto Cataclysm of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8435",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

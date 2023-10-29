@@ -1,6 +1,7 @@
 {
-  "idx": "11199",
+  "id": "11199",
   "name": "Tiberius Cataclysm of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11199",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

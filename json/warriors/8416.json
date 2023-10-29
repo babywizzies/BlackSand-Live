@@ -1,6 +1,7 @@
 {
-  "idx": "8416",
+  "id": "8416",
   "name": "Doldain Champion for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8416",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

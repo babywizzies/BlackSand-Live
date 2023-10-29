@@ -1,6 +1,7 @@
 {
-  "idx": "7450",
+  "id": "7450",
   "name": "Ekene Thief of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7450",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

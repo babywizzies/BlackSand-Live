@@ -1,6 +1,7 @@
 {
-  "idx": "202",
+  "id": "202",
   "name": "Knox Punisher of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/202",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

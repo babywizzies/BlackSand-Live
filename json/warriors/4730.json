@@ -1,6 +1,7 @@
 {
-  "idx": "4730",
+  "id": "4730",
   "name": "Ryan Protector of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4730",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

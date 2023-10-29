@@ -1,6 +1,7 @@
 {
-  "idx": "7599",
+  "id": "7599",
   "name": "Farrell Wrecker of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7599",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

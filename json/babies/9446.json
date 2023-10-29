@@ -1,32 +1,39 @@
 {
+  "id": 9446,
   "name": "Charming Yookoo of the Oasis",
   "image": "http://forgottenbabies.com/uri/json/9446.png",
-  "serial": 9446,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_lined_coveralls_blue"
+      "value": "little_lined_coveralls_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_animist"
+      "value": "young_animist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "caduceus_wand"
+      "value": "caduceus_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

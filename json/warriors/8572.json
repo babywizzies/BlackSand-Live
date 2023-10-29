@@ -1,6 +1,7 @@
 {
-  "idx": "8572",
+  "id": "8572",
   "name": "Barad Lightbearer of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8572",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

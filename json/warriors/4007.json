@@ -1,6 +1,7 @@
 {
-  "idx": "4007",
+  "id": "4007",
   "name": "Allan Belligerent of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4007",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

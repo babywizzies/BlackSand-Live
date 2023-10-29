@@ -1,6 +1,7 @@
 {
-  "idx": "2494",
+  "id": "2494",
   "name": "Sloane Protector of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2494",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

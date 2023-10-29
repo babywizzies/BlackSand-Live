@@ -1,6 +1,7 @@
 {
-  "idx": "15707",
+  "id": "15707",
   "name": "Ryder Wounder of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15707",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

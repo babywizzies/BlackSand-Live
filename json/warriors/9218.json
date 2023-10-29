@@ -1,6 +1,7 @@
 {
-  "idx": "9218",
+  "id": "9218",
   "name": "Peter Paragon of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9218",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

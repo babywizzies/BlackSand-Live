@@ -1,32 +1,39 @@
 {
+  "id": 8162,
   "name": "Genius Solomon of the Marsh",
   "image": "http://forgottenbabies.com/uri/json/8162.png",
-  "serial": 8162,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "young_scarecrow"
+      "value": "young_scarecrow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_kobold"
+      "value": "baby_kobold",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "harmony_wand"
+      "value": "harmony_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

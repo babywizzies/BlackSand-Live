@@ -1,32 +1,39 @@
 {
+  "id": 2719,
   "name": "Adventurous Hongo of the Obelisk",
   "image": "http://forgottenbabies.com/uri/json/2719.png",
-  "serial": 2719,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "furry_coat"
+      "value": "furry_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wild_warlock"
+      "value": "wild_warlock",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "spotless_ladybug"
+      "value": "spotless_ladybug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "astral_lollipop"
+      "value": "astral_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

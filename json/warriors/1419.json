@@ -1,6 +1,7 @@
 {
-  "idx": "1419",
+  "id": "1419",
   "name": "Theo Cleaver of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1419",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

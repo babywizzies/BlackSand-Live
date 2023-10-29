@@ -1,6 +1,7 @@
 {
-  "idx": "4542",
+  "id": "4542",
   "name": "Callahan Assassin of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4542",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

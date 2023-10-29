@@ -1,6 +1,7 @@
 {
-  "idx": "10419",
+  "id": "10419",
   "name": "Frank Lacerator of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10419",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

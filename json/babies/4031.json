@@ -1,32 +1,39 @@
 {
+  "id": 4031,
   "name": "Lovable Mage of the Quantum Realm",
   "image": "http://forgottenbabies.com/uri/json/4031.png",
-  "serial": 4031,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_green"
+      "value": "small_scholar_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_white_wizard"
+      "value": "small_white_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "astral_lollipop"
+      "value": "astral_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

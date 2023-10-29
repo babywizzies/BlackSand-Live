@@ -1,6 +1,7 @@
 {
-  "idx": "662",
+  "id": "662",
   "name": "Bruno Conqueror of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/662",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

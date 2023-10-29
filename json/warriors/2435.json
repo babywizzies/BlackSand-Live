@@ -1,6 +1,7 @@
 {
-  "idx": "2435",
+  "id": "2435",
   "name": "Alonso Champion of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2435",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

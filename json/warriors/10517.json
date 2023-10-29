@@ -1,6 +1,7 @@
 {
-  "idx": "10517",
+  "id": "10517",
   "name": "Allan Traveler of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10517",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15130",
+  "id": "15130",
   "name": "Mia Waster of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15130",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

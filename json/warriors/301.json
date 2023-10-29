@@ -1,6 +1,7 @@
 {
-  "idx": "301",
+  "id": "301",
   "name": "Roger Calamity of the Good Luck Squad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/301",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

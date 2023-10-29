@@ -1,6 +1,7 @@
 {
-  "idx": "0",
+  "id": "0",
   "name": "The Emissary",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/0",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

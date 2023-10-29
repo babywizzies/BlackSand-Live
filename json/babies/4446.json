@@ -1,32 +1,39 @@
 {
+  "id": 4446,
   "name": "Honorable Magpie of the Capital",
   "image": "http://forgottenbabies.com/uri/json/4446.png",
-  "serial": 4446,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_jester_cape"
+      "value": "blue_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_scholar"
+      "value": "smol_scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fairy_glamour_the_dazzle_spell"
+      "value": "fairy_glamour_the_dazzle_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_brimstone"
+      "value": "rune_of_brimstone",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

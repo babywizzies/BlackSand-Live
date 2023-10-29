@@ -1,6 +1,7 @@
 {
-  "idx": "230",
+  "id": "230",
   "name": "Kaz Vanquisher of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/230",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

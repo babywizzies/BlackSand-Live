@@ -1,32 +1,39 @@
 {
+  "id": 6608,
   "name": "Determined Providence of the Ice",
   "image": "http://forgottenbabies.com/uri/json/6608.png",
-  "serial": 6608,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_blue"
+      "value": "child_cleric_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_creol"
+      "value": "young_creol",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_green_asp"
+      "value": "small_green_asp",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_marbles"
+      "value": "tiny_marbles",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

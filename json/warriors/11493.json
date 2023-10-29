@@ -1,6 +1,7 @@
 {
-  "idx": "11493",
+  "id": "11493",
   "name": "Jarek Lightbearer of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11493",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14925",
+  "id": "14925",
   "name": "Fred Defender of the Tundra",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14925",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

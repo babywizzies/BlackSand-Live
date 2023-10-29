@@ -1,6 +1,7 @@
 {
-  "idx": "15229",
+  "id": "15229",
   "name": "Ernie Vanquisher of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15229",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

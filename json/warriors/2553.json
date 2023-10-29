@@ -1,6 +1,7 @@
 {
-  "idx": "2553",
+  "id": "2553",
   "name": "Faust Impaler of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2553",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

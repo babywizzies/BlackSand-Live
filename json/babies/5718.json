@@ -1,32 +1,39 @@
 {
+  "id": 5718,
   "name": "Enchanting Ophelia of the River",
   "image": "http://forgottenbabies.com/uri/json/5718.png",
-  "serial": 5718,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_gold_chain"
+      "value": "small_gold_chain",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "botanic_apprentice"
+      "value": "botanic_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "friendly_fox"
+      "value": "friendly_fox",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

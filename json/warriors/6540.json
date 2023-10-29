@@ -1,6 +1,7 @@
 {
-  "idx": "6540",
+  "id": "6540",
   "name": "Rogue Dispatcher of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6540",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Triple Triangle Shield",
       "filename": "shield_3tri.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8809",
+  "id": "8809",
   "name": "Louis Contender of the Sea",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8809",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

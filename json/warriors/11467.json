@@ -1,6 +1,7 @@
 {
-  "idx": "11467",
+  "id": "11467",
   "name": "Krull Bruiser of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11467",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

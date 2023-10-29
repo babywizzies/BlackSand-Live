@@ -1,6 +1,7 @@
 {
-  "idx": "6109",
+  "id": "6109",
   "name": "Ernie Lightbearer of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6109",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

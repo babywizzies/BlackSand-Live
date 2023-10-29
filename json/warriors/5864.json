@@ -1,6 +1,7 @@
 {
-  "idx": "5864",
+  "id": "5864",
   "name": "Butch Hero of Unicorns",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5864",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

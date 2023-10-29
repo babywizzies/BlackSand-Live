@@ -1,6 +1,7 @@
 {
-  "idx": "9846",
+  "id": "9846",
   "name": "Denali Eidolon of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9846",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

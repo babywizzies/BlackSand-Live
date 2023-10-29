@@ -1,32 +1,39 @@
 {
+  "id": 9626,
   "name": "Perceptive Jabir of the Berg",
   "image": "http://forgottenbabies.com/uri/json/9626.png",
-  "serial": 9626,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "white_koveralls"
+      "value": "white_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_death_eater"
+      "value": "young_death_eater",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

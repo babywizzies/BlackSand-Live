@@ -1,32 +1,39 @@
 {
+  "id": 6512,
   "name": "Perceptive Great of the Tower",
   "image": "http://forgottenbabies.com/uri/json/6512.png",
-  "serial": 6512,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_onesie"
+      "value": "purple_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_red_priestess"
+      "value": "young_red_priestess",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_sturdy_twig"
+      "value": "a_sturdy_twig",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

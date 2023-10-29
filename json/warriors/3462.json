@@ -1,6 +1,7 @@
 {
-  "idx": "3462",
+  "id": "3462",
   "name": "Dozer Hero of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3462",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

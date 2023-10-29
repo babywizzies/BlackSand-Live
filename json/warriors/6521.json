@@ -1,6 +1,7 @@
 {
-  "idx": "6521",
+  "id": "6521",
   "name": "Edward Archer of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6521",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Shortbow",
       "filename": "weapon_shortbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

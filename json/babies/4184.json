@@ -1,32 +1,39 @@
 {
+  "id": 4184,
   "name": "Helpful Iprix of the Sea",
   "image": "http://forgottenbabies.com/uri/json/4184.png",
-  "serial": 4184,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_jester_cape"
+      "value": "blue_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_fortune_seeker"
+      "value": "small_fortune_seeker",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "joy_wand"
+      "value": "joy_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 8816,
   "name": "Lunar Mage Rodolfo of the Canyon",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8816.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8816
+      "value": 8816,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Vest Blue"
+      "value": "Vest Blue",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Mandinka"
+      "value": "Mandinka",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Lunar Staff"
+      "value": "Lunar Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Infinity"
+      "value": "Rune of Infinity",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

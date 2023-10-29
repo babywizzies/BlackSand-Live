@@ -1,6 +1,7 @@
 {
-  "idx": "15133",
+  "id": "15133",
   "name": "Zola Shaver of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15133",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

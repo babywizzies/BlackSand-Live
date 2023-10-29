@@ -1,6 +1,7 @@
 {
-  "idx": "10273",
+  "id": "10273",
   "name": "Brokk Sword of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10273",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Amaryllis Fey Sword",
       "filename": "weapon_feysword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

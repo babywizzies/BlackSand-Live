@@ -1,6 +1,7 @@
 {
-  "idx": "4116",
+  "id": "4116",
   "name": "Owen Sword of the Berg",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4116",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

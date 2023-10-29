@@ -1,6 +1,7 @@
 {
-  "idx": "3607",
+  "id": "3607",
   "name": "Lera Dismantler of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3607",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gold Holy Shield",
       "filename": "shield_holy_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

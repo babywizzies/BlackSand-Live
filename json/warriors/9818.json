@@ -1,6 +1,7 @@
 {
-  "idx": "9818",
+  "id": "9818",
   "name": "Cadmus Looter of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9818",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

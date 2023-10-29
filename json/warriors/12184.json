@@ -1,6 +1,7 @@
 {
-  "idx": "12184",
+  "id": "12184",
   "name": "Joan Leveler of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12184",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

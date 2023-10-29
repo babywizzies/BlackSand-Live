@@ -1,6 +1,7 @@
 {
-  "idx": "591",
+  "id": "591",
   "name": "Neil Hero of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/591",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

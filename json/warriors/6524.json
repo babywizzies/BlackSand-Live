@@ -1,6 +1,7 @@
 {
-  "idx": "6524",
+  "id": "6524",
   "name": "Jeremy of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6524",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

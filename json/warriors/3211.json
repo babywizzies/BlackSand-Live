@@ -1,6 +1,7 @@
 {
-  "idx": "3211",
+  "id": "3211",
   "name": "Zola Hero of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3211",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

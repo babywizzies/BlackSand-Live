@@ -1,32 +1,39 @@
 {
+  "id": 169,
   "name": "Charming Lumos of the Keep",
   "image": "http://forgottenbabies.com/uri/json/169.png",
-  "serial": 169,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_orange"
+      "value": "small_scholar_orange",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_mandinka"
+      "value": "mini_mandinka",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "emerald_wand"
+      "value": "emerald_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

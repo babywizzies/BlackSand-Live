@@ -1,32 +1,39 @@
 {
+  "id": 9459,
   "name": "Delightful Aslan of the Havens",
   "image": "http://forgottenbabies.com/uri/json/9459.png",
-  "serial": 9459,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "puny_poncho"
+      "value": "puny_poncho",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_shaolin"
+      "value": "small_shaolin",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "kitten_of_the_sun"
+      "value": "kitten_of_the_sun",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sigma"
+      "value": "rune_sigma",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

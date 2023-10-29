@@ -1,52 +1,64 @@
 {
+  "id": 3022,
   "name": "Cryptomancer Aleister of the Keep",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3022.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3022
+      "value": 3022,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Aristocrat Blue"
+      "value": "Aristocrat Blue",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Fortune Seeker"
+      "value": "Fortune Seeker",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Phosphorus Spear"
+      "value": "Phosphorus Spear",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Lime"
+      "value": "Rune of Lime",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blue Shift"
+      "value": "Blue Shift",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

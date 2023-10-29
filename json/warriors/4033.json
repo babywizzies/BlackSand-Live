@@ -1,6 +1,7 @@
 {
-  "idx": "4033",
+  "id": "4033",
   "name": "Grok Voyager of the Plaguelands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4033",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

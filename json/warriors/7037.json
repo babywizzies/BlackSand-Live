@@ -1,6 +1,7 @@
 {
-  "idx": "7037",
+  "id": "7037",
   "name": "Dante Dueler of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7037",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

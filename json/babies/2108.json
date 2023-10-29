@@ -1,32 +1,39 @@
 {
+  "id": 2108,
   "name": "Confident Zane of the Shadow",
   "image": "http://forgottenbabies.com/uri/json/2108.png",
-  "serial": 2108,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_gray_tunic"
+      "value": "tiny_gray_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_djinn"
+      "value": "young_djinn",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_green_asp"
+      "value": "small_green_asp",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_red_mushroom"
+      "value": "mini_red_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

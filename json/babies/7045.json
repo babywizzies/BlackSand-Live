@@ -1,32 +1,39 @@
 {
+  "id": 7045,
   "name": "Amusing Ethan of the Capital",
   "image": "http://forgottenbabies.com/uri/json/7045.png",
-  "serial": 7045,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "puny_poncho"
+      "value": "puny_poncho",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_scholar"
+      "value": "smol_scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "little_hummingbird"
+      "value": "little_hummingbird",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_single_candle"
+      "value": "a_single_candle",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

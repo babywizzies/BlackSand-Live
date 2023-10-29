@@ -1,6 +1,7 @@
 {
-  "idx": "8535",
+  "id": "8535",
   "name": "Gilbert Protector of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8535",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

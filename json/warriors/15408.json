@@ -1,6 +1,7 @@
 {
-  "idx": "15408",
+  "id": "15408",
   "name": "Eon Combatant of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15408",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

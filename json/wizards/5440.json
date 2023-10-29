@@ -1,52 +1,64 @@
 {
+  "id": 5440,
   "name": "Adept Rita of the Cosmos",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5440.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5440
+      "value": 5440,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Grey Tunic"
+      "value": "Grey Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Psychic Rabbit"
+      "value": "Psychic Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Crone"
+      "value": "Crone",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Caduceus"
+      "value": "Caduceus",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
+      "value": "Rune of Cinnabar",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

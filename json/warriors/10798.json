@@ -1,6 +1,7 @@
 {
-  "idx": "10798",
+  "id": "10798",
   "name": "Alexander Menace of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10798",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

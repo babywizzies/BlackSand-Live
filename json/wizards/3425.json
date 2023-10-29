@@ -1,48 +1,59 @@
 {
+  "id": 3425,
   "name": "Sorcerer Merlon of the Fey",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3425.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3425
+      "value": 3425,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Elven Cloak"
+      "value": "Yellow Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Yellow Wizard"
+      "value": "Yellow Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Vile of Virgin's Blood"
+      "value": "Vile of Virgin's Blood",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Chemistry"
+      "value": "Chemistry",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

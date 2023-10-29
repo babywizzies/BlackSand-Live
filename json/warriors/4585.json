@@ -1,6 +1,7 @@
 {
-  "idx": "4585",
+  "id": "4585",
   "name": "Lucy Hero of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4585",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Lazurite Dragon Sword",
       "filename": "weapon_dragonsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

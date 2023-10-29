@@ -1,6 +1,7 @@
 {
-  "idx": "11816",
+  "id": "11816",
   "name": "Blade Executor of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11816",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

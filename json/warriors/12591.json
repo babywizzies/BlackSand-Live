@@ -1,6 +1,7 @@
 {
-  "idx": "12591",
+  "id": "12591",
   "name": "Chuck Impaler of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12591",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

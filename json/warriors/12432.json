@@ -1,6 +1,7 @@
 {
-  "idx": "12432",
+  "id": "12432",
   "name": "Ragnar Marauder of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12432",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

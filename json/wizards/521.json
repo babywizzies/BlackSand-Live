@@ -1,52 +1,64 @@
 {
+  "id": 521,
   "name": "Hedge Wizard Alizam of the Dunes",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/521.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 521
+      "value": 521,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Poncho"
+      "value": "Poncho",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Punjabi"
+      "value": "Punjabi",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "A dumb stick..."
+      "value": "A dumb stick...",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

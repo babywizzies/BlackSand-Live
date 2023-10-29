@@ -1,6 +1,7 @@
 {
-  "idx": "14162",
+  "id": "14162",
   "name": "Verus Doom of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14162",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Buckler",
       "filename": "shield_buckler.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3001",
+  "id": "3001",
   "name": "Vidal Exterminator of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3001",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

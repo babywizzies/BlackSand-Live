@@ -1,6 +1,7 @@
 {
-  "idx": "384",
+  "id": "384",
   "name": "Justice Vanquisher of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/384",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

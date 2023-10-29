@@ -1,6 +1,7 @@
 {
-  "idx": "8418",
+  "id": "8418",
   "name": "Stone Savior of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8418",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

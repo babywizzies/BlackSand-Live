@@ -1,6 +1,7 @@
 {
-  "idx": "4484",
+  "id": "4484",
   "name": "Zola Fencer of Leaves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4484",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

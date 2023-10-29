@@ -1,6 +1,7 @@
 {
-  "idx": "5299",
+  "id": "5299",
   "name": "Butch Beater of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5299",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

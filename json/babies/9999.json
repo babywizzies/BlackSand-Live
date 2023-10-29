@@ -1,28 +1,34 @@
 {
+  "id": 9999,
   "name": "Dirty Deeze of the Shadow",
   "image": "http://forgottenbabies.com/uri/json/9999.png",
-  "serial": 9999,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "black"
+      "value": "black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "deeze_body"
+      "value": "deeze_body",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_deeze"
+      "value": "young_deeze",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "flimsy_joint"
+      "value": "flimsy_joint",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "3D_tadpole"
+      "value": "3D_tadpole",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

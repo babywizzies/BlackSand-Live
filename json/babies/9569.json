@@ -1,32 +1,39 @@
 {
+  "id": 9569,
   "name": "Confident Silas of the Ether",
   "image": "http://forgottenbabies.com/uri/json/9569.png",
-  "serial": 9569,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "childrens_cosmic_cardigan"
+      "value": "childrens_cosmic_cardigan",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_woodland_shapeshifter"
+      "value": "small_woodland_shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

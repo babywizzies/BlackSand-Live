@@ -1,6 +1,7 @@
 {
-  "idx": "6930",
+  "id": "6930",
   "name": "Lich Baron Jasper of the Shaded Shores",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Zombie Rat",
       "filename": "familiar_rat_zombie.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

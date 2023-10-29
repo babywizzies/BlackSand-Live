@@ -1,48 +1,59 @@
 {
+  "id": 4800,
   "name": "Void Disciple Norix of the Hall",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4800.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4800
+      "value": 4800,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Gold Chain"
+      "value": "Gold Chain",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Viper"
+      "value": "Golden Viper",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Gold Skeleton"
+      "value": "Gold Skeleton",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Bag of Tricks"
+      "value": "Bag of Tricks",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Gold"
+      "value": "Gold",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

@@ -1,32 +1,39 @@
 {
+  "id": 2292,
   "name": "Darling Akron of the Keep",
   "image": "http://forgottenbabies.com/uri/json/2292.png",
-  "serial": 2292,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "frozen_frock"
+      "value": "frozen_frock",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_ascetic"
+      "value": "young_ascetic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_brimstone"
+      "value": "rune_of_brimstone",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

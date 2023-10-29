@@ -1,6 +1,7 @@
 {
-  "idx": "3803",
+  "id": "3803",
   "name": "Moriko Shaver of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3803",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

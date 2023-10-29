@@ -1,32 +1,39 @@
 {
+  "id": 7592,
   "name": "Generous Bayard of the Cold",
   "image": "http://forgottenbabies.com/uri/json/7592.png",
-  "serial": 7592,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_puffy_vest"
+      "value": "green_puffy_vest",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_red_wizard"
+      "value": "little_red_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "hobgoblins_flame_the_wayward_spell"
+      "value": "hobgoblins_flame_the_wayward_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

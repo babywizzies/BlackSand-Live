@@ -1,43 +1,54 @@
 {
+  "id": null,
   "name": "Wraith Knight Angus of the Bleep",
   "image": "https://portal.forgottenrunes.com/api/souls/img/5469",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Pestilence"
+      "value": "Pestilence",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Channel 1 Robe"
+      "value": "Channel 1 Robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wraith Knight"
+      "value": "Wraith Knight",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "A dumb stick... on fire"
+      "value": "A dumb stick... on fire",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Bunny Skeleton"
+      "value": "Bunny Skeleton",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Soul Rune of Brimstone"
+      "value": "Soul Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Transmuted from number",
-      "value": 5469
+      "value": 5469,
+      "filename": null
     },
     {
       "trait_type": "Transmuted from",
-      "value": "Ice Mage Angus of the Ice"
+      "value": "Ice Mage Angus of the Ice",
+      "filename": null
     },
     {
       "trait_type": "Burn order",
-      "value": 686
+      "value": 686,
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

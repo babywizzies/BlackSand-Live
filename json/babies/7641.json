@@ -1,32 +1,39 @@
 {
+  "id": 7641,
   "name": "Lovable Jahid of the Secret Fire",
   "image": "http://forgottenbabies.com/uri/json/7641.png",
-  "serial": 7641,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_baby_buckle"
+      "value": "blue_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "evil_kid"
+      "value": "evil_kid",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "solar_wand"
+      "value": "solar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

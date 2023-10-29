@@ -1,32 +1,39 @@
 {
+  "id": 4609,
   "name": "Philosphical JackDaw of the Veil",
   "image": "http://forgottenbabies.com/uri/json/4609.png",
-  "serial": 4609,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "robe_of_shade"
+      "value": "robe_of_shade",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_canaanite"
+      "value": "young_canaanite",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_lollipop"
+      "value": "stellar_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

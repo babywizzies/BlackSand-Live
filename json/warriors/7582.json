@@ -1,6 +1,7 @@
 {
-  "idx": "7582",
+  "id": "7582",
   "name": "Alden Paragon of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7582",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

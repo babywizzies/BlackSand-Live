@@ -1,6 +1,7 @@
 {
-  "idx": "15085",
+  "id": "15085",
   "name": "Maur Conqueror of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15085",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

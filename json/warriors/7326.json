@@ -1,6 +1,7 @@
 {
-  "idx": "7326",
+  "id": "7326",
   "name": "Barret of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7326",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

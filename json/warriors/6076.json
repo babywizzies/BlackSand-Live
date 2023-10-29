@@ -1,6 +1,7 @@
 {
-  "idx": "6076",
+  "id": "6076",
   "name": "Smith Punisher of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6076",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

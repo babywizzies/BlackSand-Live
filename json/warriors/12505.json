@@ -1,6 +1,7 @@
 {
-  "idx": "12505",
+  "id": "12505",
   "name": "Charlie Ravager of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12505",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

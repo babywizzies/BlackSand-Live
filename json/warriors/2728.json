@@ -1,6 +1,7 @@
 {
-  "idx": "2728",
+  "id": "2728",
   "name": "Therrus Obliterator of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2728",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

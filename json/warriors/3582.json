@@ -1,6 +1,7 @@
 {
-  "idx": "3582",
+  "id": "3582",
   "name": "Lucy of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3582",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

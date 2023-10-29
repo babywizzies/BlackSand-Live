@@ -1,32 +1,39 @@
 {
+  "id": 4549,
   "name": "Darling Ming of the Riviera",
   "image": "http://forgottenbabies.com/uri/json/4549.png",
-  "serial": 4549,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_onesie"
+      "value": "purple_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_kabuki"
+      "value": "young_kabuki",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kiki's_broom"
+      "value": "kiki's_broom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

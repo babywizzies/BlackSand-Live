@@ -1,6 +1,7 @@
 {
-  "idx": "13889",
+  "id": "13889",
   "name": "Baako Dispatcher of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13889",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

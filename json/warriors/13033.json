@@ -1,6 +1,7 @@
 {
-  "idx": "13033",
+  "id": "13033",
   "name": "Bernard Slaughterer of Devils",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13033",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

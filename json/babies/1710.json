@@ -1,32 +1,39 @@
 {
+  "id": 1710,
   "name": "Romantic Chandler ",
   "image": "http://forgottenbabies.com/uri/json/1710.png",
-  "serial": 1710,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_kerchif"
+      "value": "green_kerchif",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_fur_gnome"
+      "value": "small_fur_gnome",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

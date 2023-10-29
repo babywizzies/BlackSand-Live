@@ -1,6 +1,7 @@
 {
-  "idx": "1121",
+  "id": "1121",
   "name": "Roombor Razer of Devils",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1121",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

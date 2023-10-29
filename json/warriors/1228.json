@@ -1,6 +1,7 @@
 {
-  "idx": "1228",
+  "id": "1228",
   "name": "Vega Thief of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1228",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

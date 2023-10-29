@@ -1,32 +1,39 @@
 {
+  "id": 8904,
   "name": "Persuasive Katherine of the Villa",
   "image": "http://forgottenbabies.com/uri/json/8904.png",
-  "serial": 8904,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_onesie"
+      "value": "purple_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_kabuki"
+      "value": "young_kabuki",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_black_kitten"
+      "value": "lucky_black_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

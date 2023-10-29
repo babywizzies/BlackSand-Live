@@ -1,48 +1,59 @@
 {
+  "id": 2737,
   "name": "Witch Elizabeth of the Moors",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2737.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2737
+      "value": 2737,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Hip Pouch"
+      "value": "Red Hip Pouch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Ember Frog"
+      "value": "Ember Frog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hag"
+      "value": "Hag",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Nightshade Potion"
+      "value": "Nightshade Potion",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Frog"
+      "value": "Frog",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

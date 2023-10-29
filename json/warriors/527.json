@@ -1,6 +1,7 @@
 {
-  "idx": "527",
+  "id": "527",
   "name": "Duke Eidolon of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/527",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

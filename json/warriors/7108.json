@@ -1,6 +1,7 @@
 {
-  "idx": "7108",
+  "id": "7108",
   "name": "Mark Sword of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7108",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

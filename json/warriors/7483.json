@@ -1,6 +1,7 @@
 {
-  "idx": "7483",
+  "id": "7483",
   "name": "Samuel Amputator of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7483",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Yellow Buckler",
       "filename": "shield_circle_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

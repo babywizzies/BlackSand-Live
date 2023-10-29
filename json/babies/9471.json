@@ -1,32 +1,39 @@
 {
+  "id": 9471,
   "name": "Darling Luther of the Waste",
   "image": "http://forgottenbabies.com/uri/json/9471.png",
-  "serial": 9471,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_kerchif"
+      "value": "green_kerchif",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_woodland_shapeshifter"
+      "value": "small_woodland_shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_skramps"
+      "value": "baby_skramps",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "caduceus_wand"
+      "value": "caduceus_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

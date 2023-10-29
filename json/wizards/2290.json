@@ -1,52 +1,64 @@
 {
+  "id": 2290,
   "name": "Sorcerer Feng of the Desert",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2290.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2290
+      "value": 2290,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Desert Wear"
+      "value": "Desert Wear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Vile of Virgin's Blood"
+      "value": "Vile of Virgin's Blood",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
+      "value": "Rune of Fire",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Monk"
+      "value": "Monk",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

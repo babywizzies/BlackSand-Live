@@ -1,6 +1,7 @@
 {
-  "idx": "5685",
+  "id": "5685",
   "name": "Victor Hero of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5685",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

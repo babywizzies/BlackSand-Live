@@ -1,6 +1,7 @@
 {
-  "idx": "6825",
+  "id": "6825",
   "name": "Mark Dueler of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6825",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

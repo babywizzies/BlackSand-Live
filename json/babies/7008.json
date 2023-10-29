@@ -1,32 +1,39 @@
 {
+  "id": 7008,
   "name": "Delightful Malcom of the Berg",
   "image": "http://forgottenbabies.com/uri/json/7008.png",
-  "serial": 7008,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "oversized_snowsuit"
+      "value": "oversized_snowsuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_swashbuckler"
+      "value": "young_swashbuckler",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_topaz_slime"
+      "value": "small_topaz_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

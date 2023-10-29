@@ -1,6 +1,7 @@
 {
-  "idx": "9786",
+  "id": "9786",
   "name": "Tori Hero of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9786",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

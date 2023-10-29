@@ -1,6 +1,7 @@
 {
-  "idx": "11046",
+  "id": "11046",
   "name": "Julia Thief of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11046",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 8009,
   "name": "Amusing Adium of the Sun",
   "image": "http://forgottenbabies.com/uri/json/8009.png",
-  "serial": 8009,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_red"
+      "value": "child_cleric_red",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_trickster"
+      "value": "tiny_trickster",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "joy_wand"
+      "value": "joy_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

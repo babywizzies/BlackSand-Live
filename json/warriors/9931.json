@@ -1,6 +1,7 @@
 {
-  "idx": "9931",
+  "id": "9931",
   "name": "Urmgurn Guardian of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9931",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 3032,
   "name": "Cautious EyesTeethFlesh of the Sea",
   "image": "http://forgottenbabies.com/uri/json/3032.png",
-  "serial": 3032,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "grey_puffy_pants"
+      "value": "grey_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "boy_of_oz"
+      "value": "boy_of_oz",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "reversed_chroma_crystal"
+      "value": "reversed_chroma_crystal",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

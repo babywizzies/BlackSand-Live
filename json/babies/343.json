@@ -1,32 +1,39 @@
 {
+  "id": 343,
   "name": "Poetic Trollin of the Swell",
   "image": "http://forgottenbabies.com/uri/json/343.png",
-  "serial": 343,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_tiny_caped_traveller"
+      "value": "green_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "bold_baby"
+      "value": "bold_baby",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_up"
+      "value": "rune_up",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

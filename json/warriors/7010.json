@@ -1,6 +1,7 @@
 {
-  "idx": "7010",
+  "id": "7010",
   "name": "Serena Wounder of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7010",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

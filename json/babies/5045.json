@@ -1,32 +1,39 @@
 {
+  "id": 5045,
   "name": "Darling Caligula of the Riviera",
   "image": "http://forgottenbabies.com/uri/json/5045.png",
-  "serial": 5045,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_blue"
+      "value": "acute_aristocrat_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "macho_boy"
+      "value": "macho_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_red_mushroom"
+      "value": "mini_red_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

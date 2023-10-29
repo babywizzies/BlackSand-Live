@@ -1,6 +1,7 @@
 {
-  "idx": "3562",
+  "id": "3562",
   "name": "Cossus Wounder of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3562",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

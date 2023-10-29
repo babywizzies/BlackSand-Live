@@ -1,32 +1,39 @@
 {
+  "id": 7576,
   "name": "Eager Mage of the Leap",
   "image": "http://forgottenbabies.com/uri/json/7576.png",
-  "serial": 7576,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_onesie"
+      "value": "purple_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "princess"
+      "value": "princess",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "kitten_of_the_sun"
+      "value": "kitten_of_the_sun",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "adrenochrome"
+      "value": "adrenochrome",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

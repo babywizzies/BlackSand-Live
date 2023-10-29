@@ -1,52 +1,64 @@
 {
+  "id": 1302,
   "name": "Magus Sahir of the Canyon",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1302.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1302
+      "value": 1302,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Two Tone Fringe"
+      "value": "Two Tone Fringe",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Dirt Rabbit"
+      "value": "Dirt Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Trickster"
+      "value": "Trickster",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Phoenix Feather"
+      "value": "Phoenix Feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
+      "value": "Rune of Air",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

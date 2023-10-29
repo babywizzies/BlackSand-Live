@@ -1,6 +1,7 @@
 {
-  "idx": "4541",
+  "id": "4541",
   "name": "Oula Guillotiner of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4541",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 8499,
   "name": "Observant Sondra of the Road",
   "image": "http://forgottenbabies.com/uri/json/8499.png",
-  "serial": 8499,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "coven_sister"
+      "value": "coven_sister",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "raven_feather"
+      "value": "raven_feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sigma"
+      "value": "rune_sigma",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

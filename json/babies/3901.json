@@ -1,32 +1,39 @@
 {
+  "id": 3901,
   "name": "Poetic Galatea of the Heath",
   "image": "http://forgottenbabies.com/uri/json/3901.png",
-  "serial": 3901,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_jester_cape"
+      "value": "green_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_vamp"
+      "value": "young_vamp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "nightshade_lollipop"
+      "value": "nightshade_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

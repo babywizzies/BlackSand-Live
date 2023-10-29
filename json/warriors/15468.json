@@ -1,6 +1,7 @@
 {
-  "idx": "15468",
+  "id": "15468",
   "name": "Beron Guillotiner of the Horde",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15468",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Titan Cleaver",
       "filename": "weapon_cleaver_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

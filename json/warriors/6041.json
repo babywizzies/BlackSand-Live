@@ -1,6 +1,7 @@
 {
-  "idx": "6041",
+  "id": "6041",
   "name": "Dragga Impaler of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6041",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

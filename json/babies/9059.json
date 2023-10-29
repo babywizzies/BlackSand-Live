@@ -1,32 +1,39 @@
 {
+  "id": 9059,
   "name": "Cutie Black Goat of the Keep",
   "image": "http://forgottenbabies.com/uri/json/9059.png",
-  "serial": 9059,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "oversized_snowsuit"
+      "value": "oversized_snowsuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_illuminatus"
+      "value": "small_illuminatus",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

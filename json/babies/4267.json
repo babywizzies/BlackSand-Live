@@ -1,32 +1,39 @@
 {
+  "id": 4267,
   "name": "Energetic Nikolas of La Bibliotheca",
   "image": "http://forgottenbabies.com/uri/json/4267.png",
-  "serial": 4267,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_blue"
+      "value": "acute_aristocrat_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_imp"
+      "value": "little_imp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "solar_wand"
+      "value": "solar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

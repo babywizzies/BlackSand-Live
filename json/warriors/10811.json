@@ -1,6 +1,7 @@
 {
-  "idx": "10811",
+  "id": "10811",
   "name": "Archer Hacker of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10811",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

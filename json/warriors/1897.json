@@ -1,6 +1,7 @@
 {
-  "idx": "1897",
+  "id": "1897",
   "name": "Harvey Waster of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1897",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

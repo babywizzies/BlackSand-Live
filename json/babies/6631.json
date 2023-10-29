@@ -1,32 +1,39 @@
 {
+  "id": 6631,
   "name": "Fierce Jagger of the Wold",
   "image": "http://forgottenbabies.com/uri/json/6631.png",
-  "serial": 6631,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_kerchif"
+      "value": "orange_kerchif",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_death_eater"
+      "value": "young_death_eater",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mario_flytrap"
+      "value": "mario_flytrap",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

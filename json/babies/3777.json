@@ -1,32 +1,39 @@
 {
+  "id": 3777,
   "name": "Romantic Hothor of the River",
   "image": "http://forgottenbabies.com/uri/json/3777.png",
-  "serial": 3777,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_gray_tunic"
+      "value": "tiny_gray_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wild_werebeast"
+      "value": "wild_werebeast",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_single_candle"
+      "value": "a_single_candle",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

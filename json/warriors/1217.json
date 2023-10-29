@@ -1,6 +1,7 @@
 {
-  "idx": "1217",
+  "id": "1217",
   "name": "Stinkie Cad of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1217",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

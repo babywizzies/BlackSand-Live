@@ -1,32 +1,39 @@
 {
+  "id": 5055,
   "name": "Diabolical Robert of the Brine",
   "image": "http://forgottenbabies.com/uri/json/5055.png",
-  "serial": 5055,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_banded_overall"
+      "value": "small_banded_overall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "boy_of_oz"
+      "value": "boy_of_oz",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "kitten_of_the_sun"
+      "value": "kitten_of_the_sun",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

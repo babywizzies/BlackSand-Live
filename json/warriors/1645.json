@@ -1,6 +1,7 @@
 {
-  "idx": "1645",
+  "id": "1645",
   "name": "Axel Hero of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1645",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

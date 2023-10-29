@@ -1,32 +1,39 @@
 {
+  "id": 3268,
   "name": "Persuasive Gee of the Dunes",
   "image": "http://forgottenbabies.com/uri/json/3268.png",
-  "serial": 3268,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Blue_Shoulder_Cape"
+      "value": "Small_Blue_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_pumpkin_head"
+      "value": "small_pumpkin_head",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "celestial_sparkler"
+      "value": "celestial_sparkler",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_down"
+      "value": "rune_of_down",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

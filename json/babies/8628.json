@@ -1,32 +1,39 @@
 {
+  "id": 8628,
   "name": "Determined Voidoth of the Ice",
   "image": "http://forgottenbabies.com/uri/json/8628.png",
-  "serial": 8628,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_tech_coat"
+      "value": "tiny_tech_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "studying_cosmic_arcanist"
+      "value": "studying_cosmic_arcanist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "potted_plant"
+      "value": "potted_plant",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

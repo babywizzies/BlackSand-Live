@@ -1,6 +1,7 @@
 {
-  "idx": "13335",
+  "id": "13335",
   "name": "Ubel Mercenary of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13335",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

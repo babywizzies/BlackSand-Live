@@ -1,6 +1,7 @@
 {
-  "idx": "6005",
+  "id": "6005",
   "name": "Edmund Eidolon of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6005",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

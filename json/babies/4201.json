@@ -1,32 +1,39 @@
 {
+  "id": 4201,
   "name": "Focused Ethan of the Mountain",
   "image": "http://forgottenbabies.com/uri/json/4201.png",
-  "serial": 4201,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_skipper"
+      "value": "little_skipper",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "macho_boy"
+      "value": "macho_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_wand"
+      "value": "stellar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

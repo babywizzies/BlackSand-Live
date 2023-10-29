@@ -1,6 +1,7 @@
 {
-  "idx": "8707",
+  "id": "8707",
   "name": "Garrison Carver of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8707",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Foot Soldier Helm",
       "filename": "head_gunthor.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

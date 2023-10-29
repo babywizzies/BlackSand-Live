@@ -1,6 +1,7 @@
 {
-  "idx": "12019",
+  "id": "12019",
   "name": "Marie Plunderer of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12019",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

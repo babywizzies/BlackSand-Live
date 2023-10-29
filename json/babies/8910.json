@@ -1,32 +1,39 @@
 {
+  "id": 8910,
   "name": "Affectionate Onaxx of the Obelisk",
   "image": "http://forgottenbabies.com/uri/json/8910.png",
-  "serial": 8910,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "white_koveralls"
+      "value": "white_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_purple_wizard"
+      "value": "puny_purple_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "nightshade_lollipop"
+      "value": "nightshade_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

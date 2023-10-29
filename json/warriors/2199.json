@@ -1,6 +1,7 @@
 {
-  "idx": "2199",
+  "id": "2199",
   "name": "Urhammu Ruin of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2199",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

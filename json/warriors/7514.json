@@ -1,6 +1,7 @@
 {
-  "idx": "7514",
+  "id": "7514",
   "name": "Ayana Paragon of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7514",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

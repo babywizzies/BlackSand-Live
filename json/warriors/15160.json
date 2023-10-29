@@ -1,6 +1,7 @@
 {
-  "idx": "15160",
+  "id": "15160",
   "name": "Benedict Bruiser of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15160",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

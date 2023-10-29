@@ -1,32 +1,39 @@
 {
+  "id": 7372,
   "name": "Loyal Samuel of the Road",
   "image": "http://forgottenbabies.com/uri/json/7372.png",
-  "serial": 7372,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_tech_coat"
+      "value": "tiny_tech_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_creol"
+      "value": "young_creol",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_midas_rod"
+      "value": "the_midas_rod",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

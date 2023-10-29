@@ -1,6 +1,7 @@
 {
-  "idx": "10245",
+  "id": "10245",
   "name": "Marcus Protector of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10245",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

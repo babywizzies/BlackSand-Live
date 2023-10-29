@@ -1,6 +1,7 @@
 {
-  "idx": "5830",
+  "id": "5830",
   "name": "Millicent Slasher of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5830",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

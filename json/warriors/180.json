@@ -1,6 +1,7 @@
 {
-  "idx": "180",
+  "id": "180",
   "name": "Sam Hero of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/180",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Herald Shield",
       "filename": "shield_chevron_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

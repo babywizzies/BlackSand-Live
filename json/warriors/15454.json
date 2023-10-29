@@ -1,6 +1,7 @@
 {
-  "idx": "15454",
+  "id": "15454",
   "name": "Naoki Hero of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15454",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Malachite Dragon Pike",
       "filename": "weapon_dragonpike_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

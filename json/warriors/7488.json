@@ -1,6 +1,7 @@
 {
-  "idx": "7488",
+  "id": "7488",
   "name": "Sandy Rapscallion of Islands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7488",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

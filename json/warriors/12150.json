@@ -1,6 +1,7 @@
 {
-  "idx": "12150",
+  "id": "12150",
   "name": "Brooks Doom of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12150",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

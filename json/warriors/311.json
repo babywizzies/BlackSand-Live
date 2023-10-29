@@ -1,6 +1,7 @@
 {
-  "idx": "311",
+  "id": "311",
   "name": "Glubb Peacemaker of the Worms",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/311",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

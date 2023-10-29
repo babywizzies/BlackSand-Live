@@ -1,6 +1,7 @@
 {
-  "idx": "4164",
+  "id": "4164",
   "name": "Pippa Impaler of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4164",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

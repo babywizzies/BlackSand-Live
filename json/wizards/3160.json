@@ -1,52 +1,64 @@
 {
+  "id": 3160,
   "name": "Sorcerer Solomon of the Quantum Downs",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3160.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3160
+      "value": 3160,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Purple Mantle Robe"
+      "value": "Purple Mantle Robe",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Merlin's Monkey"
+      "value": "Merlin's Monkey",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Cosmic Arcanist"
+      "value": "Cosmic Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Lucky Horseshoe"
+      "value": "Lucky Horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
+      "value": "Rune of Sigma",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

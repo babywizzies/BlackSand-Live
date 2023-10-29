@@ -1,32 +1,39 @@
 {
+  "id": 181,
   "name": "Brave Cassius of the Waste",
   "image": "http://forgottenbabies.com/uri/json/181.png",
-  "serial": 181,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "brown_koveralls"
+      "value": "brown_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_fortune_seeker"
+      "value": "small_fortune_seeker",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "raven_feather"
+      "value": "raven_feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11870",
+  "id": "11870",
   "name": "Nova Carver of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11870",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

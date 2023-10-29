@@ -1,6 +1,7 @@
 {
-  "idx": "3500",
+  "id": "3500",
   "name": "Hurmin Cleaver of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3500",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

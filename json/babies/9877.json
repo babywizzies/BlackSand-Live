@@ -1,32 +1,39 @@
 {
+  "id": 9877,
   "name": "Chatty Artis of the Berg",
   "image": "http://forgottenbabies.com/uri/json/9877.png",
-  "serial": 9877,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_banded_overall"
+      "value": "small_banded_overall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_crone"
+      "value": "small_crone",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_sphinx"
+      "value": "young_sphinx",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "celestial_sparkler"
+      "value": "celestial_sparkler",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

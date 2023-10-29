@@ -1,6 +1,7 @@
 {
-  "idx": "1499",
+  "id": "1499",
   "name": "Richard Danger of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1499",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12028",
+  "id": "12028",
   "name": "Vidal Ace of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12028",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

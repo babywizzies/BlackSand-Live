@@ -1,6 +1,7 @@
 {
-  "idx": "14935",
+  "id": "14935",
   "name": "Akane Hero of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14935",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

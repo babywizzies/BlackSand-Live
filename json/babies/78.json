@@ -1,32 +1,39 @@
 {
+  "id": 78,
   "name": "Persuasive Faiz of the Sacred Pillars",
   "image": "http://forgottenbabies.com/uri/json/78.png",
-  "serial": 78,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "robe_of_shade"
+      "value": "robe_of_shade",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_green_wizard"
+      "value": "young_green_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_aura_wolf"
+      "value": "young_aura_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kiki's_broom"
+      "value": "kiki's_broom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

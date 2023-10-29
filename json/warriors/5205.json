@@ -1,6 +1,7 @@
 {
-  "idx": "5205",
+  "id": "5205",
   "name": "Waldo of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5205",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

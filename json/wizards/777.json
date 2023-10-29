@@ -1,52 +1,64 @@
 {
+  "id": 777,
   "name": "Sacred Key Master",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/777.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 777
+      "value": 777,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Rainbow Suit"
+      "value": "Rainbow Suit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Ancient Sphinx"
+      "value": "Ancient Sphinx",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Illuminatus"
+      "value": "Illuminatus",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Key of the 7th Realm"
+      "value": "Key of the 7th Realm",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Infinity"
+      "value": "Rune of Infinity",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

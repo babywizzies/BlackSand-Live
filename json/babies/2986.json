@@ -1,32 +1,39 @@
 {
+  "id": 2986,
   "name": "Shrewd Alatar of La Bibliotheca",
   "image": "http://forgottenbabies.com/uri/json/2986.png",
-  "serial": 2986,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "toddler_two_tone_coverall"
+      "value": "toddler_two_tone_coverall",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_witch"
+      "value": "little_witch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2586",
+  "id": "2586",
   "name": "Zazne Marauder of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2586",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

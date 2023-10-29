@@ -1,6 +1,7 @@
 {
-  "idx": "6769",
+  "id": "6769",
   "name": "Vinicius Cruncher of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6769",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

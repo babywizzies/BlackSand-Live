@@ -1,6 +1,7 @@
 {
-  "idx": "6153",
+  "id": "6153",
   "name": "Xerxes Horror of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6153",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Yellow Chainsaw",
       "filename": "weapon_chainsaw_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

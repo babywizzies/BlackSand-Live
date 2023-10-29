@@ -1,6 +1,7 @@
 {
-  "idx": "1366",
+  "id": "1366",
   "name": "Perseus Annihilator of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1366",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

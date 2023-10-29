@@ -1,6 +1,7 @@
 {
-  "idx": "8107",
+  "id": "8107",
   "name": "Leah Exterminator of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8107",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

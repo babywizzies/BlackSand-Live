@@ -1,6 +1,7 @@
 {
-  "idx": "6618",
+  "id": "6618",
   "name": "Gaddum Mercenary of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6618",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Lazurite Dragon Sword",
       "filename": "weapon_dragonsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

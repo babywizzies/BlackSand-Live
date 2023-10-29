@@ -1,6 +1,7 @@
 {
-  "idx": "1043",
+  "id": "1043",
   "name": "Thomas Cleaver of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1043",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Fire Shield",
       "filename": "shield_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

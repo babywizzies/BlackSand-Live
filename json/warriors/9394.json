@@ -1,6 +1,7 @@
 {
-  "idx": "9394",
+  "id": "9394",
   "name": "Ragnar Dicer of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9394",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 3301,
   "name": "Clever Zhan of the Brambles",
   "image": "http://forgottenbabies.com/uri/json/3301.png",
-  "serial": 3301,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "brown_koveralls"
+      "value": "brown_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_red_wizard"
+      "value": "little_red_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "friendly_fox"
+      "value": "friendly_fox",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

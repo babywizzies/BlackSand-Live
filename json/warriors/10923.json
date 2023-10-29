@@ -1,6 +1,7 @@
 {
-  "idx": "10923",
+  "id": "10923",
   "name": "Sherry Champion of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10923",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

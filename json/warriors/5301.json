@@ -1,6 +1,7 @@
 {
-  "idx": "5301",
+  "id": "5301",
   "name": "Donovan Disintegrator of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5301",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

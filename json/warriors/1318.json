@@ -1,6 +1,7 @@
 {
-  "idx": "1318",
+  "id": "1318",
   "name": "Sandy Cleaver of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1318",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

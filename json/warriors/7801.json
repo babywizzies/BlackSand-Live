@@ -1,6 +1,7 @@
 {
-  "idx": "7801",
+  "id": "7801",
   "name": "Chibuzo Igniter of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7801",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

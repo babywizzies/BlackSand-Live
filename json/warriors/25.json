@@ -1,6 +1,7 @@
 {
-  "idx": "25",
+  "id": "25",
   "name": "Ward of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/25",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

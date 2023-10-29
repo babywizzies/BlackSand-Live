@@ -1,6 +1,7 @@
 {
-  "idx": "3581",
+  "id": "3581",
   "name": "Dagon Hero of Owls",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3581",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

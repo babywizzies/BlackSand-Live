@@ -1,6 +1,7 @@
 {
-  "idx": "2208",
+  "id": "2208",
   "name": "Everett Paragon of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2208",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 893,
   "name": "Spunky Caligari of the Steppe",
   "image": "http://forgottenbabies.com/uri/json/893.png",
-  "serial": 893,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_lined_coveralls_blue"
+      "value": "little_lined_coveralls_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_hag"
+      "value": "young_hag",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "love_lollipop"
+      "value": "love_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

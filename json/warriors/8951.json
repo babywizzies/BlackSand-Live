@@ -1,6 +1,7 @@
 {
-  "idx": "8951",
+  "id": "8951",
   "name": "Ned Combatant of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8951",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Katana",
       "filename": "weapon_katana.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

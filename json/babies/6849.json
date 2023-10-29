@@ -1,32 +1,39 @@
 {
+  "id": 6849,
   "name": "Loyal Qasim of El Dorado",
   "image": "http://forgottenbabies.com/uri/json/6849.png",
-  "serial": 6849,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "childrens_cosmic_cardigan"
+      "value": "childrens_cosmic_cardigan",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "student_of_elements"
+      "value": "student_of_elements",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_red_mushroom"
+      "value": "mini_red_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

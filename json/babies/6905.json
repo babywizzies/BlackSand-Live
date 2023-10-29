@@ -1,32 +1,39 @@
 {
+  "id": 6905,
   "name": "Zestful Blaise of the Veil",
   "image": "http://forgottenbabies.com/uri/json/6905.png",
-  "serial": 6905,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "grey_puffy_pants"
+      "value": "grey_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_strongman"
+      "value": "small_strongman",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

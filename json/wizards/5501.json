@@ -1,48 +1,59 @@
 {
+  "id": 5501,
   "name": "Magus Zafar of the Desert",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5501.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5501
+      "value": 5501,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Double Sash"
+      "value": "Double Sash",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sun Cat"
+      "value": "Sun Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Punjabi"
+      "value": "Punjabi",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Shaman's Peyote"
+      "value": "Shaman's Peyote",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Desert"
+      "value": "Desert",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

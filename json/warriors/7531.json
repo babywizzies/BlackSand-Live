@@ -1,6 +1,7 @@
 {
-  "idx": "7531",
+  "id": "7531",
   "name": "Koffi Cataclysm of Arcadia",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7531",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1346",
+  "id": "1346",
   "name": "Duke Menace of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1346",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

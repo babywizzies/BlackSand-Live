@@ -1,6 +1,7 @@
 {
-  "idx": "7425",
+  "id": "7425",
   "name": "Rudolph Bloodbath of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7425",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

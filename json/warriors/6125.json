@@ -1,6 +1,7 @@
 {
-  "idx": "6125",
+  "id": "6125",
   "name": "Magnus Cooker of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6125",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

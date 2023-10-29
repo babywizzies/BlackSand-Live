@@ -1,6 +1,7 @@
 {
-  "idx": "12455",
+  "id": "12455",
   "name": "Fenjeon Killer of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12455",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of Balance",
       "filename": "shield_tri.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

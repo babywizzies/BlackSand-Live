@@ -1,6 +1,7 @@
 {
-  "idx": "2490",
+  "id": "2490",
   "name": "Helen Ruffian of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2490",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9342",
+  "id": "9342",
   "name": "Wolfe Rival of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9342",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

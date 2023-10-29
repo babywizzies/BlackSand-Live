@@ -1,6 +1,7 @@
 {
-  "idx": "11868",
+  "id": "11868",
   "name": "Sigmund Assaulter of the Cage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11868",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

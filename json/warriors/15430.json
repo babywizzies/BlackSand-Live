@@ -1,6 +1,7 @@
 {
-  "idx": "15430",
+  "id": "15430",
   "name": "Kalo Assailant of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15430",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

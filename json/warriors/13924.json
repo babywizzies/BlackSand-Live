@@ -1,6 +1,7 @@
 {
-  "idx": "13924",
+  "id": "13924",
   "name": "Sita Marauder of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13924",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

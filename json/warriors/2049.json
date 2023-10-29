@@ -1,6 +1,7 @@
 {
-  "idx": "2049",
+  "id": "2049",
   "name": "Baril Adventurer of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2049",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

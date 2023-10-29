@@ -1,32 +1,39 @@
 {
+  "id": 3007,
   "name": "Logical Gogol of Elysium",
   "image": "http://forgottenbabies.com/uri/json/3007.png",
-  "serial": 3007,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_onesie"
+      "value": "red_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "fart_chick"
+      "value": "fart_chick",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_earth"
+      "value": "rune_of_earth",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9026",
+  "id": "9026",
   "name": "Roger Striker of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9026",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2381",
+  "id": "2381",
   "name": "Titus Hero of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2381",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

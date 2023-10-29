@@ -1,6 +1,7 @@
 {
-  "idx": "2386",
+  "id": "2386",
   "name": "Chuck Armageddon of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2386",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8468",
+  "id": "8468",
   "name": "Logan Peacemaker of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8468",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

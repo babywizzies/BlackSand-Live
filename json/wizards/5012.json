@@ -1,48 +1,59 @@
 {
+  "id": 5012,
   "name": "Archmagus Jeldor of the Gnostics",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5012.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5012
+      "value": 5012,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Grey Tunic"
+      "value": "Grey Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Astral Arcanist"
+      "value": "Astral Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Vile of Virgin's Blood"
+      "value": "Vile of Virgin's Blood",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

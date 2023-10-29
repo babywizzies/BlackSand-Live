@@ -1,6 +1,7 @@
 {
-  "idx": "1193",
+  "id": "1193",
   "name": "Guy Chainsaw of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1193",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

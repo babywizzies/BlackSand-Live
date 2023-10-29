@@ -1,6 +1,7 @@
 {
-  "idx": "1003",
+  "id": "1003",
   "name": "Jupiter Punisher of the Good Luck Squad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1003",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

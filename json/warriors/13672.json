@@ -1,6 +1,7 @@
 {
-  "idx": "13672",
+  "id": "13672",
   "name": "Athina Contender of Demons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13672",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

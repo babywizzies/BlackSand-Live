@@ -1,32 +1,39 @@
 {
+  "id": 4209,
   "name": "Diabolical Uvlius of Arcadia",
   "image": "http://forgottenbabies.com/uri/json/4209.png",
-  "serial": 4209,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_green"
+      "value": "acute_aristocrat_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_swashbuckler"
+      "value": "young_swashbuckler",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "eternal_slug"
+      "value": "eternal_slug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_lollipop"
+      "value": "chocolate_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

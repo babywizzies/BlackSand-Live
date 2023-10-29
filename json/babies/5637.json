@@ -1,32 +1,39 @@
 {
+  "id": 5637,
   "name": "Intuitive Suki of Elysium",
   "image": "http://forgottenbabies.com/uri/json/5637.png",
-  "serial": 5637,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_swashbuckling_gear"
+      "value": "small_swashbuckling_gear",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_fortune_seeker"
+      "value": "small_fortune_seeker",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_black_kitten"
+      "value": "lucky_black_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "toy_horseshoe"
+      "value": "toy_horseshoe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

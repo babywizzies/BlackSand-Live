@@ -1,6 +1,7 @@
 {
-  "idx": "13284",
+  "id": "13284",
   "name": "Oliver Combatant of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13284",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

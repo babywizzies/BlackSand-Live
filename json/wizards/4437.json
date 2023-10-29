@@ -1,52 +1,64 @@
 {
+  "id": 4437,
   "name": "Battle Mage Bayard of the Pit",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4437.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4437
+      "value": 4437,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Wraith"
+      "value": "White Wraith",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sun Cat"
+      "value": "Sun Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Durm and Strang"
+      "value": "Durm and Strang",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Siren's Bell"
+      "value": "Siren's Bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
+      "value": "Rune of Down",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Desert"
+      "value": "Desert",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

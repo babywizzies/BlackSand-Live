@@ -1,6 +1,7 @@
 {
-  "idx": "13628",
+  "id": "13628",
   "name": "Rufus of Doomsday",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13628",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

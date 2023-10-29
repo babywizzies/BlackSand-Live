@@ -1,32 +1,39 @@
 {
+  "id": 7215,
   "name": "Brave Helix of the Ether",
   "image": "http://forgottenbabies.com/uri/json/7215.png",
-  "serial": 7215,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_gold_chain"
+      "value": "small_gold_chain",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_felis"
+      "value": "young_felis",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "creepy_head"
+      "value": "creepy_head",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

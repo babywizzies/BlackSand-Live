@@ -1,6 +1,7 @@
 {
-  "idx": "6888",
+  "id": "6888",
   "name": "Inanna Exterminator of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6888",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

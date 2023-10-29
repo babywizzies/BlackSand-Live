@@ -1,6 +1,7 @@
 {
-  "idx": "6810",
+  "id": "6810",
   "name": "Lance Impaler of the Cage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6810",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Silver Poleaxe",
       "filename": "weapon_poleaxe_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

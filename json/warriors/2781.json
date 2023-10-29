@@ -1,6 +1,7 @@
 {
-  "idx": "2781",
+  "id": "2781",
   "name": "Banjo Ravager of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2781",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5752",
+  "id": "5752",
   "name": "Wulfrum Pulverizer of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5752",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

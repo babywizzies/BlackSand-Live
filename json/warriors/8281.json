@@ -1,6 +1,7 @@
 {
-  "idx": "8281",
+  "id": "8281",
   "name": "Bonnard Savior of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8281",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

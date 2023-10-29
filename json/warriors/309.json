@@ -1,6 +1,7 @@
 {
-  "idx": "309",
+  "id": "309",
   "name": "Alani Sword of the Temple",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/309",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

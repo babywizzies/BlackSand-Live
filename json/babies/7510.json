@@ -1,32 +1,39 @@
 {
+  "id": 7510,
   "name": "Persuasive Gorgana from the Abyss",
   "image": "http://forgottenbabies.com/uri/json/7510.png",
-  "serial": 7510,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_jester_cape"
+      "value": "green_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "coven_sister"
+      "value": "coven_sister",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "astral_lollipop"
+      "value": "astral_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

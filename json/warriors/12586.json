@@ -1,6 +1,7 @@
 {
-  "idx": "12586",
+  "id": "12586",
   "name": "Bardora Blaster of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12586",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

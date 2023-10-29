@@ -1,6 +1,7 @@
 {
-  "idx": "10218",
+  "id": "10218",
   "name": "Durden Hacker of the Cage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10218",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

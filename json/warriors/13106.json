@@ -1,6 +1,7 @@
 {
-  "idx": "13106",
+  "id": "13106",
   "name": "Harland Champion of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13106",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

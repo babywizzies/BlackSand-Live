@@ -1,6 +1,7 @@
 {
-  "idx": "6282",
+  "id": "6282",
   "name": "Rahid Chopper of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6282",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

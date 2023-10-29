@@ -1,6 +1,7 @@
 {
-  "idx": "236",
+  "id": "236",
   "name": "Grogan Amputator of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/236",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

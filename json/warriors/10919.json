@@ -1,6 +1,7 @@
 {
-  "idx": "10919",
+  "id": "10919",
   "name": "Cicero Grinder of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10919",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 9347,
   "name": "Affectionate Zubin of the Woodlands",
   "image": "http://forgottenbabies.com/uri/json/9347.png",
-  "serial": 9347,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_tiny_caped_traveller"
+      "value": "green_tiny_caped_traveller",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_hag"
+      "value": "young_hag",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "heavy_scythe"
+      "value": "heavy_scythe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_up"
+      "value": "rune_up",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

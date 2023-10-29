@@ -1,32 +1,39 @@
 {
+  "id": 1491,
   "name": "Zestful Nikita of the Shadow",
   "image": "http://forgottenbabies.com/uri/json/1491.png",
-  "serial": 1491,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "sweet_tracksuit"
+      "value": "sweet_tracksuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_purple_wizard"
+      "value": "puny_purple_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "torn_piece_of_paper"
+      "value": "torn_piece_of_paper",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

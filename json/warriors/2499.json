@@ -1,6 +1,7 @@
 {
-  "idx": "2499",
+  "id": "2499",
   "name": "Willy Striker of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2499",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

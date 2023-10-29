@@ -1,6 +1,7 @@
 {
-  "idx": "2287",
+  "id": "2287",
   "name": "Henry Assailant of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2287",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Goblin Sword",
       "filename": "weapon_sword_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

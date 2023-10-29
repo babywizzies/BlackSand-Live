@@ -1,6 +1,7 @@
 {
-  "idx": "431",
+  "id": "431",
   "name": "Tora Obliterator of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/431",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

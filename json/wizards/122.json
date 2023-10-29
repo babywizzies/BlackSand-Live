@@ -1,52 +1,64 @@
 {
+  "id": 122,
   "name": "Battle Mage Atlas of the Valley",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/122.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 122
+      "value": 122,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Coveralls"
+      "value": "White Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Crackerjack Crow"
+      "value": "Crackerjack Crow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Woodland Shapeshifter"
+      "value": "Woodland Shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Emerald Staff"
+      "value": "Emerald Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

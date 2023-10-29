@@ -1,6 +1,7 @@
 {
-  "idx": "2314",
+  "id": "2314",
   "name": "Isabella Death of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2314",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

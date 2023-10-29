@@ -1,6 +1,7 @@
 {
-  "idx": "3525",
+  "id": "3525",
   "name": "Meryl Ravager of the Lotus",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3525",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

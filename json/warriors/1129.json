@@ -1,6 +1,7 @@
 {
-  "idx": "1129",
+  "id": "1129",
   "name": "Hugh Eidolon of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1129",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

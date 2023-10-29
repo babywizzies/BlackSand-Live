@@ -1,6 +1,7 @@
 {
-  "idx": "15325",
+  "id": "15325",
   "name": "Ruhi Protector of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15325",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

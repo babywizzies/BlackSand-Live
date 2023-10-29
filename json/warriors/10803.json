@@ -1,6 +1,7 @@
 {
-  "idx": "10803",
+  "id": "10803",
   "name": "Adira Mincer of the Disco",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10803",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

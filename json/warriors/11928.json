@@ -1,6 +1,7 @@
 {
-  "idx": "11928",
+  "id": "11928",
   "name": "Leona Sword of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11928",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

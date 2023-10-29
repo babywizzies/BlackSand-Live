@@ -1,6 +1,7 @@
 {
-  "idx": "11080",
+  "id": "11080",
   "name": "Alyssia Cleaver of Leviathan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11080",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

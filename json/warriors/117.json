@@ -1,6 +1,7 @@
 {
-  "idx": "117",
+  "id": "117",
   "name": "Vincent Vindicator of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/117",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

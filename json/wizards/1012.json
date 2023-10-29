@@ -1,52 +1,64 @@
 {
+  "id": 1012,
   "name": "Adept Solomon of Elysium",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1012.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1012
+      "value": 1012,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Juniper Shoulder Cape"
+      "value": "Juniper Shoulder Cape",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Astral Snail"
+      "value": "Astral Snail",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Faustian"
+      "value": "Faustian",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Book of Magic"
+      "value": "Book of Magic",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Omega"
+      "value": "Rune of Omega",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

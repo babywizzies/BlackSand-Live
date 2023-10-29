@@ -1,6 +1,7 @@
 {
-  "idx": "12344",
+  "id": "12344",
   "name": "Sedal Explorer of Komodi",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12344",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

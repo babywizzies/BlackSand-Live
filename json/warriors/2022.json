@@ -1,6 +1,7 @@
 {
-  "idx": "2022",
+  "id": "2022",
   "name": "George Combatant of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2022",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

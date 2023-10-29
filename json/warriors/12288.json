@@ -1,6 +1,7 @@
 {
-  "idx": "12288",
+  "id": "12288",
   "name": "Misha Piercer of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12288",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

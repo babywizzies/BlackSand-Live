@@ -1,6 +1,7 @@
 {
-  "idx": "6422",
+  "id": "6422",
   "name": "Murphy Daredevil of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6422",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

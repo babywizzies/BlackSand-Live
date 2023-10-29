@@ -1,6 +1,7 @@
 {
-  "idx": "1437",
+  "id": "1437",
   "name": "Roddrick Striker of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1437",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Aurelian Double Blade",
       "filename": "weapon_doubleblade_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1278",
+  "id": "1278",
   "name": "Blake Defender of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1278",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12381",
+  "id": "12381",
   "name": "Meryl Cataclysm of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12381",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

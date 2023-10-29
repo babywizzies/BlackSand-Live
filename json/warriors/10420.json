@@ -1,6 +1,7 @@
 {
-  "idx": "10420",
+  "id": "10420",
   "name": "Nil Debilitator of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10420",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

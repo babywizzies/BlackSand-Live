@@ -1,52 +1,64 @@
 {
+  "id": 8980,
   "name": "Witch Zelda of the Grotto",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8980.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8980
+      "value": 8980,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Big Buckle"
+      "value": "Green Big Buckle",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Forever Bat"
+      "value": "Forever Bat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hag"
+      "value": "Hag",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Kelpie's Fury: the Water Spell"
+      "value": "Kelpie's Fury: the Water Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
+      "value": "Rune of Mercury",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Ocean"
+      "value": "Ocean",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

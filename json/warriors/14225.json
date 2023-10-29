@@ -1,6 +1,7 @@
 {
-  "idx": "14225",
+  "id": "14225",
   "name": "Cyrus Piercer of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14225",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

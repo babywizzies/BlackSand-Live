@@ -1,6 +1,7 @@
 {
-  "idx": "8441",
+  "id": "8441",
   "name": "Uten Wrecker of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8441",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Purple Longsword",
       "filename": "weapon_longsword_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

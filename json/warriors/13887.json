@@ -1,6 +1,7 @@
 {
-  "idx": "13887",
+  "id": "13887",
   "name": "Frank Fiend of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13887",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

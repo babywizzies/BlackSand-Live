@@ -1,6 +1,7 @@
 {
-  "idx": "1451",
+  "id": "1451",
   "name": "Edge Render of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1451",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

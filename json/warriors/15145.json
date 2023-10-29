@@ -1,6 +1,7 @@
 {
-  "idx": "15145",
+  "id": "15145",
   "name": "Farol Fencer of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15145",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8591",
+  "id": "8591",
   "name": "Rockford Cleaver of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8591",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Mercenary Heater Shield",
       "filename": "shield_widex_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

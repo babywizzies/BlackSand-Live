@@ -1,32 +1,39 @@
 {
+  "id": 8824,
   "name": "Charming Durm of the Grotto",
   "image": "http://forgottenbabies.com/uri/json/8824.png",
-  "serial": 8824,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "finicky_formal_suit"
+      "value": "finicky_formal_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_witch"
+      "value": "little_witch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mini_red_mamba"
+      "value": "mini_red_mamba",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

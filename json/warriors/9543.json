@@ -1,6 +1,7 @@
 {
-  "idx": "9543",
+  "id": "9543",
   "name": "Maya Sharpshooter of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9543",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

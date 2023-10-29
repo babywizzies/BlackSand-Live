@@ -1,6 +1,7 @@
 {
-  "idx": "7542",
+  "id": "7542",
   "name": "Sherry Debilitator of the Sea",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7542",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 7916,
   "name": "Crazy Sylvia of the Capital",
   "image": "http://forgottenbabies.com/uri/json/7916.png",
-  "serial": 7916,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_purple_spandex"
+      "value": "small_purple_spandex",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "floral_apprentice"
+      "value": "floral_apprentice",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "wrapped_candy"
+      "value": "wrapped_candy",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

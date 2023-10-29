@@ -1,6 +1,7 @@
 {
-  "idx": "6985",
+  "id": "6985",
   "name": "Inanna Marauder of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6985",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

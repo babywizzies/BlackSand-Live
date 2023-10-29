@@ -1,6 +1,7 @@
 {
-  "idx": "5402",
+  "id": "5402",
   "name": "Vince Dissector of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5402",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

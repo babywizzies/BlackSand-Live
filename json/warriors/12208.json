@@ -1,6 +1,7 @@
 {
-  "idx": "12208",
+  "id": "12208",
   "name": "Draco Amputator of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12208",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

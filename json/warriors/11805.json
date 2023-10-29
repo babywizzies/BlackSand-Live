@@ -1,6 +1,7 @@
 {
-  "idx": "11805",
+  "id": "11805",
   "name": "Ash Lacerator of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11805",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Triple Triangle Shield",
       "filename": "shield_3tri.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

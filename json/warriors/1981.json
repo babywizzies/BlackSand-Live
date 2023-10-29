@@ -1,6 +1,7 @@
 {
-  "idx": "1981",
+  "id": "1981",
   "name": "Humphrey Basher of Lizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1981",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

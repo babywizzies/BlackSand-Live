@@ -1,6 +1,7 @@
 {
-  "idx": "9060",
+  "id": "9060",
   "name": "Alden Render of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9060",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

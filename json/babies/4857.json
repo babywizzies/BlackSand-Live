@@ -1,32 +1,39 @@
 {
+  "id": 4857,
   "name": "Awkward Solomon of the Desert",
   "image": "http://forgottenbabies.com/uri/json/4857.png",
-  "serial": 4857,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_child_choir_robe"
+      "value": "green_child_choir_robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_strongman"
+      "value": "small_strongman",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "torn_piece_of_paper"
+      "value": "torn_piece_of_paper",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 6450,
   "name": "Brave Caligula in the Shadows",
   "image": "http://forgottenbabies.com/uri/json/6450.png",
-  "serial": 6450,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_skipper"
+      "value": "little_skipper",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_prophet"
+      "value": "puny_prophet",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fairy_glamour_the_dazzle_spell"
+      "value": "fairy_glamour_the_dazzle_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

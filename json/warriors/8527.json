@@ -1,6 +1,7 @@
 {
-  "idx": "8527",
+  "id": "8527",
   "name": "Herman Guardian of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8527",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

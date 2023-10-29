@@ -1,6 +1,7 @@
 {
-  "idx": "7255",
+  "id": "7255",
   "name": "Doldain of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7255",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

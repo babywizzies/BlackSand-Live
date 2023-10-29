@@ -1,6 +1,7 @@
 {
-  "idx": "7536",
+  "id": "7536",
   "name": "August Thief of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7536",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

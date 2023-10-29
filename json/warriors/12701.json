@@ -1,6 +1,7 @@
 {
-  "idx": "12701",
+  "id": "12701",
   "name": "Gadreel Stormer of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12701",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

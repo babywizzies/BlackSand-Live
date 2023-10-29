@@ -1,6 +1,7 @@
 {
-  "idx": "5372",
+  "id": "5372",
   "name": "Grackle Bruiser of the Plaguelands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5372",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

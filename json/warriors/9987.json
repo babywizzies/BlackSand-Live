@@ -1,6 +1,7 @@
 {
-  "idx": "9987",
+  "id": "9987",
   "name": "Manu Render of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9987",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

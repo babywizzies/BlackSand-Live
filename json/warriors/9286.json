@@ -1,6 +1,7 @@
 {
-  "idx": "9286",
+  "id": "9286",
   "name": "Nicholas Assaulter of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9286",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

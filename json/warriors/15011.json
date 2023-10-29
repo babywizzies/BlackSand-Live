@@ -1,6 +1,7 @@
 {
-  "idx": "15011",
+  "id": "15011",
   "name": "Lucy Eidolon of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15011",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

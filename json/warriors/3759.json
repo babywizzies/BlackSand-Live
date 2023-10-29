@@ -1,6 +1,7 @@
 {
-  "idx": "3759",
+  "id": "3759",
   "name": "Edward Exterminator of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3759",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Skull Sword",
       "filename": "weapon_skullsword.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

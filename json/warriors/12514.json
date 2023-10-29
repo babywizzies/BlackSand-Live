@@ -1,6 +1,7 @@
 {
-  "idx": "12514",
+  "id": "12514",
   "name": "Farol Fiend of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12514",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

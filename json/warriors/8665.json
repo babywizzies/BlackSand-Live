@@ -1,6 +1,7 @@
 {
-  "idx": "8665",
+  "id": "8665",
   "name": "Nicholas Thief of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8665",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

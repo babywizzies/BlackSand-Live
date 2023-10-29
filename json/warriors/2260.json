@@ -1,6 +1,7 @@
 {
-  "idx": "2260",
+  "id": "2260",
   "name": "Lubalar Hacker of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2260",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

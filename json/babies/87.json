@@ -1,32 +1,39 @@
 {
+  "id": 87,
   "name": "Intellectual Adrienne of Mu",
   "image": "http://forgottenbabies.com/uri/json/87.png",
-  "serial": 87,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_onesie"
+      "value": "red_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_red_priestess"
+      "value": "young_red_priestess",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mini_red_mamba"
+      "value": "mini_red_mamba",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "adrenochrome"
+      "value": "adrenochrome",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

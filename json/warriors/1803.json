@@ -1,6 +1,7 @@
 {
-  "idx": "1803",
+  "id": "1803",
   "name": "Crixus Terror of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1803",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

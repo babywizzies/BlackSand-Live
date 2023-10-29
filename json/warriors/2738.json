@@ -1,6 +1,7 @@
 {
-  "idx": "2738",
+  "id": "2738",
   "name": "Rufus Champion of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2738",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2565",
+  "id": "2565",
   "name": "Dain Protector of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2565",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

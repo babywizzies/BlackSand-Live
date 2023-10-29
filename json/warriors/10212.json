@@ -1,6 +1,7 @@
 {
-  "idx": "10212",
+  "id": "10212",
   "name": "Mondo Hacker of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10212",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

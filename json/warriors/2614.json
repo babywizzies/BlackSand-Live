@@ -1,6 +1,7 @@
 {
-  "idx": "2614",
+  "id": "2614",
   "name": "Boarhead Assaulter of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2614",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

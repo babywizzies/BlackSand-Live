@@ -1,6 +1,7 @@
 {
-  "idx": "3105",
+  "id": "3105",
   "name": "Maxim Vanquisher of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3105",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

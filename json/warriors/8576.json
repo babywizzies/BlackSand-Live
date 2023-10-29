@@ -1,6 +1,7 @@
 {
-  "idx": "8576",
+  "id": "8576",
   "name": "Wilda Champion of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8576",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

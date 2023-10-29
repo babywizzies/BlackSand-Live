@@ -1,32 +1,39 @@
 {
+  "id": 6369,
   "name": "Cautious Luther of the Plains",
   "image": "http://forgottenbabies.com/uri/json/6369.png",
-  "serial": 6369,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Green_Shoulder_Cape"
+      "value": "Small_Green_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "bold_baby"
+      "value": "bold_baby",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "friendly_fox"
+      "value": "friendly_fox",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "emerald_wand"
+      "value": "emerald_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

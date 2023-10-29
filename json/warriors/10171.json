@@ -1,6 +1,7 @@
 {
-  "idx": "10171",
+  "id": "10171",
   "name": "Maximo Champion of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10171",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

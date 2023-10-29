@@ -1,6 +1,7 @@
 {
-  "idx": "7616",
+  "id": "7616",
   "name": "Draxon Exterminator of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7616",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Sword",
       "filename": "weapon_sword_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,44 +1,54 @@
 {
+  "id": 8054,
   "name": "Archmagus Casper of the Mist",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8054.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8054
+      "value": 8054,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Cleric"
+      "value": "Yellow Cleric",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Diviner"
+      "value": "Diviner",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Sphinx's Hourglass"
+      "value": "Sphinx's Hourglass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

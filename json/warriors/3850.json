@@ -1,6 +1,7 @@
 {
-  "idx": "3850",
+  "id": "3850",
   "name": "Tisa Paragon of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3850",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

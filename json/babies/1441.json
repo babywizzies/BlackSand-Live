@@ -1,32 +1,39 @@
 {
+  "id": 1441,
   "name": "Spunky Daphne of the Veil",
   "image": "http://forgottenbabies.com/uri/json/1441.png",
-  "serial": 1441,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_onesie"
+      "value": "red_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_huntress"
+      "value": "young_huntress",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fairy_glamour_the_dazzle_spell"
+      "value": "fairy_glamour_the_dazzle_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

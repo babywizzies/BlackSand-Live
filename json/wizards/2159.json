@@ -1,48 +1,59 @@
 {
+  "id": 2159,
   "name": "Battle Mage Angus of the Dunes",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2159.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2159
+      "value": 2159,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Poncho"
+      "value": "Poncho",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Field Dog"
+      "value": "Field Dog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Swashbuckler"
+      "value": "Swashbuckler",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
+      "value": "Rune of Down",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

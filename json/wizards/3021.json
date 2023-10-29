@@ -1,52 +1,64 @@
 {
+  "id": 3021,
   "name": "Sage Cybele of Elysium",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3021.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3021
+      "value": 3021,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Scholar"
+      "value": "Green Scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Dark Sister"
+      "value": "Dark Sister",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Harmony Staff"
+      "value": "Harmony Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
+      "value": "Rune of Uranus",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blue Shift"
+      "value": "Blue Shift",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

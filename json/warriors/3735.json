@@ -1,6 +1,7 @@
 {
-  "idx": "3735",
+  "id": "3735",
   "name": "Henry Wrecker of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3735",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

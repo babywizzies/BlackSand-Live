@@ -1,48 +1,59 @@
 {
+  "id": 1712,
   "name": "Arch-Magician Aleister of the Fey",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1712.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1712
+      "value": 1712,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Elven Cloak"
+      "value": "Blue Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Eastern Arcanist"
+      "value": "Eastern Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Fairy Glamour: the Dazzle Spell"
+      "value": "Fairy Glamour: the Dazzle Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Goofy"
+      "value": "Goofy",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

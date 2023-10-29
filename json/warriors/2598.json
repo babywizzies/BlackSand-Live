@@ -1,6 +1,7 @@
 {
-  "idx": "2598",
+  "id": "2598",
   "name": "Nuranil Ruin of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2598",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

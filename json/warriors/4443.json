@@ -1,6 +1,7 @@
 {
-  "idx": "4443",
+  "id": "4443",
   "name": "Stone Ruin of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4443",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

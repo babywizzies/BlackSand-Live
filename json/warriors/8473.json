@@ -1,6 +1,7 @@
 {
-  "idx": "8473",
+  "id": "8473",
   "name": "Sekai of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8473",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

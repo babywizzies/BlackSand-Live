@@ -1,52 +1,64 @@
 {
+  "id": 1183,
   "name": "Sage Vatar of the Psychic Leap",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1183.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1183
+      "value": 1183,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Tunic"
+      "value": "White Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Astral Snail"
+      "value": "Astral Snail",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Illuminatus"
+      "value": "Illuminatus",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Caduceus"
+      "value": "Caduceus",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
+      "value": "Rune of Neptune",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

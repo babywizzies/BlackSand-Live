@@ -1,6 +1,7 @@
 {
-  "idx": "146",
+  "id": "146",
   "name": "Frakk Executor of the Chasm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/146",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9492",
+  "id": "9492",
   "name": "Silas Defeater of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9492",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

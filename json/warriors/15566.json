@@ -1,6 +1,7 @@
 {
-  "idx": "15566",
+  "id": "15566",
   "name": "Omolara Sword of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15566",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

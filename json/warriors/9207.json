@@ -1,6 +1,7 @@
 {
-  "idx": "9207",
+  "id": "9207",
   "name": "Mala Battler of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9207",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

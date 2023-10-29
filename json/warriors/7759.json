@@ -1,6 +1,7 @@
 {
-  "idx": "7759",
+  "id": "7759",
   "name": "Colt Vindicator of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7759",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

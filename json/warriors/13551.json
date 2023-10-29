@@ -1,6 +1,7 @@
 {
-  "idx": "13551",
+  "id": "13551",
   "name": "Werner Impaler of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13551",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

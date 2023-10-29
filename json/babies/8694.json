@@ -1,32 +1,39 @@
 {
+  "id": 8694,
   "name": "Ambitious Zeromus of the Forest",
   "image": "http://forgottenbabies.com/uri/json/8694.png",
-  "serial": 8694,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_koveralls"
+      "value": "blue_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_seer"
+      "value": "small_seer",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "adrenochrome"
+      "value": "adrenochrome",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

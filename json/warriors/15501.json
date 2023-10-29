@@ -1,6 +1,7 @@
 {
-  "idx": "15501",
+  "id": "15501",
   "name": "Rin Bludgeoner of Boulders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15501",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10987",
+  "id": "10987",
   "name": "Sandy Rascal of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10987",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

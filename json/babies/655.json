@@ -1,32 +1,39 @@
 {
+  "id": 655,
   "name": "Optimist Finn of the Pit",
   "image": "http://forgottenbabies.com/uri/json/655.png",
-  "serial": 655,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "brown_koveralls"
+      "value": "brown_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "grumpy_gruffling"
+      "value": "grumpy_gruffling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ever_burning_match"
+      "value": "ever_burning_match",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

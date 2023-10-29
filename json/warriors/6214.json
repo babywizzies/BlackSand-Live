@@ -1,6 +1,7 @@
 {
-  "idx": "6214",
+  "id": "6214",
   "name": "Dain Mangler of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6214",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1762",
+  "id": "1762",
   "name": "Luke Rapscallion of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1762",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

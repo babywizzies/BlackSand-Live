@@ -1,6 +1,7 @@
 {
-  "idx": "9409",
+  "id": "9409",
   "name": "Richard Cleaver of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9409",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

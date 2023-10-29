@@ -1,6 +1,7 @@
 {
-  "idx": "4941",
+  "id": "4941",
   "name": "Agnar Obliterator of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4941",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Kite",
       "filename": "shield_kite_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

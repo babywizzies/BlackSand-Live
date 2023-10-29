@@ -1,6 +1,7 @@
 {
-  "idx": "13744",
+  "id": "13744",
   "name": "Henry Horror of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13744",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Yellow Chainsaw",
       "filename": "weapon_chainsaw_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

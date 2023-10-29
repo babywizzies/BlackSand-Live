@@ -1,52 +1,64 @@
 {
+  "id": 8076,
   "name": "Evoker Maia of the Mount",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8076.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8076
+      "value": 8076,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Cleric"
+      "value": "Yellow Cleric",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Red Priestess"
+      "value": "Red Priestess",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Fairy Glamour: the Dazzle Spell"
+      "value": "Fairy Glamour: the Dazzle Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
+      "value": "Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

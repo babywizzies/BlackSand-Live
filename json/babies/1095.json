@@ -1,32 +1,39 @@
 {
+  "id": 1095,
   "name": "Chatty Milo of the Bastion",
   "image": "http://forgottenbabies.com/uri/json/1095.png",
-  "serial": 1095,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "yellow_jester_cape"
+      "value": "yellow_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_koopling"
+      "value": "young_koopling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_crystal_ball"
+      "value": "tiny_crystal_ball",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

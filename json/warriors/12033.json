@@ -1,6 +1,7 @@
 {
-  "idx": "12033",
+  "id": "12033",
   "name": "Pippa Axe of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12033",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gold Herald Shield",
       "filename": "shield_chevron_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

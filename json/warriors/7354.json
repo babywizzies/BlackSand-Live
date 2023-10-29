@@ -1,6 +1,7 @@
 {
-  "idx": "7354",
+  "id": "7354",
   "name": "Beezle Guardian of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7354",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

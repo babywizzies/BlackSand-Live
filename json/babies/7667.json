@@ -1,32 +1,39 @@
 {
+  "id": 7667,
   "name": "Strong Finn of the Hall",
   "image": "http://forgottenbabies.com/uri/json/7667.png",
-  "serial": 7667,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "childrens_cosmic_cardigan"
+      "value": "childrens_cosmic_cardigan",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "mini_mandinka"
+      "value": "mini_mandinka",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "hobgoblins_flame_the_wayward_spell"
+      "value": "hobgoblins_flame_the_wayward_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_omega"
+      "value": "rune_omega",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

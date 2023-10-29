@@ -1,32 +1,39 @@
 {
+  "id": 2633,
   "name": "Optimist Alvaro of the Isle",
   "image": "http://forgottenbabies.com/uri/json/2633.png",
-  "serial": 2633,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "argyle_sweater"
+      "value": "argyle_sweater",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_wooden_boy"
+      "value": "small_wooden_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mesozoic_chickatrice"
+      "value": "mesozoic_chickatrice",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "adrenochrome"
+      "value": "adrenochrome",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

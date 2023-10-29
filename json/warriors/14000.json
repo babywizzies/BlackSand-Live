@@ -1,6 +1,7 @@
 {
-  "idx": "14000",
+  "id": "14000",
   "name": "The Green Knight",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14000",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Jade Sword",
       "filename": "weapon_sword_jade.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

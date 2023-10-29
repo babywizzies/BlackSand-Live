@@ -1,6 +1,7 @@
 {
-  "idx": "15505",
+  "id": "15505",
   "name": "Natrix Tamer of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15505",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Whip",
       "filename": "weapon_whip.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

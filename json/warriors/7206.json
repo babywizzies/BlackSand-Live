@@ -1,6 +1,7 @@
 {
-  "idx": "7206",
+  "id": "7206",
   "name": "Murdock Assaulter of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7206",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

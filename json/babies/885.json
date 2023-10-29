@@ -1,32 +1,39 @@
 {
+  "id": 885,
   "name": "Leader Aldus of the Cold",
   "image": "http://forgottenbabies.com/uri/json/885.png",
-  "serial": 885,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_brown_tunic"
+      "value": "tiny_brown_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "studying_astrologer"
+      "value": "studying_astrologer",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "baby_bell"
+      "value": "baby_bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

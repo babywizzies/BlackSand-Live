@@ -1,6 +1,7 @@
 {
-  "idx": "3073",
+  "id": "3073",
   "name": "Hurmin Protector of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3073",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 3797,
   "name": "Perceptive Aleister of the Quantum Downs",
   "image": "http://forgottenbabies.com/uri/json/3797.png",
-  "serial": 3797,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "childrens_cosmic_cardigan"
+      "value": "childrens_cosmic_cardigan",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "student"
+      "value": "student",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "hungry_caterpillar"
+      "value": "hungry_caterpillar",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "stellar_wand"
+      "value": "stellar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

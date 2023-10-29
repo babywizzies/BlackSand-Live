@@ -1,6 +1,7 @@
 {
-  "idx": "8314",
+  "id": "8314",
   "name": "Arnie Striker of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8314",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Triple Triangle Shield",
       "filename": "shield_3tri.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

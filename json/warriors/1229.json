@@ -1,6 +1,7 @@
 {
-  "idx": "1229",
+  "id": "1229",
   "name": "Bardora Incinerator of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1229",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

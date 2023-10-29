@@ -1,32 +1,39 @@
 {
+  "id": 2967,
   "name": "Genius Gourdon of Xanadu",
   "image": "http://forgottenbabies.com/uri/json/2967.png",
-  "serial": 2967,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_puffy_pants"
+      "value": "purple_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_labyrinthian"
+      "value": "little_labyrinthian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chaos_wand"
+      "value": "chaos_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

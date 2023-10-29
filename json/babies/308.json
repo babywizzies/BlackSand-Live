@@ -1,32 +1,39 @@
 {
+  "id": 308,
   "name": "Charming Carly of the Woodlands",
   "image": "http://forgottenbabies.com/uri/json/308.png",
-  "serial": 308,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_purple_spandex"
+      "value": "small_purple_spandex",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_charmer"
+      "value": "young_charmer",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "eternal_slug"
+      "value": "eternal_slug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

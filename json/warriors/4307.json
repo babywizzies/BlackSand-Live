@@ -1,6 +1,7 @@
 {
-  "idx": "4307",
+  "id": "4307",
   "name": "Durden Shark of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4307",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

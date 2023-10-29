@@ -1,6 +1,7 @@
 {
-  "idx": "12526",
+  "id": "12526",
   "name": "Silas Fiend of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12526",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

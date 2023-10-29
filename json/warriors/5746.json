@@ -1,6 +1,7 @@
 {
-  "idx": "5746",
+  "id": "5746",
   "name": "Akon Mincer of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5746",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Titan Cleaver",
       "filename": "weapon_cleaver_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

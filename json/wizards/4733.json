@@ -1,52 +1,64 @@
 {
+  "id": 4733,
   "name": "Ice Mage Flynn of the Ice",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4733.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4733
+      "value": 4733,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Tundra Wear"
+      "value": "Tundra Wear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Crackerjack Crow"
+      "value": "Crackerjack Crow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Durm and Strang"
+      "value": "Durm and Strang",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Key of the 7th Realm"
+      "value": "Key of the 7th Realm",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
+      "value": "Rune of Mars",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

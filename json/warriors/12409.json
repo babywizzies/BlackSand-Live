@@ -1,6 +1,7 @@
 {
-  "idx": "12409",
+  "id": "12409",
   "name": "Relic Thief of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12409",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

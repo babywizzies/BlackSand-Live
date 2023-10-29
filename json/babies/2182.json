@@ -1,32 +1,39 @@
 {
+  "id": 2182,
   "name": "Brave Gogol of the Cosmos",
   "image": "http://forgottenbabies.com/uri/json/2182.png",
-  "serial": 2182,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_orange"
+      "value": "small_scholar_orange",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "wild_warlock"
+      "value": "wild_warlock",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ether_wand"
+      "value": "ether_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_saturn"
+      "value": "rune_saturn",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

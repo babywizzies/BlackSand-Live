@@ -1,6 +1,7 @@
 {
-  "idx": "10372",
+  "id": "10372",
   "name": "Sid Buster of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10372",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

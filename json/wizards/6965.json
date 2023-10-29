@@ -1,48 +1,59 @@
 {
+  "id": 6965,
   "name": "Ice Mage Jastor of the Ice",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6965.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6965
+      "value": 6965,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Red Mamba"
+      "value": "Red Mamba",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Imp"
+      "value": "Imp",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Lucky Horseshoe"
+      "value": "Lucky Horseshoe",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

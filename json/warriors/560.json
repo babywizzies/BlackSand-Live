@@ -1,6 +1,7 @@
 {
-  "idx": "560",
+  "id": "560",
   "name": "Dain Rascal of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/560",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

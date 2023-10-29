@@ -1,6 +1,7 @@
 {
-  "idx": "14921",
+  "id": "14921",
   "name": "Andrea Savior of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14921",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

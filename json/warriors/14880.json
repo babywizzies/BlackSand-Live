@@ -1,6 +1,7 @@
 {
-  "idx": "14880",
+  "id": "14880",
   "name": "Zasha Bruiser of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14880",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

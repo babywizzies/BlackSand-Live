@@ -1,6 +1,7 @@
 {
-  "idx": "5130",
+  "id": "5130",
   "name": "Juno of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5130",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

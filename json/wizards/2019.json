@@ -1,44 +1,54 @@
 {
+  "id": 2019,
   "name": "Sage Milton of the Brambles",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2019.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2019
+      "value": 2019,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Coveralls"
+      "value": "Red Coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Warlock"
+      "value": "Warlock",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Prometheus's Torch"
+      "value": "Prometheus's Torch",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12137",
+  "id": "12137",
   "name": "Rockford Cataclysm of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12137",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

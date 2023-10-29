@@ -1,6 +1,7 @@
 {
-  "idx": "2443",
+  "id": "2443",
   "name": "Dree Vanquisher of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2443",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

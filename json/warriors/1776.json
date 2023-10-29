@@ -1,6 +1,7 @@
 {
-  "idx": "1776",
+  "id": "1776",
   "name": "Jordan Sword of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1776",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

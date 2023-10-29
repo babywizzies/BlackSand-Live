@@ -1,6 +1,7 @@
 {
-  "idx": "13270",
+  "id": "13270",
   "name": "Ace Paragon of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13270",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

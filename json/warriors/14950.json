@@ -1,6 +1,7 @@
 {
-  "idx": "14950",
+  "id": "14950",
   "name": "Ekene Guardian of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14950",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

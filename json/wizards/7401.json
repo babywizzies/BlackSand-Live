@@ -1,52 +1,64 @@
 {
+  "id": 7401,
   "name": "Archmagus Goober of the Tower",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7401.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7401
+      "value": 7401,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Aristocrat Blue"
+      "value": "Aristocrat Blue",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kobold"
+      "value": "Kobold",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Solar Staff"
+      "value": "Solar Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
+      "value": "Rune of Sun",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

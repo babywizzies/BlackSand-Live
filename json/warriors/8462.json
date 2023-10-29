@@ -1,6 +1,7 @@
 {
-  "idx": "8462",
+  "id": "8462",
   "name": "Gertrude Axe of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8462",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

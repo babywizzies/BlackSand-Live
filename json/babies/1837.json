@@ -1,32 +1,39 @@
 {
+  "id": 1837,
   "name": "Radical Woomba of the Quantum Realm",
   "image": "http://forgottenbabies.com/uri/json/1837.png",
-  "serial": 1837,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "orange_kerchif"
+      "value": "orange_kerchif",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_koopling"
+      "value": "young_koopling",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "astral_lollipop"
+      "value": "astral_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_neptune"
+      "value": "rune_of_neptune",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

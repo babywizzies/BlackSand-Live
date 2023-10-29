@@ -1,6 +1,7 @@
 {
-  "idx": "3531",
+  "id": "3531",
   "name": "Andrea Ravager of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3531",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Purple Longsword",
       "filename": "weapon_longsword_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

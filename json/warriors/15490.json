@@ -1,6 +1,7 @@
 {
-  "idx": "15490",
+  "id": "15490",
   "name": "Manu Antagonist of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15490",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

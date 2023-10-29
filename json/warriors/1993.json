@@ -1,6 +1,7 @@
 {
-  "idx": "1993",
+  "id": "1993",
   "name": "Silas Stabber of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1993",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

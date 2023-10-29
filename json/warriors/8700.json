@@ -1,6 +1,7 @@
 {
-  "idx": "8700",
+  "id": "8700",
   "name": "Miles Despoiler of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8700",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

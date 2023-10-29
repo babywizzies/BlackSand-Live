@@ -1,6 +1,7 @@
 {
-  "idx": "6030",
+  "id": "6030",
   "name": "Rocky of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6030",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

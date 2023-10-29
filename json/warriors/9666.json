@@ -1,6 +1,7 @@
 {
-  "idx": "9666",
+  "id": "9666",
   "name": "Pippa Ruin of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9666",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

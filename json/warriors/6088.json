@@ -1,6 +1,7 @@
 {
-  "idx": "6088",
+  "id": "6088",
   "name": "Hagar Protector of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6088",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

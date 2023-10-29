@@ -1,6 +1,7 @@
 {
-  "idx": "10448",
+  "id": "10448",
   "name": "Fred Slaughterer of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10448",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9928",
+  "id": "9928",
   "name": "Greta Raider of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9928",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

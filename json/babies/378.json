@@ -1,32 +1,39 @@
 {
+  "id": 378,
   "name": "Intuitive Nicolas of the Grotto",
   "image": "http://forgottenbabies.com/uri/json/378.png",
-  "serial": 378,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_red_suit"
+      "value": "small_red_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "cloud_prince"
+      "value": "cloud_prince",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "jinx_wand"
+      "value": "jinx_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_omega"
+      "value": "rune_omega",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

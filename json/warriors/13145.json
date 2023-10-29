@@ -1,6 +1,7 @@
 {
-  "idx": "13145",
+  "id": "13145",
   "name": "Argos Stormer of Devils",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13145",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

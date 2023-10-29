@@ -1,6 +1,7 @@
 {
-  "idx": "3101",
+  "id": "3101",
   "name": "Wilder Rogue of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3101",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9133",
+  "id": "9133",
   "name": "Andrei Blaster of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9133",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7861",
+  "id": "7861",
   "name": "Blubert Ruin of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7861",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

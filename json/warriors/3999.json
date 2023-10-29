@@ -1,6 +1,7 @@
 {
-  "idx": "3999",
+  "id": "3999",
   "name": "Blake Attacker of the Palms",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3999",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

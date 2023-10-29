@@ -1,6 +1,7 @@
 {
-  "idx": "5010",
+  "id": "5010",
   "name": "Decima Dismantler of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5010",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

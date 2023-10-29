@@ -1,6 +1,7 @@
 {
-  "idx": "29",
+  "id": "29",
   "name": "Oiq Vanquisher of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/29",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

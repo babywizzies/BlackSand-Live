@@ -1,6 +1,7 @@
 {
-  "idx": "15025",
+  "id": "15025",
   "name": "Murphy Debilitator of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15025",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

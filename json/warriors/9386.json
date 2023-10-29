@@ -1,6 +1,7 @@
 {
-  "idx": "9386",
+  "id": "9386",
   "name": "Humphrey Impaler of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9386",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

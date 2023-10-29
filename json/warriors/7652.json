@@ -1,6 +1,7 @@
 {
-  "idx": "7652",
+  "id": "7652",
   "name": "Lance Cleaver of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7652",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

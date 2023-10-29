@@ -1,6 +1,7 @@
 {
-  "idx": "3104",
+  "id": "3104",
   "name": "Zola Savior of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3104",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Purple Longsword",
       "filename": "weapon_longsword_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

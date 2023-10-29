@@ -1,6 +1,7 @@
 {
-  "idx": "11357",
+  "id": "11357",
   "name": "Cadmus Leveler of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11357",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11906",
+  "id": "11906",
   "name": "Bokur Ruin of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11906",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12663",
+  "id": "12663",
   "name": "Nyx Ravager of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12663",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

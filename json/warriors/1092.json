@@ -1,6 +1,7 @@
 {
-  "idx": "1092",
+  "id": "1092",
   "name": "Asmodeus Basher of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1092",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

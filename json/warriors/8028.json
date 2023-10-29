@@ -1,6 +1,7 @@
 {
-  "idx": "8028",
+  "id": "8028",
   "name": "Athina Flagellator of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8028",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

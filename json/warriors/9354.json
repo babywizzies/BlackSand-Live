@@ -1,6 +1,7 @@
 {
-  "idx": "9354",
+  "id": "9354",
   "name": "Neil Sword of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9354",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

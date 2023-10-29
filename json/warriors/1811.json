@@ -1,6 +1,7 @@
 {
-  "idx": "1811",
+  "id": "1811",
   "name": "Grok Vanquisher of Nasty Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1811",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

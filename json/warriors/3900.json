@@ -1,6 +1,7 @@
 {
-  "idx": "3900",
+  "id": "3900",
   "name": "Fayez Miscreant of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3900",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

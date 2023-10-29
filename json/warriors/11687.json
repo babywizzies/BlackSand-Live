@@ -1,6 +1,7 @@
 {
-  "idx": "11687",
+  "id": "11687",
   "name": "Major Sniper of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11687",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5965",
+  "id": "5965",
   "name": "Dando Sword of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5965",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

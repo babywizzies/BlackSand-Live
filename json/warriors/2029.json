@@ -1,6 +1,7 @@
 {
-  "idx": "2029",
+  "id": "2029",
   "name": "George Lacerator of the Arc",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2029",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

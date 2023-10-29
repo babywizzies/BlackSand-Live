@@ -1,6 +1,7 @@
 {
-  "idx": "855",
+  "id": "855",
   "name": "Ralph Contaminator of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/855",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11667",
+  "id": "11667",
   "name": "Pippa Hellraiser of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11667",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bolt Shield",
       "filename": "shield_bolt.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

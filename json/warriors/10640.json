@@ -1,6 +1,7 @@
 {
-  "idx": "10640",
+  "id": "10640",
   "name": "Jules Cruncher of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10640",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 7968,
   "name": "Ambitious Priest of the Circle",
   "image": "http://forgottenbabies.com/uri/json/7968.png",
-  "serial": 7968,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_red"
+      "value": "child_cleric_red",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_bard"
+      "value": "baby_bard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "friendly_fox"
+      "value": "friendly_fox",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "heavy_scythe"
+      "value": "heavy_scythe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

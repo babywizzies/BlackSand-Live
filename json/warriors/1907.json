@@ -1,6 +1,7 @@
 {
-  "idx": "1907",
+  "id": "1907",
   "name": "Bambam Clobberer of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1907",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

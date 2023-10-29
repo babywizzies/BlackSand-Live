@@ -1,6 +1,7 @@
 {
-  "idx": "12337",
+  "id": "12337",
   "name": "Baal Disintegrator of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12337",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Green Buckler",
       "filename": "shield_circle_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

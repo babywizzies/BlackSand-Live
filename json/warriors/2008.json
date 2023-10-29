@@ -1,6 +1,7 @@
 {
-  "idx": "2008",
+  "id": "2008",
   "name": "Arlene Peacemaker of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2008",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

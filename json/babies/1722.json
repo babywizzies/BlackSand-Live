@@ -1,32 +1,39 @@
 {
+  "id": 1722,
   "name": "Inquisitive Qasim of the Villa",
   "image": "http://forgottenbabies.com/uri/json/1722.png",
-  "serial": 1722,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Green_Shoulder_Cape"
+      "value": "Small_Green_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_witch"
+      "value": "little_witch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "grape_juicebox"
+      "value": "grape_juicebox",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

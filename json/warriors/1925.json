@@ -1,6 +1,7 @@
 {
-  "idx": "1925",
+  "id": "1925",
   "name": "Charles Cleaver of Thunder Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1925",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

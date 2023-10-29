@@ -1,6 +1,7 @@
 {
-  "idx": "2227",
+  "id": "2227",
   "name": "Bryan Ruin of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2227",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

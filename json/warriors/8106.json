@@ -1,6 +1,7 @@
 {
-  "idx": "8106",
+  "id": "8106",
   "name": "Dando Rogue of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8106",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

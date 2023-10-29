@@ -1,6 +1,7 @@
 {
-  "idx": "3195",
+  "id": "3195",
   "name": "Amelia Doom of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3195",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

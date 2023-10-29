@@ -1,6 +1,7 @@
 {
-  "idx": "1031",
+  "id": "1031",
   "name": "Akane Punisher of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1031",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

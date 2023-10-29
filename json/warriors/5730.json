@@ -1,6 +1,7 @@
 {
-  "idx": "5730",
+  "id": "5730",
   "name": "Valadin Render of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5730",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

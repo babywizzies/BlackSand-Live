@@ -1,6 +1,7 @@
 {
-  "idx": "14277",
+  "id": "14277",
   "name": "Butch Fragmenter of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14277",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

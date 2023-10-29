@@ -1,6 +1,7 @@
 {
-  "idx": "12103",
+  "id": "12103",
   "name": "Larry Razer of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12103",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

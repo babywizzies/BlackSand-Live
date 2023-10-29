@@ -1,32 +1,39 @@
 {
+  "id": 9497,
   "name": "Honorable Enigma of the Swell",
   "image": "http://forgottenbabies.com/uri/json/9497.png",
-  "serial": 9497,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "finicky_formal_suit"
+      "value": "finicky_formal_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_crone"
+      "value": "small_crone",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "zephyrs_laugh_the_wind_spell"
+      "value": "zephyrs_laugh_the_wind_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_venus"
+      "value": "rune_venus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

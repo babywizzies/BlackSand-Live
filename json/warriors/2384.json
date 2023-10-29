@@ -1,6 +1,7 @@
 {
-  "idx": "2384",
+  "id": "2384",
   "name": "Lorcan Axe of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2384",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Fire Shield",
       "filename": "shield_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

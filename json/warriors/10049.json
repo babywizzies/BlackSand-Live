@@ -1,6 +1,7 @@
 {
-  "idx": "10049",
+  "id": "10049",
   "name": "Nirvi Stinger of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10049",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

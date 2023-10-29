@@ -1,6 +1,7 @@
 {
-  "idx": "13701",
+  "id": "13701",
   "name": "Warden Basher of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13701",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

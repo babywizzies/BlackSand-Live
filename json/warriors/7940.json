@@ -1,6 +1,7 @@
 {
-  "idx": "7940",
+  "id": "7940",
   "name": "Falkes Defender of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7940",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

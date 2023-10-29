@@ -1,6 +1,7 @@
 {
-  "idx": "12309",
+  "id": "12309",
   "name": "Shira Rapscallion of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12309",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

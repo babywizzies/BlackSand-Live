@@ -1,6 +1,7 @@
 {
-  "idx": "10833",
+  "id": "10833",
   "name": "Gruzzon Clobberer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10833",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Morningstar",
       "filename": "weapon_morningstar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

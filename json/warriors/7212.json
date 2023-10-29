@@ -1,6 +1,7 @@
 {
-  "idx": "7212",
+  "id": "7212",
   "name": "Melanie Cleaver of the Elysian Fields",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7212",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

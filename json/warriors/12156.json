@@ -1,6 +1,7 @@
 {
-  "idx": "12156",
+  "id": "12156",
   "name": "Gruzzon Cleaver of the Sunrise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12156",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

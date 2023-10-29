@@ -1,6 +1,7 @@
 {
-  "idx": "4101",
+  "id": "4101",
   "name": "Garlof Scissor of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4101",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 3180,
   "name": "Clever Jabir from the Abyss",
   "image": "http://forgottenbabies.com/uri/json/3180.png",
-  "serial": 3180,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_lined_coveralls_green"
+      "value": "little_lined_coveralls_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_kobold"
+      "value": "baby_kobold",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kelpies_fury_the_water_spell"
+      "value": "kelpies_fury_the_water_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

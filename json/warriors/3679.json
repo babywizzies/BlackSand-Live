@@ -1,6 +1,7 @@
 {
-  "idx": "3679",
+  "id": "3679",
   "name": "Nuku Sword of the Horde",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3679",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

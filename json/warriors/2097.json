@@ -1,6 +1,7 @@
 {
-  "idx": "2097",
+  "id": "2097",
   "name": " Ruffian of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2097",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

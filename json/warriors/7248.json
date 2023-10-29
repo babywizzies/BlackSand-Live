@@ -1,6 +1,7 @@
 {
-  "idx": "7248",
+  "id": "7248",
   "name": "Benedict Vanquisher of the Berg",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7248",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

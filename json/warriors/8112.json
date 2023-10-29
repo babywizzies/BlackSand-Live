@@ -1,6 +1,7 @@
 {
-  "idx": "8112",
+  "id": "8112",
   "name": "Luis Conqueror of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8112",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

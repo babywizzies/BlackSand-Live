@@ -1,48 +1,59 @@
 {
+  "id": 721,
   "name": "Illusionist Salvatore of the Platonic Shadow",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/721.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 721
+      "value": 721,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Cosmic Cardigan"
+      "value": "Cosmic Cardigan",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Seer"
+      "value": "Seer",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Fairy Glamour: the Dazzle Spell"
+      "value": "Fairy Glamour: the Dazzle Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blue Shift"
+      "value": "Blue Shift",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

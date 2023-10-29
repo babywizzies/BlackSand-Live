@@ -1,6 +1,7 @@
 {
-  "idx": "11400",
+  "id": "11400",
   "name": "Raymond Belligerent of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11400",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

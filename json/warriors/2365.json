@@ -1,6 +1,7 @@
 {
-  "idx": "2365",
+  "id": "2365",
   "name": "Casey Slayer of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2365",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

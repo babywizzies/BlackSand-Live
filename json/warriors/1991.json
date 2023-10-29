@@ -1,6 +1,7 @@
 {
-  "idx": "1991",
+  "id": "1991",
   "name": "Vega Peacemaker of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1991",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

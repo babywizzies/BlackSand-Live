@@ -1,6 +1,7 @@
 {
-  "idx": "13112",
+  "id": "13112",
   "name": "Marcheline Guardian of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13112",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

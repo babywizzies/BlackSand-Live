@@ -1,32 +1,39 @@
 {
+  "id": 4068,
   "name": "Diabolical Aden of the Valley",
   "image": "http://forgottenbabies.com/uri/json/4068.png",
-  "serial": 4068,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_double_sash"
+      "value": "small_double_sash",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_thelemist"
+      "value": "young_thelemist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_topaz_slime"
+      "value": "small_topaz_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "rosebud"
+      "value": "rosebud",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_steel"
+      "value": "rune_steel",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

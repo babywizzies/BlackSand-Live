@@ -1,52 +1,64 @@
 {
+  "id": 2355,
   "name": "Druid Aslan of the Villa",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2355.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2355
+      "value": 2355,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "SupaFly"
+      "value": "SupaFly",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Great Owl"
+      "value": "Great Owl",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Mandinka"
+      "value": "Mandinka",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Shaman's Peyote"
+      "value": "Shaman's Peyote",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
+      "value": "Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "City"
+      "value": "City",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

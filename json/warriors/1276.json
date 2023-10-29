@@ -1,6 +1,7 @@
 {
-  "idx": "1276",
+  "id": "1276",
   "name": "Mark Rascal of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1276",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

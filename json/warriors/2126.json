@@ -1,6 +1,7 @@
 {
-  "idx": "2126",
+  "id": "2126",
   "name": "Falkes Shaver of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2126",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

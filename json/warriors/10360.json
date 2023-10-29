@@ -1,6 +1,7 @@
 {
-  "idx": "10360",
+  "id": "10360",
   "name": "Arnie Armageddon of Tigers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10360",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

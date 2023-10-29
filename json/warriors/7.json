@@ -1,6 +1,7 @@
 {
-  "idx": "7",
+  "id": "7",
   "name": "Raiden Scissor of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "White Holy Shield",
       "filename": "shield_holy_cyber.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

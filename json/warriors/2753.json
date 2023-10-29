@@ -1,6 +1,7 @@
 {
-  "idx": "2753",
+  "id": "2753",
   "name": "Korlim Ruin of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2753",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

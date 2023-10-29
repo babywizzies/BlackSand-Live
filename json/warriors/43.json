@@ -1,6 +1,7 @@
 {
-  "idx": "43",
+  "id": "43",
   "name": "Richard Paragon of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/43",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

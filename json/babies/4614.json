@@ -1,32 +1,39 @@
 {
+  "id": 4614,
   "name": "Methodical Illuminus of Dreams",
   "image": "http://forgottenbabies.com/uri/json/4614.png",
-  "serial": 4614,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_brown_tunic"
+      "value": "tiny_brown_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_houngan"
+      "value": "young_houngan",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "kitten_of_the_sun"
+      "value": "kitten_of_the_sun",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "celestial_sparkler"
+      "value": "celestial_sparkler",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

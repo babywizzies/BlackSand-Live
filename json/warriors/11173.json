@@ -1,6 +1,7 @@
 {
-  "idx": "11173",
+  "id": "11173",
   "name": "Lance Bifurcator of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11173",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

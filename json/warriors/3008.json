@@ -1,6 +1,7 @@
 {
-  "idx": "3008",
+  "id": "3008",
   "name": "Verus Champion of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3008",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

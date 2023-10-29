@@ -1,6 +1,7 @@
 {
-  "idx": "14190",
+  "id": "14190",
   "name": "Roman Marauder of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14190",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

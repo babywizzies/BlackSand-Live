@@ -1,6 +1,7 @@
 {
-  "idx": "13592",
+  "id": "13592",
   "name": "Athina Slayer of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13592",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bolt Shield",
       "filename": "shield_bolt.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

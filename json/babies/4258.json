@@ -1,32 +1,39 @@
 {
+  "id": 4258,
   "name": "Perceptive Hind of the Valley",
   "image": "http://forgottenbabies.com/uri/json/4258.png",
-  "serial": 4258,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_swashbuckling_gear"
+      "value": "small_swashbuckling_gear",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "student"
+      "value": "student",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ruby_wand"
+      "value": "ruby_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 1515,
   "name": "Alchemist Pumlo of the Astral Plane",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1515.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1515
+      "value": 1515,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Ice Robe"
+      "value": "Ice Robe",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Jewled Hummingbird"
+      "value": "Jewled Hummingbird",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Blue Wizard"
+      "value": "Blue Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Astral Potion"
+      "value": "Astral Potion",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
+      "value": "Rune of Fire",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blue Shift"
+      "value": "Blue Shift",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

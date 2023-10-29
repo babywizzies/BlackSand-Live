@@ -1,6 +1,7 @@
 {
-  "idx": "11160",
+  "id": "11160",
   "name": "Radna Render of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11160",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

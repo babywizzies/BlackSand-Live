@@ -1,32 +1,39 @@
 {
+  "id": 6783,
   "name": "Fierce Bolin in the Shadows",
   "image": "http://forgottenbabies.com/uri/json/6783.png",
-  "serial": 6783,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Blue_Shoulder_Cape"
+      "value": "Small_Blue_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "botanical_boy"
+      "value": "botanical_boy",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "celestial_sparkler"
+      "value": "celestial_sparkler",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

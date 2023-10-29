@@ -1,6 +1,7 @@
 {
-  "idx": "4905",
+  "id": "4905",
   "name": "Morella Hacker of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4905",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Yellow Chainsaw",
       "filename": "weapon_chainsaw_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

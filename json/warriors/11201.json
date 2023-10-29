@@ -1,6 +1,7 @@
 {
-  "idx": "11201",
+  "id": "11201",
   "name": "Marcus Armageddon for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11201",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

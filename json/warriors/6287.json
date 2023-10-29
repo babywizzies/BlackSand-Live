@@ -1,6 +1,7 @@
 {
-  "idx": "6287",
+  "id": "6287",
   "name": "Leena Scoundrel of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6287",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

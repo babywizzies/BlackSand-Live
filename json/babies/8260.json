@@ -1,32 +1,39 @@
 {
+  "id": 8260,
   "name": "Philosphical Woomba of Arcadia",
   "image": "http://forgottenbabies.com/uri/json/8260.png",
-  "serial": 8260,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_onesie"
+      "value": "red_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_huntress"
+      "value": "young_huntress",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_black_kitten"
+      "value": "lucky_black_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "aphrodites_heart_the_love_spell"
+      "value": "aphrodites_heart_the_love_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

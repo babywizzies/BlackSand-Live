@@ -1,6 +1,7 @@
 {
-  "idx": "2052",
+  "id": "2052",
   "name": "Neon Sword of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2052",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

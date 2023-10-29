@@ -1,6 +1,7 @@
 {
-  "idx": "7113",
+  "id": "7113",
   "name": "Helga Eidolon of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7113",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

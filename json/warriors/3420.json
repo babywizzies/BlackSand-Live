@@ -1,6 +1,7 @@
 {
-  "idx": "3420",
+  "id": "3420",
   "name": "Squee Assaulter of Brown-Hat Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3420",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

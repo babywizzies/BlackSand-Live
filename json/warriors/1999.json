@@ -1,6 +1,7 @@
 {
-  "idx": "1999",
+  "id": "1999",
   "name": "Cornelius Razer of the City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1999",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

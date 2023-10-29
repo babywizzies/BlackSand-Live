@@ -1,6 +1,7 @@
 {
-  "idx": "1947",
+  "id": "1947",
   "name": "Nervilla Slaughterer of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1947",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

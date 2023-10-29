@@ -1,6 +1,7 @@
 {
-  "idx": "9276",
+  "id": "9276",
   "name": "Flamma Miscreant of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9276",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

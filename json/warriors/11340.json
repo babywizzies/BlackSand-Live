@@ -1,6 +1,7 @@
 {
-  "idx": "11340",
+  "id": "11340",
   "name": "Sargo Granulator of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11340",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1345",
+  "id": "1345",
   "name": "Reid Doom of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1345",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

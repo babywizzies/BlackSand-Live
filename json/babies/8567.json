@@ -1,32 +1,39 @@
 {
+  "id": 8567,
   "name": "Meticulous Gully of the Riviera",
   "image": "http://forgottenbabies.com/uri/json/8567.png",
-  "serial": 8567,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_onesie"
+      "value": "red_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "fart_chick"
+      "value": "fart_chick",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "hobgoblins_flame_the_wayward_spell"
+      "value": "hobgoblins_flame_the_wayward_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

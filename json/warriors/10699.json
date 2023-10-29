@@ -1,6 +1,7 @@
 {
-  "idx": "10699",
+  "id": "10699",
   "name": "Zola Stormer of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10699",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

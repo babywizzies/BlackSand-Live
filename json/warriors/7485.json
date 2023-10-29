@@ -1,6 +1,7 @@
 {
-  "idx": "7485",
+  "id": "7485",
   "name": "Jett Tormenter of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7485",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

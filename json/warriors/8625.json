@@ -1,6 +1,7 @@
 {
-  "idx": "8625",
+  "id": "8625",
   "name": "Inanna Disintegrator of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8625",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

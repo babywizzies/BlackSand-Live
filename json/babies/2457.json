@@ -1,32 +1,39 @@
 {
+  "id": 2457,
   "name": "Zestful Mage of the Brine",
   "image": "http://forgottenbabies.com/uri/json/2457.png",
-  "serial": 2457,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_coveralls"
+      "value": "red_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_faustian"
+      "value": "young_faustian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "aphrodites_heart_the_love_spell"
+      "value": "aphrodites_heart_the_love_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_up"
+      "value": "rune_up",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

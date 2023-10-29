@@ -1,6 +1,7 @@
 {
-  "idx": "7776",
+  "id": "7776",
   "name": "Victor Poker of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7776",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

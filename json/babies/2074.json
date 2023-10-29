@@ -1,32 +1,39 @@
 {
+  "id": 2074,
   "name": "Courageous Sam of the Heavens",
   "image": "http://forgottenbabies.com/uri/json/2074.png",
-  "serial": 2074,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "frozen_frock"
+      "value": "frozen_frock",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_imp"
+      "value": "little_imp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "courage_wand"
+      "value": "courage_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_lime"
+      "value": "rune_of_lime",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

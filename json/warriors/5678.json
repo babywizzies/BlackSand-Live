@@ -1,6 +1,7 @@
 {
-  "idx": "5678",
+  "id": "5678",
   "name": "Dexter Savior of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5678",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Pantheon Spear",
       "filename": "weapon_spearWing.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

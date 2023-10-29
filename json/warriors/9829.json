@@ -1,6 +1,7 @@
 {
-  "idx": "9829",
+  "id": "9829",
   "name": "Sid of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9829",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

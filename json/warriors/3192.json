@@ -1,6 +1,7 @@
 {
-  "idx": "3192",
+  "id": "3192",
   "name": "Ekrin Contender of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3192",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Agapanthus Fey Sword",
       "filename": "weapon_feysword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

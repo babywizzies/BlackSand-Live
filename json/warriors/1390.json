@@ -1,6 +1,7 @@
 {
-  "idx": "1390",
+  "id": "1390",
   "name": "Herman Champion of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1390",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

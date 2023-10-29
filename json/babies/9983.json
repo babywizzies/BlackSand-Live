@@ -1,32 +1,39 @@
 {
+  "id": 9983,
   "name": "Resourceful Malthus of the Ball",
   "image": "http://forgottenbabies.com/uri/json/9983.png",
-  "serial": 9983,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_coveralls"
+      "value": "red_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_brown_wizard"
+      "value": "baby_brown_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_green_asp"
+      "value": "small_green_asp",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kiki's_broom"
+      "value": "kiki's_broom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

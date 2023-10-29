@@ -1,40 +1,49 @@
 {
+  "id": 8220,
   "name": "Archmagus Jerret of the Carnival",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8220.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8220
+      "value": 8220,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Elven Cloak"
+      "value": "Blue Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Yellow Wizard"
+      "value": "Yellow Wizard",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Goofy"
+      "value": "Goofy",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

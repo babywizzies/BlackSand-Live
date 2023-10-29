@@ -1,6 +1,7 @@
 {
-  "idx": "9765",
+  "id": "9765",
   "name": "Napoleon Protector of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9765",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Tanker Heater Shield",
       "filename": "shield_widex_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

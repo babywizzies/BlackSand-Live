@@ -1,6 +1,7 @@
 {
-  "idx": "8235",
+  "id": "8235",
   "name": "Nyra Punisher of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8235",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

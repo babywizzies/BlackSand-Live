@@ -1,6 +1,7 @@
 {
-  "idx": "15302",
+  "id": "15302",
   "name": "Barika Dismantler of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15302",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

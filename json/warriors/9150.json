@@ -1,6 +1,7 @@
 {
-  "idx": "9150",
+  "id": "9150",
   "name": "Jules Chaos Agent of the Sea",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9150",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

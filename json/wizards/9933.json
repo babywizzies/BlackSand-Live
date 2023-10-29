@@ -1,48 +1,59 @@
 {
+  "id": 9933,
   "name": "Archmagus Aleister of the Cosmos",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/9933.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 9933
+      "value": 9933,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Tech Coat"
+      "value": "Tech Coat",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Professor"
+      "value": "Professor",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Zephyr's Laugh: the Wind Spell"
+      "value": "Zephyr's Laugh: the Wind Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

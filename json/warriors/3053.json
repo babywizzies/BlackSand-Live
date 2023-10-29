@@ -1,6 +1,7 @@
 {
-  "idx": "3053",
+  "id": "3053",
   "name": "Stone Eliminator of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3053",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

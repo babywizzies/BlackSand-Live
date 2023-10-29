@@ -1,6 +1,7 @@
 {
-  "idx": "1883",
+  "id": "1883",
   "name": "Zenon Slaughterer of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1883",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

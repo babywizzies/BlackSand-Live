@@ -1,6 +1,7 @@
 {
-  "idx": "7221",
+  "id": "7221",
   "name": "Hedgie Punisher of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7221",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

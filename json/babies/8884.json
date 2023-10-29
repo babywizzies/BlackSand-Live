@@ -1,32 +1,39 @@
 {
+  "id": 8884,
   "name": "Daring Aamon of the Leap",
   "image": "http://forgottenbabies.com/uri/json/8884.png",
-  "serial": 8884,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_black_wraith"
+      "value": "little_black_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_kobold"
+      "value": "baby_kobold",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_sturdy_twig"
+      "value": "a_sturdy_twig",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_omega"
+      "value": "rune_omega",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

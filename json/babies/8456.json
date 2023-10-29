@@ -1,32 +1,39 @@
 {
+  "id": 8456,
   "name": "Shrewd Edge of the North",
   "image": "http://forgottenbabies.com/uri/json/8456.png",
-  "serial": 8456,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_scholar_orange"
+      "value": "small_scholar_orange",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "shy_hermit"
+      "value": "shy_hermit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "eternal_slug"
+      "value": "eternal_slug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "kiki's_broom"
+      "value": "kiki's_broom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_brimstone"
+      "value": "rune_of_brimstone",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

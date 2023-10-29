@@ -1,32 +1,39 @@
 {
+  "id": 8315,
   "name": "Methodical Huan of the Hollow",
   "image": "http://forgottenbabies.com/uri/json/8315.png",
-  "serial": 8315,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_lined_coveralls_blue"
+      "value": "little_lined_coveralls_blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_hunter"
+      "value": "young_hunter",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_bone_wand"
+      "value": "the_bone_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_water"
+      "value": "rune_water",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

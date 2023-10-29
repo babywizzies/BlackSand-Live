@@ -1,6 +1,7 @@
 {
-  "idx": "333",
+  "id": "333",
   "name": "Atalanta",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/333",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Apollo's Bow",
       "filename": "weapon_goldenbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9520",
+  "id": "9520",
   "name": "Doldain Champion of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9520",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

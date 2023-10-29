@@ -1,32 +1,39 @@
 {
+  "id": 3872,
   "name": "Magical Mage of the Thorn",
   "image": "http://forgottenbabies.com/uri/json/3872.png",
-  "serial": 3872,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_yellow"
+      "value": "child_cleric_yellow",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_diviner"
+      "value": "tiny_diviner",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_golden_tadpole"
+      "value": "lucky_golden_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_cinnabar"
+      "value": "rune_of_cinnabar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1746",
+  "id": "1746",
   "name": "Edwin Destroyer of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1746",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Crowbar",
       "filename": "weapon_crowbar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

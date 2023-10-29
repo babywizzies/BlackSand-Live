@@ -1,6 +1,7 @@
 {
-  "idx": "4433",
+  "id": "4433",
   "name": "Kojak Attacker of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4433",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

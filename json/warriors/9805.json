@@ -1,6 +1,7 @@
 {
-  "idx": "9805",
+  "id": "9805",
   "name": "Donovan Bomb of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9805",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

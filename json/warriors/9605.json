@@ -1,6 +1,7 @@
 {
-  "idx": "9605",
+  "id": "9605",
   "name": "Turbo Champion of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9605",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

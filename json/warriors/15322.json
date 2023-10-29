@@ -1,6 +1,7 @@
 {
-  "idx": "15322",
+  "id": "15322",
   "name": "Zane Battler of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15322",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

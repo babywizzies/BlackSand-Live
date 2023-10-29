@@ -1,6 +1,7 @@
 {
-  "idx": "10789",
+  "id": "10789",
   "name": "Taurus Vanquisher of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10789",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

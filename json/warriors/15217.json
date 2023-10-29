@@ -1,6 +1,7 @@
 {
-  "idx": "15217",
+  "id": "15217",
   "name": "Richard Hero of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15217",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

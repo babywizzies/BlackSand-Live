@@ -1,6 +1,7 @@
 {
-  "idx": "5879",
+  "id": "5879",
   "name": "Boris Sword of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5879",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

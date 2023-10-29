@@ -1,6 +1,7 @@
 {
-  "idx": "13842",
+  "id": "13842",
   "name": "Thorne Champion of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13842",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1137",
+  "id": "1137",
   "name": "Serena Marauder of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1137",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12482",
+  "id": "12482",
   "name": "Naberius of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12482",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

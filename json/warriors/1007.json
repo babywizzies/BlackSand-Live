@@ -1,6 +1,7 @@
 {
-  "idx": "1007",
+  "id": "1007",
   "name": "Matthew Cutter of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1007",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of Down Only",
       "filename": "shield_kite_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

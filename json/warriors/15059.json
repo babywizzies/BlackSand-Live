@@ -1,6 +1,7 @@
 {
-  "idx": "15059",
+  "id": "15059",
   "name": "Buffy Smasher of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15059",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

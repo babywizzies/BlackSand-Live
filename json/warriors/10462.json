@@ -1,6 +1,7 @@
 {
-  "idx": "10462",
+  "id": "10462",
   "name": "Soran Paragon of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10462",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 2608,
   "name": "Curious Amir of the Quantum Realm",
   "image": "http://forgottenbabies.com/uri/json/2608.png",
-  "serial": 2608,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_double_sash"
+      "value": "small_double_sash",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_yellow_wizard"
+      "value": "young_yellow_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

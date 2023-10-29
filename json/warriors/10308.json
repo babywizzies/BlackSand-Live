@@ -1,6 +1,7 @@
 {
-  "idx": "10308",
+  "id": "10308",
   "name": "Drogo Poker of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10308",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

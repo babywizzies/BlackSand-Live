@@ -1,6 +1,7 @@
 {
-  "idx": "10014",
+  "id": "10014",
   "name": "Pontius Flagellator of the Sunrise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10014",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

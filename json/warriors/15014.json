@@ -1,6 +1,7 @@
 {
-  "idx": "15014",
+  "id": "15014",
   "name": "Brander Champion of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15014",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

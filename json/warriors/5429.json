@@ -1,6 +1,7 @@
 {
-  "idx": "5429",
+  "id": "5429",
   "name": "Kaz Champion of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5429",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Dane Axe",
       "filename": "weapon_axe_dane.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

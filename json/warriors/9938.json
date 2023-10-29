@@ -1,6 +1,7 @@
 {
-  "idx": "9938",
+  "id": "9938",
   "name": "Lyam Ruin of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9938",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

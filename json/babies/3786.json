@@ -1,32 +1,39 @@
 {
+  "id": 3786,
   "name": "Helpful Casper of the Wold",
   "image": "http://forgottenbabies.com/uri/json/3786.png",
-  "serial": 3786,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_child_choir_robe"
+      "value": "purple_child_choir_robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "ripening_vegetable"
+      "value": "ripening_vegetable",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_onyx_wolf"
+      "value": "young_onyx_wolf",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "love_lollipop"
+      "value": "love_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

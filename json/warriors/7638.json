@@ -1,6 +1,7 @@
 {
-  "idx": "7638",
+  "id": "7638",
   "name": "Dain Stabber of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7638",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,48 +1,59 @@
 {
+  "id": 4194,
   "name": "Spellsinger Eronin of the Light",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4194.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4194
+      "value": 4194,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Grey Tunic"
+      "value": "Grey Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Onyx Wolf"
+      "value": "Onyx Wolf",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Ascetic"
+      "value": "Ascetic",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Siren's Bell"
+      "value": "Siren's Bell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "White Magic"
+      "value": "White Magic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

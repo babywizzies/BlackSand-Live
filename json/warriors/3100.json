@@ -1,6 +1,7 @@
 {
-  "idx": "3100",
+  "id": "3100",
   "name": "Erim Cataclysm of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3100",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

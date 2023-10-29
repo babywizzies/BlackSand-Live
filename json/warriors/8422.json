@@ -1,6 +1,7 @@
 {
-  "idx": "8422",
+  "id": "8422",
   "name": "Diana Champion of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8422",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

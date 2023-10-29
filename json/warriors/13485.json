@@ -1,6 +1,7 @@
 {
-  "idx": "13485",
+  "id": "13485",
   "name": "Felix Waster of Kelpies",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13485",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15625",
+  "id": "15625",
   "name": "Ashanti Chopper of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15625",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

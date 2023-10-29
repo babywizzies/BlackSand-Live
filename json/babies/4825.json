@@ -1,32 +1,39 @@
 {
+  "id": 4825,
   "name": "Fearless Ophelia of Andolini",
   "image": "http://forgottenbabies.com/uri/json/4825.png",
-  "serial": 4825,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_purple_spandex"
+      "value": "small_purple_spandex",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_red_priestess"
+      "value": "young_red_priestess",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "ether_wand"
+      "value": "ether_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_down"
+      "value": "rune_of_down",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

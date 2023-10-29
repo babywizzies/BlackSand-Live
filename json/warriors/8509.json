@@ -1,6 +1,7 @@
 {
-  "idx": "8509",
+  "id": "8509",
   "name": "Zora Disintegrator of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8509",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

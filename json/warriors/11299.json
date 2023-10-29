@@ -1,6 +1,7 @@
 {
-  "idx": "11299",
+  "id": "11299",
   "name": "Sauda Wanderer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11299",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

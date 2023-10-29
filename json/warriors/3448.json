@@ -1,6 +1,7 @@
 {
-  "idx": "3448",
+  "id": "3448",
   "name": "Nia Chainsaw of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3448",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

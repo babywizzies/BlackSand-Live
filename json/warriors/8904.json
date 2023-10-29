@@ -1,6 +1,7 @@
 {
-  "idx": "8904",
+  "id": "8904",
   "name": "Waldo Vanquisher of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8904",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

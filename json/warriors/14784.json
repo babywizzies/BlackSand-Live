@@ -1,6 +1,7 @@
 {
-  "idx": "14784",
+  "id": "14784",
   "name": "Buffy Ravager of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14784",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

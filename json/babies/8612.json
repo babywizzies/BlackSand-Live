@@ -1,32 +1,39 @@
 {
+  "id": 8612,
   "name": "Helpful Adium of the Berg",
   "image": "http://forgottenbabies.com/uri/json/8612.png",
-  "serial": 8612,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_gold_chain"
+      "value": "small_gold_chain",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_woodland_shapeshifter"
+      "value": "small_woodland_shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "zephyrs_laugh_the_wind_spell"
+      "value": "zephyrs_laugh_the_wind_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

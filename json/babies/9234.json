@@ -1,32 +1,39 @@
 {
+  "id": 9234,
   "name": "Diabolical Priest of the Platonic Shadow",
   "image": "http://forgottenbabies.com/uri/json/9234.png",
-  "serial": 9234,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_gray_tunic"
+      "value": "tiny_gray_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "evil_kid"
+      "value": "evil_kid",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "magic_bunny"
+      "value": "magic_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "rosebud"
+      "value": "rosebud",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

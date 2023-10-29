@@ -1,6 +1,7 @@
 {
-  "idx": "9749",
+  "id": "9749",
   "name": "Archer Protector of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9749",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

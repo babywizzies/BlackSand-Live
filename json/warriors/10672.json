@@ -1,6 +1,7 @@
 {
-  "idx": "10672",
+  "id": "10672",
   "name": "Valda Champion of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10672",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

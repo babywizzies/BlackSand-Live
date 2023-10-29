@@ -1,6 +1,7 @@
 {
-  "idx": "5601",
+  "id": "5601",
   "name": "Delu Death of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5601",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

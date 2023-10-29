@@ -1,6 +1,7 @@
 {
-  "idx": "15245",
+  "id": "15245",
   "name": "Ekua Eradicator of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15245",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

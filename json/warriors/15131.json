@@ -1,6 +1,7 @@
 {
-  "idx": "15131",
+  "id": "15131",
   "name": "Damien Assaulter of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15131",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

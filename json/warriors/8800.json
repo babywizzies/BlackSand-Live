@@ -1,6 +1,7 @@
 {
-  "idx": "8800",
+  "id": "8800",
   "name": "Kremplin Impaler of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8800",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12519",
+  "id": "12519",
   "name": "Heydar Shadow of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12519",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 5556,
   "name": "Crazy Oxelrod of the Ball",
   "image": "http://forgottenbabies.com/uri/json/5556.png",
-  "serial": 5556,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "argyle_sweater"
+      "value": "argyle_sweater",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_olympian"
+      "value": "smol_olympian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "raven_feather"
+      "value": "raven_feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

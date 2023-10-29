@@ -1,6 +1,7 @@
 {
-  "idx": "107",
+  "id": "107",
   "name": "Valentina of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/107",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

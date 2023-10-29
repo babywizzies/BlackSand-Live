@@ -1,6 +1,7 @@
 {
-  "idx": "1025",
+  "id": "1025",
   "name": "Zunaira Amputator of the Wheel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1025",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Katana",
       "filename": "weapon_katana.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

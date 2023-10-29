@@ -1,6 +1,7 @@
 {
-  "idx": "676",
+  "id": "676",
   "name": "Alani Cataclysm of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/676",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

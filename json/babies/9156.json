@@ -1,32 +1,39 @@
 {
+  "id": 9156,
   "name": "Clever Jiang of the Forest",
   "image": "http://forgottenbabies.com/uri/json/9156.png",
-  "serial": 9156,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_white_wraith"
+      "value": "little_white_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_gross_eyeball"
+      "value": "smol_gross_eyeball",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "owlet"
+      "value": "owlet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "aphrodites_heart_the_love_spell"
+      "value": "aphrodites_heart_the_love_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

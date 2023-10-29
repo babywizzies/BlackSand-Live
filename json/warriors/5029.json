@@ -1,6 +1,7 @@
 {
-  "idx": "5029",
+  "id": "5029",
   "name": "Hamlin Slaughterer of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5029",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

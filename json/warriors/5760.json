@@ -1,6 +1,7 @@
 {
-  "idx": "5760",
+  "id": "5760",
   "name": "Sandy Executor of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5760",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

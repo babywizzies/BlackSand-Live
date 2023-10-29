@@ -1,52 +1,64 @@
 {
+  "id": 4345,
   "name": "Conjurer Thoth of the Tower",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4345.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4345
+      "value": 4345,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Aristocrat Green"
+      "value": "Aristocrat Green",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Rogue Arcanist"
+      "value": "Rogue Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Eternal Rose"
+      "value": "Eternal Rose",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune"
+      "value": "Rune of Neptune",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

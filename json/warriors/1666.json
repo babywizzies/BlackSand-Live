@@ -1,6 +1,7 @@
 {
-  "idx": "1666",
+  "id": "1666",
   "name": "Leona Dicer of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1666",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

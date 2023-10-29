@@ -1,6 +1,7 @@
 {
-  "idx": "6003",
+  "id": "6003",
   "name": "Blade Champion of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6003",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

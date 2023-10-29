@@ -1,6 +1,7 @@
 {
-  "idx": "2085",
+  "id": "2085",
   "name": "Titan Terror of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2085",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "White Kite",
       "filename": "shield_kite_white.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

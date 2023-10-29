@@ -1,6 +1,7 @@
 {
-  "idx": "10555",
+  "id": "10555",
   "name": "Gabe Bloodbath of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10555",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

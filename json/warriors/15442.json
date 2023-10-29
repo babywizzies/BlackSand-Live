@@ -1,6 +1,7 @@
 {
-  "idx": "15442",
+  "id": "15442",
   "name": "Gruzzon of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15442",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11192",
+  "id": "11192",
   "name": "Barron Hero of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11192",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

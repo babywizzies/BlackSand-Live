@@ -1,6 +1,7 @@
 {
-  "idx": "15050",
+  "id": "15050",
   "name": "George Executor of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15050",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Mercenary Heater Shield",
       "filename": "shield_widex_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

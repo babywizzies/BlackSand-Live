@@ -1,6 +1,7 @@
 {
-  "idx": "6692",
+  "id": "6692",
   "name": "Etana Battler of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6692",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

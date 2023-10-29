@@ -1,6 +1,7 @@
 {
-  "idx": "12109",
+  "id": "12109",
   "name": "Larry Cutter of the Crossroad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12109",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

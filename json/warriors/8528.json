@@ -1,6 +1,7 @@
 {
-  "idx": "8528",
+  "id": "8528",
   "name": "Imani Marauder of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8528",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

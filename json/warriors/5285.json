@@ -1,6 +1,7 @@
 {
-  "idx": "5285",
+  "id": "5285",
   "name": "Silas Flagellator of Death",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5285",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

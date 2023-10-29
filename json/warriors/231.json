@@ -1,6 +1,7 @@
 {
-  "idx": "231",
+  "id": "231",
   "name": "Bellicus Punisher of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/231",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 1841,
   "name": "Geomancer Muntjac of the Mist",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1841.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1841
+      "value": 1841,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Scarf"
+      "value": "Green Hip Scarf",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Plague Rat"
+      "value": "Plague Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hunter"
+      "value": "Hunter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "The Gnome's Tooth: the Earth Spell"
+      "value": "The Gnome's Tooth: the Earth Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
+      "value": "Rune of Fire",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

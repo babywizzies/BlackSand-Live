@@ -1,6 +1,7 @@
 {
-  "idx": "10108",
+  "id": "10108",
   "name": "Incitata Contaminator of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10108",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Buckler",
       "filename": "shield_buckler.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6585",
+  "id": "6585",
   "name": "Luke Champion of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6585",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10646",
+  "id": "10646",
   "name": "Buffy Hotshot of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10646",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

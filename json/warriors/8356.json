@@ -1,6 +1,7 @@
 {
-  "idx": "8356",
+  "id": "8356",
   "name": "Sharla Attacker of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8356",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

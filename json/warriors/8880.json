@@ -1,6 +1,7 @@
 {
-  "idx": "8880",
+  "id": "8880",
   "name": "Nulbaraz Obliterator of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8880",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

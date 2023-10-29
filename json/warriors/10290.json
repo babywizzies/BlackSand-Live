@@ -1,6 +1,7 @@
 {
-  "idx": "10290",
+  "id": "10290",
   "name": "Bokur Sword of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10290",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3555",
+  "id": "3555",
   "name": "Ezra Shark of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3555",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

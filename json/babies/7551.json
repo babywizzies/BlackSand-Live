@@ -1,32 +1,39 @@
 {
+  "id": 7551,
   "name": "Cheerful Atlas of the Toadstools",
   "image": "http://forgottenbabies.com/uri/json/7551.png",
-  "serial": 7551,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_gold_chain"
+      "value": "small_gold_chain",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_houngan"
+      "value": "young_houngan",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_crystal_ball"
+      "value": "tiny_crystal_ball",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 1110,
   "name": "Reliable Jahid of the Field",
   "image": "http://forgottenbabies.com/uri/json/1110.png",
-  "serial": 1110,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "white_koveralls"
+      "value": "white_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kuro"
+      "value": "kuro",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "eternal_slug"
+      "value": "eternal_slug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_red_mushroom"
+      "value": "mini_red_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

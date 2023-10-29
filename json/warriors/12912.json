@@ -1,6 +1,7 @@
 {
-  "idx": "12912",
+  "id": "12912",
   "name": "Raddix Assaulter of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12912",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

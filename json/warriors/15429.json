@@ -1,6 +1,7 @@
 {
-  "idx": "15429",
+  "id": "15429",
   "name": "Vic Sword of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15429",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

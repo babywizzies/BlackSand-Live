@@ -1,6 +1,7 @@
 {
-  "idx": "369",
+  "id": "369",
   "name": "Allan Horror of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/369",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

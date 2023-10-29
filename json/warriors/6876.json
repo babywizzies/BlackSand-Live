@@ -1,6 +1,7 @@
 {
-  "idx": "6876",
+  "id": "6876",
   "name": "Maximus Clobberer of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6876",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Wooden Hammer",
       "filename": "weapon_hammer_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

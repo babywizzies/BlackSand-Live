@@ -1,6 +1,7 @@
 {
-  "idx": "10561",
+  "id": "10561",
   "name": "Xander Impaler of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10561",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

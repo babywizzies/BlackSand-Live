@@ -1,6 +1,7 @@
 {
-  "idx": "12282",
+  "id": "12282",
   "name": "Xorb Impaler of Chickens",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12282",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

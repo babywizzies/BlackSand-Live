@@ -1,6 +1,7 @@
 {
-  "idx": "8838",
+  "id": "8838",
   "name": "Luke Impaler of the Hills",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8838",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

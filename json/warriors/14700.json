@@ -1,6 +1,7 @@
 {
-  "idx": "14700",
+  "id": "14700",
   "name": "Ramon Wanderer of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14700",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12612",
+  "id": "12612",
   "name": "Cane Chopper of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12612",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

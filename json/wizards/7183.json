@@ -1,52 +1,64 @@
 {
+  "id": 7183,
   "name": "Alchemist Milo of the Desert",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7183.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7183
+      "value": 7183,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orchid Harem Pants"
+      "value": "Orchid Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Man Behind the Curtain"
+      "value": "Man Behind the Curtain",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Cannabis Potion"
+      "value": "Cannabis Potion",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
+      "value": "Rune of Water",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

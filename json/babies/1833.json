@@ -1,32 +1,39 @@
 {
+  "id": 1833,
   "name": "Romantic Corky of the Oasis",
   "image": "http://forgottenbabies.com/uri/json/1833.png",
-  "serial": 1833,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "purple_child_choir_robe"
+      "value": "purple_child_choir_robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_stranger"
+      "value": "smol_stranger",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "small_coinpurse"
+      "value": "small_coinpurse",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 8973,
   "name": "Eager Crowley of the Heavens",
   "image": "http://forgottenbabies.com/uri/json/8973.png",
-  "serial": 8973,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_purple"
+      "value": "acute_aristocrat_purple",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_weird_wizz"
+      "value": "tiny_weird_wizz",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "dryads_ear_the_plant_spell"
+      "value": "dryads_ear_the_plant_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

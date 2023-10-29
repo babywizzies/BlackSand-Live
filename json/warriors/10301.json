@@ -1,6 +1,7 @@
 {
-  "idx": "10301",
+  "id": "10301",
   "name": "Fuyuko Exterminator of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10301",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

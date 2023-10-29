@@ -1,6 +1,7 @@
 {
-  "idx": "11902",
+  "id": "11902",
   "name": "Baal Paragon of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11902",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

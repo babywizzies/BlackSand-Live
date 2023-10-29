@@ -1,6 +1,7 @@
 {
-  "idx": "7246",
+  "id": "7246",
   "name": "Nigel Guardian of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7246",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Kite",
       "filename": "shield_kite_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

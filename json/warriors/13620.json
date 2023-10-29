@@ -1,6 +1,7 @@
 {
-  "idx": "13620",
+  "id": "13620",
   "name": "Nitro Cleaver of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13620",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Yellow Buckler",
       "filename": "shield_circle_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

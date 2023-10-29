@@ -1,6 +1,7 @@
 {
-  "idx": "354",
+  "id": "354",
   "name": "Waldo Opponent of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/354",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

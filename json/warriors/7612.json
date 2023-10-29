@@ -1,6 +1,7 @@
 {
-  "idx": "7612",
+  "id": "7612",
   "name": "Chihiro Guardian of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7612",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

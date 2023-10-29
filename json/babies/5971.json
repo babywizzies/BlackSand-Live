@@ -1,32 +1,39 @@
 {
+  "id": 5971,
   "name": "Honorable Fark of the Court",
   "image": "http://forgottenbabies.com/uri/json/5971.png",
-  "serial": 5971,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "sweet_tracksuit"
+      "value": "sweet_tracksuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "shy_hermit"
+      "value": "shy_hermit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_green_mushroom"
+      "value": "mini_green_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

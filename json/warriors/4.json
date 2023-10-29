@@ -1,6 +1,7 @@
 {
-  "idx": "4",
+  "id": "4",
   "name": "Mirembe Dueler of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

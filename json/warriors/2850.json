@@ -1,6 +1,7 @@
 {
-  "idx": "2850",
+  "id": "2850",
   "name": "Arioch Contender of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2850",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Amaryllis Fey Sword",
       "filename": "weapon_feysword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

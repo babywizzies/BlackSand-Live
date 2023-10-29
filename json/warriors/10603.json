@@ -1,6 +1,7 @@
 {
-  "idx": "10603",
+  "id": "10603",
   "name": "Bapho of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10603",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

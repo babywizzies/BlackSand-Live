@@ -1,6 +1,7 @@
 {
-  "idx": "1211",
+  "id": "1211",
   "name": "Lorthar Antagonist of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1211",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

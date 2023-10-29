@@ -1,6 +1,7 @@
 {
-  "idx": "3049",
+  "id": "3049",
   "name": "Malificia Cleaver of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3049",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

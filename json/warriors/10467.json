@@ -1,6 +1,7 @@
 {
-  "idx": "10467",
+  "id": "10467",
   "name": "Wilda Double-Crosser of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10467",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

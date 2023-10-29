@@ -1,6 +1,7 @@
 {
-  "idx": "12153",
+  "id": "12153",
   "name": "Lucy Sharpshooter of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12153",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

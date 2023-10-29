@@ -1,6 +1,7 @@
 {
-  "idx": "9939",
+  "id": "9939",
   "name": "Jig Striker of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9939",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Broadsword",
       "filename": "weapon_sword_bigbarb_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

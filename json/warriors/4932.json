@@ -1,6 +1,7 @@
 {
-  "idx": "4932",
+  "id": "4932",
   "name": "Rhys Impaler of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4932",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

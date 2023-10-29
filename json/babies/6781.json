@@ -1,32 +1,39 @@
 {
+  "id": 6781,
   "name": "Lovable Atlas of the Inferno",
   "image": "http://forgottenbabies.com/uri/json/6781.png",
-  "serial": 6781,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_jester_cape"
+      "value": "green_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_yellow_wizard"
+      "value": "young_yellow_wizard",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "the_bone_wand"
+      "value": "the_bone_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_up"
+      "value": "rune_up",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

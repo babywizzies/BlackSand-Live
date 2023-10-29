@@ -1,6 +1,7 @@
 {
-  "idx": "8569",
+  "id": "8569",
   "name": "Akachi Ranger of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8569",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

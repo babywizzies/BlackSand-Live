@@ -1,6 +1,7 @@
 {
-  "idx": "2616",
+  "id": "2616",
   "name": "Relic Vanquisher of Lions",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2616",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

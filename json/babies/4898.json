@@ -1,32 +1,39 @@
 {
+  "id": 4898,
   "name": "Crazy Soya of the Dunes",
   "image": "http://forgottenbabies.com/uri/json/4898.png",
-  "serial": 4898,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_red"
+      "value": "child_cleric_red",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_canaanite"
+      "value": "young_canaanite",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "merlin's_mini_monkey"
+      "value": "merlin's_mini_monkey",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chaos_wand"
+      "value": "chaos_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_infinity"
+      "value": "rune_of_infinity",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

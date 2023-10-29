@@ -1,32 +1,39 @@
 {
+  "id": 5016,
   "name": "Chatty Casper of the Land",
   "image": "http://forgottenbabies.com/uri/json/5016.png",
-  "serial": 5016,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_brown_tunic"
+      "value": "tiny_brown_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_faustian"
+      "value": "young_faustian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "bliss_kitten"
+      "value": "bliss_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "thors_wrath_the_lightning_spell"
+      "value": "thors_wrath_the_lightning_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

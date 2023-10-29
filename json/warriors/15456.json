@@ -1,6 +1,7 @@
 {
-  "idx": "15456",
+  "id": "15456",
   "name": "Vega Shatterer of the Salt",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15456",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1048",
+  "id": "1048",
   "name": "Quinton Belligerent of the Hills",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1048",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

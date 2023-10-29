@@ -1,6 +1,7 @@
 {
-  "idx": "10899",
+  "id": "10899",
   "name": "Armak Champion of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10899",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

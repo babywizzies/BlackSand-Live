@@ -1,32 +1,39 @@
 {
+  "id": 5083,
   "name": "Young Borak of the Woodlands",
   "image": "http://forgottenbabies.com/uri/json/5083.png",
-  "serial": 5083,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Blue_Shoulder_Cape"
+      "value": "Small_Blue_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kuro"
+      "value": "kuro",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "tiny_ember_tadpole"
+      "value": "tiny_ember_tadpole",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "adrenochrome"
+      "value": "adrenochrome",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

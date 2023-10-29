@@ -1,6 +1,7 @@
 {
-  "idx": "7910",
+  "id": "7910",
   "name": "Sal Blade of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7910",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

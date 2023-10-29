@@ -1,6 +1,7 @@
 {
-  "idx": "7620",
+  "id": "7620",
   "name": "Wembe Mercenary of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7620",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

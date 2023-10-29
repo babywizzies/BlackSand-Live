@@ -1,48 +1,59 @@
 {
+  "id": 4225,
   "name": "Arch-Magician Aleister of the Citadel",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4225.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4225
+      "value": 4225,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Gold Chain"
+      "value": "Gold Chain",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Onyx Wolf"
+      "value": "Onyx Wolf",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Professor"
+      "value": "Professor",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "The Midas Rod"
+      "value": "The Midas Rod",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cosmic"
+      "value": "Cosmic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

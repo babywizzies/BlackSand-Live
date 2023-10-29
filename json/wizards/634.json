@@ -1,52 +1,64 @@
 {
+  "id": 634,
   "name": "Arch-Magician Patch of the Havens",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/634.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 634
+      "value": 634,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Cleric"
+      "value": "Yellow Cleric",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Anuran"
+      "value": "Anuran",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Fairy Glamour: the Dazzle Spell"
+      "value": "Fairy Glamour: the Dazzle Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
+      "value": "Rune of Fire",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2442",
+  "id": "2442",
   "name": "Harvey Striker of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2442",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5098",
+  "id": "5098",
   "name": "Miles Guillotiner of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5098",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

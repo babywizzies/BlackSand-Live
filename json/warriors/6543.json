@@ -1,6 +1,7 @@
 {
-  "idx": "6543",
+  "id": "6543",
   "name": "Xerxes Piercer of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6543",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Brigand",
       "filename": "head_willy.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

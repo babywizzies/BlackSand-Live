@@ -1,6 +1,7 @@
 {
-  "idx": "775",
+  "id": "775",
   "name": "Justice Combatant of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/775",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

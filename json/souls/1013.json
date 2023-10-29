@@ -1,6 +1,7 @@
 {
-  "idx": "1013",
+  "id": "1013",
   "name": "Grave Robbing Kobold Yookoo of Dread Tower",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Skeleton Monkey",
       "filename": "familiar_monkey_skeleton.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

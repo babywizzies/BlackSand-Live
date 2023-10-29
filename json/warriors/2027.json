@@ -1,6 +1,7 @@
 {
-  "idx": "2027",
+  "id": "2027",
   "name": "Brock Attacker of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2027",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

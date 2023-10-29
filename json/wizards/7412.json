@@ -1,44 +1,54 @@
 {
+  "id": 7412,
   "name": "Chronomancer Zorko of the Temple",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7412.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7412
+      "value": 7412,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Juniper Shoulder Cape"
+      "value": "Juniper Shoulder Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Djinn"
+      "value": "Djinn",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Sphinx's Hourglass"
+      "value": "Sphinx's Hourglass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Desert"
+      "value": "Desert",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "66"
+      "value": "66",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

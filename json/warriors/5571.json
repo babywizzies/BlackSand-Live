@@ -1,6 +1,7 @@
 {
-  "idx": "5571",
+  "id": "5571",
   "name": "Gishimmar Dispatcher of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5571",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1680",
+  "id": "1680",
   "name": "Peter Guardian of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1680",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

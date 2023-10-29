@@ -1,6 +1,7 @@
 {
-  "idx": "12192",
+  "id": "12192",
   "name": "Veena Amputator of Lions",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12192",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

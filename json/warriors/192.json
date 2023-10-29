@@ -1,6 +1,7 @@
 {
-  "idx": "192",
+  "id": "192",
   "name": "Jarek Chisler of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/192",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

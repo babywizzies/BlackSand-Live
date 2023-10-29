@@ -1,6 +1,7 @@
 {
-  "idx": "15200",
+  "id": "15200",
   "name": "Charles Savior of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15200",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

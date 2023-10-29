@@ -1,6 +1,7 @@
 {
-  "idx": "5164",
+  "id": "5164",
   "name": "Harvey Paragon of the Lochs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5164",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

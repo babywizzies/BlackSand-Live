@@ -1,6 +1,7 @@
 {
-  "idx": "12523",
+  "id": "12523",
   "name": "Xerxes Eliminator of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12523",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

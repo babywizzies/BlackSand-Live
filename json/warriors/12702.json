@@ -1,6 +1,7 @@
 {
-  "idx": "12702",
+  "id": "12702",
   "name": "Farol Attacker of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12702",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

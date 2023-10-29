@@ -1,6 +1,7 @@
 {
-  "idx": "15102",
+  "id": "15102",
   "name": "Drulek of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15102",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Hambone",
       "filename": "item_hambone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

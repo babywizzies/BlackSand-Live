@@ -1,6 +1,7 @@
 {
-  "idx": "7099",
+  "id": "7099",
   "name": "Minka Sword of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7099",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Broadsword",
       "filename": "weapon_sword_bigbarb_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

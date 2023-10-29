@@ -1,32 +1,39 @@
 {
+  "id": 3219,
   "name": "Curious Uur'lok of the Astral Plane",
   "image": "http://forgottenbabies.com/uri/json/3219.png",
-  "serial": 3219,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_black_wraith"
+      "value": "little_black_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_canaanite"
+      "value": "young_canaanite",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "emerald_wand"
+      "value": "emerald_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

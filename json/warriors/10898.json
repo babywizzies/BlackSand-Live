@@ -1,6 +1,7 @@
 {
-  "idx": "10898",
+  "id": "10898",
   "name": "Sade Dismantler of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10898",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Frog Shield",
       "filename": "shield_frog.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

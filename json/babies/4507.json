@@ -1,32 +1,39 @@
 {
+  "id": 4507,
   "name": "Adorable Brutus of Atlantis",
   "image": "http://forgottenbabies.com/uri/json/4507.png",
-  "serial": 4507,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "child_cleric_red"
+      "value": "child_cleric_red",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_gold_skeleton_pointed_hat"
+      "value": "small_gold_skeleton_pointed_hat",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "lunar_wand"
+      "value": "lunar_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

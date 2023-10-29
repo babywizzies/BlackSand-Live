@@ -1,6 +1,7 @@
 {
-  "idx": "12368",
+  "id": "12368",
   "name": "Forneus Ravager of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12368",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8286",
+  "id": "8286",
   "name": "Gaelin Guardian of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8286",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1505",
+  "id": "1505",
   "name": "Donovan Stabber of Concrete",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1505",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

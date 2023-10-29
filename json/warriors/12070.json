@@ -1,6 +1,7 @@
 {
-  "idx": "12070",
+  "id": "12070",
   "name": "Bralin Horror of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12070",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

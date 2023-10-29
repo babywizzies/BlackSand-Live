@@ -1,6 +1,7 @@
 {
-  "idx": "10994",
+  "id": "10994",
   "name": "Cyrus Ruin of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10994",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

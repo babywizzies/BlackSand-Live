@@ -1,6 +1,7 @@
 {
-  "idx": "9016",
+  "id": "9016",
   "name": "Donovan Wrecker of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9016",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

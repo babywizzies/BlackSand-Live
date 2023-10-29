@@ -1,6 +1,7 @@
 {
-  "idx": "30",
+  "id": "30",
   "name": "Eldritch Horror Great Old One Andolini",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Skeleton Monkey",
       "filename": "familiar_monkey_skeleton.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

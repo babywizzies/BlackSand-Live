@@ -1,6 +1,7 @@
 {
-  "idx": "9226",
+  "id": "9226",
   "name": "Callahan Shadow of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9226",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

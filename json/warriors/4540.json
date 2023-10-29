@@ -1,6 +1,7 @@
 {
-  "idx": "4540",
+  "id": "4540",
   "name": "Duncan Cutter of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4540",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

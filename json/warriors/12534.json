@@ -1,6 +1,7 @@
 {
-  "idx": "12534",
+  "id": "12534",
   "name": "Helga Slaughterer of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12534",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2",
+  "id": "2",
   "name": "Drake Guillotiner of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

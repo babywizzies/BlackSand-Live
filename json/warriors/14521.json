@@ -1,6 +1,7 @@
 {
-  "idx": "14521",
+  "id": "14521",
   "name": "Sid Belligerent of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14521",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Might Shield",
       "filename": "shield_might.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

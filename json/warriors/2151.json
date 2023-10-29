@@ -1,6 +1,7 @@
 {
-  "idx": "2151",
+  "id": "2151",
   "name": "Lance Chainsaw of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2151",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13390",
+  "id": "13390",
   "name": "Ossith Protector of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13390",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

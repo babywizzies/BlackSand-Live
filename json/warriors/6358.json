@@ -1,6 +1,7 @@
 {
-  "idx": "6358",
+  "id": "6358",
   "name": "Claw Pounder of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6358",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

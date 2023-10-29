@@ -1,39 +1,49 @@
 {
+  "id": null,
   "name": "Blood Eater Revenant Galatea of the Death Cloud",
   "image": "https://portal.forgottenrunes.com/api/souls/img/142",
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Famine"
+      "value": "Famine",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Ethereal Swashbuckling Gear"
+      "value": "Ethereal Swashbuckling Gear",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Blood Eater Revenant"
+      "value": "Blood Eater Revenant",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Soul Reaper Scythe"
+      "value": "Soul Reaper Scythe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Soul Rune of Venus"
+      "value": "Soul Rune of Venus",
+      "filename": null
     },
     {
       "trait_type": "Transmuted from number",
-      "value": 142
+      "value": 142,
+      "filename": null
     },
     {
       "trait_type": "Transmuted from",
-      "value": "Ghost Eater Galatea of the Isle"
+      "value": "Ghost Eater Galatea of the Isle",
+      "filename": null
     },
     {
       "trait_type": "Burn order",
-      "value": 688
+      "value": 688,
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

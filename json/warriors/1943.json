@@ -1,6 +1,7 @@
 {
-  "idx": "1943",
+  "id": "1943",
   "name": "Murphy Dueler of the Snow",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1943",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

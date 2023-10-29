@@ -1,6 +1,7 @@
 {
-  "idx": "9935",
+  "id": "9935",
   "name": "Ramon Deadeye of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9935",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

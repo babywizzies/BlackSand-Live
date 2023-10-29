@@ -1,6 +1,7 @@
 {
-  "idx": "1099",
+  "id": "1099",
   "name": "Walter Armageddon of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1099",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

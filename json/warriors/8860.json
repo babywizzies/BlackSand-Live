@@ -1,6 +1,7 @@
 {
-  "idx": "8860",
+  "id": "8860",
   "name": "Damon Slaughterer of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8860",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

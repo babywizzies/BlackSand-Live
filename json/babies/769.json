@@ -1,32 +1,39 @@
 {
+  "id": 769,
   "name": "Insightful Rock of the Tundra",
   "image": "http://forgottenbabies.com/uri/json/769.png",
-  "serial": 769,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "frozen_frock"
+      "value": "frozen_frock",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_enchantress"
+      "value": "little_enchantress",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mars"
+      "value": "rune_of_mars",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

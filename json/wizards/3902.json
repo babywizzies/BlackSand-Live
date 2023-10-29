@@ -1,48 +1,59 @@
 {
+  "id": 3902,
   "name": "Wild Mage Sylvia of the Hills",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3902.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3902
+      "value": 3902,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Pouch"
+      "value": "Green Hip Pouch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Onyx Wolf"
+      "value": "Onyx Wolf",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Witch"
+      "value": "Witch",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Guillaume's Broom"
+      "value": "Guillaume's Broom",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Broom"
+      "value": "Broom",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

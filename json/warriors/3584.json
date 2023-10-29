@@ -1,6 +1,7 @@
 {
-  "idx": "3584",
+  "id": "3584",
   "name": "U.V. Ruin of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3584",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 2950,
   "name": "Honorable Allistair of the Veil",
   "image": "http://forgottenbabies.com/uri/json/2950.png",
-  "serial": 2950,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Small_Blue_Shoulder_Cape"
+      "value": "Small_Blue_Shoulder_Cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_imp"
+      "value": "little_imp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "fierce_fledgling"
+      "value": "fierce_fledgling",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "jinx_wand"
+      "value": "jinx_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_air"
+      "value": "rune_of_air",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

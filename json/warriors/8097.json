@@ -1,6 +1,7 @@
 {
-  "idx": "8097",
+  "id": "8097",
   "name": "Ferox Lacerator of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8097",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

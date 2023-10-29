@@ -1,6 +1,7 @@
 {
-  "idx": "14486",
+  "id": "14486",
   "name": "Rogue Vanquisher of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14486",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

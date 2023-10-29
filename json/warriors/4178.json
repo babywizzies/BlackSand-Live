@@ -1,6 +1,7 @@
 {
-  "idx": "4178",
+  "id": "4178",
   "name": "Moni Defender of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4178",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

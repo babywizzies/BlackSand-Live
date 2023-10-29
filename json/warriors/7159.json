@@ -1,6 +1,7 @@
 {
-  "idx": "7159",
+  "id": "7159",
   "name": "Owen Poker of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7159",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

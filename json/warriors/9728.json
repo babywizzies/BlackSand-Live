@@ -1,6 +1,7 @@
 {
-  "idx": "9728",
+  "id": "9728",
   "name": "Alpha Guardian of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9728",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

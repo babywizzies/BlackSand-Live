@@ -1,32 +1,39 @@
 {
+  "id": 9589,
   "name": "Chatty Andy of the Belfry",
   "image": "http://forgottenbabies.com/uri/json/9589.png",
-  "serial": 9589,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_red_suit"
+      "value": "small_red_suit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_lycanthrope"
+      "value": "little_lycanthrope",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "zephyrs_laugh_the_wind_spell"
+      "value": "zephyrs_laugh_the_wind_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_jupiter"
+      "value": "rune_of_jupiter",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

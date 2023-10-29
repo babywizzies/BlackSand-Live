@@ -1,6 +1,7 @@
 {
-  "idx": "10230",
+  "id": "10230",
   "name": "Sal Champion of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10230",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

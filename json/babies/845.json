@@ -1,32 +1,39 @@
 {
+  "id": 845,
   "name": "Zestful Remus from the Crib",
   "image": "http://forgottenbabies.com/uri/json/845.png",
-  "serial": 845,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "oversized_snowsuit"
+      "value": "oversized_snowsuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "tiny_diviner"
+      "value": "tiny_diviner",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "brown_bunny"
+      "value": "brown_bunny",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "a_single_candle"
+      "value": "a_single_candle",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_pluto"
+      "value": "rune_pluto",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

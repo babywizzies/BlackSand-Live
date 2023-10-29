@@ -1,6 +1,7 @@
 {
-  "idx": "12769",
+  "id": "12769",
   "name": "Liam Cleaver of Penguins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12769",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

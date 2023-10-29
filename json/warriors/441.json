@@ -1,6 +1,7 @@
 {
-  "idx": "441",
+  "id": "441",
   "name": "Aamon Swindler of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/441",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

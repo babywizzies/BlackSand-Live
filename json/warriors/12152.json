@@ -1,6 +1,7 @@
 {
-  "idx": "12152",
+  "id": "12152",
   "name": "Brock Stormer of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12152",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

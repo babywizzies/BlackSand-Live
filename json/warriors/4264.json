@@ -1,6 +1,7 @@
 {
-  "idx": "4264",
+  "id": "4264",
   "name": "Therman Blade of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4264",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Yellow Viking Helm",
       "filename": "head_gorj.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3722",
+  "id": "3722",
   "name": "Chirk of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3722",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

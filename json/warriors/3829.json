@@ -1,6 +1,7 @@
 {
-  "idx": "3829",
+  "id": "3829",
   "name": "Guy Guardian of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3829",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

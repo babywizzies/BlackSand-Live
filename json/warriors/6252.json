@@ -1,6 +1,7 @@
 {
-  "idx": "6252",
+  "id": "6252",
   "name": "Eddin Savior of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6252",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

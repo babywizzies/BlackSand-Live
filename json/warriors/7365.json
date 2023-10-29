@@ -1,6 +1,7 @@
 {
-  "idx": "7365",
+  "id": "7365",
   "name": "Dozer Dueler of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7365",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

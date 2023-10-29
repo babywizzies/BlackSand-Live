@@ -1,44 +1,54 @@
 {
+  "id": 3246,
   "name": "Archmagus Isaac of the Ether",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3246.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3246
+      "value": 3246,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Tunic"
+      "value": "White Tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Sandman"
+      "value": "Sandman",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Candle of Intuition"
+      "value": "Candle of Intuition",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

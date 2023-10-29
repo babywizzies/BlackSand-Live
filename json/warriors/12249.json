@@ -1,6 +1,7 @@
 {
-  "idx": "12249",
+  "id": "12249",
   "name": "Coco Eliminator of Kelpies",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12249",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

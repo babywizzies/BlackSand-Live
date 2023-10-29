@@ -1,6 +1,7 @@
 {
-  "idx": "6442",
+  "id": "6442",
   "name": "Dormok Battler of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6442",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Fire Shield",
       "filename": "shield_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

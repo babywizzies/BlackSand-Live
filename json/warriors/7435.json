@@ -1,6 +1,7 @@
 {
-  "idx": "7435",
+  "id": "7435",
   "name": "Clint Ruin of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7435",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

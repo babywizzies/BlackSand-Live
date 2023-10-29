@@ -1,6 +1,7 @@
 {
-  "idx": "8619",
+  "id": "8619",
   "name": "Reid Slaughterer of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8619",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

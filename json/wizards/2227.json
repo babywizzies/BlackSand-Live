@@ -1,48 +1,59 @@
 {
+  "id": 2227,
   "name": "Ghost Eater Sarah of the Marsh",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2227.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2227
+      "value": 2227,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Coveralls"
+      "value": "White Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Albino Rat"
+      "value": "Albino Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Botanic Master"
+      "value": "Botanic Master",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Soul Harvester"
+      "value": "Soul Harvester",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "White Magic"
+      "value": "White Magic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

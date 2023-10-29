@@ -1,6 +1,7 @@
 {
-  "idx": "7680",
+  "id": "7680",
   "name": "Mrfran Dismantler of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7680",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

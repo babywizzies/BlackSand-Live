@@ -1,6 +1,7 @@
 {
-  "idx": "2322",
+  "id": "2322",
   "name": "Fenjeon of the Swamp",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2322",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Hambone",
       "filename": "item_hambone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

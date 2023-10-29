@@ -1,6 +1,7 @@
 {
-  "idx": "12269",
+  "id": "12269",
   "name": "Incitata Piercer of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12269",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "22",
+  "id": "22",
   "name": "Edmund Chisler of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/22",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

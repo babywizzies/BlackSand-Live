@@ -1,6 +1,7 @@
 {
-  "idx": "10011",
+  "id": "10011",
   "name": "Robert Lopper of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10011",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

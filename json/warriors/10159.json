@@ -1,6 +1,7 @@
 {
-  "idx": "10159",
+  "id": "10159",
   "name": "Kobe Slayer of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10159",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

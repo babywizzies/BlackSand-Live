@@ -1,6 +1,7 @@
 {
-  "idx": "7976",
+  "id": "7976",
   "name": "Dingus Apocalypse of the Sea",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7976",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

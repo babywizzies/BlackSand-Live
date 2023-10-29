@@ -1,6 +1,7 @@
 {
-  "idx": "5562",
+  "id": "5562",
   "name": "Prometheus Grifter of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5562",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

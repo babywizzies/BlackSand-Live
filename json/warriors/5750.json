@@ -1,6 +1,7 @@
 {
-  "idx": "5750",
+  "id": "5750",
   "name": "Kesi of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5750",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

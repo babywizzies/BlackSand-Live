@@ -1,6 +1,7 @@
 {
-  "idx": "1986",
+  "id": "1986",
   "name": "Horned Phantasm The Goblin King",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Skeleton Snake",
       "filename": "familiar_snake_skeleton.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

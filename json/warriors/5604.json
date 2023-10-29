@@ -1,6 +1,7 @@
 {
-  "idx": "5604",
+  "id": "5604",
   "name": "Murph Protector of Crystals",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5604",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

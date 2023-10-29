@@ -1,6 +1,7 @@
 {
-  "idx": "8785",
+  "id": "8785",
   "name": "Saiya Hero of Zero",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8785",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

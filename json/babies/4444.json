@@ -1,28 +1,34 @@
 {
+  "id": 4444,
   "name": "Bernardo Jr. from the Unknown",
   "image": "https://forgottenbabies.com/uri/json/4444.png",
-  "serial": 4444,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "black"
+      "value": "black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "grey_puffy_pants"
+      "value": "grey_puffy_pants",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "bernardo"
+      "value": "bernardo",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "wand"
+      "value": "wand",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "young_aura_wolf"
+      "value": "young_aura_wolf",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

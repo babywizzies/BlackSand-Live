@@ -1,6 +1,7 @@
 {
-  "idx": "14666",
+  "id": "14666",
   "name": "Pippa Poker of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14666",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

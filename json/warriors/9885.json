@@ -1,6 +1,7 @@
 {
-  "idx": "9885",
+  "id": "9885",
   "name": "Leah Thief of the Elysian Fields",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9885",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

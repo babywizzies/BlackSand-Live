@@ -1,6 +1,7 @@
 {
-  "idx": "10241",
+  "id": "10241",
   "name": "Farol Disintegrator of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10241",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

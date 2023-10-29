@@ -1,6 +1,7 @@
 {
-  "idx": "13007",
+  "id": "13007",
   "name": "Baril Clobberer of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13007",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

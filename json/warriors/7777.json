@@ -1,6 +1,7 @@
 {
-  "idx": "7777",
+  "id": "7777",
   "name": "Goliath Rival of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7777",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

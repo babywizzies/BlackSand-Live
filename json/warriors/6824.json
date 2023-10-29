@@ -1,6 +1,7 @@
 {
-  "idx": "6824",
+  "id": "6824",
   "name": "John Assaulter of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6824",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

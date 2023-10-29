@@ -1,6 +1,7 @@
 {
-  "idx": "2329",
+  "id": "2329",
   "name": "Belteshazzar Contaminator of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2329",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

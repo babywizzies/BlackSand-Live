@@ -1,6 +1,7 @@
 {
-  "idx": "8402",
+  "id": "8402",
   "name": "Maxim Punisher of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8402",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

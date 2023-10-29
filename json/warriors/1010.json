@@ -1,6 +1,7 @@
 {
-  "idx": "1010",
+  "id": "1010",
   "name": "Shawn Armageddon of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1010",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

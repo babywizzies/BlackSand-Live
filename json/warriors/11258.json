@@ -1,6 +1,7 @@
 {
-  "idx": "11258",
+  "id": "11258",
   "name": "Jerry Champion of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11258",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

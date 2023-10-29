@@ -1,6 +1,7 @@
 {
-  "idx": "331",
+  "id": "331",
   "name": "Jimbo Guardian of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/331",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

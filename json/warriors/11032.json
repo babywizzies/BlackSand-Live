@@ -1,6 +1,7 @@
 {
-  "idx": "11032",
+  "id": "11032",
   "name": "Blaze Bludgeoner of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11032",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10000",
+  "id": "10000",
   "name": "Liang Razer of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10000",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

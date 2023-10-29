@@ -1,52 +1,64 @@
 {
+  "id": 6443,
   "name": "Cleric Jastor ",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6443.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6443
+      "value": 6443,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Elven Cloak"
+      "value": "Yellow Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Albino Rat"
+      "value": "Albino Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Anuran"
+      "value": "Anuran",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Fairy Glamour: the Dazzle Spell"
+      "value": "Fairy Glamour: the Dazzle Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire"
+      "value": "Rune of Fire",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

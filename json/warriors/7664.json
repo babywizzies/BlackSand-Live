@@ -1,6 +1,7 @@
 {
-  "idx": "7664",
+  "id": "7664",
   "name": "Helga Guardian of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7664",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

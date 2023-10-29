@@ -1,6 +1,7 @@
 {
-  "idx": "15211",
+  "id": "15211",
   "name": "Atticus Stabber of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15211",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10950",
+  "id": "10950",
   "name": "Masika Ravager of Arcadia",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10950",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

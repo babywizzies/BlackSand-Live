@@ -1,32 +1,39 @@
 {
+  "id": 1720,
   "name": "Lovable Impy of the Bastion",
   "image": "http://forgottenbabies.com/uri/json/1720.png",
-  "serial": 1720,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "yellow_jester_cape"
+      "value": "yellow_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_thelemist"
+      "value": "young_thelemist",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "brahmans_breath_the_life_spell"
+      "value": "brahmans_breath_the_life_spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

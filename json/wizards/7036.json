@@ -1,52 +1,64 @@
 {
+  "id": 7036,
   "name": "Sorcerer Jiang of the Tower",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7036.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7036
+      "value": 7036,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Scholar"
+      "value": "Green Scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sapphire Slime"
+      "value": "Sapphire Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Book of Magic"
+      "value": "Book of Magic",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury"
+      "value": "Rune of Mercury",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

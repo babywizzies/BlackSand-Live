@@ -1,6 +1,7 @@
 {
-  "idx": "9895",
+  "id": "9895",
   "name": "Roman Fiend of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9895",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Blonde Bearded Berserker",
       "filename": "head_berserker_skindark.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

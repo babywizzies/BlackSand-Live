@@ -1,6 +1,7 @@
 {
-  "idx": "11436",
+  "id": "11436",
   "name": "Bronn Executor of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11436",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

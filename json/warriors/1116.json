@@ -1,6 +1,7 @@
 {
-  "idx": "1116",
+  "id": "1116",
   "name": "Gaelin Cleaver of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1116",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

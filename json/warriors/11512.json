@@ -1,6 +1,7 @@
 {
-  "idx": "11512",
+  "id": "11512",
   "name": "Doyle Armageddon of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11512",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Aurelian Double Blade",
       "filename": "weapon_doubleblade_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

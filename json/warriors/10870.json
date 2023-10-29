@@ -1,6 +1,7 @@
 {
-  "idx": "10870",
+  "id": "10870",
   "name": "Glorn Piercer of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10870",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Kite",
       "filename": "shield_kite_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 9904,
   "name": "Darling Fark of the Ether",
   "image": "http://forgottenbabies.com/uri/json/9904.png",
-  "serial": 9904,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_black_wraith"
+      "value": "little_black_wraith",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_prophet"
+      "value": "puny_prophet",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "friendly_fox"
+      "value": "friendly_fox",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

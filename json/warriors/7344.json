@@ -1,6 +1,7 @@
 {
-  "idx": "7344",
+  "id": "7344",
   "name": "Tad Conqueror of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7344",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

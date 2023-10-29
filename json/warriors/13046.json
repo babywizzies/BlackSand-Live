@@ -1,6 +1,7 @@
 {
-  "idx": "13046",
+  "id": "13046",
   "name": "Wu Daredevil of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13046",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

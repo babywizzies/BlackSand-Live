@@ -1,6 +1,7 @@
 {
-  "idx": "8906",
+  "id": "8906",
   "name": "Urhamsi Hero of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8906",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8219",
+  "id": "8219",
   "name": "Tracy Paragon of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8219",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

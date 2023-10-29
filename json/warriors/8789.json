@@ -1,6 +1,7 @@
 {
-  "idx": "8789",
+  "id": "8789",
   "name": "Werner Cruncher of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8789",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

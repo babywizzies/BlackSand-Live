@@ -1,6 +1,7 @@
 {
-  "idx": "10385",
+  "id": "10385",
   "name": "Tiberius Ruin of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10385",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

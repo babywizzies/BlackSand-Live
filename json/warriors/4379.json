@@ -1,6 +1,7 @@
 {
-  "idx": "4379",
+  "id": "4379",
   "name": "Meryl of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4379",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

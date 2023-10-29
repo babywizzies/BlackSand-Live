@@ -1,6 +1,7 @@
 {
-  "idx": "5555",
+  "id": "5555",
   "name": "Blake Horror of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5555",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

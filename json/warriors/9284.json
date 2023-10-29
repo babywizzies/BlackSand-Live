@@ -1,6 +1,7 @@
 {
-  "idx": "9284",
+  "id": "9284",
   "name": "Aramastus Ravager of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9284",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

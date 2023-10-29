@@ -1,6 +1,7 @@
 {
-  "idx": "1701",
+  "id": "1701",
   "name": "Sedal Chisler of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1701",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

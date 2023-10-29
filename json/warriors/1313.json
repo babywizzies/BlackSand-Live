@@ -1,6 +1,7 @@
 {
-  "idx": "1313",
+  "id": "1313",
   "name": "Grogan Champion of the Berg",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1313",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

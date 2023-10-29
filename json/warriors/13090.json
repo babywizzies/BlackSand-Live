@@ -1,6 +1,7 @@
 {
-  "idx": "13090",
+  "id": "13090",
   "name": "Aarya Obliterator of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13090",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

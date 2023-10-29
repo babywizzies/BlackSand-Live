@@ -1,6 +1,7 @@
 {
-  "idx": "11513",
+  "id": "11513",
   "name": "Zarl Swashbuckler of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11513",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

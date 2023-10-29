@@ -1,6 +1,7 @@
 {
-  "idx": "7877",
+  "id": "7877",
   "name": "Harland Carver of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7877",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

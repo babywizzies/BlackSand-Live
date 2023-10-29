@@ -1,6 +1,7 @@
 {
-  "idx": "3876",
+  "id": "3876",
   "name": "Tim Antihero of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3876",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

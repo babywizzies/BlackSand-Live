@@ -1,6 +1,7 @@
 {
-  "idx": "11281",
+  "id": "11281",
   "name": "Cicero Cataclysm of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11281",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

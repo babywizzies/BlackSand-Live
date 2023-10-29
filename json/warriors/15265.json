@@ -1,6 +1,7 @@
 {
-  "idx": "15265",
+  "id": "15265",
   "name": "Augustus Striker of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15265",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

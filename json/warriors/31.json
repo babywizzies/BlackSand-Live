@@ -1,6 +1,7 @@
 {
-  "idx": "31",
+  "id": "31",
   "name": "Marcus Eradicator of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/31",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

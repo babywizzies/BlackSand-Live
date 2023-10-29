@@ -1,6 +1,7 @@
 {
-  "idx": "1034",
+  "id": "1034",
   "name": "Harley Contender of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1034",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

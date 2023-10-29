@@ -1,52 +1,64 @@
 {
+  "id": 323,
   "name": "Alchemist Shivra of the Grotto",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/323.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 323
+      "value": 323,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Purple Yoga "
+      "value": "Purple Yoga ",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Lucky Black Cat"
+      "value": "Lucky Black Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Crone"
+      "value": "Crone",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Nightshade Potion"
+      "value": "Nightshade Potion",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
+      "value": "Rune of Mars",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Purple Haze"
+      "value": "Purple Haze",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

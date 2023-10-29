@@ -1,6 +1,7 @@
 {
-  "idx": "9323",
+  "id": "9323",
   "name": "Remus Mercenary of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9323",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

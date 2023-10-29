@@ -1,6 +1,7 @@
 {
-  "idx": "5770",
+  "id": "5770",
   "name": "Valadin Outlaw of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5770",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

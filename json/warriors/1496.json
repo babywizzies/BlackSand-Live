@@ -1,6 +1,7 @@
 {
-  "idx": "1496",
+  "id": "1496",
   "name": "Blaze Peacemaker of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1496",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

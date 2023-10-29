@@ -1,6 +1,7 @@
 {
-  "idx": "7835",
+  "id": "7835",
   "name": "Howard Sword of Rainbows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7835",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

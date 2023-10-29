@@ -1,6 +1,7 @@
 {
-  "idx": "3352",
+  "id": "3352",
   "name": "Willy Buster of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3352",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

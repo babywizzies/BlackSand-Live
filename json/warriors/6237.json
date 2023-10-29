@@ -1,6 +1,7 @@
 {
-  "idx": "6237",
+  "id": "6237",
   "name": "Trudy Shark of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6237",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

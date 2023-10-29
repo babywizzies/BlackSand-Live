@@ -1,6 +1,7 @@
 {
-  "idx": "7933",
+  "id": "7933",
   "name": "Aurelia Lumper of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7933",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

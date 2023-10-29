@@ -1,6 +1,7 @@
 {
-  "idx": "15552",
+  "id": "15552",
   "name": "Casey Grinder of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15552",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Nunchaku",
       "filename": "weapon_nunchucku.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

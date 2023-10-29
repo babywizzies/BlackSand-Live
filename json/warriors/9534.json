@@ -1,6 +1,7 @@
 {
-  "idx": "9534",
+  "id": "9534",
   "name": "Quant Explorer of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9534",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

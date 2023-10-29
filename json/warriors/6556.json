@@ -1,6 +1,7 @@
 {
-  "idx": "6556",
+  "id": "6556",
   "name": "Garrison Dispatcher of all that is Holy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6556",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

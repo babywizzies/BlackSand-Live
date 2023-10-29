@@ -1,6 +1,7 @@
 {
-  "idx": "5312",
+  "id": "5312",
   "name": "Ace Champion of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5312",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

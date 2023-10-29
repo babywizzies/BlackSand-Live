@@ -1,6 +1,7 @@
 {
-  "idx": "2286",
+  "id": "2286",
   "name": "Nolan Lightbearer of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2286",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

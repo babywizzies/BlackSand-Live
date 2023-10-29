@@ -1,6 +1,7 @@
 {
-  "idx": "3871",
+  "id": "3871",
   "name": "Cornelius Sword of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3871",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 7588,
   "name": "Amusing Iprix of the Isle",
   "image": "http://forgottenbabies.com/uri/json/7588.png",
-  "serial": 7588,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "red_coveralls"
+      "value": "red_coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_punjabi"
+      "value": "young_punjabi",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bitten_apple"
+      "value": "bitten_apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_uranus"
+      "value": "rune_uranus",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

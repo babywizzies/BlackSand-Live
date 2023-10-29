@@ -1,6 +1,7 @@
 {
-  "idx": "1894",
+  "id": "1894",
   "name": "Zeeke Vanquisher of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1894",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Jungle Boomerang",
       "filename": "weapon_boomerang_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14008",
+  "id": "14008",
   "name": "Meryl Dodger of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14008",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

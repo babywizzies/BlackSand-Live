@@ -1,6 +1,7 @@
 {
-  "idx": "128",
+  "id": "128",
   "name": "Romney Cutter of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/128",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Purple Kite",
       "filename": "shield_kite_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

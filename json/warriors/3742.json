@@ -1,6 +1,7 @@
 {
-  "idx": "3742",
+  "id": "3742",
   "name": "Azriel Doom of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3742",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

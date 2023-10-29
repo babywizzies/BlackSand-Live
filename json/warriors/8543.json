@@ -1,6 +1,7 @@
 {
-  "idx": "8543",
+  "id": "8543",
   "name": "Thromble of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8543",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

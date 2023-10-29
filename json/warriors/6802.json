@@ -1,6 +1,7 @@
 {
-  "idx": "6802",
+  "id": "6802",
   "name": "Theobald Champion of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6802",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

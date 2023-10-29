@@ -1,6 +1,7 @@
 {
-  "idx": "3483",
+  "id": "3483",
   "name": "Dullahan Chisler of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3483",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

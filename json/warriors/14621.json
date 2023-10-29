@@ -1,6 +1,7 @@
 {
-  "idx": "14621",
+  "id": "14621",
   "name": "Alexa Death of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14621",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Purple Kite",
       "filename": "shield_kite_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

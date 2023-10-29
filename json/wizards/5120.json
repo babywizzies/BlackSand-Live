@@ -1,48 +1,59 @@
 {
+  "id": 5120,
   "name": "Alchemist Toadstool of the Keep",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5120.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5120
+      "value": 5120,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Jester Diamonds"
+      "value": "Jester Diamonds",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Ember Frog"
+      "value": "Ember Frog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Passion Potion"
+      "value": "Passion Potion",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

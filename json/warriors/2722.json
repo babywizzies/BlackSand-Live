@@ -1,6 +1,7 @@
 {
-  "idx": "2722",
+  "id": "2722",
   "name": "Thorne Traveler of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2722",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

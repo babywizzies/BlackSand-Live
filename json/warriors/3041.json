@@ -1,6 +1,7 @@
 {
-  "idx": "3041",
+  "id": "3041",
   "name": "Donley Hero of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3041",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14476",
+  "id": "14476",
   "name": "Kat Devastator of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14476",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Death Bomb",
       "filename": "weapon_bomb_skull.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12124",
+  "id": "12124",
   "name": "William Guardian of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12124",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 2735,
   "name": "Artificer Eizo of the Sacred Pillars",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2735.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2735
+      "value": 2735,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orange Hip Scarf "
+      "value": "Orange Hip Scarf ",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Onyx Wolf"
+      "value": "Onyx Wolf",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wicked Wizard"
+      "value": "Wicked Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Key of the 7th Realm"
+      "value": "Key of the 7th Realm",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
+      "value": "Rune of Pluto",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Wraith"
+      "value": "Wraith",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

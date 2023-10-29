@@ -1,6 +1,7 @@
 {
-  "idx": "12843",
+  "id": "12843",
   "name": "Tank Protector of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12843",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

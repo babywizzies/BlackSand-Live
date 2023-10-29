@@ -1,52 +1,64 @@
 {
+  "id": 9975,
   "name": "Conjurer Dante of the Havens",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/9975.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 9975
+      "value": 9975,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Juniper Shoulder Cape"
+      "value": "Juniper Shoulder Cape",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Albino Rat"
+      "value": "Albino Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Medicine Man"
+      "value": "Medicine Man",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Isaac's Apple"
+      "value": "Isaac's Apple",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
+      "value": "Rune of Cinnabar",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12232",
+  "id": "12232",
   "name": "Denzel Slaughterer of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12232",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

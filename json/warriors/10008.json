@@ -1,6 +1,7 @@
 {
-  "idx": "10008",
+  "id": "10008",
   "name": "Ward Rapscallion of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10008",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

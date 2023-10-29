@@ -1,6 +1,7 @@
 {
-  "idx": "9634",
+  "id": "9634",
   "name": "Myla Cataclysm of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9634",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

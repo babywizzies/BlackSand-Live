@@ -1,6 +1,7 @@
 {
-  "idx": "1206",
+  "id": "1206",
   "name": "Ryker Conqueror for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1206",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

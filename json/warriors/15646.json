@@ -1,6 +1,7 @@
 {
-  "idx": "15646",
+  "id": "15646",
   "name": "Hugh Fiend of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15646",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

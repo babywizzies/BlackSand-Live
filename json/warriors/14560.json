@@ -1,6 +1,7 @@
 {
-  "idx": "14560",
+  "id": "14560",
   "name": "Gulder Grinder of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14560",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

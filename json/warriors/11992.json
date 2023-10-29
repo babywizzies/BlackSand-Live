@@ -1,6 +1,7 @@
 {
-  "idx": "11992",
+  "id": "11992",
   "name": "Wilda Champion of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11992",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

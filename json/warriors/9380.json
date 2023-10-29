@@ -1,6 +1,7 @@
 {
-  "idx": "9380",
+  "id": "9380",
   "name": "Rziya Incinerator of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9380",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

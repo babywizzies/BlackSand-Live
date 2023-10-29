@@ -1,6 +1,7 @@
 {
-  "idx": "9805",
+  "id": "9805",
   "name": "Lich Baron Merlon of Torment Manor",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Penumbra Potion",
       "filename": "item_potion_soul.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

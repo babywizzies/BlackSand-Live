@@ -1,6 +1,7 @@
 {
-  "idx": "8737",
+  "id": "8737",
   "name": "Cadmus Sword of Rainbows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8737",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 7043,
   "name": "Intuitive Xiaobo of the Cosmos",
   "image": "http://forgottenbabies.com/uri/json/7043.png",
-  "serial": 7043,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "acute_aristocrat_green"
+      "value": "acute_aristocrat_green",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "kuro"
+      "value": "kuro",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "field_pup"
+      "value": "field_pup",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "bag_of_sand"
+      "value": "bag_of_sand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

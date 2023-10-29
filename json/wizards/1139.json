@@ -1,52 +1,64 @@
 {
+  "id": 1139,
   "name": "Summoner Purple Boy of the Circle",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1139.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1139
+      "value": 1139,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Elven Cloak"
+      "value": "Green Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Lucky Black Cat"
+      "value": "Lucky Black Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Vegetable"
+      "value": "Vegetable",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Gorgon's Eye"
+      "value": "Gorgon's Eye",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
+      "value": "Rune of Sigma",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Goofy"
+      "value": "Goofy",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

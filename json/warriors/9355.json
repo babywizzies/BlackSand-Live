@@ -1,6 +1,7 @@
 {
-  "idx": "9355",
+  "id": "9355",
   "name": "Kace Carver of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9355",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

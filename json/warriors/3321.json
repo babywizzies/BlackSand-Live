@@ -1,6 +1,7 @@
 {
-  "idx": "3321",
+  "id": "3321",
   "name": "Roger Savior of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3321",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Spetum",
       "filename": "weapon_spear.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

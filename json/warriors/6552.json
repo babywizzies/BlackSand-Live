@@ -1,6 +1,7 @@
 {
-  "idx": "6552",
+  "id": "6552",
   "name": "Theo Attacker of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6552",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

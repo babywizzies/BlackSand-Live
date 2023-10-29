@@ -1,52 +1,64 @@
 {
+  "id": 4300,
   "name": "Shaman Daria of the Hollow",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4300.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4300
+      "value": 4300,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orange Caped Traveller"
+      "value": "Orange Caped Traveller",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Empress"
+      "value": "Empress",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "A Big Magic Stick"
+      "value": "A Big Magic Stick",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
+      "value": "Rune of Water",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Ocean"
+      "value": "Ocean",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

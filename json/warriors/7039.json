@@ -1,6 +1,7 @@
 {
-  "idx": "7039",
+  "id": "7039",
   "name": "Sharon Hero of the Atoll",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7039",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

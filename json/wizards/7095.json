@@ -1,48 +1,59 @@
 {
+  "id": 7095,
   "name": "Battle Mage Blaise of the Wood",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7095.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7095
+      "value": 7095,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Lined Coveralls "
+      "value": "Blue Lined Coveralls ",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Dirt Rabbit"
+      "value": "Dirt Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Polar Shapeshifter"
+      "value": "Polar Shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Mug of Ale"
+      "value": "Mug of Ale",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

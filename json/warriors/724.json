@@ -1,6 +1,7 @@
 {
-  "idx": "724",
+  "id": "724",
   "name": "Mia Swindler of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/724",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

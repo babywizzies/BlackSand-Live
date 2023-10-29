@@ -1,52 +1,64 @@
 {
+  "id": 1605,
   "name": "Ice Mage Jerret of the Ice",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1605.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1605
+      "value": 1605,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Tundra Wear"
+      "value": "Tundra Wear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Bliss Cat"
+      "value": "Bliss Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "White Wizard"
+      "value": "White Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Dryad's Ear: the Plant Spell"
+      "value": "Dryad's Ear: the Plant Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
+      "value": "Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "White Magic"
+      "value": "White Magic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

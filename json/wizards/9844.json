@@ -1,48 +1,59 @@
 {
+  "id": 9844,
   "name": "Pyromancer Cassandra of the Wild",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/9844.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 9844
+      "value": 9844,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Cloak"
+      "value": "Green Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Giant Ladybug"
+      "value": "Giant Ladybug",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Witch"
+      "value": "Witch",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Dragon Fireworks"
+      "value": "Dragon Fireworks",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

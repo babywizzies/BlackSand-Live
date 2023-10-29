@@ -1,6 +1,7 @@
 {
-  "idx": "489",
+  "id": "489",
   "name": "Faust Slicer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/489",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3016",
+  "id": "3016",
   "name": "Butch Sword of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3016",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

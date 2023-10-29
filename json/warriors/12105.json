@@ -1,6 +1,7 @@
 {
-  "idx": "12105",
+  "id": "12105",
   "name": "Murphy Poker of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12105",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Ranseur",
       "filename": "weapon_speargold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

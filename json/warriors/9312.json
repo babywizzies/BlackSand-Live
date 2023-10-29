@@ -1,6 +1,7 @@
 {
-  "idx": "9312",
+  "id": "9312",
   "name": "Gertrude Stalker of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9312",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Hunting Knife",
       "filename": "weapon_knife.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3208",
+  "id": "3208",
   "name": "Felix Bludgeoner of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3208",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

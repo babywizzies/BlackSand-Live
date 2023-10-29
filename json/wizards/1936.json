@@ -1,52 +1,64 @@
 {
+  "id": 1936,
   "name": "Battle Mage Angus of Avalon",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1936.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1936
+      "value": 1936,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Scarf"
+      "value": "Green Hip Scarf",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Dirt Rabbit"
+      "value": "Dirt Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wildman"
+      "value": "Wildman",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Red Mushroom"
+      "value": "Red Mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Uranus"
+      "value": "Rune of Uranus",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

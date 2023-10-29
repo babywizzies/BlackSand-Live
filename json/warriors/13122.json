@@ -1,6 +1,7 @@
 {
-  "idx": "13122",
+  "id": "13122",
   "name": "Humphrey Savior of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13122",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14940",
+  "id": "14940",
   "name": "Bruce Executor of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14940",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

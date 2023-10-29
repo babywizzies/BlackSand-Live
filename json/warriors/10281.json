@@ -1,6 +1,7 @@
 {
-  "idx": "10281",
+  "id": "10281",
   "name": "Auberon Hero of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10281",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Firebrand",
       "filename": "weapon_sword_firebrand.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

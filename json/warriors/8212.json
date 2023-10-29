@@ -1,6 +1,7 @@
 {
-  "idx": "8212",
+  "id": "8212",
   "name": "Bane Knockout of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8212",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

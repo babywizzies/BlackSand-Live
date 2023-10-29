@@ -1,6 +1,7 @@
 {
-  "idx": "12179",
+  "id": "12179",
   "name": "Athina of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12179",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

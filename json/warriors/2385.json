@@ -1,6 +1,7 @@
 {
-  "idx": "2385",
+  "id": "2385",
   "name": "Kat Assailant of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2385",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

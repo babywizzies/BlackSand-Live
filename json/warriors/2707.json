@@ -1,6 +1,7 @@
 {
-  "idx": "2707",
+  "id": "2707",
   "name": "Azriel Dispatcher of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2707",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

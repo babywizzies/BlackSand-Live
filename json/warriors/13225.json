@@ -1,6 +1,7 @@
 {
-  "idx": "13225",
+  "id": "13225",
   "name": "Gruzzon Ruffian of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13225",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

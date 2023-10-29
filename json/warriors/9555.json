@@ -1,6 +1,7 @@
 {
-  "idx": "9555",
+  "id": "9555",
   "name": "Bruce of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9555",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

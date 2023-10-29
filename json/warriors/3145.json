@@ -1,6 +1,7 @@
 {
-  "idx": "3145",
+  "id": "3145",
   "name": "Lars Punisher of Sharks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3145",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Green Buckler",
       "filename": "shield_circle_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

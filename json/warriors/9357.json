@@ -1,6 +1,7 @@
 {
-  "idx": "9357",
+  "id": "9357",
   "name": "Alonso Impaler of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9357",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

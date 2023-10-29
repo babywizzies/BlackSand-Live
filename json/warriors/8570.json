@@ -1,6 +1,7 @@
 {
-  "idx": "8570",
+  "id": "8570",
   "name": "Callahan Battler of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8570",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Kite",
       "filename": "shield_kite_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

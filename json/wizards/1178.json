@@ -1,52 +1,64 @@
 {
+  "id": 1178,
   "name": "Hydromancer George of the Sea",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1178.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1178
+      "value": 1178,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Swashbuckling Gear"
+      "value": "Swashbuckling Gear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Great Owl"
+      "value": "Great Owl",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Arcadian Master"
+      "value": "Arcadian Master",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Kelpie's Fury: the Water Spell"
+      "value": "Kelpie's Fury: the Water Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
+      "value": "Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Ocean"
+      "value": "Ocean",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

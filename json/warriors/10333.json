@@ -1,6 +1,7 @@
 {
-  "idx": "10333",
+  "id": "10333",
   "name": "Rufus Dispatcher of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10333",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

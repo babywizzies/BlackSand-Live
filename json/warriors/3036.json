@@ -1,6 +1,7 @@
 {
-  "idx": "3036",
+  "id": "3036",
   "name": "Nicholas Thief of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3036",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

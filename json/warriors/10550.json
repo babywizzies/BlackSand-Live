@@ -1,6 +1,7 @@
 {
-  "idx": "10550",
+  "id": "10550",
   "name": "Brooks Slaughterer of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10550",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Firebrand",
       "filename": "weapon_sword_firebrand.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

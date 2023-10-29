@@ -1,6 +1,7 @@
 {
-  "idx": "8198",
+  "id": "8198",
   "name": "Margaret Poker of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8198",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

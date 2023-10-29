@@ -1,6 +1,7 @@
 {
-  "idx": "10931",
+  "id": "10931",
   "name": "Sal Contender of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10931",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

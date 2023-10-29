@@ -1,6 +1,7 @@
 {
-  "idx": "6902",
+  "id": "6902",
   "name": "Finn of the Tundra",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6902",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

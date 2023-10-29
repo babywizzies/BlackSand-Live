@@ -1,6 +1,7 @@
 {
-  "idx": "8606",
+  "id": "8606",
   "name": "Tera Ruin of the Temple",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8606",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Yellow Buckler",
       "filename": "shield_circle_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

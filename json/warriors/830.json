@@ -1,6 +1,7 @@
 {
-  "idx": "830",
+  "id": "830",
   "name": "John Paragon of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/830",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

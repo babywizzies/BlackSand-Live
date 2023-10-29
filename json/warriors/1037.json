@@ -1,6 +1,7 @@
 {
-  "idx": "1037",
+  "id": "1037",
   "name": "Clyde Assailant of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1037",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

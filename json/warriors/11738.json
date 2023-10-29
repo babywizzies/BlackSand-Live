@@ -1,6 +1,7 @@
 {
-  "idx": "11738",
+  "id": "11738",
   "name": "Duke Buster of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11738",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

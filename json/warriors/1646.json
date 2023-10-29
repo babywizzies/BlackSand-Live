@@ -1,6 +1,7 @@
 {
-  "idx": "1646",
+  "id": "1646",
   "name": "Mirembe Combatant of the Phoenix",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1646",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

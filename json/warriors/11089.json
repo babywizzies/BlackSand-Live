@@ -1,6 +1,7 @@
 {
-  "idx": "11089",
+  "id": "11089",
   "name": "Vulcan Cleaver of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11089",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

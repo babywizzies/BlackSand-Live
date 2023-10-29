@@ -1,6 +1,7 @@
 {
-  "idx": "6183",
+  "id": "6183",
   "name": "Shurga Ruffian of Torment Manor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6183",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9406",
+  "id": "9406",
   "name": "Orion Explorer of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9406",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

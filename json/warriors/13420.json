@@ -1,6 +1,7 @@
 {
-  "idx": "13420",
+  "id": "13420",
   "name": "Pippa Champion of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13420",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

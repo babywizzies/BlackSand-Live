@@ -1,6 +1,7 @@
 {
-  "idx": "6502",
+  "id": "6502",
   "name": "Jordan Champion of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6502",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

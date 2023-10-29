@@ -1,6 +1,7 @@
 {
-  "idx": "13002",
+  "id": "13002",
   "name": "Bruce Champion of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13002",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

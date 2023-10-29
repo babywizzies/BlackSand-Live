@@ -1,32 +1,39 @@
 {
+  "id": 2478,
   "name": "Focused Caligula of the Sea",
   "image": "http://forgottenbabies.com/uri/json/2478.png",
-  "serial": 2478,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_tech_coat"
+      "value": "tiny_tech_coat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_illuminatus"
+      "value": "small_illuminatus",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "eternal_slug"
+      "value": "eternal_slug",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "tiny_crystal_ball"
+      "value": "tiny_crystal_ball",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

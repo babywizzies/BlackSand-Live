@@ -1,6 +1,7 @@
 {
-  "idx": "8",
+  "id": "8",
   "name": "Guy Burner of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Flame Thrower",
       "filename": "weapon_flamethrower.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

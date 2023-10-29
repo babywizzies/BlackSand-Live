@@ -1,6 +1,7 @@
 {
-  "idx": "3171",
+  "id": "3171",
   "name": "Isabella Vanquisher of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3171",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

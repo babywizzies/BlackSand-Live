@@ -1,6 +1,7 @@
 {
-  "idx": "13029",
+  "id": "13029",
   "name": "Anak Cutter of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13029",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Buckler",
       "filename": "shield_buckler.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

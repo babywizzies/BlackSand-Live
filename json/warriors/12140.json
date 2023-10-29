@@ -1,6 +1,7 @@
 {
-  "idx": "12140",
+  "id": "12140",
   "name": "Chike Hacker of the Cage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12140",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12801",
+  "id": "12801",
   "name": "Garrison Rogue of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12801",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

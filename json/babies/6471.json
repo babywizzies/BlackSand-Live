@@ -1,32 +1,39 @@
 {
+  "id": 6471,
   "name": "Joyful Zolona of the Rock",
   "image": "http://forgottenbabies.com/uri/json/6471.png",
-  "serial": 6471,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "witch_onesie"
+      "value": "witch_onesie",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_vamp"
+      "value": "young_vamp",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_sapphire_slime"
+      "value": "small_sapphire_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "rosebud"
+      "value": "rosebud",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

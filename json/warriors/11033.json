@@ -1,6 +1,7 @@
 {
-  "idx": "11033",
+  "id": "11033",
   "name": "Durden Impaler of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11033",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

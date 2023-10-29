@@ -1,6 +1,7 @@
 {
-  "idx": "11093",
+  "id": "11093",
   "name": "Dragga Peacemaker of the Hell Chamber",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11093",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11838",
+  "id": "11838",
   "name": "Julia of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11838",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

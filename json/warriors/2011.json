@@ -1,6 +1,7 @@
 {
-  "idx": "2011",
+  "id": "2011",
   "name": "Knox Savior of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2011",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

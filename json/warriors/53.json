@@ -1,6 +1,7 @@
 {
-  "idx": "53",
+  "id": "53",
   "name": "Adisa Paragon of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/53",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

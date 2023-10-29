@@ -1,6 +1,7 @@
 {
-  "idx": "3672",
+  "id": "3672",
   "name": "Audacius Vanquisher of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3672",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

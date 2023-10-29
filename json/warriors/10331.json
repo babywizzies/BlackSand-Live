@@ -1,6 +1,7 @@
 {
-  "idx": "10331",
+  "id": "10331",
   "name": "Rahid Crumbler of the Ice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10331",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

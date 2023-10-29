@@ -1,6 +1,7 @@
 {
-  "idx": "9700",
+  "id": "9700",
   "name": "Brianne of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9700",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

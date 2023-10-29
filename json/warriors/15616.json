@@ -1,6 +1,7 @@
 {
-  "idx": "15616",
+  "id": "15616",
   "name": "Falkes Impaler of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15616",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9628",
+  "id": "9628",
   "name": "Grimmold Lightbearer of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9628",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7554",
+  "id": "7554",
   "name": "Soran Paragon of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7554",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

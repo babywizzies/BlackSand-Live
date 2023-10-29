@@ -1,6 +1,7 @@
 {
-  "idx": "70",
+  "id": "70",
   "name": "Keoni Obliterator of Crystals",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/70",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

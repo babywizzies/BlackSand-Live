@@ -1,6 +1,7 @@
 {
-  "idx": "1203",
+  "id": "1203",
   "name": "Caesar Champion of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1203",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

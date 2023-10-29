@@ -1,6 +1,7 @@
 {
-  "idx": "10737",
+  "id": "10737",
   "name": "Valen Attacker of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10737",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gold Holy Shield",
       "filename": "shield_holy_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

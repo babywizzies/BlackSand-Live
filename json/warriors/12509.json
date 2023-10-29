@@ -1,6 +1,7 @@
 {
-  "idx": "12509",
+  "id": "12509",
   "name": "Murphy of Concrete",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12509",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

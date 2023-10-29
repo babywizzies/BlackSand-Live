@@ -1,6 +1,7 @@
 {
-  "idx": "7137",
+  "id": "7137",
   "name": "Pierce Striker of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7137",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

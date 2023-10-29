@@ -1,6 +1,7 @@
 {
-  "idx": "10807",
+  "id": "10807",
   "name": "Xorb Wrecker of Nasty Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10807",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

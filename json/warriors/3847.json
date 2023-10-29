@@ -1,6 +1,7 @@
 {
-  "idx": "3847",
+  "id": "3847",
   "name": "Dozer Assailant of Nothing",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3847",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

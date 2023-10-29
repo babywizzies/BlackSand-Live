@@ -1,6 +1,7 @@
 {
-  "idx": "9159",
+  "id": "9159",
   "name": "Dolgarn Cleaver of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9159",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

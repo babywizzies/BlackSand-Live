@@ -1,6 +1,7 @@
 {
-  "idx": "13314",
+  "id": "13314",
   "name": "Rex Ruin of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13314",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

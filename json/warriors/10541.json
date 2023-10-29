@@ -1,6 +1,7 @@
 {
-  "idx": "10541",
+  "id": "10541",
   "name": "Boarhead Impaler of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10541",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

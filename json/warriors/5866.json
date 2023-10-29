@@ -1,6 +1,7 @@
 {
-  "idx": "5866",
+  "id": "5866",
   "name": "Thorne Hero of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5866",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

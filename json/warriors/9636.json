@@ -1,6 +1,7 @@
 {
-  "idx": "9636",
+  "id": "9636",
   "name": "Titus Stabber of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9636",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Yellow Buckler",
       "filename": "shield_circle_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

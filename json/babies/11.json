@@ -1,28 +1,34 @@
 {
+  "id": 11,
   "name": "The Adorable Baby Dotta",
   "image": "https://forgottenbabies.com/uri/json/11.png",
-  "serial": 11,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "black"
+      "value": "black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_jester_cape"
+      "value": "green_jester_cape",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_dotta"
+      "value": "baby_dotta",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "fresh_egg"
+      "value": "fresh_egg",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "little_hummingbird"
+      "value": "little_hummingbird",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

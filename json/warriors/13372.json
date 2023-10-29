@@ -1,6 +1,7 @@
 {
-  "idx": "13372",
+  "id": "13372",
   "name": "Aramastus of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13372",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bottle of Rune Beer",
       "filename": "item_beer_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

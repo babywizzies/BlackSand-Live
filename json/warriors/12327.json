@@ -1,6 +1,7 @@
 {
-  "idx": "12327",
+  "id": "12327",
   "name": "Crixus Savior of Lions",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12327",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Trident",
       "filename": "weapon_trident.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

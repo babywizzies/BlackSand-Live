@@ -1,6 +1,7 @@
 {
-  "idx": "13455",
+  "id": "13455",
   "name": "Kane Wanderer of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13455",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

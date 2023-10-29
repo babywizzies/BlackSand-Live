@@ -1,6 +1,7 @@
 {
-  "idx": "6589",
+  "id": "6589",
   "name": "Gaelin Protector of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6589",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

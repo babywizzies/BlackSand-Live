@@ -1,6 +1,7 @@
 {
-  "idx": "11171",
+  "id": "11171",
   "name": "Hina Lightbearer of Nothing",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11171",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

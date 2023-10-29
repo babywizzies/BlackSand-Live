@@ -1,6 +1,7 @@
 {
-  "idx": "2981",
+  "id": "2981",
   "name": "Alex Hero of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2981",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

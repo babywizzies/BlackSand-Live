@@ -1,6 +1,7 @@
 {
-  "idx": "11025",
+  "id": "11025",
   "name": "Harland Bifurcator of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11025",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

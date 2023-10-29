@@ -1,6 +1,7 @@
 {
-  "idx": "3182",
+  "id": "3182",
   "name": "Beowulf",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3182",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Dane Axe",
       "filename": "weapon_axe_dane.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

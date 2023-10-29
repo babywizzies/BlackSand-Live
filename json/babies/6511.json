@@ -1,32 +1,39 @@
 {
+  "id": 6511,
   "name": "Adventurous Layla of the Sea",
   "image": "http://forgottenbabies.com/uri/json/6511.png",
-  "serial": 6511,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_green_spandex"
+      "value": "small_green_spandex",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "coven_sister"
+      "value": "coven_sister",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "small_emerald_slime"
+      "value": "small_emerald_slime",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "garnet_wand"
+      "value": "garnet_wand",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_fire"
+      "value": "rune_of_fire",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3828",
+  "id": "3828",
   "name": "Septimus of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3828",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Hambone",
       "filename": "item_hambone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

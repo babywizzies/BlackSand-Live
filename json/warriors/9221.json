@@ -1,6 +1,7 @@
 {
-  "idx": "9221",
+  "id": "9221",
   "name": "Homer Cad of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9221",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

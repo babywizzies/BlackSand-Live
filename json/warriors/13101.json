@@ -1,6 +1,7 @@
 {
-  "idx": "13101",
+  "id": "13101",
   "name": "Stormand Dicer of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13101",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

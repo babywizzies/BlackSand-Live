@@ -1,6 +1,7 @@
 {
-  "idx": "5039",
+  "id": "5039",
   "name": "Malus Antagonist of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5039",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

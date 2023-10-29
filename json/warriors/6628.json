@@ -1,6 +1,7 @@
 {
-  "idx": "6628",
+  "id": "6628",
   "name": "Orion Ass Kicker of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6628",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

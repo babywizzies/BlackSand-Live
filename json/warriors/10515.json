@@ -1,6 +1,7 @@
 {
-  "idx": "10515",
+  "id": "10515",
   "name": "Tank Wrecker of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10515",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

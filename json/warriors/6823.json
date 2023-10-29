@@ -1,6 +1,7 @@
 {
-  "idx": "6823",
+  "id": "6823",
   "name": "Rocky Battler of Doomsday",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6823",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

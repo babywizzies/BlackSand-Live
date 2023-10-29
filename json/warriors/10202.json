@@ -1,6 +1,7 @@
 {
-  "idx": "10202",
+  "id": "10202",
   "name": "Valen Adventurer of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10202",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13275",
+  "id": "13275",
   "name": "Kona Danger of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13275",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2262",
+  "id": "2262",
   "name": "Ramon Render of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2262",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

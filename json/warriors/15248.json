@@ -1,6 +1,7 @@
 {
-  "idx": "15248",
+  "id": "15248",
   "name": "Inanna Paragon of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15248",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

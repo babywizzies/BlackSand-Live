@@ -1,48 +1,59 @@
 {
+  "id": 66,
   "name": "Hedge Wizard Soya of the Thorn",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/66.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 66
+      "value": 66,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Elven Cloak"
+      "value": "Yellow Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sun Cat"
+      "value": "Sun Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "White Wizard"
+      "value": "White Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Dryad's Ear: the Plant Spell"
+      "value": "Dryad's Ear: the Plant Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Orange"
+      "value": "Orange",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

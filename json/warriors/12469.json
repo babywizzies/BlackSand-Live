@@ -1,6 +1,7 @@
 {
-  "idx": "12469",
+  "id": "12469",
   "name": "Wylan Mercenary of Blood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12469",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

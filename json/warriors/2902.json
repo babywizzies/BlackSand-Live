@@ -1,6 +1,7 @@
 {
-  "idx": "2902",
+  "id": "2902",
   "name": "Hunter Dispatcher of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2902",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8234",
+  "id": "8234",
   "name": "Stone Contender of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8234",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Broadsword",
       "filename": "weapon_sword_bigbarb_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

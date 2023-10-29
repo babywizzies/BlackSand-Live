@@ -1,6 +1,7 @@
 {
-  "idx": "10234",
+  "id": "10234",
   "name": "Flamma Chopper of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10234",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

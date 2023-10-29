@@ -1,52 +1,64 @@
 {
+  "id": 1127,
   "name": "Alchemist Caligula of the Marsh",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1127.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1127
+      "value": 1127,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Two Tone Fringe"
+      "value": "Two Tone Fringe",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Forever Bat"
+      "value": "Forever Bat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Medicine Man"
+      "value": "Medicine Man",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Nightshade Potion"
+      "value": "Nightshade Potion",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
+      "value": "Rune of Air",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Nature"
+      "value": "Nature",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11245",
+  "id": "11245",
   "name": "Winchester Impaler of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11245",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

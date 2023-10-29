@@ -1,6 +1,7 @@
 {
-  "idx": "7011",
+  "id": "7011",
   "name": "Andrea Malefactor of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7011",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "4143",
+  "id": "4143",
   "name": "Faris Marauder of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4143",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

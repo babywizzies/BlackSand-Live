@@ -1,6 +1,7 @@
 {
-  "idx": "10614",
+  "id": "10614",
   "name": "Farol Amputator of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10614",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

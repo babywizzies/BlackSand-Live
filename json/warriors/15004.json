@@ -1,6 +1,7 @@
 {
-  "idx": "15004",
+  "id": "15004",
   "name": "Vommbar Attacker of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15004",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

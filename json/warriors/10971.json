@@ -1,6 +1,7 @@
 {
-  "idx": "10971",
+  "id": "10971",
   "name": "Geoffrey Waster of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10971",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Goblin Sword",
       "filename": "weapon_sword_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

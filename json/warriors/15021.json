@@ -1,6 +1,7 @@
 {
-  "idx": "15021",
+  "id": "15021",
   "name": "Wolfe Combatant of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15021",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

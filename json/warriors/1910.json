@@ -1,6 +1,7 @@
 {
-  "idx": "1910",
+  "id": "1910",
   "name": "Neil Menace of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1910",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

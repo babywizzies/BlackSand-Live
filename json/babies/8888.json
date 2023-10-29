@@ -1,28 +1,34 @@
 {
+  "id": 8888,
   "name": "Yung Potty Mouth",
   "image": "http://forgottenbabies.com/uri/json/8888.png",
-  "serial": 8888,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "sweet_tracksuit"
+      "value": "sweet_tracksuit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "head_gangsta_baby"
+      "value": "head_gangsta_baby",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "flimsy_joint"
+      "value": "flimsy_joint",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_bat"
+      "value": "baby_bat",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

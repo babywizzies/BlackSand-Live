@@ -1,6 +1,7 @@
 {
-  "idx": "9740",
+  "id": "9740",
   "name": "Zola Armageddon of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9740",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

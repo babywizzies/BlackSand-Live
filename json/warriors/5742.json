@@ -1,6 +1,7 @@
 {
-  "idx": "5742",
+  "id": "5742",
   "name": "Robert Wrecker of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5742",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

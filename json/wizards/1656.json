@@ -1,52 +1,64 @@
 {
+  "id": 1656,
   "name": "Shaman Jameel of the Hollow",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1656.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1656
+      "value": 1656,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Coveralls"
+      "value": "Blue Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Dream Master"
+      "value": "Dream Master",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Phoenix Feather"
+      "value": "Phoenix Feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass"
+      "value": "Rune of Brass",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Orange"
+      "value": "Orange",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

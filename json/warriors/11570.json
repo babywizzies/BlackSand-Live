@@ -1,6 +1,7 @@
 {
-  "idx": "11570",
+  "id": "11570",
   "name": "Dean Eidolon of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11570",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

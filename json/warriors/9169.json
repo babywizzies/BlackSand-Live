@@ -1,6 +1,7 @@
 {
-  "idx": "9169",
+  "id": "9169",
   "name": "Therrus Scalawag of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9169",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

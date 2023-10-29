@@ -1,6 +1,7 @@
 {
-  "idx": "10849",
+  "id": "10849",
   "name": "Zola Cutter of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10849",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

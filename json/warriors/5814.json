@@ -1,6 +1,7 @@
 {
-  "idx": "5814",
+  "id": "5814",
   "name": "Mila Champion of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5814",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

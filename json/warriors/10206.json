@@ -1,6 +1,7 @@
 {
-  "idx": "10206",
+  "id": "10206",
   "name": "Henry Hero of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10206",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

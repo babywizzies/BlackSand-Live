@@ -1,6 +1,7 @@
 {
-  "idx": "2194",
+  "id": "2194",
   "name": "Bane Basher of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2194",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

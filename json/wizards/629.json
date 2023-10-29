@@ -1,52 +1,64 @@
 {
+  "id": 629,
   "name": "Ice Mage Apollo of the Ice",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/629.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 629
+      "value": 629,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Seer"
+      "value": "Seer",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Sphinx's Hourglass"
+      "value": "Sphinx's Hourglass",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
+      "value": "Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Time"
+      "value": "Time",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "975",
+  "id": "975",
   "name": "Lance Ranger of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/975",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

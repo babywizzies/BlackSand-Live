@@ -1,6 +1,7 @@
 {
-  "idx": "7373",
+  "id": "7373",
   "name": "Larry Creeper of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7373",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

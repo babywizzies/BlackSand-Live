@@ -1,6 +1,7 @@
 {
-  "idx": "1965",
+  "id": "1965",
   "name": "Tiberius Eidolon of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1965",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

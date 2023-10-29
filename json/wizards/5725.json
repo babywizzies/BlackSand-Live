@@ -1,52 +1,64 @@
 {
+  "id": 5725,
   "name": "Hedge Wizard Epher of the Field",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5725.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5725
+      "value": 5725,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Overcoat"
+      "value": "Overcoat",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Albino Rat"
+      "value": "Albino Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hunter"
+      "value": "Hunter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "A dumb stick..."
+      "value": "A dumb stick...",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
+      "value": "Rune of Sun",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

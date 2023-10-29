@@ -1,6 +1,7 @@
 {
-  "idx": "3325",
+  "id": "3325",
   "name": "Pickles Cataclysm of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3325",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

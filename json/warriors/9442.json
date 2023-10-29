@@ -1,6 +1,7 @@
 {
-  "idx": "9442",
+  "id": "9442",
   "name": "Crom Shaver of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9442",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

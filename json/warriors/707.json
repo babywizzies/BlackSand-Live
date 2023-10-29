@@ -1,6 +1,7 @@
 {
-  "idx": "707",
+  "id": "707",
   "name": "Maya Flattener of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/707",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

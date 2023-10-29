@@ -1,52 +1,64 @@
 {
+  "id": 611,
   "name": " Isaac of the Lake",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/611.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 611
+      "value": 611,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Lined Coveralls"
+      "value": "Green Lined Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Astral Snail"
+      "value": "Astral Snail",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Yellow Wizard"
+      "value": "Yellow Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Siren's Bell"
+      "value": "Siren's Bell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

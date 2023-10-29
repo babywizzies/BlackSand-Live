@@ -1,6 +1,7 @@
 {
-  "idx": "1862",
+  "id": "1862",
   "name": "Kat Killer of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1862",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of Down Only",
       "filename": "shield_kite_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

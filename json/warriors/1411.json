@@ -1,6 +1,7 @@
 {
-  "idx": "1411",
+  "id": "1411",
   "name": "Harland Striker of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1411",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

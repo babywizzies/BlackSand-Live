@@ -1,6 +1,7 @@
 {
-  "idx": "12418",
+  "id": "12418",
   "name": "Berko Striker of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12418",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

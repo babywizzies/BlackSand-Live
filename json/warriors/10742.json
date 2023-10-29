@@ -1,6 +1,7 @@
 {
-  "idx": "10742",
+  "id": "10742",
   "name": "Gadreel Slaughterer of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10742",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

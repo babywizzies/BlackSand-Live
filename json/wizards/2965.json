@@ -1,40 +1,49 @@
 {
+  "id": 2965,
   "name": "Sorcerer Ilyas of the Event Horizon",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2965.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2965
+      "value": 2965,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Grey Tunic"
+      "value": "Grey Tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Punjabi"
+      "value": "Punjabi",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Grey"
+      "value": "Grey",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

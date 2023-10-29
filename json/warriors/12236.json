@@ -1,6 +1,7 @@
 {
-  "idx": "12236",
+  "id": "12236",
   "name": "Spurius Dispatcher of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12236",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

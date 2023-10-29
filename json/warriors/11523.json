@@ -1,6 +1,7 @@
 {
-  "idx": "11523",
+  "id": "11523",
   "name": "Barron Amputator of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11523",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Kite",
       "filename": "shield_kite_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

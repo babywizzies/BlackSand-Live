@@ -1,6 +1,7 @@
 {
-  "idx": "10025",
+  "id": "10025",
   "name": "Thombim Paragon of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10025",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

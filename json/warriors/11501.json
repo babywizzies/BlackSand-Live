@@ -1,6 +1,7 @@
 {
-  "idx": "11501",
+  "id": "11501",
   "name": "Brokk Slayer of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11501",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

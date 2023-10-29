@@ -1,6 +1,7 @@
 {
-  "idx": "14198",
+  "id": "14198",
   "name": "Camilla Exterminator of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14198",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

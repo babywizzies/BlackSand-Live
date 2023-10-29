@@ -1,6 +1,7 @@
 {
-  "idx": "2509",
+  "id": "2509",
   "name": "Tad Rogue of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2509",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10943",
+  "id": "10943",
   "name": "Sweeny Sharpshooter of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10943",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

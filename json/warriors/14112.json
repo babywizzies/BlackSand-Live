@@ -1,6 +1,7 @@
 {
-  "idx": "14112",
+  "id": "14112",
   "name": "Lucas Dissector of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14112",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

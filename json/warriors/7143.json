@@ -1,6 +1,7 @@
 {
-  "idx": "7143",
+  "id": "7143",
   "name": "Leila Antagonist of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7143",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

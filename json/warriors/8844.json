@@ -1,6 +1,7 @@
 {
-  "idx": "8844",
+  "id": "8844",
   "name": "Alonso Chopper of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8844",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

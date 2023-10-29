@@ -1,6 +1,7 @@
 {
-  "idx": "2032",
+  "id": "2032",
   "name": "Alexa Death of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2032",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

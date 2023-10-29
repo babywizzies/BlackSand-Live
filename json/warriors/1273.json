@@ -1,6 +1,7 @@
 {
-  "idx": "1273",
+  "id": "1273",
   "name": "Valerie Sword of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1273",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "998",
+  "id": "998",
   "name": "Logan Crusher of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/998",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

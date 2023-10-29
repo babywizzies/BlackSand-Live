@@ -1,6 +1,7 @@
 {
-  "idx": "7668",
+  "id": "7668",
   "name": "Puddle Dismantler of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7668",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

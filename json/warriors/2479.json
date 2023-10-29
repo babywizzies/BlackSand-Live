@@ -1,6 +1,7 @@
 {
-  "idx": "2479",
+  "id": "2479",
   "name": "Bralin Striker of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2479",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

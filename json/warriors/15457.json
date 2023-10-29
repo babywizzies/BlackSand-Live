@@ -1,6 +1,7 @@
 {
-  "idx": "15457",
+  "id": "15457",
   "name": "Brock Paragon of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15457",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

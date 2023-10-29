@@ -1,6 +1,7 @@
 {
-  "idx": "2591",
+  "id": "2591",
   "name": "Iman Attacker of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2591",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

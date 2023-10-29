@@ -1,6 +1,7 @@
 {
-  "idx": "7063",
+  "id": "7063",
   "name": "Damon Hero of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7063",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 378,
   "name": "Magus Wazir of the Dunes",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/378.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 378
+      "value": 378,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Desert Wear"
+      "value": "Desert Wear",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Bliss Cat"
+      "value": "Bliss Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Stranger"
+      "value": "Stranger",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Emerald Staff"
+      "value": "Emerald Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
+      "value": "Rune of Steel",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "White Magic"
+      "value": "White Magic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

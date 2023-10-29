@@ -1,6 +1,7 @@
 {
-  "idx": "6123",
+  "id": "6123",
   "name": "Pollentius Striker of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6123",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8434",
+  "id": "8434",
   "name": "Tracy Explorer of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8434",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

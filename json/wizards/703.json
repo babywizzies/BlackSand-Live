@@ -1,52 +1,64 @@
 {
+  "id": 703,
   "name": "Necromancer Zelda of the Wood",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/703.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 703
+      "value": 703,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Caped Traveller"
+      "value": "Green Caped Traveller",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Forever Bat"
+      "value": "Forever Bat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Vamp"
+      "value": "Vamp",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Grim Reaper's Breath: the Death Spell"
+      "value": "Grim Reaper's Breath: the Death Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water"
+      "value": "Rune of Water",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blackness"
+      "value": "Blackness",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

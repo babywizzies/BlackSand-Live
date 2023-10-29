@@ -1,6 +1,7 @@
 {
-  "idx": "119",
+  "id": "119",
   "name": "Henry Eidolon of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/119",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

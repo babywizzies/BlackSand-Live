@@ -1,6 +1,7 @@
 {
-  "idx": "7549",
+  "id": "7549",
   "name": "Dante Vanquisher of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7549",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

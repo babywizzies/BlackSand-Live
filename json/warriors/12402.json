@@ -1,6 +1,7 @@
 {
-  "idx": "12402",
+  "id": "12402",
   "name": "Helen Amputator of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12402",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Brown Kite",
       "filename": "shield_kite_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

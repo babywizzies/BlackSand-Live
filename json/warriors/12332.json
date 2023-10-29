@@ -1,6 +1,7 @@
 {
-  "idx": "12332",
+  "id": "12332",
   "name": "Nails Exterminator of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12332",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 6092,
   "name": "Witch Orpheus of the Carnival",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6092.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6092
+      "value": 6092,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Elven Cloak"
+      "value": "Yellow Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sapphire Slime"
+      "value": "Sapphire Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Myrddin"
+      "value": "Myrddin",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Guillaume's Broom"
+      "value": "Guillaume's Broom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
+      "value": "Rune of Cinnabar",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Orange"
+      "value": "Orange",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13819",
+  "id": "13819",
   "name": "Arthur Slaughterer of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13819",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

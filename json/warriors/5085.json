@@ -1,6 +1,7 @@
 {
-  "idx": "5085",
+  "id": "5085",
   "name": "Jordan Axe of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5085",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Mercenary Heater Shield",
       "filename": "shield_widex_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

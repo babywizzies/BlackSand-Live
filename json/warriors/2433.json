@@ -1,6 +1,7 @@
 {
-  "idx": "2433",
+  "id": "2433",
   "name": "Max Shark of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2433",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

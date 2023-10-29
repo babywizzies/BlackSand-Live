@@ -1,6 +1,7 @@
 {
-  "idx": "13343",
+  "id": "13343",
   "name": "Frank Vanquisher of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13343",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

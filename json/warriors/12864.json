@@ -1,6 +1,7 @@
 {
-  "idx": "12864",
+  "id": "12864",
   "name": "Damon Defeater of Sharks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12864",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

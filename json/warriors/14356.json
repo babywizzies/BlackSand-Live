@@ -1,6 +1,7 @@
 {
-  "idx": "14356",
+  "id": "14356",
   "name": "Rex Killer of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14356",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

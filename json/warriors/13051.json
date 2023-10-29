@@ -1,6 +1,7 @@
 {
-  "idx": "13051",
+  "id": "13051",
   "name": "Urbarra Guardian of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13051",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

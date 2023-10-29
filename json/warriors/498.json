@@ -1,6 +1,7 @@
 {
-  "idx": "498",
+  "id": "498",
   "name": "Sharon Cleaver of the Lotus",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/498",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

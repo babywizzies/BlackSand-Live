@@ -1,6 +1,7 @@
 {
-  "idx": "12422",
+  "id": "12422",
   "name": "Lance Peacemaker of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12422",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Wooden Club",
       "filename": "weapon_club.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7402",
+  "id": "7402",
   "name": "Sandra Champion of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7402",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

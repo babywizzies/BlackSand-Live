@@ -1,6 +1,7 @@
 {
-  "idx": "1432",
+  "id": "1432",
   "name": "Alonso Champion of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1432",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

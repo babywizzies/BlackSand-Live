@@ -1,6 +1,7 @@
 {
-  "idx": "10577",
+  "id": "10577",
   "name": "Hanako Clobberer of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10577",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

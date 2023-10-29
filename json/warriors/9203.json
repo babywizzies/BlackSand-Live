@@ -1,6 +1,7 @@
 {
-  "idx": "9203",
+  "id": "9203",
   "name": "Warden Contender of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9203",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

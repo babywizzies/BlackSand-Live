@@ -1,6 +1,7 @@
 {
-  "idx": "14549",
+  "id": "14549",
   "name": "Bambam Dispatcher of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14549",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

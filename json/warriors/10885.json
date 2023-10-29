@@ -1,6 +1,7 @@
 {
-  "idx": "10885",
+  "id": "10885",
   "name": "Keren Killer of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10885",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,48 +1,59 @@
 {
+  "id": 2593,
   "name": "Battle Mage Nolan of the Heath",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2593.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2593
+      "value": 2593,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orange Caped Traveller"
+      "value": "Orange Caped Traveller",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Red Mamba"
+      "value": "Red Mamba",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Wildman"
+      "value": "Wildman",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Lunar Staff"
+      "value": "Lunar Staff",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Forest"
+      "value": "Forest",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

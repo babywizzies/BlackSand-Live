@@ -1,48 +1,59 @@
 {
+  "id": 1181,
   "name": "Hedge Wizard Mycho of the Heath",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1181.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1181
+      "value": 1181,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Lined Coveralls "
+      "value": "Blue Lined Coveralls ",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Toad"
+      "value": "Golden Toad",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Egg of Unknown Beast"
+      "value": "Egg of Unknown Beast",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Forest"
+      "value": "Forest",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

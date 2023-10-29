@@ -1,6 +1,7 @@
 {
-  "idx": "890",
+  "id": "890",
   "name": "Ashanti of Avalon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/890",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

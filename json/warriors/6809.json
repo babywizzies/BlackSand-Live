@@ -1,6 +1,7 @@
 {
-  "idx": "6809",
+  "id": "6809",
   "name": "Zalika Scissor of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6809",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

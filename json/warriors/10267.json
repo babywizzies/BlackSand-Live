@@ -1,6 +1,7 @@
 {
-  "idx": "10267",
+  "id": "10267",
   "name": "Benedict Wounder of the Dread Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10267",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Skull Sword",
       "filename": "weapon_skullsword.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

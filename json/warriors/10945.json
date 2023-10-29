@@ -1,6 +1,7 @@
 {
-  "idx": "10945",
+  "id": "10945",
   "name": "Wuri Impaler of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10945",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

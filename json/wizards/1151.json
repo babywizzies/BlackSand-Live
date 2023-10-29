@@ -1,48 +1,59 @@
 {
+  "id": 1151,
   "name": "Alchemist Venga of the Desert",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1151.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1151
+      "value": 1151,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orchid Harem Pants"
+      "value": "Orchid Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sun Cat"
+      "value": "Sun Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Punjabi"
+      "value": "Punjabi",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Mandrake Potion"
+      "value": "Mandrake Potion",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Desert"
+      "value": "Desert",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

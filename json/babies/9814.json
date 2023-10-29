@@ -1,32 +1,39 @@
 {
+  "id": 9814,
   "name": "Strong Vossler of the Havens",
   "image": "http://forgottenbabies.com/uri/json/9814.png",
-  "serial": 9814,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_seeing_robe"
+      "value": "small_seeing_robe",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "puny_prophet"
+      "value": "puny_prophet",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_green_mushroom"
+      "value": "mini_green_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

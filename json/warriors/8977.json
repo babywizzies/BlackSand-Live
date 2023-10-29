@@ -1,6 +1,7 @@
 {
-  "idx": "8977",
+  "id": "8977",
   "name": "Krafili Sword of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8977",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

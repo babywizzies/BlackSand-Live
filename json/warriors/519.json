@@ -1,6 +1,7 @@
 {
-  "idx": "519",
+  "id": "519",
   "name": "Bonnard Calamity of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/519",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12968",
+  "id": "12968",
   "name": "Ash Slicer of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12968",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

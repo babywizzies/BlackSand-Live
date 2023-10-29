@@ -1,6 +1,7 @@
 {
-  "idx": "5084",
+  "id": "5084",
   "name": "Minka Hero of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5084",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

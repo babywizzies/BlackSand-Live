@@ -1,6 +1,7 @@
 {
-  "idx": "13258",
+  "id": "13258",
   "name": "Kobe Hacker of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13258",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

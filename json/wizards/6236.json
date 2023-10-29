@@ -1,52 +1,64 @@
 {
+  "id": 6236,
   "name": "Shaman Faye of the Marsh",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6236.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6236
+      "value": 6236,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Coveralls"
+      "value": "Red Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sapphire Slime"
+      "value": "Sapphire Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Red Priestess"
+      "value": "Red Priestess",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Phoenix Feather"
+      "value": "Phoenix Feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun"
+      "value": "Rune of Sun",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Crimson"
+      "value": "Crimson",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

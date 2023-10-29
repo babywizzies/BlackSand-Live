@@ -1,6 +1,7 @@
 {
-  "idx": "12774",
+  "id": "12774",
   "name": "Dusty Demolisher of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12774",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

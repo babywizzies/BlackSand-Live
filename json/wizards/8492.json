@@ -1,48 +1,59 @@
 {
+  "id": 8492,
   "name": "Sorcerer Ozohr ",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/8492.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 8492
+      "value": 8492,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Gold Chain"
+      "value": "Gold Chain",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sun Cat"
+      "value": "Sun Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "White Wizard"
+      "value": "White Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Goblet of Immortality"
+      "value": "Goblet of Immortality",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Gold"
+      "value": "Gold",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

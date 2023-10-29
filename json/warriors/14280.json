@@ -1,6 +1,7 @@
 {
-  "idx": "14280",
+  "id": "14280",
   "name": "Matteo Rascal of Chaos",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14280",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

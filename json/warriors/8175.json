@@ -1,6 +1,7 @@
 {
-  "idx": "8175",
+  "id": "8175",
   "name": "Lars Traveler of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8175",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

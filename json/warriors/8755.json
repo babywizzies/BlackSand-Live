@@ -1,6 +1,7 @@
 {
-  "idx": "8755",
+  "id": "8755",
   "name": "Soran Blaster of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8755",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3096",
+  "id": "3096",
   "name": "Helen Impaler of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3096",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

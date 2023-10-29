@@ -1,44 +1,54 @@
 {
+  "id": 3343,
   "name": "Hex Mage Jeldor of the River",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3343.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3343
+      "value": 3343,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Coveralls"
+      "value": "Brown Coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Myrddin"
+      "value": "Myrddin",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Prometheus's Torch"
+      "value": "Prometheus's Torch",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Cyan"
+      "value": "Cyan",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "66"
+      "value": "66",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

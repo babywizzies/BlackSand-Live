@@ -1,6 +1,7 @@
 {
-  "idx": "9860",
+  "id": "9860",
   "name": "Rungle Cleaver of Concrete",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9860",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Malachite Cleaver",
       "filename": "weapon_cleaver_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

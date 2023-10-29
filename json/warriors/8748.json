@@ -1,6 +1,7 @@
 {
-  "idx": "8748",
+  "id": "8748",
   "name": "Caesar Paragon of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8748",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

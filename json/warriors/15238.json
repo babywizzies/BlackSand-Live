@@ -1,6 +1,7 @@
 {
-  "idx": "15238",
+  "id": "15238",
   "name": "Camilla Cutter of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15238",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

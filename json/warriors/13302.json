@@ -1,6 +1,7 @@
 {
-  "idx": "13302",
+  "id": "13302",
   "name": "Margaret of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13302",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

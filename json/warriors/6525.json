@@ -1,6 +1,7 @@
 {
-  "idx": "6525",
+  "id": "6525",
   "name": "Tera Blade of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6525",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

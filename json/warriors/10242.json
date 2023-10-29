@@ -1,6 +1,7 @@
 {
-  "idx": "10242",
+  "id": "10242",
   "name": "Victor Rogue of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10242",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3234",
+  "id": "3234",
   "name": "Tim Conqueror of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3234",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

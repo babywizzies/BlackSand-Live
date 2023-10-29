@@ -1,6 +1,7 @@
 {
-  "idx": "12253",
+  "id": "12253",
   "name": "Hendrix Champion of the Highlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12253",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

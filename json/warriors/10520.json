@@ -1,6 +1,7 @@
 {
-  "idx": "10520",
+  "id": "10520",
   "name": "Ayana Scorcher of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10520",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Flame Thrower",
       "filename": "weapon_flamethrower.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

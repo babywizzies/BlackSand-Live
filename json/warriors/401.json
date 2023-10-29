@@ -1,6 +1,7 @@
 {
-  "idx": "401",
+  "id": "401",
   "name": "Marci Hero of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/401",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

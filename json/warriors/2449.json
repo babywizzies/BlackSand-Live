@@ -1,6 +1,7 @@
 {
-  "idx": "2449",
+  "id": "2449",
   "name": "Xerxes Slasher of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2449",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5061",
+  "id": "5061",
   "name": "Caylon Eidolon of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5061",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

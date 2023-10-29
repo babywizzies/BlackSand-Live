@@ -1,6 +1,7 @@
 {
-  "idx": "1622",
+  "id": "1622",
   "name": "Cassia Menace of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1622",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

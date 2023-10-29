@@ -1,6 +1,7 @@
 {
-  "idx": "5319",
+  "id": "5319",
   "name": "Serena Attacker of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5319",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

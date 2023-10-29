@@ -1,6 +1,7 @@
 {
-  "idx": "13009",
+  "id": "13009",
   "name": "Rocky Lacerator of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13009",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

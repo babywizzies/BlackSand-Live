@@ -1,6 +1,7 @@
 {
-  "idx": "4013",
+  "id": "4013",
   "name": "Charles Champion of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4013",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

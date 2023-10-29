@@ -1,6 +1,7 @@
 {
-  "idx": "13445",
+  "id": "13445",
   "name": "Roudie Hero of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13445",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

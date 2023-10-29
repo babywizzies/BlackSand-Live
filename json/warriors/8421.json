@@ -1,6 +1,7 @@
 {
-  "idx": "8421",
+  "id": "8421",
   "name": "Dexter Savior of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8421",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Malachite Dragon Pike",
       "filename": "weapon_dragonpike_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

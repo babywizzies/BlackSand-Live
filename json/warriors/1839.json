@@ -1,6 +1,7 @@
 {
-  "idx": "1839",
+  "id": "1839",
   "name": "Khadim Cleaver of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1839",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Desert Warrior",
       "filename": "head_arabian.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

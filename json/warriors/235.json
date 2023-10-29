@@ -1,6 +1,7 @@
 {
-  "idx": "235",
+  "id": "235",
   "name": "Walter Guillotiner of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/235",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "809",
+  "id": "809",
   "name": "Wyrm Shatterer of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/809",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15643",
+  "id": "15643",
   "name": "Zamana Sharpshooter of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15643",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

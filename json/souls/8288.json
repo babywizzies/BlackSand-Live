@@ -1,6 +1,7 @@
 {
-  "idx": "8288",
+  "id": "8288",
   "name": "Flying Dutchman",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rusted Cutlass",
       "filename": "item_piratesword.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

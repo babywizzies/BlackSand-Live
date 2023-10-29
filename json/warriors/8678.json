@@ -1,6 +1,7 @@
 {
-  "idx": "8678",
+  "id": "8678",
   "name": "Dozer Doom of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8678",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

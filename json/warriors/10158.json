@@ -1,6 +1,7 @@
 {
-  "idx": "10158",
+  "id": "10158",
   "name": "Miles Piercer of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10158",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

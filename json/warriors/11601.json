@@ -1,6 +1,7 @@
 {
-  "idx": "11601",
+  "id": "11601",
   "name": "Samuel Protector of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11601",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

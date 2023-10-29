@@ -1,6 +1,7 @@
 {
-  "idx": "11040",
+  "id": "11040",
   "name": "Aurelia Hacker of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11040",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

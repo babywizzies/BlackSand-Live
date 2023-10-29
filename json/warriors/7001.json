@@ -1,6 +1,7 @@
 {
-  "idx": "7001",
+  "id": "7001",
   "name": "Wharton Executor of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7001",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

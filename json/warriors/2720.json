@@ -1,6 +1,7 @@
 {
-  "idx": "2720",
+  "id": "2720",
   "name": "Pak Dicer of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2720",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bolt Shield",
       "filename": "shield_bolt.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

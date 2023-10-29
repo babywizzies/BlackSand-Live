@@ -1,6 +1,7 @@
 {
-  "idx": "7421",
+  "id": "7421",
   "name": "Hoc Wrecker of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7421",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

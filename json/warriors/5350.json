@@ -1,6 +1,7 @@
 {
-  "idx": "5350",
+  "id": "5350",
   "name": "Baldwyn Impaler of Sheep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5350",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

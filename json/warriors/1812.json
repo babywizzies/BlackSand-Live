@@ -1,6 +1,7 @@
 {
-  "idx": "1812",
+  "id": "1812",
   "name": "Brianne Piercer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1812",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

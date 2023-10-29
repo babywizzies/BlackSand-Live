@@ -1,6 +1,7 @@
 {
-  "idx": "8684",
+  "id": "8684",
   "name": "Raddix Battler of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8684",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of the Moon",
       "filename": "shield_moon.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

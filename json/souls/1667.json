@@ -1,6 +1,7 @@
 {
-  "idx": "1667",
+  "id": "1667",
   "name": "Grave Robbing Kobold of the Hell Chamber",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Death Shroom",
       "filename": "item_mushroom_soul.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

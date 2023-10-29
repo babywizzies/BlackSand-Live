@@ -1,6 +1,7 @@
 {
-  "idx": "14262",
+  "id": "14262",
   "name": "Pippa Carver of Leaves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14262",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

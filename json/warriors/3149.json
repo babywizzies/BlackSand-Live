@@ -1,6 +1,7 @@
 {
-  "idx": "3149",
+  "id": "3149",
   "name": "Smith Cleaver of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3149",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

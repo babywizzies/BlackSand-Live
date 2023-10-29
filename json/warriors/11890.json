@@ -1,6 +1,7 @@
 {
-  "idx": "11890",
+  "id": "11890",
   "name": "Falcon Ace of the Tundra",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11890",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

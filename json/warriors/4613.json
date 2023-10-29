@@ -1,6 +1,7 @@
 {
-  "idx": "4613",
+  "id": "4613",
   "name": "Vic Shaver of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4613",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

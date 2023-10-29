@@ -1,6 +1,7 @@
 {
-  "idx": "11076",
+  "id": "11076",
   "name": "Narfi Destroyer of Frogs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11076",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

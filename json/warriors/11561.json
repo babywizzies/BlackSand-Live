@@ -1,6 +1,7 @@
 {
-  "idx": "11561",
+  "id": "11561",
   "name": "Quince Guardian of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11561",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

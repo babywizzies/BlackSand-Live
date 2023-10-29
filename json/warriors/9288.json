@@ -1,6 +1,7 @@
 {
-  "idx": "9288",
+  "id": "9288",
   "name": "Sherry Explorer of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9288",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

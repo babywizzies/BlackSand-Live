@@ -1,40 +1,49 @@
 {
+  "id": 5035,
   "name": "Wizard Huizhong of the Veil",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5035.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5035
+      "value": 5035,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Tunic"
+      "value": "White Tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Shaolin"
+      "value": "Shaolin",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Monk"
+      "value": "Monk",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

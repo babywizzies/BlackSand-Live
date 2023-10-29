@@ -1,6 +1,7 @@
 {
-  "idx": "2531",
+  "id": "2531",
   "name": "August Cutter of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2531",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

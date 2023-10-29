@@ -1,6 +1,7 @@
 {
-  "idx": "9230",
+  "id": "9230",
   "name": "Gorgah of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9230",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8024",
+  "id": "8024",
   "name": "Brooks Pounder of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8024",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

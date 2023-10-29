@@ -1,6 +1,7 @@
 {
-  "idx": "3720",
+  "id": "3720",
   "name": "Gabe Bludgeoner of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3720",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2843",
+  "id": "2843",
   "name": "Goliath Cleaver of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2843",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1268",
+  "id": "1268",
   "name": "Howard Attacker of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1268",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

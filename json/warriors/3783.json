@@ -1,6 +1,7 @@
 {
-  "idx": "3783",
+  "id": "3783",
   "name": "Nervilla Attacker of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3783",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

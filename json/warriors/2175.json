@@ -1,6 +1,7 @@
 {
-  "idx": "2175",
+  "id": "2175",
   "name": "Finn Cleaver of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2175",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

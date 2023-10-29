@@ -1,6 +1,7 @@
 {
-  "idx": "13440",
+  "id": "13440",
   "name": "Samuel Danger of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13440",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

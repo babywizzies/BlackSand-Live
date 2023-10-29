@@ -1,6 +1,7 @@
 {
-  "idx": "2488",
+  "id": "2488",
   "name": "Keren Scoundrel of Leaves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2488",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

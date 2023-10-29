@@ -1,6 +1,7 @@
 {
-  "idx": "5511",
+  "id": "5511",
   "name": "Diana Vanquisher of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5511",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

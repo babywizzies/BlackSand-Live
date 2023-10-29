@@ -1,6 +1,7 @@
 {
-  "idx": "10961",
+  "id": "10961",
   "name": "Victor Attacker of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10961",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

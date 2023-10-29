@@ -1,6 +1,7 @@
 {
-  "idx": "1778",
+  "id": "1778",
   "name": "Gengiz Vengeance of the Swamp",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1778",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

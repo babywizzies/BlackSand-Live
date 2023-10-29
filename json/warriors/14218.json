@@ -1,6 +1,7 @@
 {
-  "idx": "14218",
+  "id": "14218",
   "name": "Dunklin of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14218",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

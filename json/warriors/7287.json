@@ -1,6 +1,7 @@
 {
-  "idx": "7287",
+  "id": "7287",
   "name": "Seven Sword of Sheep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7287",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

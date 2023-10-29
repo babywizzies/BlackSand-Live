@@ -1,6 +1,7 @@
 {
-  "idx": "6512",
+  "id": "6512",
   "name": "Thorne Champion of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6512",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

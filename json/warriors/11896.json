@@ -1,6 +1,7 @@
 {
-  "idx": "11896",
+  "id": "11896",
   "name": "Rogue of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11896",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

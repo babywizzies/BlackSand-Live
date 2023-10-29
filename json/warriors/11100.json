@@ -1,6 +1,7 @@
 {
-  "idx": "11100",
+  "id": "11100",
   "name": "Knox Cataclysm of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11100",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

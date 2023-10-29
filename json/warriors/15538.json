@@ -1,6 +1,7 @@
 {
-  "idx": "15538",
+  "id": "15538",
   "name": "Evelyn of the Inferno",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15538",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Flaming Dane Axe",
       "filename": "weapon_axe_dane_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1787",
+  "id": "1787",
   "name": "Gabe Protector of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1787",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 7226,
   "name": "Necromancer Anton of the Fey",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7226.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7226
+      "value": 7226,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Elven Cloak"
+      "value": "Green Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Mesozoic Cockatrice"
+      "value": "Mesozoic Cockatrice",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Gold Skeleton"
+      "value": "Gold Skeleton",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Dragon Fireworks"
+      "value": "Dragon Fireworks",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Saturn"
+      "value": "Rune of Saturn",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Wraith"
+      "value": "Wraith",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

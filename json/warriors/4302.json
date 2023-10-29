@@ -1,6 +1,7 @@
 {
-  "idx": "4302",
+  "id": "4302",
   "name": "Luna Basher of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4302",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

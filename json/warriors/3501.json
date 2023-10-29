@@ -1,6 +1,7 @@
 {
-  "idx": "3501",
+  "id": "3501",
   "name": "Rex Armageddon of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3501",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

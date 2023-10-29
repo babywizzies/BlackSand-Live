@@ -1,6 +1,7 @@
 {
-  "idx": "7180",
+  "id": "7180",
   "name": "Rudolph Creeper of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7180",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

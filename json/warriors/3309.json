@@ -1,6 +1,7 @@
 {
-  "idx": "3309",
+  "id": "3309",
   "name": "Bruno Paragon of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3309",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

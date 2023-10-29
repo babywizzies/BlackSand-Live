@@ -1,6 +1,7 @@
 {
-  "idx": "6009",
+  "id": "6009",
   "name": "Silas Outlaw of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6009",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,48 +1,59 @@
 {
+  "id": 3680,
   "name": "Magus Zafar of the Keep",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3680.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3680
+      "value": 3680,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Gold Chain"
+      "value": "Gold Chain",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Dark Arcanist"
+      "value": "Dark Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Red Mushroom"
+      "value": "Red Mushroom",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Nature"
+      "value": "Nature",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

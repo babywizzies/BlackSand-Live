@@ -1,6 +1,7 @@
 {
-  "idx": "6587",
+  "id": "6587",
   "name": "Humphrey Guardian of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6587",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

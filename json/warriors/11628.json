@@ -1,6 +1,7 @@
 {
-  "idx": "11628",
+  "id": "11628",
   "name": "Masika of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11628",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

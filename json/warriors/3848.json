@@ -1,6 +1,7 @@
 {
-  "idx": "3848",
+  "id": "3848",
   "name": "Sebastian Dismantler of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3848",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

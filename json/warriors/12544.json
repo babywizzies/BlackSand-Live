@@ -1,6 +1,7 @@
 {
-  "idx": "12544",
+  "id": "12544",
   "name": "Margarita Obliterator of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12544",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

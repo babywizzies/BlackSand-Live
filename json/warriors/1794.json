@@ -1,6 +1,7 @@
 {
-  "idx": "1794",
+  "id": "1794",
   "name": "Barret Champion of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1794",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

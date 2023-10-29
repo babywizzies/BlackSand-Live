@@ -1,6 +1,7 @@
 {
-  "idx": "10113",
+  "id": "10113",
   "name": "Meryl Mauler of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10113",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

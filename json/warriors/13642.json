@@ -1,6 +1,7 @@
 {
-  "idx": "13642",
+  "id": "13642",
   "name": "Meryl Slasher of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13642",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

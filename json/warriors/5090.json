@@ -1,6 +1,7 @@
 {
-  "idx": "5090",
+  "id": "5090",
   "name": "Mack Charlatan of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5090",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

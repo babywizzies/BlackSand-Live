@@ -1,6 +1,7 @@
 {
-  "idx": "15235",
+  "id": "15235",
   "name": "Donley Marauder of Lizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15235",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Skull Sword",
       "filename": "weapon_skullsword.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

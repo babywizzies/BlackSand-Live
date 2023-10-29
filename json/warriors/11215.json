@@ -1,6 +1,7 @@
 {
-  "idx": "11215",
+  "id": "11215",
   "name": "Bruce Stormer of the Ocean",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11215",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

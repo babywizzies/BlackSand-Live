@@ -1,6 +1,7 @@
 {
-  "idx": "1192",
+  "id": "1192",
   "name": "Radley Cutter of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1192",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

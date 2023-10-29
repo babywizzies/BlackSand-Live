@@ -1,6 +1,7 @@
 {
-  "idx": "11111",
+  "id": "11111",
   "name": "Nick Leveler of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11111",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

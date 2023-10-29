@@ -1,6 +1,7 @@
 {
-  "idx": "11108",
+  "id": "11108",
   "name": "Fenjeon Ruin of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11108",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Yellow Viking Helm",
       "filename": "head_gorj.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

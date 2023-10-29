@@ -1,6 +1,7 @@
 {
-  "idx": "12861",
+  "id": "12861",
   "name": "Ragnar Vanquisher of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12861",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

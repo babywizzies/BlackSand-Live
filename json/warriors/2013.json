@@ -1,6 +1,7 @@
 {
-  "idx": "2013",
+  "id": "2013",
   "name": "Roman Render of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2013",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

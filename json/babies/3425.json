@@ -1,32 +1,39 @@
 {
+  "id": 3425,
   "name": "Shrewd Uur'lok of the Brine",
   "image": "http://forgottenbabies.com/uri/json/3425.png",
-  "serial": 3425,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "tiny_white_tunic"
+      "value": "tiny_white_tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_gold_skeleton_pointed_hat"
+      "value": "small_gold_skeleton_pointed_hat",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "titmouse"
+      "value": "titmouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "rosebud"
+      "value": "rosebud",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_of_mecury"
+      "value": "rune_of_mecury",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

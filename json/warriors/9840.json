@@ -1,6 +1,7 @@
 {
-  "idx": "9840",
+  "id": "9840",
   "name": "Glug Dissector of the Plaguelands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9840",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7245",
+  "id": "7245",
   "name": "Jabari Savior of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7245",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of the Moon",
       "filename": "shield_moon.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

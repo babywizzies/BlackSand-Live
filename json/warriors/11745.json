@@ -1,6 +1,7 @@
 {
-  "idx": "11745",
+  "id": "11745",
   "name": "Leah Wounder of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11745",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

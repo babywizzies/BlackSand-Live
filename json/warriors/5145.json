@@ -1,6 +1,7 @@
 {
-  "idx": "5145",
+  "id": "5145",
   "name": "Zasha Explorer of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5145",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

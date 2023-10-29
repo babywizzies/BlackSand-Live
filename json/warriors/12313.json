@@ -1,6 +1,7 @@
 {
-  "idx": "12313",
+  "id": "12313",
   "name": "Callan Poker of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12313",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13557",
+  "id": "13557",
   "name": "Farol Wounder of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13557",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

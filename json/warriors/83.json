@@ -1,6 +1,7 @@
 {
-  "idx": "83",
+  "id": "83",
   "name": "Brock Champion of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/83",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1005",
+  "id": "1005",
   "name": "Robert Impaler of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1005",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

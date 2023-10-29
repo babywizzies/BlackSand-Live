@@ -1,6 +1,7 @@
 {
-  "idx": "701",
+  "id": "701",
   "name": "Al Blade of the Slime Pits",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/701",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

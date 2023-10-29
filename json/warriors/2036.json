@@ -1,6 +1,7 @@
 {
-  "idx": "2036",
+  "id": "2036",
   "name": "Luther Render of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2036",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

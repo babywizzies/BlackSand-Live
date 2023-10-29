@@ -1,6 +1,7 @@
 {
-  "idx": "6304",
+  "id": "6304",
   "name": "Maya Assaulter of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6304",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

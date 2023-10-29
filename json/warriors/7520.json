@@ -1,6 +1,7 @@
 {
-  "idx": "7520",
+  "id": "7520",
   "name": "Aurelia of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7520",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Hambone",
       "filename": "item_hambone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7219",
+  "id": "7219",
   "name": "Mosi Slaughterer of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7219",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

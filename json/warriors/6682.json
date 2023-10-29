@@ -1,6 +1,7 @@
 {
-  "idx": "6682",
+  "id": "6682",
   "name": "Brion Clobberer of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6682",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "902",
+  "id": "902",
   "name": "Margaret Hellraiser of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/902",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

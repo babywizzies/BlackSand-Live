@@ -1,48 +1,59 @@
 {
+  "id": 1774,
   "name": "Witch Eronin of the Forest",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1774.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1774
+      "value": 1774,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Overcoat"
+      "value": "Overcoat",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Plague Rat"
+      "value": "Plague Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Ascetic"
+      "value": "Ascetic",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Guillaume's Broom"
+      "value": "Guillaume's Broom",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "City"
+      "value": "City",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

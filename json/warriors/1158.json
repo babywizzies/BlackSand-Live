@@ -1,6 +1,7 @@
 {
-  "idx": "1158",
+  "id": "1158",
   "name": "Wharton Render of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1158",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

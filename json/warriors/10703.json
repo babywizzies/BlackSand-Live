@@ -1,6 +1,7 @@
 {
-  "idx": "10703",
+  "id": "10703",
   "name": "Rudolph Impaler of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10703",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

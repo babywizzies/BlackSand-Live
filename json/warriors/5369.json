@@ -1,6 +1,7 @@
 {
-  "idx": "5369",
+  "id": "5369",
   "name": "Buck Paragon of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5369",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14340",
+  "id": "14340",
   "name": "Jimmy Rat of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14340",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

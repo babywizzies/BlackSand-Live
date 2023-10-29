@@ -1,6 +1,7 @@
 {
-  "idx": "7375",
+  "id": "7375",
   "name": "Sam Impaler the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7375",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,52 +1,64 @@
 {
+  "id": 1586,
   "name": "Fortune Teller Ixar of the Brambles",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1586.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1586
+      "value": 1586,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Coveralls"
+      "value": "White Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Dirt Rabbit"
+      "value": "Dirt Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Diviner"
+      "value": "Diviner",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Ether Staff"
+      "value": "Ether Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
+      "value": "Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

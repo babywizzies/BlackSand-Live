@@ -8,6 +8,7 @@ import useCharacterData from "../../hooks/useCharacterData"
 import RenderCharacter from "./characterrender"
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { matchTraitsToFile } from "./utils"; // Import the utility function
+import { generateArt, RequestModel } from '../../utils/imageGene';
 
 import Items from './Items'
 enum EquipScreen {
@@ -39,6 +40,9 @@ const Wardrobe2: React.FC = () => {
     const [items, setItems] = useState([])
     const [freeItems, setFreeItems] = useState<string[]>([]);
     const [blacksandEditionsItem, setBlacksandEditionsItem] = useState<string[]>([]);
+
+
+    
     useEffect(() => {
         console.log(characterData);
     }, [characterData]);

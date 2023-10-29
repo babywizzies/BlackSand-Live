@@ -1,6 +1,7 @@
 {
-  "idx": "3020",
+  "id": "3020",
   "name": "Katie Breaker of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3020",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

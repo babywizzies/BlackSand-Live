@@ -1,6 +1,7 @@
 {
-  "idx": "1423",
+  "id": "1423",
   "name": "Zagan Assaulter of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1423",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Lavender Double Blade",
       "filename": "weapon_doubleblade_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

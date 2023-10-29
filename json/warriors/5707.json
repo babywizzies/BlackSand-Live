@@ -1,6 +1,7 @@
 {
-  "idx": "5707",
+  "id": "5707",
   "name": "Draxon Punisher of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5707",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

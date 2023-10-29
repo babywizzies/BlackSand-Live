@@ -1,6 +1,7 @@
 {
-  "idx": "6031",
+  "id": "6031",
   "name": "Kanye Vanquisher of Blood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6031",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

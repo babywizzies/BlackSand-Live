@@ -1,6 +1,7 @@
 {
-  "idx": "12490",
+  "id": "12490",
   "name": "Griffin Apocalypse of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12490",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

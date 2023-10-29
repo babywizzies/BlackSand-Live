@@ -1,6 +1,7 @@
 {
-  "idx": "9702",
+  "id": "9702",
   "name": "Maximilian of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9702",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bottle of Rune Beer",
       "filename": "item_beer_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

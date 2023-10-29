@@ -1,6 +1,7 @@
 {
-  "idx": "2412",
+  "id": "2412",
   "name": "Lubalar Ruin of all that is Holy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2412",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

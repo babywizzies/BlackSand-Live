@@ -1,52 +1,64 @@
 {
+  "id": 172,
   "name": "Transmuter Alessar of the Sun",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/172.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 172
+      "value": 172,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Harem Pants"
+      "value": "Brown Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Lucky Black Cat"
+      "value": "Lucky Black Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Prophet"
+      "value": "Prophet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Goblet of Immortality"
+      "value": "Goblet of Immortality",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Down"
+      "value": "Rune of Down",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

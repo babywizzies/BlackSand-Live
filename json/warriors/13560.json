@@ -1,6 +1,7 @@
 {
-  "idx": "13560",
+  "id": "13560",
   "name": "Waldo Shaver of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13560",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

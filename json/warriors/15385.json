@@ -1,6 +1,7 @@
 {
-  "idx": "15385",
+  "id": "15385",
   "name": "Tatenda Slayer of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15385",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

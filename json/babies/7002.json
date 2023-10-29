@@ -1,32 +1,39 @@
 {
+  "id": 7002,
   "name": "Crazy Casper in the Shadows",
   "image": "http://forgottenbabies.com/uri/json/7002.png",
-  "serial": 7002,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "green_baby_buckle"
+      "value": "green_baby_buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_strongman"
+      "value": "small_strongman",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "mesozoic_chickatrice"
+      "value": "mesozoic_chickatrice",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "adrenochrome"
+      "value": "adrenochrome",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

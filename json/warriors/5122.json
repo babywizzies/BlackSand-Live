@@ -1,6 +1,7 @@
 {
-  "idx": "5122",
+  "id": "5122",
   "name": "Alexa of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5122",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

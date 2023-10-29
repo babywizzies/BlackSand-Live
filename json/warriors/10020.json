@@ -1,6 +1,7 @@
 {
-  "idx": "10020",
+  "id": "10020",
   "name": "Soran Ruin of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10020",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

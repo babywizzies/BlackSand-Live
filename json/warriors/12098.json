@@ -1,6 +1,7 @@
 {
-  "idx": "12098",
+  "id": "12098",
   "name": "Lucy Ruin of the Sunrise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12098",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

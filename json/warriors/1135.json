@@ -1,6 +1,7 @@
 {
-  "idx": "1135",
+  "id": "1135",
   "name": "Sloane Cleaver of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1135",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

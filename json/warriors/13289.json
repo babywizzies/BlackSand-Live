@@ -1,6 +1,7 @@
 {
-  "idx": "13289",
+  "id": "13289",
   "name": "Sandra Render of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13289",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11589",
+  "id": "11589",
   "name": "Hades Render of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11589",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

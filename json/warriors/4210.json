@@ -1,6 +1,7 @@
 {
-  "idx": "4210",
+  "id": "4210",
   "name": "Narfi Dismantler of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4210",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bolt Shield",
       "filename": "shield_bolt.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

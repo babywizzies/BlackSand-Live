@@ -1,52 +1,64 @@
 {
+  "id": 3351,
   "name": "Sorcerer Alizam of Avalon",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3351.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3351
+      "value": 3351,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orange Scholar"
+      "value": "Orange Scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Blue Rat"
+      "value": "Blue Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Stranger"
+      "value": "Stranger",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Dryad's Ear: the Plant Spell"
+      "value": "Dryad's Ear: the Plant Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto"
+      "value": "Rune of Pluto",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blue Shift"
+      "value": "Blue Shift",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

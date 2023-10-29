@@ -1,6 +1,7 @@
 {
-  "idx": "2573",
+  "id": "2573",
   "name": "Keren Slaughterer of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2573",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

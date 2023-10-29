@@ -1,6 +1,7 @@
 {
-  "idx": "10269",
+  "id": "10269",
   "name": "Luna of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10269",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

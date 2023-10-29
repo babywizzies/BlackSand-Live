@@ -1,6 +1,7 @@
 {
-  "idx": "7503",
+  "id": "7503",
   "name": "Velbi Sword of the Berg",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7503",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

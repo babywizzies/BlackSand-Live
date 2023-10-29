@@ -1,6 +1,7 @@
 {
-  "idx": "14882",
+  "id": "14882",
   "name": "Bapho Ravager of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14882",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

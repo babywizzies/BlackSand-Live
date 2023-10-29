@@ -1,6 +1,7 @@
 {
-  "idx": "4800",
+  "id": "4800",
   "name": "Ekrin Defeater of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4800",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

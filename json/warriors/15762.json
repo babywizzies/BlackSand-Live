@@ -1,6 +1,7 @@
 {
-  "idx": "15762",
+  "id": "15762",
   "name": "Abaddon Champion of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15762",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

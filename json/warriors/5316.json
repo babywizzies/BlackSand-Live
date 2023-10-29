@@ -1,6 +1,7 @@
 {
-  "idx": "5316",
+  "id": "5316",
   "name": "Theo Champion of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5316",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11232",
+  "id": "11232",
   "name": "Agnes Hacker of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11232",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

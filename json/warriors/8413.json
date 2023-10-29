@@ -1,6 +1,7 @@
 {
-  "idx": "8413",
+  "id": "8413",
   "name": "Romulus Slasher of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8413",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Hunting Knife",
       "filename": "weapon_knife.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

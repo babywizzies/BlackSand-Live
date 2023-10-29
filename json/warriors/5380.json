@@ -1,6 +1,7 @@
 {
-  "idx": "5380",
+  "id": "5380",
   "name": "Melanie Breaker of Leaves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5380",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

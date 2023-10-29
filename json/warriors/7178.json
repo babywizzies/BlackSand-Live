@@ -1,6 +1,7 @@
 {
-  "idx": "7178",
+  "id": "7178",
   "name": "Kaz Eidolon of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7178",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

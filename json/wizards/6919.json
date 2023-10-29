@@ -1,48 +1,59 @@
 {
+  "id": 6919,
   "name": "Pyromancer Jeldor of the Dunes",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6919.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6919
+      "value": 6919,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Purple Harem Pants"
+      "value": "Purple Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Yellow Wizard"
+      "value": "Yellow Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Prometheus's Torch"
+      "value": "Prometheus's Torch",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Slime"
+      "value": "Slime",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "25"
+      "value": "25",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

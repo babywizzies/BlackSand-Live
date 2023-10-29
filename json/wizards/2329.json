@@ -1,52 +1,64 @@
 {
+  "id": 2329,
   "name": "Shaman Angus of the Carnival",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2329.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2329
+      "value": 2329,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Yellow Elven Cloak"
+      "value": "Yellow Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sun Cat"
+      "value": "Sun Cat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Kelt"
+      "value": "Kelt",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Phoenix Feather"
+      "value": "Phoenix Feather",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
+      "value": "Rune of Jupiter",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Orange"
+      "value": "Orange",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

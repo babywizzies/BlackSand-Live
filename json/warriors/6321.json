@@ -1,6 +1,7 @@
 {
-  "idx": "6321",
+  "id": "6321",
   "name": "Damon Divider of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6321",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Air Elemental Shield",
       "filename": "shield_wind.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

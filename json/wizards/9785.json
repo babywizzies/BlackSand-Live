@@ -1,48 +1,59 @@
 {
+  "id": 9785,
   "name": "Battle Mage Hagar of the Steppe",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/9785.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 9785
+      "value": 9785,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Lined Coveralls "
+      "value": "Blue Lined Coveralls ",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "MachoMan"
+      "value": "MachoMan",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Passion Potion"
+      "value": "Passion Potion",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Nature"
+      "value": "Nature",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

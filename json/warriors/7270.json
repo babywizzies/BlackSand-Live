@@ -1,6 +1,7 @@
 {
-  "idx": "7270",
+  "id": "7270",
   "name": "Diana Clubber of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7270",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

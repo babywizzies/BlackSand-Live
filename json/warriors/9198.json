@@ -1,6 +1,7 @@
 {
-  "idx": "9198",
+  "id": "9198",
   "name": "Sal Stinger of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9198",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

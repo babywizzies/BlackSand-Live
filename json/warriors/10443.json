@@ -1,6 +1,7 @@
 {
-  "idx": "10443",
+  "id": "10443",
   "name": "Peter Raider of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10443",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

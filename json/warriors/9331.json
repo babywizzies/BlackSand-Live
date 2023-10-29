@@ -1,6 +1,7 @@
 {
-  "idx": "9331",
+  "id": "9331",
   "name": "Mack Slasher of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9331",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

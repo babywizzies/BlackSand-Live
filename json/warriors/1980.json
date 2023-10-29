@@ -1,6 +1,7 @@
 {
-  "idx": "1980",
+  "id": "1980",
   "name": "Casey of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1980",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

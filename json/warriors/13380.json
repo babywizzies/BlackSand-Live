@@ -1,6 +1,7 @@
 {
-  "idx": "13380",
+  "id": "13380",
   "name": "Neema Defender of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13380",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

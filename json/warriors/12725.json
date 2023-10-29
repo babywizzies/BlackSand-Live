@@ -1,6 +1,7 @@
 {
-  "idx": "12725",
+  "id": "12725",
   "name": "Sharon Thief of Thunder Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12725",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

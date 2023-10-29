@@ -1,6 +1,7 @@
 {
-  "idx": "3624",
+  "id": "3624",
   "name": "Flekk Vanquisher of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3624",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

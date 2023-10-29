@@ -1,6 +1,7 @@
 {
-  "idx": "12106",
+  "id": "12106",
   "name": "Kesi Paragon of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12106",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

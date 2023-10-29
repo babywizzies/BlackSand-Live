@@ -1,32 +1,39 @@
 {
+  "id": 7927,
   "name": "Charming Danny of the Berg",
   "image": "http://forgottenbabies.com/uri/json/7927.png",
-  "serial": 7927,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_koveralls"
+      "value": "blue_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "smol_scholar"
+      "value": "smol_scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "blue_mouse"
+      "value": "blue_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "chocolate_lollipop"
+      "value": "chocolate_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_brass"
+      "value": "rune_brass",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

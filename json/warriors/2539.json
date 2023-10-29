@@ -1,6 +1,7 @@
 {
-  "idx": "2539",
+  "id": "2539",
   "name": "Shimeji Wrecker of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2539",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

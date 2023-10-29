@@ -1,48 +1,59 @@
 {
+  "id": 1168,
   "name": "Hex Mage Toadstool of the Hills",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1168.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1168
+      "value": 1168,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Coveralls"
+      "value": "Blue Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Topaz Slime"
+      "value": "Topaz Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Fungus"
+      "value": "Fungus",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Prometheus's Torch"
+      "value": "Prometheus's Torch",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

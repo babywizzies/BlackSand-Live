@@ -1,6 +1,7 @@
 {
-  "idx": "8249",
+  "id": "8249",
   "name": "Scraps Vagabond of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8249",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

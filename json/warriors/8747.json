@@ -1,6 +1,7 @@
 {
-  "idx": "8747",
+  "id": "8747",
   "name": "Dain Contender of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8747",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

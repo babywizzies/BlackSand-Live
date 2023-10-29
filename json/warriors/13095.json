@@ -1,6 +1,7 @@
 {
-  "idx": "13095",
+  "id": "13095",
   "name": "Rockmov Shatterer of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13095",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12219",
+  "id": "12219",
   "name": "Callahan Mischief Maker of the Havens",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12219",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

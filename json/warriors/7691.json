@@ -1,6 +1,7 @@
 {
-  "idx": "7691",
+  "id": "7691",
   "name": "Maud Cauterizer of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7691",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

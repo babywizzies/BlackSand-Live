@@ -1,6 +1,7 @@
 {
-  "idx": "12909",
+  "id": "12909",
   "name": "Nixie Ruin of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12909",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12883",
+  "id": "12883",
   "name": "Fuzzo Slasher of the Horde",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12883",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Titan Cleaver",
       "filename": "weapon_cleaver_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

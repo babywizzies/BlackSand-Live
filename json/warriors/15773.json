@@ -1,6 +1,7 @@
 {
-  "idx": "15773",
+  "id": "15773",
   "name": "Dain Eidolon of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15773",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10660",
+  "id": "10660",
   "name": "Andrea Hero of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10660",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

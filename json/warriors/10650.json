@@ -1,6 +1,7 @@
 {
-  "idx": "10650",
+  "id": "10650",
   "name": "Hilda Ranger of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10650",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

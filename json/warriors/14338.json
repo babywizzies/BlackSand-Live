@@ -1,6 +1,7 @@
 {
-  "idx": "14338",
+  "id": "14338",
   "name": "Armryl Stabber of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14338",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Dane Axe",
       "filename": "weapon_axe_dane.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

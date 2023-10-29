@@ -1,6 +1,7 @@
 {
-  "idx": "7904",
+  "id": "7904",
   "name": "Willy Death of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7904",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

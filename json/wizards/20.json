@@ -1,48 +1,59 @@
 {
+  "id": 20,
   "name": "Punk Rock Arcanist Joey",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/20.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 20
+      "value": 20,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Punker"
+      "value": "Punker",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Forever Bat"
+      "value": "Forever Bat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Joey Billboard"
+      "value": "Joey Billboard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Thor's Wrath: the Lightning Spell"
+      "value": "Thor's Wrath: the Lightning Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Bat"
+      "value": "Bat",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "25"
+      "value": "25",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

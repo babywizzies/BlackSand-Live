@@ -1,44 +1,54 @@
 {
+  "id": 2016,
   "name": "Battle Mage Malthus of the Mist",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2016.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2016
+      "value": 2016,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Cleric"
+      "value": "Red Cleric",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Lycanthrope"
+      "value": "Lycanthrope",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Red Mushroom"
+      "value": "Red Mushroom",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Nature"
+      "value": "Nature",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "66"
+      "value": "66",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

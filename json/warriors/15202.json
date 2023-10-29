@@ -1,6 +1,7 @@
 {
-  "idx": "15202",
+  "id": "15202",
   "name": "Zod Sword of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15202",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

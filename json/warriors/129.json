@@ -1,6 +1,7 @@
 {
-  "idx": "129",
+  "id": "129",
   "name": "Tai Mercenary of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/129",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

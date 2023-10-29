@@ -1,6 +1,7 @@
 {
-  "idx": "11242",
+  "id": "11242",
   "name": "Seth Shark of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11242",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

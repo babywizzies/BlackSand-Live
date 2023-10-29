@@ -1,6 +1,7 @@
 {
-  "idx": "2480",
+  "id": "2480",
   "name": "Casey Guardian of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2480",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,32 +1,39 @@
 {
+  "id": 4237,
   "name": "Joyful Hashim of the Waste",
   "image": "http://forgottenbabies.com/uri/json/4237.png",
-  "serial": 4237,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "small_cape_in_the_wind"
+      "value": "small_cape_in_the_wind",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "small_illuminatus"
+      "value": "small_illuminatus",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "albino_mouse"
+      "value": "albino_mouse",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "heavy_scythe"
+      "value": "heavy_scythe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "none"
+      "value": "none",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

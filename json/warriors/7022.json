@@ -1,6 +1,7 @@
 {
-  "idx": "7022",
+  "id": "7022",
   "name": "Nova Piercer of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7022",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

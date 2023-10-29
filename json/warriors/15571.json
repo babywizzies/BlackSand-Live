@@ -1,6 +1,7 @@
 {
-  "idx": "15571",
+  "id": "15571",
   "name": "Sharla Raider of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15571",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

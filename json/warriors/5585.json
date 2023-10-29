@@ -1,6 +1,7 @@
 {
-  "idx": "5585",
+  "id": "5585",
   "name": "Frankie Amputator of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5585",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

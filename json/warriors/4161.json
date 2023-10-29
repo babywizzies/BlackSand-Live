@@ -1,6 +1,7 @@
 {
-  "idx": "4161",
+  "id": "4161",
   "name": "Liam Ravager of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4161",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

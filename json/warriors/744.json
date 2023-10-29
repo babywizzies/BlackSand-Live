@@ -1,6 +1,7 @@
 {
-  "idx": "744",
+  "id": "744",
   "name": "Maxim Exterminator of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/744",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

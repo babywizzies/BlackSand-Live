@@ -1,6 +1,7 @@
 {
-  "idx": "2730",
+  "id": "2730",
   "name": "Pari of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2730",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

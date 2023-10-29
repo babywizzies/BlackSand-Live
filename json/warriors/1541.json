@@ -1,6 +1,7 @@
 {
-  "idx": "1541",
+  "id": "1541",
   "name": "Durus Assaulter of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1541",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

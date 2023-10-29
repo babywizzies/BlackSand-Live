@@ -1,6 +1,7 @@
 {
-  "idx": "8998",
+  "id": "8998",
   "name": "Barad Calamity of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8998",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Kusanagi",
       "filename": "weapon_kusanagi.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

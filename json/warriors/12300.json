@@ -1,6 +1,7 @@
 {
-  "idx": "12300",
+  "id": "12300",
   "name": "Gage Conqueror of the Sea",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12300",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13452",
+  "id": "13452",
   "name": "Baldwyn Hero of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13452",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

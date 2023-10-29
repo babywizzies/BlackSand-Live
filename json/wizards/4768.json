@@ -1,52 +1,64 @@
 {
+  "id": 4768,
   "name": "Pyromancer Brown Cow of the Ether",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4768.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4768
+      "value": 4768,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic"
+      "value": "Brown Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Plague Rat"
+      "value": "Plague Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Canaanite"
+      "value": "Canaanite",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Prometheus's Torch"
+      "value": "Prometheus's Torch",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus"
+      "value": "Rune of Venus",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Brownish"
+      "value": "Brownish",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

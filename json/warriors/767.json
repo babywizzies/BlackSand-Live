@@ -1,6 +1,7 @@
 {
-  "idx": "767",
+  "id": "767",
   "name": "Edwin Battler of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/767",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2709",
+  "id": "2709",
   "name": "Alex Bludgeoner of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2709",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

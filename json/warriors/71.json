@@ -1,6 +1,7 @@
 {
-  "idx": "71",
+  "id": "71",
   "name": "Umberto Dispatcher of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/71",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

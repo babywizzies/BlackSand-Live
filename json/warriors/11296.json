@@ -1,6 +1,7 @@
 {
-  "idx": "11296",
+  "id": "11296",
   "name": "Cadogan Cleaver of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11296",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

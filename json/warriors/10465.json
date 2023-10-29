@@ -1,6 +1,7 @@
 {
-  "idx": "10465",
+  "id": "10465",
   "name": " Champion of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10465",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7080",
+  "id": "7080",
   "name": "Shelia Charlatan of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7080",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

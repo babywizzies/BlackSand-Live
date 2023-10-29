@@ -1,6 +1,7 @@
 {
-  "idx": "3773",
+  "id": "3773",
   "name": "Karim Hero of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3773",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

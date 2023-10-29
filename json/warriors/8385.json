@@ -1,6 +1,7 @@
 {
-  "idx": "8385",
+  "id": "8385",
   "name": "Larry Doom of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8385",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

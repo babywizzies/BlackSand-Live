@@ -1,6 +1,7 @@
 {
-  "idx": "3337",
+  "id": "3337",
   "name": "Myla Lacerator of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3337",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

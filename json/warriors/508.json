@@ -1,6 +1,7 @@
 {
-  "idx": "508",
+  "id": "508",
   "name": "Charles Clobberer of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/508",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

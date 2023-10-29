@@ -1,48 +1,59 @@
 {
+  "id": 2906,
   "name": "Magus Basil of the Mist",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2906.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2906
+      "value": 2906,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Royal Shoulder Cape"
+      "value": "Royal Shoulder Cape",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Green Wizard"
+      "value": "Green Wizard",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Green Mushroom"
+      "value": "Green Mushroom",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Nature"
+      "value": "Nature",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

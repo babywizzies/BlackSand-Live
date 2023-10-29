@@ -1,6 +1,7 @@
 {
-  "idx": "4654",
+  "id": "4654",
   "name": "Cassia Fiend of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4654",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

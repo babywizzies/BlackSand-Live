@@ -1,6 +1,7 @@
 {
-  "idx": "9999",
+  "id": "9999",
   "name": "Manuel Render of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9999",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

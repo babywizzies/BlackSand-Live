@@ -1,32 +1,39 @@
 {
+  "id": 901,
   "name": "Intuitive Alvaro of the Marsh",
   "image": "http://forgottenbabies.com/uri/json/901.png",
-  "serial": 901,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "blue_koveralls"
+      "value": "blue_koveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "little_labyrinthian"
+      "value": "little_labyrinthian",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "lucky_black_kitten"
+      "value": "lucky_black_kitten",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "love_lollipop"
+      "value": "love_lollipop",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_sun"
+      "value": "rune_sun",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

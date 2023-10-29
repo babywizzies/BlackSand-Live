@@ -1,52 +1,64 @@
 {
+  "id": 14,
   "name": "Cat Wizard El Crypto Ball",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/14.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 14
+      "value": 14,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Gold Chain"
+      "value": "Gold Chain",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Jewled Hummingbird"
+      "value": "Jewled Hummingbird",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Felis"
+      "value": "Felis",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Golden Bull Staff"
+      "value": "Golden Bull Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Up Only"
+      "value": "Rune of Up Only",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Gold"
+      "value": "Gold",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

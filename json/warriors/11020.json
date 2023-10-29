@@ -1,6 +1,7 @@
 {
-  "idx": "11020",
+  "id": "11020",
   "name": "Tank Roaster of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11020",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "232",
+  "id": "232",
   "name": "Edge Striker of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/232",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

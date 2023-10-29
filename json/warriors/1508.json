@@ -1,6 +1,7 @@
 {
-  "idx": "1508",
+  "id": "1508",
   "name": "Nick Fiend of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1508",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

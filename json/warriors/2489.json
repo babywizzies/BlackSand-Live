@@ -1,6 +1,7 @@
 {
-  "idx": "2489",
+  "id": "2489",
   "name": "Ubel Hammer of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2489",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

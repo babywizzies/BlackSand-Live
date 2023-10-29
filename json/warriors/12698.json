@@ -1,6 +1,7 @@
 {
-  "idx": "12698",
+  "id": "12698",
   "name": "Scott of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12698",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

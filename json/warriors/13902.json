@@ -1,6 +1,7 @@
 {
-  "idx": "13902",
+  "id": "13902",
   "name": "Clubber Basher of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13902",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

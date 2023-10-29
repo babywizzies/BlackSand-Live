@@ -1,6 +1,7 @@
 {
-  "idx": "1940",
+  "id": "1940",
   "name": "Sid Ruin of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1940",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

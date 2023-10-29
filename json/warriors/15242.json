@@ -1,6 +1,7 @@
 {
-  "idx": "15242",
+  "id": "15242",
   "name": "Peter Apocalypse of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15242",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

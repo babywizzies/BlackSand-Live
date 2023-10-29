@@ -1,6 +1,7 @@
 {
-  "idx": "8513",
+  "id": "8513",
   "name": "Soran Belligerent of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8513",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

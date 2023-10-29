@@ -1,6 +1,7 @@
 {
-  "idx": "9800",
+  "id": "9800",
   "name": "Barron Flattener of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9800",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

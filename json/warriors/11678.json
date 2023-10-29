@@ -1,6 +1,7 @@
 {
-  "idx": "11678",
+  "id": "11678",
   "name": "Holt Stabber of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11678",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

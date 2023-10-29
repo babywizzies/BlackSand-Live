@@ -1,6 +1,7 @@
 {
-  "idx": "15744",
+  "id": "15744",
   "name": "Bane Dueler of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15744",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

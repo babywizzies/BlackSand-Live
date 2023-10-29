@@ -1,6 +1,7 @@
 {
-  "idx": "10043",
+  "id": "10043",
   "name": "Caldus of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10043",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

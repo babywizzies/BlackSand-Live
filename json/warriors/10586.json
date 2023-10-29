@@ -1,6 +1,7 @@
 {
-  "idx": "10586",
+  "id": "10586",
   "name": "Athina Ranger of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10586",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

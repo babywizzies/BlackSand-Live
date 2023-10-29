@@ -1,6 +1,7 @@
 {
-  "idx": "10250",
+  "id": "10250",
   "name": "Sedal Protector of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10250",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

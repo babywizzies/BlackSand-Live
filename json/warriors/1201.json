@@ -1,6 +1,7 @@
 {
-  "idx": "1201",
+  "id": "1201",
   "name": "Delu of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1201",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Hambone",
       "filename": "item_hambone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

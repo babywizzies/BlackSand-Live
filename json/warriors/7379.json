@@ -1,6 +1,7 @@
 {
-  "idx": "7379",
+  "id": "7379",
   "name": "Harvey Slaughterer of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7379",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

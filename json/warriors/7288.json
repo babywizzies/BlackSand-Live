@@ -1,6 +1,7 @@
 {
-  "idx": "7288",
+  "id": "7288",
   "name": "Major Peacemaker of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7288",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sai",
       "filename": "weapon_sai.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

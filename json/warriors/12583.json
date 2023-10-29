@@ -1,6 +1,7 @@
 {
-  "idx": "12583",
+  "id": "12583",
   "name": "Garrison Impaler of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12583",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

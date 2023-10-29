@@ -1,6 +1,7 @@
 {
-  "idx": "2610",
+  "id": "2610",
   "name": "Garrison Slayer of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2610",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

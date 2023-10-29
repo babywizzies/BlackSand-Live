@@ -1,6 +1,7 @@
 {
-  "idx": "14675",
+  "id": "14675",
   "name": "Jarek Hero of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14675",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

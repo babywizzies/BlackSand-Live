@@ -1,6 +1,7 @@
 {
-  "idx": "11266",
+  "id": "11266",
   "name": "Bruiser of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11266",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

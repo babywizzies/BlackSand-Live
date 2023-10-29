@@ -1,6 +1,7 @@
 {
-  "idx": "1314",
+  "id": "1314",
   "name": "Falcon Villain of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1314",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

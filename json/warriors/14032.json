@@ -1,6 +1,7 @@
 {
-  "idx": "14032",
+  "id": "14032",
   "name": "Liam Savior of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14032",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "653",
+  "id": "653",
   "name": "Beetle Wounder of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/653",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tyrfing",
       "filename": "weapon_tyrfing.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

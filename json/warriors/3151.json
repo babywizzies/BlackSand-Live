@@ -1,6 +1,7 @@
 {
-  "idx": "3151",
+  "id": "3151",
   "name": "Colt Debilitator of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3151",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

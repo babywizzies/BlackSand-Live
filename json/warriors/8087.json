@@ -1,6 +1,7 @@
 {
-  "idx": "8087",
+  "id": "8087",
   "name": "Marie Marauder of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8087",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

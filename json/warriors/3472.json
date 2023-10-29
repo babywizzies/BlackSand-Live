@@ -1,6 +1,7 @@
 {
-  "idx": "3472",
+  "id": "3472",
   "name": "Gerol Mercenary of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3472",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

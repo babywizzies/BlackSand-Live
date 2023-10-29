@@ -1,6 +1,7 @@
 {
-  "idx": "15526",
+  "id": "15526",
   "name": "Soul Reaper",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15526",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

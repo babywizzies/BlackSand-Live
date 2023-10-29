@@ -1,6 +1,7 @@
 {
-  "idx": "15196",
+  "id": "15196",
   "name": "Wambe Fiend of Penguins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15196",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

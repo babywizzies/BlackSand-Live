@@ -1,6 +1,7 @@
 {
-  "idx": "12164",
+  "id": "12164",
   "name": "Incitata Mincer of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12164",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

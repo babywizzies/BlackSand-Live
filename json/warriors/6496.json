@@ -1,6 +1,7 @@
 {
-  "idx": "6496",
+  "id": "6496",
   "name": "Maximus Paragon of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6496",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

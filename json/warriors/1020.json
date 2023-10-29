@@ -1,6 +1,7 @@
 {
-  "idx": "1020",
+  "id": "1020",
   "name": "Bambam Blade of the Trees",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1020",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

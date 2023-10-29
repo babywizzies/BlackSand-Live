@@ -1,6 +1,7 @@
 {
-  "idx": "5193",
+  "id": "5193",
   "name": "Dex Protector of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5193",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

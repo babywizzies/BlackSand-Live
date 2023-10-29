@@ -1,6 +1,7 @@
 {
-  "idx": "12566",
+  "id": "12566",
   "name": "Fanlorn Belligerent of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12566",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

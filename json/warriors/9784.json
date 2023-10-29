@@ -1,6 +1,7 @@
 {
-  "idx": "9784",
+  "id": "9784",
   "name": "Diana Sword of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9784",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

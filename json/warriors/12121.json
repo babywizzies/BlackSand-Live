@@ -1,6 +1,7 @@
 {
-  "idx": "12121",
+  "id": "12121",
   "name": "Gorgo Vanquisher of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12121",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

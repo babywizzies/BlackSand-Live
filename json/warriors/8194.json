@@ -1,6 +1,7 @@
 {
-  "idx": "8194",
+  "id": "8194",
   "name": "Kat Sword of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8194",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

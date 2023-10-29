@@ -1,6 +1,7 @@
 {
-  "idx": "1104",
+  "id": "1104",
   "name": "John Mangler of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1104",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

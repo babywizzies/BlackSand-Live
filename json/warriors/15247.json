@@ -1,6 +1,7 @@
 {
-  "idx": "15247",
+  "id": "15247",
   "name": "George of the Chasm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15247",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

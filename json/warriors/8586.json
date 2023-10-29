@@ -1,6 +1,7 @@
 {
-  "idx": "8586",
+  "id": "8586",
   "name": "Skiddle of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8586",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

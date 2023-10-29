@@ -1,6 +1,7 @@
 {
-  "idx": "2839",
+  "id": "2839",
   "name": "Slater Sword of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2839",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

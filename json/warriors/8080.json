@@ -1,6 +1,7 @@
 {
-  "idx": "8080",
+  "id": "8080",
   "name": "Butch Impaler of Concrete",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8080",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

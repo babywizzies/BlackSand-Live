@@ -1,6 +1,7 @@
 {
-  "idx": "6015",
+  "id": "6015",
   "name": "Sharon Ravager of the Pantheon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6015",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

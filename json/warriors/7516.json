@@ -1,6 +1,7 @@
 {
-  "idx": "7516",
+  "id": "7516",
   "name": "Edge Hero of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7516",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

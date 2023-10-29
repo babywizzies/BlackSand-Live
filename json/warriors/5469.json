@@ -1,6 +1,7 @@
 {
-  "idx": "5469",
+  "id": "5469",
   "name": "Nuke Chisler of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5469",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

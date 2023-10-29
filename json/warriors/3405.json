@@ -1,6 +1,7 @@
 {
-  "idx": "3405",
+  "id": "3405",
   "name": "Buck Guardian of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3405",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

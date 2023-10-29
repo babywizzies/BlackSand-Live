@@ -1,6 +1,7 @@
 {
-  "idx": "10708",
+  "id": "10708",
   "name": "Arthur Basher of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10708",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

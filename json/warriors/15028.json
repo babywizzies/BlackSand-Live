@@ -1,6 +1,7 @@
 {
-  "idx": "15028",
+  "id": "15028",
   "name": "Lucy Scissor of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15028",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

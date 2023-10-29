@@ -1,6 +1,7 @@
 {
-  "idx": "10048",
+  "id": "10048",
   "name": "Marci Eidolon of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10048",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

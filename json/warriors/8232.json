@@ -1,6 +1,7 @@
 {
-  "idx": "8232",
+  "id": "8232",
   "name": "Jules Paragon of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8232",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

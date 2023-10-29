@@ -1,6 +1,7 @@
 {
-  "idx": "7101",
+  "id": "7101",
   "name": "Lera Slayer of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7101",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

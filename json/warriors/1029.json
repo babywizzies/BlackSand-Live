@@ -1,6 +1,7 @@
 {
-  "idx": "1029",
+  "id": "1029",
   "name": "Velox Antihero of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1029",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

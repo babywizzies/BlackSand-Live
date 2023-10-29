@@ -1,6 +1,7 @@
 {
-  "idx": "7042",
+  "id": "7042",
   "name": "Edwin Sword of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7042",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

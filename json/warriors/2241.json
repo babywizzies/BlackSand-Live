@@ -1,6 +1,7 @@
 {
-  "idx": "2241",
+  "id": "2241",
   "name": "Nia Exterminator of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2241",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

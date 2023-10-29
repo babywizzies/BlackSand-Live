@@ -1,6 +1,7 @@
 {
-  "idx": "965",
+  "id": "965",
   "name": "Bellatrix Vanquisher of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/965",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

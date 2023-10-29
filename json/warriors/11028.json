@@ -1,6 +1,7 @@
 {
-  "idx": "11028",
+  "id": "11028",
   "name": "Cerb Paragon of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11028",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

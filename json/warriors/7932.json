@@ -1,6 +1,7 @@
 {
-  "idx": "7932",
+  "id": "7932",
   "name": "Ragnar Traveler of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7932",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

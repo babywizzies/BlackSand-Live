@@ -1,6 +1,7 @@
 {
-  "idx": "223",
+  "id": "223",
   "name": "Ash Danger of Area 71",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/223",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

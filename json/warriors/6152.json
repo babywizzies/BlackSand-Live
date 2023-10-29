@@ -1,6 +1,7 @@
 {
-  "idx": "6152",
+  "id": "6152",
   "name": "Dullahan Slaughterer of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6152",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

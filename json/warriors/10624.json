@@ -1,6 +1,7 @@
 {
-  "idx": "10624",
+  "id": "10624",
   "name": "Velox Assailant of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10624",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

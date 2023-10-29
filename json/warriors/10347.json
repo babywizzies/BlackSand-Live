@@ -1,6 +1,7 @@
 {
-  "idx": "10347",
+  "id": "10347",
   "name": "Charlie Madcap of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10347",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

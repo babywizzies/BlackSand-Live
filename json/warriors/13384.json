@@ -1,6 +1,7 @@
 {
-  "idx": "13384",
+  "id": "13384",
   "name": "Esther Ruin of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13384",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Wooden Hammer",
       "filename": "weapon_hammer_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

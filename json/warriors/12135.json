@@ -1,6 +1,7 @@
 {
-  "idx": "12135",
+  "id": "12135",
   "name": "Titus Savior of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12135",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

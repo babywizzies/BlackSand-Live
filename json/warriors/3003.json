@@ -1,6 +1,7 @@
 {
-  "idx": "3003",
+  "id": "3003",
   "name": "Diabolos Paragon of Joy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3003",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Skull Spear",
       "filename": "weapon_skullspear.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

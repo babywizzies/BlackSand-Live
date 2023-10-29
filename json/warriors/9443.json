@@ -1,6 +1,7 @@
 {
-  "idx": "9443",
+  "id": "9443",
   "name": "Murphy Transgressor of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9443",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

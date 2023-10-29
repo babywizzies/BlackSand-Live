@@ -1,6 +1,7 @@
 {
-  "idx": "2154",
+  "id": "2154",
   "name": "Herman Sword of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2154",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

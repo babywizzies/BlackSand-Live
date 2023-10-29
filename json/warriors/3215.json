@@ -1,6 +1,7 @@
 {
-  "idx": "3215",
+  "id": "3215",
   "name": "Marcellus Wounder of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3215",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

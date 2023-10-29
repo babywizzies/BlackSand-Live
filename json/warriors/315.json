@@ -1,6 +1,7 @@
 {
-  "idx": "315",
+  "id": "315",
   "name": "Skeet Hacker of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/315",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

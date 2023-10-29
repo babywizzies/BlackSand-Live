@@ -1,6 +1,7 @@
 {
-  "idx": "10107",
+  "id": "10107",
   "name": "Rebyx Eidolon of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10107",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

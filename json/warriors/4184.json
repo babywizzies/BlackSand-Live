@@ -1,6 +1,7 @@
 {
-  "idx": "4184",
+  "id": "4184",
   "name": "Bane Lopper of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4184",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

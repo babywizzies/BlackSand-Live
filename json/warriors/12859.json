@@ -1,6 +1,7 @@
 {
-  "idx": "12859",
+  "id": "12859",
   "name": "Adira Guardian of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12859",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

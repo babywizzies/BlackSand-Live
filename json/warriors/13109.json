@@ -1,6 +1,7 @@
 {
-  "idx": "13109",
+  "id": "13109",
   "name": "Allan Ravager of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13109",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

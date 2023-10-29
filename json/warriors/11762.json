@@ -1,6 +1,7 @@
 {
-  "idx": "11762",
+  "id": "11762",
   "name": "Charon Swashbuckler of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11762",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

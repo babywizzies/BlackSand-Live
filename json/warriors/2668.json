@@ -1,6 +1,7 @@
 {
-  "idx": "2668",
+  "id": "2668",
   "name": "Kobe Raider of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2668",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

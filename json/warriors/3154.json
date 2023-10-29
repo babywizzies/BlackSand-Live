@@ -1,6 +1,7 @@
 {
-  "idx": "3154",
+  "id": "3154",
   "name": "Clint Cutter of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3154",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

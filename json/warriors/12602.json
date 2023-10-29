@@ -1,6 +1,7 @@
 {
-  "idx": "12602",
+  "id": "12602",
   "name": "Bruno Defeater of the Mud",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12602",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

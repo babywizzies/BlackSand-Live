@@ -1,6 +1,7 @@
 {
-  "idx": "3441",
+  "id": "3441",
   "name": "Grok Bloodbath of Torment Manor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3441",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

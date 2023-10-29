@@ -1,6 +1,7 @@
 {
-  "idx": "2251",
+  "id": "2251",
   "name": "Marcellus Grifter of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2251",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

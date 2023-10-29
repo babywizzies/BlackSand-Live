@@ -1,6 +1,7 @@
 {
-  "idx": "1924",
+  "id": "1924",
   "name": "Allan Impaler of all that is Holy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1924",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6006",
+  "id": "6006",
   "name": "Kesi Guillotiner of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6006",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Triple Triangle Shield",
       "filename": "shield_3tri.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

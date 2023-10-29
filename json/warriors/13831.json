@@ -1,6 +1,7 @@
 {
-  "idx": "13831",
+  "id": "13831",
   "name": "Dexter Sword of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13831",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

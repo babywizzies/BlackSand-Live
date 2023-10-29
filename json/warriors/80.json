@@ -1,6 +1,7 @@
 {
-  "idx": "80",
+  "id": "80",
   "name": "Lekan of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/80",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

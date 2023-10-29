@@ -1,48 +1,59 @@
 {
+  "id": 13,
   "name": "3D Wizz DeeZe",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/13.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 13
+      "value": 13,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Deeze Body"
+      "value": "Deeze Body",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "3D Frog"
+      "value": "3D Frog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Deeze"
+      "value": "Deeze",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Wizard's Pipe"
+      "value": "Wizard's Pipe",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Deeze"
+      "value": "Deeze",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

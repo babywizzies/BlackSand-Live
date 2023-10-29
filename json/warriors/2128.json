@@ -1,6 +1,7 @@
 {
-  "idx": "2128",
+  "id": "2128",
   "name": "Therman Eradicator of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2128",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

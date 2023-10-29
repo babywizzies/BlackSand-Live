@@ -1,6 +1,7 @@
 {
-  "idx": "9173",
+  "id": "9173",
   "name": "Leona Cataclysm of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9173",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

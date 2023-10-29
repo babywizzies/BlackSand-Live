@@ -1,6 +1,7 @@
 {
-  "idx": "2941",
+  "id": "2941",
   "name": "Aya Battler of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2941",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

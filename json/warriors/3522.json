@@ -1,6 +1,7 @@
 {
-  "idx": "3522",
+  "id": "3522",
   "name": "Sam Fiend of Honor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3522",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

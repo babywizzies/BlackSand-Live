@@ -1,6 +1,7 @@
 {
-  "idx": "7345",
+  "id": "7345",
   "name": "Duncan Hacker of all that is Holy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7345",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

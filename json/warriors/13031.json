@@ -1,6 +1,7 @@
 {
-  "idx": "13031",
+  "id": "13031",
   "name": "Sharon Champion of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13031",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

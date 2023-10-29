@@ -1,6 +1,7 @@
 {
-  "idx": "2091",
+  "id": "2091",
   "name": "Duncan Piercer of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2091",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

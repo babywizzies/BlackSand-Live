@@ -1,6 +1,7 @@
 {
-  "idx": "8903",
+  "id": "8903",
   "name": "Leona Dismantler of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8903",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

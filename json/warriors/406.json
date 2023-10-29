@@ -1,6 +1,7 @@
 {
-  "idx": "406",
+  "id": "406",
   "name": "Tera Poker of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/406",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

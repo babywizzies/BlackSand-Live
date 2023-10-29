@@ -1,6 +1,7 @@
 {
-  "idx": "10701",
+  "id": "10701",
   "name": "Rocco Armageddon of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10701",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

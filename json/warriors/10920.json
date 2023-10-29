@@ -1,6 +1,7 @@
 {
-  "idx": "10920",
+  "id": "10920",
   "name": "Tisa of the Pantheon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10920",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Hambone",
       "filename": "item_hambone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

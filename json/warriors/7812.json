@@ -1,6 +1,7 @@
 {
-  "idx": "7812",
+  "id": "7812",
   "name": "George Terror of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7812",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

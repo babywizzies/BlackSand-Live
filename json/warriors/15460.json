@@ -1,6 +1,7 @@
 {
-  "idx": "15460",
+  "id": "15460",
   "name": "Valentina Combatant of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15460",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

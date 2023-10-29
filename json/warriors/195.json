@@ -1,6 +1,7 @@
 {
-  "idx": "195",
+  "id": "195",
   "name": "Callahan Ravager of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/195",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

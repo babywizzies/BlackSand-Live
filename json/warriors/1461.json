@@ -1,6 +1,7 @@
 {
-  "idx": "1461",
+  "id": "1461",
   "name": "Leonard Marauder of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1461",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

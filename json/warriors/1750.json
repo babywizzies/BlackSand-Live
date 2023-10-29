@@ -1,6 +1,7 @@
 {
-  "idx": "1750",
+  "id": "1750",
   "name": "Agnes Stormer of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1750",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5069",
+  "id": "5069",
   "name": "Xerxes Outlaw of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5069",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

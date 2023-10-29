@@ -1,6 +1,7 @@
 {
-  "idx": "15331",
+  "id": "15331",
   "name": "Ethan Sword of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15331",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

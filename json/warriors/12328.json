@@ -1,6 +1,7 @@
 {
-  "idx": "12328",
+  "id": "12328",
   "name": "Humphrey Raider of the Tundra",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12328",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

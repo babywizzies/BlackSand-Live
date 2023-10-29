@@ -1,6 +1,7 @@
 {
-  "idx": "2221",
+  "id": "2221",
   "name": "Jordan Striker of all that is Holy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2221",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Shield of the Sun",
       "filename": "shield_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

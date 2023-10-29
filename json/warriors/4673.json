@@ -1,6 +1,7 @@
 {
-  "idx": "4673",
+  "id": "4673",
   "name": "Tyson of the Swamp",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4673",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

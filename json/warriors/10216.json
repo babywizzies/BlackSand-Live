@@ -1,6 +1,7 @@
 {
-  "idx": "10216",
+  "id": "10216",
   "name": "Giblet Slaughterer of Gross Gorge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10216",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11592",
+  "id": "11592",
   "name": "John Savior of the Sunset",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11592",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

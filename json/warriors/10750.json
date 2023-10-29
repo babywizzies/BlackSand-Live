@@ -1,6 +1,7 @@
 {
-  "idx": "10750",
+  "id": "10750",
   "name": "Jack Shaver of the Lowlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10750",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11110",
+  "id": "11110",
   "name": "Caylon Knockout of Crystals",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11110",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

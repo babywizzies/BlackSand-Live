@@ -1,6 +1,7 @@
 {
-  "idx": "1912",
+  "id": "1912",
   "name": "Bernadette Render of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1912",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7123",
+  "id": "7123",
   "name": "Rando Protector of the Blue",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7123",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "4181",
+  "id": "4181",
   "name": "Mila Hero of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4181",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

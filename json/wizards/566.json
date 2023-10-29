@@ -1,52 +1,64 @@
 {
+  "id": 566,
   "name": "Artificer Homer of Dreams",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/566.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 566
+      "value": 566,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Hip Scarf"
+      "value": "Green Hip Scarf",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Fox Trickster"
+      "value": "Fox Trickster",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Woodland Shapeshifter"
+      "value": "Woodland Shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Bag of Tricks"
+      "value": "Bag of Tricks",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
+      "value": "Rune of Steel",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

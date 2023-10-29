@@ -1,6 +1,7 @@
 {
-  "idx": "7222",
+  "id": "7222",
   "name": "Sal of the Kraken",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7222",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

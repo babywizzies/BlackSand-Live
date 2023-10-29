@@ -1,32 +1,39 @@
 {
+  "id": 6919,
   "name": "Leader Alessar of the Villa",
   "image": "http://forgottenbabies.com/uri/json/6919.png",
-  "serial": 6919,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "little_skipper"
+      "value": "little_skipper",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "young_punjabi"
+      "value": "young_punjabi",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "none"
+      "value": "none",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "mini_green_mushroom"
+      "value": "mini_green_mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "rune_up"
+      "value": "rune_up",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

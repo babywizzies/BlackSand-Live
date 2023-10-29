@@ -1,6 +1,7 @@
 {
-  "idx": "5970",
+  "id": "5970",
   "name": "Fia Sword of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5970",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

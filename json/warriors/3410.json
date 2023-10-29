@@ -1,6 +1,7 @@
 {
-  "idx": "3410",
+  "id": "3410",
   "name": "Gage Striker of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3410",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

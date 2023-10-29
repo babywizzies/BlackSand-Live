@@ -1,48 +1,59 @@
 {
+  "id": 7918,
   "name": "Sorcerer Zaros of the Capital",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/7918.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 7918
+      "value": 7918,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Aristocrat Blue"
+      "value": "Aristocrat Blue",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "BrainDrain"
+      "value": "BrainDrain",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Zephyr's Laugh: the Wind Spell"
+      "value": "Zephyr's Laugh: the Wind Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter"
+      "value": "Rune of Jupiter",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

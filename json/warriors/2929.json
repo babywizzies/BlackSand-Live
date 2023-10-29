@@ -1,6 +1,7 @@
 {
-  "idx": "2929",
+  "id": "2929",
   "name": "Anaya Terror of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2929",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

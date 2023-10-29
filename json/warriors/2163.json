@@ -1,6 +1,7 @@
 {
-  "idx": "2163",
+  "id": "2163",
   "name": "Felix Guardian of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2163",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

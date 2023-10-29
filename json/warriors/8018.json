@@ -1,6 +1,7 @@
 {
-  "idx": "8018",
+  "id": "8018",
   "name": "Brock Annihilator of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8018",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

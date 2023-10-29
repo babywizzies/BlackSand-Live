@@ -1,6 +1,7 @@
 {
-  "idx": "7385",
+  "id": "7385",
   "name": "Gungunu Poker of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7385",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

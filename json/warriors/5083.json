@@ -1,6 +1,7 @@
 {
-  "idx": "5083",
+  "id": "5083",
   "name": "Imu of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5083",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

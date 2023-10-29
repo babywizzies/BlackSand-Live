@@ -1,6 +1,7 @@
 {
-  "idx": "10557",
+  "id": "10557",
   "name": "Thromble Combatant of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10557",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

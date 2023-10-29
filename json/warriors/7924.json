@@ -1,6 +1,7 @@
 {
-  "idx": "7924",
+  "id": "7924",
   "name": "Thorne Assailant of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7924",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Magic Shield",
       "filename": "shield_magic.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

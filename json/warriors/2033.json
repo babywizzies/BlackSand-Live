@@ -1,6 +1,7 @@
 {
-  "idx": "2033",
+  "id": "2033",
   "name": "Xander Dicer of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2033",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

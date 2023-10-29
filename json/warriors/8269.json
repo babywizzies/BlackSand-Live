@@ -1,6 +1,7 @@
 {
-  "idx": "8269",
+  "id": "8269",
   "name": "Charlie Belligerent of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8269",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Morningstar",
       "filename": "weapon_morningstar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

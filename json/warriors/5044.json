@@ -1,6 +1,7 @@
 {
-  "idx": "5044",
+  "id": "5044",
   "name": "Nigel Assaulter of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5044",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8864",
+  "id": "8864",
   "name": "Nikitia Terror of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8864",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

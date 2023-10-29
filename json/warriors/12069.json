@@ -1,6 +1,7 @@
 {
-  "idx": "12069",
+  "id": "12069",
   "name": "Nitro Cleaver of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12069",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

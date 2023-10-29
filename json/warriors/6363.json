@@ -1,6 +1,7 @@
 {
-  "idx": "6363",
+  "id": "6363",
   "name": "Oni Cleaver of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6363",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

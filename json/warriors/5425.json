@@ -1,6 +1,7 @@
 {
-  "idx": "5425",
+  "id": "5425",
   "name": "Sandy Stormer of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5425",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

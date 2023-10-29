@@ -1,6 +1,7 @@
 {
-  "idx": "11178",
+  "id": "11178",
   "name": "Velbi Crasher of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11178",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

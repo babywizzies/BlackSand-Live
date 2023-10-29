@@ -1,6 +1,7 @@
 {
-  "idx": "4339",
+  "id": "4339",
   "name": "Leona Wanderer of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4339",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

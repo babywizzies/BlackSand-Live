@@ -1,6 +1,7 @@
 {
-  "idx": "2050",
+  "id": "2050",
   "name": "Gilbert Striker of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2050",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

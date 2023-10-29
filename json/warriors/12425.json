@@ -1,6 +1,7 @@
 {
-  "idx": "12425",
+  "id": "12425",
   "name": "Brianne Madcap of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12425",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8019",
+  "id": "8019",
   "name": "Thorne Fiend of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8019",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10379",
+  "id": "10379",
   "name": "Ned of the Canyon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10379",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

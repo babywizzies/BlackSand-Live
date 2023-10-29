@@ -1,6 +1,7 @@
 {
-  "idx": "539",
+  "id": "539",
   "name": "Talal Sword of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/539",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

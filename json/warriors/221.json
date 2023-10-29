@@ -1,6 +1,7 @@
 {
-  "idx": "221",
+  "id": "221",
   "name": "Fang Basher of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/221",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "4009",
+  "id": "4009",
   "name": "Howard Mangler of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4009",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

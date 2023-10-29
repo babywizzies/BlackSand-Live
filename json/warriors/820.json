@@ -1,6 +1,7 @@
 {
-  "idx": "820",
+  "id": "820",
   "name": "Imari Despoiler of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/820",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

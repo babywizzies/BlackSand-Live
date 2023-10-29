@@ -1,6 +1,7 @@
 {
-  "idx": "8648",
+  "id": "8648",
   "name": "Eon Chopper of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8648",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Green Buckler",
       "filename": "shield_circle_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

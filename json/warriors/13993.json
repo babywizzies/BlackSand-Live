@@ -1,6 +1,7 @@
 {
-  "idx": "13993",
+  "id": "13993",
   "name": "Taurus Striker of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13993",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

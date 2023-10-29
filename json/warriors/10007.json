@@ -1,6 +1,7 @@
 {
-  "idx": "10007",
+  "id": "10007",
   "name": "Knox Stabber of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10007",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gold Holy Shield",
       "filename": "shield_holy_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3893",
+  "id": "3893",
   "name": "Miles Raider of the Lowlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3893",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

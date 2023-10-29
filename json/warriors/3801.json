@@ -1,6 +1,7 @@
 {
-  "idx": "3801",
+  "id": "3801",
   "name": "Koffi Champion of the Trees",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3801",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5195",
+  "id": "5195",
   "name": "Delu Shark of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5195",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

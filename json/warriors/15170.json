@@ -1,6 +1,7 @@
 {
-  "idx": "15170",
+  "id": "15170",
   "name": "Marci Sword of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15170",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

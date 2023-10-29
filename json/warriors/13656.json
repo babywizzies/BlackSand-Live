@@ -1,6 +1,7 @@
 {
-  "idx": "13656",
+  "id": "13656",
   "name": "Rockwell Champion of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13656",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Wooden Buckler",
       "filename": "shield_circlewood.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

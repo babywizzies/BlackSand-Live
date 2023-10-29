@@ -1,6 +1,7 @@
 {
-  "idx": "3842",
+  "id": "3842",
   "name": "Archer Dodger of the Cage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3842",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

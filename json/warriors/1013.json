@@ -1,6 +1,7 @@
 {
-  "idx": "1013",
+  "id": "1013",
   "name": "Bernadette Contaminator of Avalon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1013",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Green Aspis",
       "filename": "shield_circle_cross_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

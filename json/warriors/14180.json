@@ -1,6 +1,7 @@
 {
-  "idx": "14180",
+  "id": "14180",
   "name": "Lubalar Raider of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14180",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

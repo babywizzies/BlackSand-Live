@@ -1,6 +1,7 @@
 {
-  "idx": "2821",
+  "id": "2821",
   "name": "Setsuko Cleaver of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2821",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

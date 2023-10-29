@@ -1,6 +1,7 @@
 {
-  "idx": "2360",
+  "id": "2360",
   "name": "Arnie Menace of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2360",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

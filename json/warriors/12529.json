@@ -1,6 +1,7 @@
 {
-  "idx": "12529",
+  "id": "12529",
   "name": " Impaler of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12529",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

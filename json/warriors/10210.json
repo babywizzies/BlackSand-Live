@@ -1,6 +1,7 @@
 {
-  "idx": "10210",
+  "id": "10210",
   "name": "Lyam Violator of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10210",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

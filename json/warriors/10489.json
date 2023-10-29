@@ -1,6 +1,7 @@
 {
-  "idx": "10489",
+  "id": "10489",
   "name": "Tyson Daredevil of Concrete",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10489",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

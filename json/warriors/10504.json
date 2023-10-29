@@ -1,6 +1,7 @@
 {
-  "idx": "10504",
+  "id": "10504",
   "name": " Cutter of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10504",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

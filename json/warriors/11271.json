@@ -1,6 +1,7 @@
 {
-  "idx": "11271",
+  "id": "11271",
   "name": "Manu Guardian of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11271",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

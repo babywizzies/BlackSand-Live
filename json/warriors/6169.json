@@ -1,6 +1,7 @@
 {
-  "idx": "6169",
+  "id": "6169",
   "name": "Ash Bifurcator of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6169",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

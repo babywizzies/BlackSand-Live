@@ -1,6 +1,7 @@
 {
-  "idx": "13230",
+  "id": "13230",
   "name": "Remi Breaker of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13230",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

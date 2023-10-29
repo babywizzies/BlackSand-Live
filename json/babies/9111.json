@@ -1,28 +1,34 @@
 {
+  "id": 9111,
   "name": "Warden of Baby Jail",
   "image": "http://forgottenbabies.com/uri/json/9111.png",
-  "serial": 9111,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "black"
+      "value": "black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "smoll_yellow_cleric"
+      "value": "smoll_yellow_cleric",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "baby_bugbear"
+      "value": "baby_bugbear",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "potted_plant"
+      "value": "potted_plant",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "baby_boar"
+      "value": "baby_boar",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7978",
+  "id": "7978",
   "name": "Lance Guardian of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7978",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1250",
+  "id": "1250",
   "name": "Achilles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1250",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Pantheon Spear",
       "filename": "weapon_spearWing.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

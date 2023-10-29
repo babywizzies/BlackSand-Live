@@ -1,6 +1,7 @@
 {
-  "idx": "11288",
+  "id": "11288",
   "name": "Abigor Scissor of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11288",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

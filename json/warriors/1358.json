@@ -1,6 +1,7 @@
 {
-  "idx": "1358",
+  "id": "1358",
   "name": "Kojak Shadow of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1358",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

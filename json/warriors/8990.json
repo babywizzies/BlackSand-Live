@@ -1,6 +1,7 @@
 {
-  "idx": "8990",
+  "id": "8990",
   "name": "Donovan Assasinator of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8990",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

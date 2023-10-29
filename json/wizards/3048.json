@@ -1,52 +1,64 @@
 {
+  "id": 3048,
   "name": "Arch-Magician Bathsheba of the Valley",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3048.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3048
+      "value": 3048,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Hip Pouch"
+      "value": "Blue Hip Pouch",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Field Dog"
+      "value": "Field Dog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Coven Sister"
+      "value": "Coven Sister",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Staff"
+      "value": "Staff",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mars"
+      "value": "Rune of Mars",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Feminine"
+      "value": "Feminine",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "40"
+      "value": "40",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

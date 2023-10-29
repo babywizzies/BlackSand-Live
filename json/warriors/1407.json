@@ -1,6 +1,7 @@
 {
-  "idx": "1407",
+  "id": "1407",
   "name": "Rubin Terror of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1407",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

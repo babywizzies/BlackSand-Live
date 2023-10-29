@@ -1,6 +1,7 @@
 {
-  "idx": "10551",
+  "id": "10551",
   "name": "Meryl Protector of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10551",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

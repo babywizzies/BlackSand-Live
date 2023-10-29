@@ -1,6 +1,7 @@
 {
-  "idx": "5234",
+  "id": "5234",
   "name": "Bambam Fencer of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5234",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

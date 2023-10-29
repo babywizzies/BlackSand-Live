@@ -1,6 +1,7 @@
 {
-  "idx": "12747",
+  "id": "12747",
   "name": "Ruthven Sword of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12747",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

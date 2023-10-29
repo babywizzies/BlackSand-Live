@@ -1,6 +1,7 @@
 {
-  "idx": "1830",
+  "id": "1830",
   "name": "Keren Combatant of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1830",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

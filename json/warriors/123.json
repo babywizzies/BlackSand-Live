@@ -1,6 +1,7 @@
 {
-  "idx": "123",
+  "id": "123",
   "name": "Lance Dicer of Birds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/123",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15403",
+  "id": "15403",
   "name": "King Battler of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15403",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7082",
+  "id": "7082",
   "name": "Erin Robber of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7082",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

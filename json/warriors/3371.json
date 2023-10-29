@@ -1,6 +1,7 @@
 {
-  "idx": "3371",
+  "id": "3371",
   "name": "Jag Wrecker of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3371",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13369",
+  "id": "13369",
   "name": "Bambam Vanquisher of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13369",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

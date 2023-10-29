@@ -1,6 +1,7 @@
 {
-  "idx": "11562",
+  "id": "11562",
   "name": "Bane Attacker of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11562",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Gold Herald Shield",
       "filename": "shield_chevron_yellow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7393",
+  "id": "7393",
   "name": "Nova Sword of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7393",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

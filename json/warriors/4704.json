@@ -1,6 +1,7 @@
 {
-  "idx": "4704",
+  "id": "4704",
   "name": "Frankie Bow of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4704",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

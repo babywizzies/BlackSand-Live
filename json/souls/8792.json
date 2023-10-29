@@ -1,6 +1,7 @@
 {
-  "idx": "8792",
+  "id": "8792",
   "name": "Nosferatu",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Count Orlok",
       "filename": "head_nosferatu.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

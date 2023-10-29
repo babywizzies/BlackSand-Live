@@ -1,6 +1,7 @@
 {
-  "idx": "5766",
+  "id": "5766",
   "name": "Stone of the Snow",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5766",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

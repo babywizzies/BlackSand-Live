@@ -1,6 +1,7 @@
 {
-  "idx": "5209",
+  "id": "5209",
   "name": "Valda Hammer of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5209",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

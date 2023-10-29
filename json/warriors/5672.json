@@ -1,6 +1,7 @@
 {
-  "idx": "5672",
+  "id": "5672",
   "name": "Nick Apocalypse of the Disco",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5672",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

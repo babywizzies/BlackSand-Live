@@ -1,6 +1,7 @@
 {
-  "idx": "10002",
+  "id": "10002",
   "name": "Hagar Defeater of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10002",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

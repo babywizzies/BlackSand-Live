@@ -1,6 +1,7 @@
 {
-  "idx": "1520",
+  "id": "1520",
   "name": "Ernie Demolisher of Blood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1520",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

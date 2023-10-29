@@ -1,6 +1,7 @@
 {
-  "idx": "2348",
+  "id": "2348",
   "name": "Glork Lightbearer the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2348",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

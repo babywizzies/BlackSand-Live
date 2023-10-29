@@ -1,6 +1,7 @@
 {
-  "idx": "11930",
+  "id": "11930",
   "name": "Leila Dismantler of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11930",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

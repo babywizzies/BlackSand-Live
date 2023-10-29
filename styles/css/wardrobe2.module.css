@@ -25,6 +25,46 @@
     text-align: center;
 }
 
+.tabs {
+    
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-bottom: 20px;
+    font-family: 'Origen';
+  }
+  
+  /* Individual tab button */
+  .tabs button {
+    background: none;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-family: 'Origen';
+    font-size: clamp(3rem, 1.3rem + 1.0vw, 1.5rem);
+    background: -webkit-linear-gradient(#fbea71, #d4b42c);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .tabs button:hover {
+    background: -webkit-linear-gradient(#d4b42c, #fbea71);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transform: scale(1.1);
+  }
+
+  
+  
+  /* Active tab button */
+  .tabs button.active {
+    border-bottom: 2px solid #d4b42c;
+    background: -webkit-linear-gradient(#d4b42c, #fbea71);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
 .container1{
     display: flex;
     flex-direction: column;

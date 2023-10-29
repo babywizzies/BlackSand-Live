@@ -1,6 +1,7 @@
 {
-  "idx": "7558",
+  "id": "7558",
   "name": "Gadreel Thief of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7558",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

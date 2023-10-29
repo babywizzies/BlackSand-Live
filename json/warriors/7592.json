@@ -1,6 +1,7 @@
 {
-  "idx": "7592",
+  "id": "7592",
   "name": "Humphrey Mercenary of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7592",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

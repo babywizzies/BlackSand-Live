@@ -1,6 +1,7 @@
 {
-  "idx": "8779",
+  "id": "8779",
   "name": "Butch Flagellator of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8779",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

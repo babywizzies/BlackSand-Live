@@ -1,44 +1,54 @@
 {
+  "id": 2704,
   "name": "Druid Ravana of the Canyon",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2704.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2704
+      "value": 2704,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Lined Coveralls"
+      "value": "Green Lined Coveralls",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Ascetic"
+      "value": "Ascetic",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Shaman's Peyote"
+      "value": "Shaman's Peyote",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Rugged"
+      "value": "Rugged",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

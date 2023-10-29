@@ -1,6 +1,7 @@
 {
-  "idx": "9358",
+  "id": "9358",
   "name": "Wilder Guardian of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9358",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11845",
+  "id": "11845",
   "name": "Henry Savior of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11845",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

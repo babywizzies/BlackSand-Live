@@ -1,6 +1,7 @@
 {
-  "idx": "15068",
+  "id": "15068",
   "name": "Dralin Mincer of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15068",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

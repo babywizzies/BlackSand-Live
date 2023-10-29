@@ -1,6 +1,7 @@
 {
-  "idx": "7122",
+  "id": "7122",
   "name": "Ethan Crasher of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7122",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

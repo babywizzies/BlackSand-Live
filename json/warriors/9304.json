@@ -1,6 +1,7 @@
 {
-  "idx": "9304",
+  "id": "9304",
   "name": "Faust Miscreant of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9304",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

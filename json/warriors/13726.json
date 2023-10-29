@@ -1,6 +1,7 @@
 {
-  "idx": "13726",
+  "id": "13726",
   "name": "Naberius Shadow of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13726",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

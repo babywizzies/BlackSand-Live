@@ -1,6 +1,7 @@
 {
-  "idx": "7487",
+  "id": "7487",
   "name": "Etana Battler of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7487",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Frog Shield",
       "filename": "shield_frog.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

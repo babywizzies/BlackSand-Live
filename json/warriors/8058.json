@@ -1,6 +1,7 @@
 {
-  "idx": "8058",
+  "id": "8058",
   "name": "Shira Guardian of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8058",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

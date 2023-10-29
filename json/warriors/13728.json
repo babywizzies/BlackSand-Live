@@ -1,6 +1,7 @@
 {
-  "idx": "13728",
+  "id": "13728",
   "name": "Wolfe Ruin of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13728",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

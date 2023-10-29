@@ -1,52 +1,64 @@
 {
+  "id": 2139,
   "name": "Sorcerer Gary of the Reach",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2139.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2139
+      "value": 2139,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Coveralls"
+      "value": "White Coveralls",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Topaz Slime"
+      "value": "Topaz Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Polar Shapeshifter"
+      "value": "Polar Shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Soul Harvester"
+      "value": "Soul Harvester",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
+      "value": "Rune of Steel",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "White Magic"
+      "value": "White Magic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8104",
+  "id": "8104",
   "name": "Damon Annihilator of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8104",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

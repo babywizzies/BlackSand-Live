@@ -1,52 +1,64 @@
 {
+  "id": 5668,
   "name": "Magus Kraken of the Marsh",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5668.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5668
+      "value": 5668,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Green Big Buckle"
+      "value": "Green Big Buckle",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Jewled Hummingbird"
+      "value": "Jewled Hummingbird",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Great Old One"
+      "value": "Great Old One",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Green Mushroom"
+      "value": "Green Mushroom",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brimstone"
+      "value": "Rune of Brimstone",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Verdant"
+      "value": "Verdant",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

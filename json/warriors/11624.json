@@ -1,6 +1,7 @@
 {
-  "idx": "11624",
+  "id": "11624",
   "name": "Wyatt Bruiser of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11624",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

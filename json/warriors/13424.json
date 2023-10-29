@@ -1,6 +1,7 @@
 {
-  "idx": "13424",
+  "id": "13424",
   "name": "Arvid Impaler of the Trees",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13424",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

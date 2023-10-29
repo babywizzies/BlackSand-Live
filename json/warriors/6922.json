@@ -1,6 +1,7 @@
 {
-  "idx": "6922",
+  "id": "6922",
   "name": "Barad Paragon of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6922",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

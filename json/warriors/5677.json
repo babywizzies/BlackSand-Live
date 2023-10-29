@@ -1,6 +1,7 @@
 {
-  "idx": "5677",
+  "id": "5677",
   "name": "Leonard Defender of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5677",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

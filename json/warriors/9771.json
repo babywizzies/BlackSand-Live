@@ -1,6 +1,7 @@
 {
-  "idx": "9771",
+  "id": "9771",
   "name": "Denali Champion of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9771",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

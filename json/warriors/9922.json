@@ -1,6 +1,7 @@
 {
-  "idx": "9922",
+  "id": "9922",
   "name": "Parker Carver of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9922",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

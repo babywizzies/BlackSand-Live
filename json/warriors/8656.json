@@ -1,6 +1,7 @@
 {
-  "idx": "8656",
+  "id": "8656",
   "name": "Aldokeg Axe of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8656",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

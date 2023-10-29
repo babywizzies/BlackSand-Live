@@ -1,6 +1,7 @@
 {
-  "idx": "908",
+  "id": "908",
   "name": "Tad Masher of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/908",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

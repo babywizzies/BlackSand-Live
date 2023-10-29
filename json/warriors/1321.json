@@ -1,6 +1,7 @@
 {
-  "idx": "1321",
+  "id": "1321",
   "name": "Gruzzon Dicer of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1321",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6910",
+  "id": "6910",
   "name": "Dante Cutter of Penguins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6910",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Might Shield",
       "filename": "shield_might.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

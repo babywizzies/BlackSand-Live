@@ -1,6 +1,7 @@
 {
-  "idx": "7828",
+  "id": "7828",
   "name": "Eon Ruin of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7828",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

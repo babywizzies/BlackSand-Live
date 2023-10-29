@@ -1,6 +1,7 @@
 {
-  "idx": "11184",
+  "id": "11184",
   "name": "Commodus Antihero of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11184",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

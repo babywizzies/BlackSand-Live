@@ -1,52 +1,64 @@
 {
+  "id": 4412,
   "name": "Sorcerer Abbadon of the Cosmos",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4412.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4412
+      "value": 4412,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Purple Mantle Robe"
+      "value": "Purple Mantle Robe",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Forever Bat"
+      "value": "Forever Bat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Corpse Feeder"
+      "value": "Corpse Feeder",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Soul Harvester"
+      "value": "Soul Harvester",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar"
+      "value": "Rune of Cinnabar",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Wraith"
+      "value": "Wraith",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

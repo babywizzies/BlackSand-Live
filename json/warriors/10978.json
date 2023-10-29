@@ -1,6 +1,7 @@
 {
-  "idx": "10978",
+  "id": "10978",
   "name": "Mushen Stormer of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10978",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Air Elemental Shield",
       "filename": "shield_wind.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6101",
+  "id": "6101",
   "name": "Hina Champion of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6101",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

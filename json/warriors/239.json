@@ -1,6 +1,7 @@
 {
-  "idx": "239",
+  "id": "239",
   "name": "Eon Dissector of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/239",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

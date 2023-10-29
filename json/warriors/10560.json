@@ -1,6 +1,7 @@
 {
-  "idx": "10560",
+  "id": "10560",
   "name": "Xerxes Slasher of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10560",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

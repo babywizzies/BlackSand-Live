@@ -1,6 +1,7 @@
 {
-  "idx": "4235",
+  "id": "4235",
   "name": "Cane Vengeance of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4235",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

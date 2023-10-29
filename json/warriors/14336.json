@@ -1,6 +1,7 @@
 {
-  "idx": "14336",
+  "id": "14336",
   "name": "Chiaki Dicer of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14336",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

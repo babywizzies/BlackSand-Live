@@ -1,44 +1,54 @@
 {
+  "id": 596,
   "name": " Lux of the Havens",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/596.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 596
+      "value": 596,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "White Tunic"
+      "value": "White Tunic",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Diviner"
+      "value": "Diviner",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Lucky Horseshoe"
+      "value": "Lucky Horseshoe",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Purple Haze"
+      "value": "Purple Haze",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

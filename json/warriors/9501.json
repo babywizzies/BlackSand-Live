@@ -1,6 +1,7 @@
 {
-  "idx": "9501",
+  "id": "9501",
   "name": "Talal Armageddon of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9501",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

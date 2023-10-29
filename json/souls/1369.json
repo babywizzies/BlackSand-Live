@@ -1,6 +1,7 @@
 {
-  "idx": "1369",
+  "id": "1369",
   "name": "Gangrenous Zombie Gunthor of the Mortal Coil",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Ghost Slime",
       "filename": "familiar_slime_ghost.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

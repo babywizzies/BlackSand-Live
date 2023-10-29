@@ -1,6 +1,7 @@
 {
-  "idx": "97",
+  "id": "97",
   "name": "Draco Miscreant of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/97",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,48 +1,59 @@
 {
+  "id": 161,
   "name": "Archmagus Aleister of the Palms",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/161.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 161
+      "value": 161,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Purple Harem Pants"
+      "value": "Purple Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Sapphire Slime"
+      "value": "Sapphire Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Scholar"
+      "value": "Scholar",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Zephyr's Laugh: the Wind Spell"
+      "value": "Zephyr's Laugh: the Wind Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

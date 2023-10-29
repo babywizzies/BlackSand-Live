@@ -1,6 +1,7 @@
 {
-  "idx": "3889",
+  "id": "3889",
   "name": "Samael Executor of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3889",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

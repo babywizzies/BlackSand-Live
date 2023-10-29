@@ -1,6 +1,7 @@
 {
-  "idx": "3430",
+  "id": "3430",
   "name": "Max Chopper of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3430",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "White Kite",
       "filename": "shield_kite_white.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

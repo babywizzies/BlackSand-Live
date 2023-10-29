@@ -1,6 +1,7 @@
 {
-  "idx": "11145",
+  "id": "11145",
   "name": "Urash Mercenary of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11145",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

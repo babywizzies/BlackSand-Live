@@ -1,6 +1,7 @@
 {
-  "idx": "2094",
+  "id": "2094",
   "name": "Liang Blade of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2094",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

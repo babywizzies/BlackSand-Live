@@ -1,6 +1,7 @@
 {
-  "idx": "370",
+  "id": "370",
   "name": "Sandy Guillotiner of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/370",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

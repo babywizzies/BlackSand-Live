@@ -1,6 +1,7 @@
 {
-  "idx": "15221",
+  "id": "15221",
   "name": "Jackson Champion of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15221",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

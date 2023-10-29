@@ -1,6 +1,7 @@
 {
-  "idx": "6517",
+  "id": "6517",
   "name": "Rowan Sword of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6517",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

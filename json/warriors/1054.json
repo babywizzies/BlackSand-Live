@@ -1,6 +1,7 @@
 {
-  "idx": "1054",
+  "id": "1054",
   "name": "Inanna Doom of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1054",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

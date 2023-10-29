@@ -1,6 +1,7 @@
 {
-  "idx": "14201",
+  "id": "14201",
   "name": "Richard Destroyer for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14201",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

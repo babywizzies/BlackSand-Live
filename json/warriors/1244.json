@@ -1,6 +1,7 @@
 {
-  "idx": "1244",
+  "id": "1244",
   "name": "Groos Protector of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1244",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

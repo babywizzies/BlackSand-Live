@@ -1,52 +1,64 @@
 {
+  "id": 125,
   "name": " Eden of the Thorn",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/125.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 125
+      "value": 125,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Elven Cloak"
+      "value": "Blue Elven Cloak",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Astral Arcanist"
+      "value": "Astral Arcanist",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Thor's Wrath: the Lightning Spell"
+      "value": "Thor's Wrath: the Lightning Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel"
+      "value": "Rune of Steel",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Blue Shift"
+      "value": "Blue Shift",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "60"
+      "value": "60",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

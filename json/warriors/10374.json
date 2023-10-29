@@ -1,6 +1,7 @@
 {
-  "idx": "10374",
+  "id": "10374",
   "name": "Luke Rascal of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10374",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

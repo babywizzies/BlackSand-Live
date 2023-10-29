@@ -1,6 +1,7 @@
 {
-  "idx": "11581",
+  "id": "11581",
   "name": "Solan Rogue of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11581",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

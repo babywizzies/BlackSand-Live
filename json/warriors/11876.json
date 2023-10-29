@@ -1,6 +1,7 @@
 {
-  "idx": "11876",
+  "id": "11876",
   "name": "Boarhead Crumbler of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11876",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

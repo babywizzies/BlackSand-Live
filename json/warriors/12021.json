@@ -1,6 +1,7 @@
 {
-  "idx": "12021",
+  "id": "12021",
   "name": "Glubb Striker of the Hell Chamber",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12021",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

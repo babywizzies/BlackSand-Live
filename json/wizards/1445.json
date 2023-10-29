@@ -1,52 +1,64 @@
 {
+  "id": 1445,
   "name": "Diviner Robert of Arcadia",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/1445.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 1445
+      "value": 1445,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Cape in the Wind"
+      "value": "Cape in the Wind",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Psychic Rabbit"
+      "value": "Psychic Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Polar Shapeshifter"
+      "value": "Polar Shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Ace in the Hole"
+      "value": "Ace in the Hole",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air"
+      "value": "Rune of Air",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "White Magic"
+      "value": "White Magic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

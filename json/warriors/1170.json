@@ -1,6 +1,7 @@
 {
-  "idx": "1170",
+  "id": "1170",
   "name": "Frazzon Marauder of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1170",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

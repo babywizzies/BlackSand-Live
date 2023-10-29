@@ -1,6 +1,7 @@
 {
-  "idx": "9197",
+  "id": "9197",
   "name": "Saber Eradicator of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9197",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,48 +1,59 @@
 {
+  "id": 6480,
   "name": "Archmagus Zelroth of the Mount",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6480.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6480
+      "value": 6480,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orange Scholar"
+      "value": "Orange Scholar",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Topaz Slime"
+      "value": "Topaz Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Professor"
+      "value": "Professor",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Nightshade Potion"
+      "value": "Nightshade Potion",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Orange"
+      "value": "Orange",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

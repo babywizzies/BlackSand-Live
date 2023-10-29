@@ -1,6 +1,7 @@
 {
-  "idx": "5851",
+  "id": "5851",
   "name": "Esther Vanquisher of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5851",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

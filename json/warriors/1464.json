@@ -1,6 +1,7 @@
 {
-  "idx": "1464",
+  "id": "1464",
   "name": "Donovan of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1464",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

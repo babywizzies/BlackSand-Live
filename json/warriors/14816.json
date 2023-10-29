@@ -1,6 +1,7 @@
 {
-  "idx": "14816",
+  "id": "14816",
   "name": "Jib Battler of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14816",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

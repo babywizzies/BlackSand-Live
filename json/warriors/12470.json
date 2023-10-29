@@ -1,6 +1,7 @@
 {
-  "idx": "12470",
+  "id": "12470",
   "name": "Toka Dismantler of the Swamps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12470",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

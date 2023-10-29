@@ -1,6 +1,7 @@
 {
-  "idx": "15875",
+  "id": "15875",
   "name": "Waldo Hacker of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15875",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

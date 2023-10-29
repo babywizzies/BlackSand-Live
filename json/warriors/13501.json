@@ -1,6 +1,7 @@
 {
-  "idx": "13501",
+  "id": "13501",
   "name": "Cadogan Broiler of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13501",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

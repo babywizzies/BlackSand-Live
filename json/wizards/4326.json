@@ -1,48 +1,59 @@
 {
+  "id": 4326,
   "name": "Artificer Jastor of the Keep",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4326.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4326
+      "value": 4326,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Formal Suit"
+      "value": "Formal Suit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Anuran"
+      "value": "Anuran",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Goblet of Immortality"
+      "value": "Goblet of Immortality",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Frog"
+      "value": "Frog",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

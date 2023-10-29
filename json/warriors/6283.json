@@ -1,6 +1,7 @@
 {
-  "idx": "6283",
+  "id": "6283",
   "name": "Cassius Pulverizer of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6283",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15016",
+  "id": "15016",
   "name": "Emerson of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15016",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

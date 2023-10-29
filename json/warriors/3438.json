@@ -1,6 +1,7 @@
 {
-  "idx": "3438",
+  "id": "3438",
   "name": "Nyx Disintegrator of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3438",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5439",
+  "id": "5439",
   "name": "Horgrum Marauder of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5439",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9630",
+  "id": "9630",
   "name": "Bane Apocalypse of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9630",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

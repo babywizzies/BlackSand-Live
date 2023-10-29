@@ -1,6 +1,7 @@
 {
-  "idx": "2102",
+  "id": "2102",
   "name": "Griffin Render of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2102",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

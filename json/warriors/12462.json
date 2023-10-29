@@ -1,6 +1,7 @@
 {
-  "idx": "12462",
+  "id": "12462",
   "name": "Knox Cruncher of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12462",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

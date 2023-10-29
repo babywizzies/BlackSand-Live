@@ -1,44 +1,54 @@
 {
+  "id": 3141,
   "name": "Shaman Durm of the Palms",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/3141.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 3141
+      "value": 3141,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Poncho"
+      "value": "Poncho",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Strongman"
+      "value": "Strongman",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Shaman's Peyote"
+      "value": "Shaman's Peyote",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Desert"
+      "value": "Desert",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12202",
+  "id": "12202",
   "name": "Luisa Lopper of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12202",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

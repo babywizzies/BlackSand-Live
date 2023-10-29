@@ -1,6 +1,7 @@
 {
-  "idx": "15766",
+  "id": "15766",
   "name": "Axel Raider of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15766",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

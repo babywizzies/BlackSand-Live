@@ -1,6 +1,7 @@
 {
-  "idx": "8790",
+  "id": "8790",
   "name": "Alpha Shatterer of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8790",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

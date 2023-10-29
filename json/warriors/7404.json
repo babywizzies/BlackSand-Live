@@ -1,6 +1,7 @@
 {
-  "idx": "7404",
+  "id": "7404",
   "name": "Zasha Creeper of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7404",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

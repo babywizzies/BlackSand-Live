@@ -1,6 +1,7 @@
 {
-  "idx": "13103",
+  "id": "13103",
   "name": "Marie Contaminator of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13103",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2625",
+  "id": "2625",
   "name": "Leona Ruin of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2625",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

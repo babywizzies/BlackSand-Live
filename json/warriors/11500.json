@@ -1,6 +1,7 @@
 {
-  "idx": "11500",
+  "id": "11500",
   "name": "Marie Piercer of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11500",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

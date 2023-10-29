@@ -1,6 +1,7 @@
 {
-  "idx": "12186",
+  "id": "12186",
   "name": "Perseus Armageddon of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12186",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

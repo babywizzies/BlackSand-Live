@@ -1,6 +1,7 @@
 {
-  "idx": "7505",
+  "id": "7505",
   "name": "Zoya Dueler of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7505",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

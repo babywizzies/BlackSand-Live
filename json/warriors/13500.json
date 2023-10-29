@@ -1,6 +1,7 @@
 {
-  "idx": "13500",
+  "id": "13500",
   "name": "Neil Dicer of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13500",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

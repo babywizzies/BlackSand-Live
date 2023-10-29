@@ -1,6 +1,7 @@
 {
-  "idx": "133",
+  "id": "133",
   "name": "Bloody Mary",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Mary's Torch",
       "filename": "item_marystorch.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

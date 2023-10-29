@@ -1,6 +1,7 @@
 {
-  "idx": "1302",
+  "id": "1302",
   "name": "Drogo Jackhammer of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1302",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mace",
       "filename": "weapon_mace.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

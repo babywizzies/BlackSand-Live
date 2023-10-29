@@ -1,6 +1,7 @@
 {
-  "idx": "10059",
+  "id": "10059",
   "name": "Jett Shark of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10059",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

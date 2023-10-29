@@ -1,6 +1,7 @@
 {
-  "idx": "2046",
+  "id": "2046",
   "name": "Ernest Eradicator of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2046",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

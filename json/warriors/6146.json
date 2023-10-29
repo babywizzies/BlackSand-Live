@@ -1,6 +1,7 @@
 {
-  "idx": "6146",
+  "id": "6146",
   "name": "Zocklan Sword of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6146",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

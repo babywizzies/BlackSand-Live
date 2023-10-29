@@ -1,6 +1,7 @@
 {
-  "idx": "2316",
+  "id": "2316",
   "name": "Warden Danger of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2316",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

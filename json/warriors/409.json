@@ -1,6 +1,7 @@
 {
-  "idx": "409",
+  "id": "409",
   "name": "Scott Madcap of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/409",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

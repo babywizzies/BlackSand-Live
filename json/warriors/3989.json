@@ -1,6 +1,7 @@
 {
-  "idx": "3989",
+  "id": "3989",
   "name": "Rziya Combatant of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3989",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

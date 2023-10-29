@@ -1,6 +1,7 @@
 {
-  "idx": "2817",
+  "id": "2817",
   "name": "Luke Wrecker of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2817",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

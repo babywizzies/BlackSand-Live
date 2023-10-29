@@ -1,6 +1,7 @@
 {
-  "idx": "4774",
+  "id": "4774",
   "name": "Goliath Marauder of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4774",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

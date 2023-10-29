@@ -1,6 +1,7 @@
 {
-  "idx": "12524",
+  "id": "12524",
   "name": "Karnak Chopper of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12524",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

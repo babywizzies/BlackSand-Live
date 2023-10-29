@@ -95,39 +95,38 @@ const CharacterSelect: FC<{ id: string; contract: string; onSelect: (character: 
   }
   
   return (
-    <div
-      onClick={() => onSelect({ id, contract })}
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
-      style={{ overflow: "hidden", position: "relative", border: isSelected ? '3px solid green' : 'none' }}
-    >
-      <div style={{ overflow: "hidden", position: "relative" }}>
-        <div
-          style={{
-            backgroundImage: isHovered ? 'url("/img/frame_on.png")' : 'url("/img/frame_off.png")',
-            backgroundSize: "200px 200px",
-            backgroundRepeat: "no-repeat",
-            height: "100%",
-            width: "100%",
-            position: "absolute",
-            top: 0,
-            left: 0,
-            zIndex: 10,
-          }}>
-
-          </div>
-        <div
-          style={{
-            zIndex: 1,
-            width: 200,
-            height: 200,
-            backgroundImage: `url("${backgroundImageUrl}")`,
-            backgroundRepeat: "no-repeat",
-            backgroundPosition: backgroundPositions[backgroundPosition],
-            backgroundSize: "80%",
-            clipPath: "polygon(5% 3%, 94% 3%, 95% 97%, 5% 97%)",
-          }}
-        />
+      <div
+            onClick={() => onSelect({ id, contract })}
+            onMouseEnter={() => setIsHovered(true)}
+            onMouseLeave={() => setIsHovered(false)}
+            style={{ overflow: "hidden", position: "relative", border: isSelected ? '3px solid green' : 'none' }}
+        >
+            <div style={{ overflow: "hidden", position: "relative" }}>
+                <div
+                    style={{
+                        backgroundImage: isHovered ? 'url("/img/frame_on.png")' : 'url("/img/frame_off.png")',
+                        backgroundSize: "200px 200px",
+                        backgroundRepeat: "no-repeat",
+                        height: "100%",
+                        width: "100%",
+                        position: "absolute",
+                        top: 0,
+                        left: 0,
+                        zIndex: 10,
+                    }}
+                ></div>
+ <div
+        style={{
+          zIndex: 1,
+          width: 200,
+          height: 200,
+          backgroundImage: `url("${backgroundImageUrl}")`,
+          backgroundRepeat: "no-repeat",
+          backgroundPosition: backgroundPositions[backgroundPosition],
+          backgroundSize: "80%",
+          clipPath: "polygon(5% 3%, 94% 3%, 95% 97%, 5% 97%)",
+        }}
+      />
       </div>
     </div>
   );

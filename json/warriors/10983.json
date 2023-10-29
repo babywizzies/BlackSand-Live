@@ -1,6 +1,7 @@
 {
-  "idx": "10983",
+  "id": "10983",
   "name": "Wolfe Waster of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10983",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

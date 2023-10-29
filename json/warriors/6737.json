@@ -1,6 +1,7 @@
 {
-  "idx": "6737",
+  "id": "6737",
   "name": "Commodus Marauder of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6737",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

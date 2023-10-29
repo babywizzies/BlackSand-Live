@@ -1,6 +1,7 @@
 {
-  "idx": "7618",
+  "id": "7618",
   "name": "Nick Guardian of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7618",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

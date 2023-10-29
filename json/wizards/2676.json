@@ -1,48 +1,59 @@
 {
+  "id": 2676,
   "name": "Archmagus George of Mu",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2676.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2676
+      "value": 2676,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic"
+      "value": "Brown Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Albino Rat"
+      "value": "Albino Rat",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Skylord"
+      "value": "Skylord",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Book of Magic"
+      "value": "Book of Magic",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "100"
+      "value": "100",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

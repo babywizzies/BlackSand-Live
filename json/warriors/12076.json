@@ -1,6 +1,7 @@
 {
-  "idx": "12076",
+  "id": "12076",
   "name": "Draco Thief of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12076",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

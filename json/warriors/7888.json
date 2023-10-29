@@ -1,6 +1,7 @@
 {
-  "idx": "7888",
+  "id": "7888",
   "name": "Benedict Marauder of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7888",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

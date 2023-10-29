@@ -1,6 +1,7 @@
 {
-  "idx": "5406",
+  "id": "5406",
   "name": "Shurgz Ruffian of Nasty Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5406",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

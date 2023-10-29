@@ -1,6 +1,7 @@
 {
-  "idx": "3009",
+  "id": "3009",
   "name": "Allan Protector of the Highlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3009",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

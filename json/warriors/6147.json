@@ -1,6 +1,7 @@
 {
-  "idx": "6147",
+  "id": "6147",
   "name": "Primus Disintegrator of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6147",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

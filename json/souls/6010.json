@@ -1,6 +1,7 @@
 {
-  "idx": "6010",
+  "id": "6010",
   "name": "Blight Zombie Angus of the Severed Innocence",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Empty Mug of Ale",
       "filename": "item_ale_soul.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

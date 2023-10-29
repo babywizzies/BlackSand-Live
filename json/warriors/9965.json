@@ -1,6 +1,7 @@
 {
-  "idx": "9965",
+  "id": "9965",
   "name": "Dante Assaulter of the Berg",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9965",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

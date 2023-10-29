@@ -1,6 +1,7 @@
 {
-  "idx": "1223",
+  "id": "1223",
   "name": "Wulfrum Doom of Lions",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1223",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

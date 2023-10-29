@@ -1,6 +1,7 @@
 {
-  "idx": "5505",
+  "id": "5505",
   "name": "Al Protector of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5505",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

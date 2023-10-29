@@ -1,6 +1,7 @@
 {
-  "idx": "12210",
+  "id": "12210",
   "name": "Sami Hero of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12210",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

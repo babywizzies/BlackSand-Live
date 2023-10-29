@@ -1,40 +1,49 @@
 {
+  "id": 16,
   "name": "Sorcerer Alessar of the Moors",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/16.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 16
+      "value": 16,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Blue Big Buckle"
+      "value": "Blue Big Buckle",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Red Wizard"
+      "value": "Red Wizard",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Love"
+      "value": "Love",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

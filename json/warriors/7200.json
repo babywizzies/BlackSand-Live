@@ -1,6 +1,7 @@
 {
-  "idx": "7200",
+  "id": "7200",
   "name": "Hugh Rapscallion of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7200",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

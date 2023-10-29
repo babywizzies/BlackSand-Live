@@ -1,6 +1,7 @@
 {
-  "idx": "708",
+  "id": "708",
   "name": "Edmund Paragon of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/708",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

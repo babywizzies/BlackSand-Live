@@ -1,6 +1,7 @@
 {
-  "idx": "6465",
+  "id": "6465",
   "name": "Asper Sword of Komodi",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6465",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

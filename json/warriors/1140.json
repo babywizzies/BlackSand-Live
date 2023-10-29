@@ -1,6 +1,7 @@
 {
-  "idx": "1140",
+  "id": "1140",
   "name": "Murphy Cleaver of First Blood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1140",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9901",
+  "id": "9901",
   "name": "Fiddles Cleaver of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9901",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

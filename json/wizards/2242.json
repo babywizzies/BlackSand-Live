@@ -1,52 +1,64 @@
 {
+  "id": 2242,
   "name": "Archmagus Amir of the Oasis",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2242.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2242
+      "value": 2242,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Orchid Harem Pants"
+      "value": "Orchid Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Great Owl"
+      "value": "Great Owl",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Cloud Prophet"
+      "value": "Cloud Prophet",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Zephyr's Laugh: the Wind Spell"
+      "value": "Zephyr's Laugh: the Wind Spell",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sigma"
+      "value": "Rune of Sigma",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

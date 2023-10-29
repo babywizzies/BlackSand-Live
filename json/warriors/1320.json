@@ -1,6 +1,7 @@
 {
-  "idx": "1320",
+  "id": "1320",
   "name": "Helen Amputator of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1320",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

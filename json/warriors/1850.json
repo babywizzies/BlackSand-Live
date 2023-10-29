@@ -1,6 +1,7 @@
 {
-  "idx": "1850",
+  "id": "1850",
   "name": "Rachel Champion of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1850",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11112",
+  "id": "11112",
   "name": "Tildor Apocalypse of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11112",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Fire Shield",
       "filename": "shield_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

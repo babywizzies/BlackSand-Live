@@ -1,6 +1,7 @@
 {
-  "idx": "7100",
+  "id": "7100",
   "name": "Waldo Savior of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7100",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

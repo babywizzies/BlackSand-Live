@@ -1,6 +1,7 @@
 {
-  "idx": "5641",
+  "id": "5641",
   "name": "Titus Sword of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5641",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

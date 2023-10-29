@@ -1,6 +1,7 @@
 {
-  "idx": "15856",
+  "id": "15856",
   "name": "Aden Champion of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15856",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Jungle Boomerang",
       "filename": "weapon_boomerang_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

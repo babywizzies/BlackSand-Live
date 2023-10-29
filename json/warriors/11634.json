@@ -1,6 +1,7 @@
 {
-  "idx": "11634",
+  "id": "11634",
   "name": "Leila Combatant of Nothing",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11634",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

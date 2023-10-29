@@ -1,6 +1,7 @@
 {
-  "idx": "9603",
+  "id": "9603",
   "name": "Billy Armageddon of the Sunrise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9603",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

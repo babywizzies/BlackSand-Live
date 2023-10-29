@@ -1,6 +1,7 @@
 {
-  "idx": "14059",
+  "id": "14059",
   "name": "Lorcan of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14059",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

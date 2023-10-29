@@ -1,6 +1,7 @@
 {
-  "idx": "5321",
+  "id": "5321",
   "name": "Vulcan Impaler of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5321",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

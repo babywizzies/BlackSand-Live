@@ -1,6 +1,7 @@
 {
-  "idx": "14227",
+  "id": "14227",
   "name": "Grimmold Belligerent of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14227",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

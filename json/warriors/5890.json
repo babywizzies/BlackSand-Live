@@ -1,6 +1,7 @@
 {
-  "idx": "5890",
+  "id": "5890",
   "name": "Astaroth Punisher of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5890",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

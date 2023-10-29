@@ -1,6 +1,7 @@
 {
-  "idx": "15008",
+  "id": "15008",
   "name": "Keren of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15008",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "15066",
+  "id": "15066",
   "name": "Sam Vanquisher of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15066",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

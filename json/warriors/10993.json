@@ -1,6 +1,7 @@
 {
-  "idx": "10993",
+  "id": "10993",
   "name": "Murph Vanquisher of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10993",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6661",
+  "id": "6661",
   "name": "Dillon Conqueror of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6661",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

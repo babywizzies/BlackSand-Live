@@ -1,6 +1,7 @@
 {
-  "idx": "3000",
+  "id": "3000",
   "name": "Julie Slasher of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3000",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9421",
+  "id": "9421",
   "name": "Crash Contaminator of the Bamboo Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9421",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

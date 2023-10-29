@@ -1,6 +1,7 @@
 {
-  "idx": "14174",
+  "id": "14174",
   "name": "Buer Marauder for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14174",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13252",
+  "id": "13252",
   "name": "Gungunu Hacker of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13252",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

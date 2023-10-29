@@ -1,6 +1,7 @@
 {
-  "idx": "5809",
+  "id": "5809",
   "name": "Ebele Hero of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5809",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

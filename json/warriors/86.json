@@ -1,6 +1,7 @@
 {
-  "idx": "86",
+  "id": "86",
   "name": "Rufaro Rapscallion of the Bloodfalls",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/86",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Butcher Knife",
       "filename": "weapon_butcher.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

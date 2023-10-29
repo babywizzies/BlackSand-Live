@@ -1,6 +1,7 @@
 {
-  "idx": "8796",
+  "id": "8796",
   "name": "Zasha Dismantler of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8796",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

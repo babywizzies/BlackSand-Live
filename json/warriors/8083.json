@@ -1,6 +1,7 @@
 {
-  "idx": "8083",
+  "id": "8083",
   "name": "Anwir Death of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8083",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

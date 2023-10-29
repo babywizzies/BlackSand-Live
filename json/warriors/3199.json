@@ -1,6 +1,7 @@
 {
-  "idx": "3199",
+  "id": "3199",
   "name": "Glorf Attacker of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3199",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

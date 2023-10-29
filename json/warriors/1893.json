@@ -1,6 +1,7 @@
 {
-  "idx": "1893",
+  "id": "1893",
   "name": "Sachiko of the Lantern",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1893",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11243",
+  "id": "11243",
   "name": "Krull Slayer of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11243",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

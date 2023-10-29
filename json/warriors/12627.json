@@ -1,6 +1,7 @@
 {
-  "idx": "12627",
+  "id": "12627",
   "name": "Glorf Champion of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12627",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

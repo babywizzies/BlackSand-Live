@@ -1,6 +1,7 @@
 {
-  "idx": "10780",
+  "id": "10780",
   "name": "Bones Ravager of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10780",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

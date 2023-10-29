@@ -1,6 +1,7 @@
 {
-  "idx": "1994",
+  "id": "1994",
   "name": "Neo Amputator of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1994",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

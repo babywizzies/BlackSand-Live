@@ -1,6 +1,7 @@
 {
-  "idx": "158",
+  "id": "158",
   "name": "Harland Axe of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/158",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

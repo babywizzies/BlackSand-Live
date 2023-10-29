@@ -1,6 +1,7 @@
 {
-  "idx": "7189",
+  "id": "7189",
   "name": "Arthur Killer of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7189",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Magic Shield",
       "filename": "shield_magic.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

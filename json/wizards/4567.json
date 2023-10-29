@@ -1,52 +1,64 @@
 {
+  "id": 4567,
   "name": "  of the Desert",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/4567.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 4567
+      "value": 4567,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Red"
+      "value": "Red",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Purple Harem Pants"
+      "value": "Purple Harem Pants",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Psychic Rabbit"
+      "value": "Psychic Rabbit",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Scholar"
+      "value": "Scholar",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Wizard's Pipe"
+      "value": "Wizard's Pipe",
+      "filename": null
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth"
+      "value": "Rune of Earth",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Academic"
+      "value": "Academic",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "5"
+      "value": "5",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "80"
+      "value": "80",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "1E0200"
 }

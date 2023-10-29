@@ -1,6 +1,7 @@
 {
-  "idx": "151",
+  "id": "151",
   "name": "Corbin Punisher of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/151",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14299",
+  "id": "14299",
   "name": "Kane Champion of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14299",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

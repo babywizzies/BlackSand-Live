@@ -1,6 +1,7 @@
 {
-  "idx": "7653",
+  "id": "7653",
   "name": "Dillon Hero of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7653",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

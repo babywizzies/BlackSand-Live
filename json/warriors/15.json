@@ -1,6 +1,7 @@
 {
-  "idx": "15",
+  "id": "15",
   "name": "Keren Eidolon of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

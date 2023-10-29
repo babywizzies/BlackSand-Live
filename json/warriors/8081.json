@@ -1,6 +1,7 @@
 {
-  "idx": "8081",
+  "id": "8081",
   "name": "Jules Ruin of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8081",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

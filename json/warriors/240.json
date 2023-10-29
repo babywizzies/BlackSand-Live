@@ -1,6 +1,7 @@
 {
-  "idx": "240",
+  "id": "240",
   "name": "Sweeny Trimmer of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/240",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6263",
+  "id": "6263",
   "name": "Cerb Death of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6263",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Butterfly Shield",
       "filename": "shield_butterfly.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

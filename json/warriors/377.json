@@ -1,6 +1,7 @@
 {
-  "idx": "377",
+  "id": "377",
   "name": "Holt Dismantler of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/377",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

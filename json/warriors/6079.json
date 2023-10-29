@@ -1,6 +1,7 @@
 {
-  "idx": "6079",
+  "id": "6079",
   "name": "Jules Contaminator of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6079",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Purple Longsword",
       "filename": "weapon_longsword_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2472",
+  "id": "2472",
   "name": "Ajax Bandit of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2472",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

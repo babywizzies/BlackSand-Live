@@ -1,6 +1,7 @@
 {
-  "idx": "5347",
+  "id": "5347",
   "name": "Hamlin of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5347",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

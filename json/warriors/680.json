@@ -1,6 +1,7 @@
 {
-  "idx": "680",
+  "id": "680",
   "name": "Shookle Dispatcher of Nasty Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/680",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

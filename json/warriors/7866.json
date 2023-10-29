@@ -1,6 +1,7 @@
 {
-  "idx": "7866",
+  "id": "7866",
   "name": "Cid Ranger of the Lowlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7866",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

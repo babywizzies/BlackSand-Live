@@ -1,6 +1,7 @@
 {
-  "idx": "9003",
+  "id": "9003",
   "name": "Casey Savior of the Sunset",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9003",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8031",
+  "id": "8031",
   "name": "Helen Razer of the Bay",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8031",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Air Elemental Shield",
       "filename": "shield_wind.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

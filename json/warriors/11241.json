@@ -1,6 +1,7 @@
 {
-  "idx": "11241",
+  "id": "11241",
   "name": "Gerol Slayer of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11241",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

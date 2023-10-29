@@ -1,6 +1,7 @@
 {
-  "idx": "11158",
+  "id": "11158",
   "name": "Baako Basher of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11158",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Wooden Hammer",
       "filename": "weapon_hammer_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

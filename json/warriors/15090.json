@@ -1,6 +1,7 @@
 {
-  "idx": "15090",
+  "id": "15090",
   "name": "Axel Ravager of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15090",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

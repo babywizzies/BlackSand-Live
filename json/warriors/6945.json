@@ -1,6 +1,7 @@
 {
-  "idx": "6945",
+  "id": "6945",
   "name": "Nadir Sword of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6945",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

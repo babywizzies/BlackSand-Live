@@ -1,6 +1,7 @@
 {
-  "idx": "6799",
+  "id": "6799",
   "name": "Buzz Armageddon of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6799",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

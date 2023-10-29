@@ -1,6 +1,7 @@
 {
-  "idx": "13558",
+  "id": "13558",
   "name": "Falkes Dismantler of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13558",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "711",
+  "id": "711",
   "name": "Dexter Belligerent of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/711",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7257",
+  "id": "7257",
   "name": "Wyatt Protector of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7257",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12229",
+  "id": "12229",
   "name": "Thomas Assailant of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12229",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

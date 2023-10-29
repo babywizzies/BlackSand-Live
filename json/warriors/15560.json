@@ -1,6 +1,7 @@
 {
-  "idx": "15560",
+  "id": "15560",
   "name": "Nix Trimmer of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15560",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

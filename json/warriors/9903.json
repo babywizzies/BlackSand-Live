@@ -1,6 +1,7 @@
 {
-  "idx": "9903",
+  "id": "9903",
   "name": "Wambe Chainsaw of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9903",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

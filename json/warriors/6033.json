@@ -1,6 +1,7 @@
 {
-  "idx": "6033",
+  "id": "6033",
   "name": "Gaelin Cataclysm of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6033",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

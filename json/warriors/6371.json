@@ -1,6 +1,7 @@
 {
-  "idx": "6371",
+  "id": "6371",
   "name": "Sharla Danger of the Underground",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6371",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

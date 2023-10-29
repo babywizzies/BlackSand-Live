@@ -1,6 +1,7 @@
 {
-  "idx": "1408",
+  "id": "1408",
   "name": "Sharon Antagonist of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1408",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

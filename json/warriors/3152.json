@@ -1,6 +1,7 @@
 {
-  "idx": "3152",
+  "id": "3152",
   "name": "Rogue Marauder of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3152",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

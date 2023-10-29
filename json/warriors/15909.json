@@ -1,6 +1,7 @@
 {
-  "idx": "15909",
+  "id": "15909",
   "name": "Lubalar Combatant of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15909",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

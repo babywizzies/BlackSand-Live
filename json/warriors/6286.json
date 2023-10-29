@@ -1,6 +1,7 @@
 {
-  "idx": "6286",
+  "id": "6286",
   "name": "Bambam Paragon of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6286",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

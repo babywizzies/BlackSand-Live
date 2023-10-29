@@ -1,6 +1,7 @@
 {
-  "idx": "12874",
+  "id": "12874",
   "name": " Sword of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12874",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

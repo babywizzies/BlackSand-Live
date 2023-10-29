@@ -1,6 +1,7 @@
 {
-  "idx": "11871",
+  "id": "11871",
   "name": "Dain Violator of the Gate",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11871",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Slingshot",
       "filename": "weapon_slingshot.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

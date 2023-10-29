@@ -1,6 +1,7 @@
 {
-  "idx": "10038",
+  "id": "10038",
   "name": "Dutch Defender of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10038",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

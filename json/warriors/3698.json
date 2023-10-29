@@ -1,6 +1,7 @@
 {
-  "idx": "3698",
+  "id": "3698",
   "name": "Casey Grifter of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3698",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

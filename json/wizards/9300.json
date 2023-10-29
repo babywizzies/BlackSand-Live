@@ -1,48 +1,59 @@
 {
+  "id": 9300,
   "name": "Shadow Mage Imeena of the Light",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/9300.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 9300
+      "value": 9300,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Blue"
+      "value": "Blue",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Brown Tunic"
+      "value": "Brown Tunic",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Topaz Slime"
+      "value": "Topaz Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hag"
+      "value": "Hag",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "The Bone Stave"
+      "value": "The Bone Stave",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Slime"
+      "value": "Slime",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "09071B"
 }

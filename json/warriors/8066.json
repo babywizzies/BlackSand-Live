@@ -1,6 +1,7 @@
 {
-  "idx": "8066",
+  "id": "8066",
   "name": "Dayo Amputator of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8066",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

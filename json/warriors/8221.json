@@ -1,6 +1,7 @@
 {
-  "idx": "8221",
+  "id": "8221",
   "name": "Commodus Flame of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8221",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

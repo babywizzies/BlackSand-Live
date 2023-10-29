@@ -1,6 +1,7 @@
 {
-  "idx": "132",
+  "id": "132",
   "name": "Hitomi Raider of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/132",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

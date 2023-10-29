@@ -1,6 +1,7 @@
 {
-  "idx": "15602",
+  "id": "15602",
   "name": "Tera Smasher of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15602",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

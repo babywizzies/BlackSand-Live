@@ -1,6 +1,7 @@
 {
-  "idx": "506",
+  "id": "506",
   "name": "Sherry Ranger of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/506",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

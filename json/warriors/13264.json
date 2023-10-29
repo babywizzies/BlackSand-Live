@@ -1,6 +1,7 @@
 {
-  "idx": "13264",
+  "id": "13264",
   "name": "Brokk Executor of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13264",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

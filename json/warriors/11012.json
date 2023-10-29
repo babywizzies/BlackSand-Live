@@ -1,6 +1,7 @@
 {
-  "idx": "11012",
+  "id": "11012",
   "name": "Napoleon Cleaver of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11012",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

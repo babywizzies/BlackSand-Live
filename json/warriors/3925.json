@@ -1,6 +1,7 @@
 {
-  "idx": "3925",
+  "id": "3925",
   "name": "Bargo Savior of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3925",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

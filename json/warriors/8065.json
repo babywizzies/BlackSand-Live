@@ -1,6 +1,7 @@
 {
-  "idx": "8065",
+  "id": "8065",
   "name": "Willy Ace of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8065",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

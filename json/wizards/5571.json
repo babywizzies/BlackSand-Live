@@ -1,48 +1,59 @@
 {
+  "id": 5571,
   "name": "Artificer Faye of the Crag",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/5571.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 5571
+      "value": 5571,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Red Suit"
+      "value": "Red Suit",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Swamp Bullfrog"
+      "value": "Swamp Bullfrog",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Mambo"
+      "value": "Mambo",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Key of the 7th Realm"
+      "value": "Key of the 7th Realm",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Locksmith"
+      "value": "Locksmith",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "1"
+      "value": "1",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "25"
+      "value": "25",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

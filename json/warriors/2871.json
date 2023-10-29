@@ -1,6 +1,7 @@
 {
-  "idx": "2871",
+  "id": "2871",
   "name": "Harland Assailant of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2871",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

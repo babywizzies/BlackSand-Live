@@ -1,6 +1,7 @@
 {
-  "idx": "5821",
+  "id": "5821",
   "name": "Dree Bruiser of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5821",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

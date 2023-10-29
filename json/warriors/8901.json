@@ -1,6 +1,7 @@
 {
-  "idx": "8901",
+  "id": "8901",
   "name": "Ryland Impaler of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8901",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

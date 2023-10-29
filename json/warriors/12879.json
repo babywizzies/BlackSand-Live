@@ -1,6 +1,7 @@
 {
-  "idx": "12879",
+  "id": "12879",
   "name": "Marci Savior of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12879",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

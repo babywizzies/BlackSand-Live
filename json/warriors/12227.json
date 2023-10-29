@@ -1,6 +1,7 @@
 {
-  "idx": "12227",
+  "id": "12227",
   "name": "Orion Rat of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12227",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

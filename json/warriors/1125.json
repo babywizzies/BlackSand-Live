@@ -1,6 +1,7 @@
 {
-  "idx": "1125",
+  "id": "1125",
   "name": "Arthur Breaker of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1125",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

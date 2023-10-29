@@ -1,6 +1,7 @@
 {
-  "idx": "568",
+  "id": "568",
   "name": "Maud Stalker of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/568",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

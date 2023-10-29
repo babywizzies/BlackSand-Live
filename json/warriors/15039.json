@@ -1,6 +1,7 @@
 {
-  "idx": "15039",
+  "id": "15039",
   "name": "Glug Mincer of the Scum Barrel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15039",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7090",
+  "id": "7090",
   "name": "Keren Doom of the Villa",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7090",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

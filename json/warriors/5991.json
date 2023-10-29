@@ -1,6 +1,7 @@
 {
-  "idx": "5991",
+  "id": "5991",
   "name": "Athina Executor of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5991",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

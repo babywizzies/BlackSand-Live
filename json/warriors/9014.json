@@ -1,6 +1,7 @@
 {
-  "idx": "9014",
+  "id": "9014",
   "name": "Beezle Traveler of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9014",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

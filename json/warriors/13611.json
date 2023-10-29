@@ -1,6 +1,7 @@
 {
-  "idx": "13611",
+  "id": "13611",
   "name": "Gage Belligerent of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13611",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

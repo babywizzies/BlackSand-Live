@@ -1,6 +1,7 @@
 {
-  "idx": "8778",
+  "id": "8778",
   "name": "Sana Lopper of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8778",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

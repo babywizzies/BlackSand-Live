@@ -1,6 +1,7 @@
 {
-  "idx": "8400",
+  "id": "8400",
   "name": "Zasha Hero of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8400",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6770",
+  "id": "6770",
   "name": "Therman Wounder of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6770",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

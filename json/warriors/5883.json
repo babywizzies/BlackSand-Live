@@ -1,6 +1,7 @@
 {
-  "idx": "5883",
+  "id": "5883",
   "name": "Neil Dicer of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5883",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

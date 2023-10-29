@@ -1,6 +1,7 @@
 {
-  "idx": "11721",
+  "id": "11721",
   "name": "Gilbert Slayer of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11721",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

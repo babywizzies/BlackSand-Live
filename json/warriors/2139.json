@@ -1,6 +1,7 @@
 {
-  "idx": "2139",
+  "id": "2139",
   "name": "Brokk Scissor of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2139",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

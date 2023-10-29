@@ -1,6 +1,7 @@
 {
-  "idx": "2930",
+  "id": "2930",
   "name": "Rufus Bloodletter of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2930",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

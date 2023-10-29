@@ -1,6 +1,7 @@
 {
-  "idx": "9306",
+  "id": "9306",
   "name": "Ravana Conqueror of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9306",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

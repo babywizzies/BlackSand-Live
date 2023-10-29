@@ -1,6 +1,7 @@
 {
-  "idx": "3393",
+  "id": "3393",
   "name": "Billy Masher of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3393",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

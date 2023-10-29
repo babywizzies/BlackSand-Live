@@ -1,6 +1,7 @@
 {
-  "idx": "2453",
+  "id": "2453",
   "name": "Sandy Basher of Merfolk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2453",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Wooden Hammer",
       "filename": "weapon_hammer_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "14401",
+  "id": "14401",
   "name": "Miles Basher of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14401",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

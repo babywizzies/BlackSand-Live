@@ -1,6 +1,7 @@
 {
-  "idx": "10822",
+  "id": "10822",
   "name": "Brokk Hacker of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10822",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

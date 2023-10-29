@@ -1,6 +1,7 @@
 {
-  "idx": "922",
+  "id": "922",
   "name": "Mondo Wrecker of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/922",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

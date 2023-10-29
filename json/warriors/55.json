@@ -1,6 +1,7 @@
 {
-  "idx": "55",
+  "id": "55",
   "name": "Dain Breaker of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/55",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

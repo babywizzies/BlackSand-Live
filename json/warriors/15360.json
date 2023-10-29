@@ -1,6 +1,7 @@
 {
-  "idx": "15360",
+  "id": "15360",
   "name": "Jax Obliterator of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15360",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

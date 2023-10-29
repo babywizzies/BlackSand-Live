@@ -1,6 +1,7 @@
 {
-  "idx": "5046",
+  "id": "5046",
   "name": "Jax of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5046",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

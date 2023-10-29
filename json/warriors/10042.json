@@ -1,6 +1,7 @@
 {
-  "idx": "10042",
+  "id": "10042",
   "name": "Keoni Demolisher of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10042",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

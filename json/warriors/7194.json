@@ -1,6 +1,7 @@
 {
-  "idx": "7194",
+  "id": "7194",
   "name": "Guy Combatant of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7194",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6102",
+  "id": "6102",
   "name": "Velox Charlatan of all that is Holy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6102",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

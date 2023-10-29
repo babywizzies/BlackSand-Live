@@ -1,6 +1,7 @@
 {
-  "idx": "10968",
+  "id": "10968",
   "name": "Dolan Attacker of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10968",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

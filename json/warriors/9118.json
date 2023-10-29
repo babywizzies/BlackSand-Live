@@ -1,6 +1,7 @@
 {
-  "idx": "9118",
+  "id": "9118",
   "name": "Enki Ranger of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9118",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

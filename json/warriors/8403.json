@@ -1,6 +1,7 @@
 {
-  "idx": "8403",
+  "id": "8403",
   "name": "Geoffrey Cleaver of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8403",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

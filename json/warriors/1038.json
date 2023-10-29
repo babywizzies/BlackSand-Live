@@ -1,6 +1,7 @@
 {
-  "idx": "1038",
+  "id": "1038",
   "name": "Chuck Chisler of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1038",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Night Razor",
       "filename": "weapon_sword_razor.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

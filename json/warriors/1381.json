@@ -1,6 +1,7 @@
 {
-  "idx": "1381",
+  "id": "1381",
   "name": "Belial Conqueror of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1381",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

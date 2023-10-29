@@ -1,6 +1,7 @@
 {
-  "idx": "12130",
+  "id": "12130",
   "name": " Rival of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12130",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Triple Triangle Shield",
       "filename": "shield_3tri.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

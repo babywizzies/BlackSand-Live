@@ -1,6 +1,7 @@
 {
-  "idx": "6889",
+  "id": "6889",
   "name": "Tera Slasher of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6889",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

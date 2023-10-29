@@ -1,48 +1,59 @@
 {
+  "id": 2381,
   "name": "Cleric Tundror of the Keep",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/2381.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 2381
+      "value": 2381,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Dapper Formal"
+      "value": "Dapper Formal",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Great Owl"
+      "value": "Great Owl",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Polar Shapeshifter"
+      "value": "Polar Shapeshifter",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Stellar Staff"
+      "value": "Stellar Staff",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "City"
+      "value": "City",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "040D04"
 }

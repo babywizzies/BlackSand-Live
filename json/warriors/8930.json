@@ -1,6 +1,7 @@
 {
-  "idx": "8930",
+  "id": "8930",
   "name": "Wolfe Poker of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8930",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

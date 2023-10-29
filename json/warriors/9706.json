@@ -1,6 +1,7 @@
 {
-  "idx": "9706",
+  "id": "9706",
   "name": "Mahi Traveler of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9706",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

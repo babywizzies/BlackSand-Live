@@ -1,6 +1,7 @@
 {
-  "idx": "3404",
+  "id": "3404",
   "name": "Wilder Eidolon of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3404",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

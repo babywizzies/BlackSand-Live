@@ -1,6 +1,7 @@
 {
-  "idx": "2070",
+  "id": "2070",
   "name": "Skunk Amputator of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2070",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

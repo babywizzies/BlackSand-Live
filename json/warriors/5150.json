@@ -1,6 +1,7 @@
 {
-  "idx": "5150",
+  "id": "5150",
   "name": "Rumbar Killer of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5150",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

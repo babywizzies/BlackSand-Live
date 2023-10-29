@@ -1,6 +1,7 @@
 {
-  "idx": "7726",
+  "id": "7726",
   "name": "Mirembe Menace of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7726",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13246",
+  "id": "13246",
   "name": "Ash Eradicator of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13246",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

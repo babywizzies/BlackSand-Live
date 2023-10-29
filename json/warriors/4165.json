@@ -1,6 +1,7 @@
 {
-  "idx": "4165",
+  "id": "4165",
   "name": "Enzo Waster of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4165",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1208",
+  "id": "1208",
   "name": "Subira Traveler of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1208",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

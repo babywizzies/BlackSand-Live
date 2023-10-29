@@ -1,6 +1,7 @@
 {
-  "idx": "9208",
+  "id": "9208",
   "name": "Damon Blazer of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9208",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

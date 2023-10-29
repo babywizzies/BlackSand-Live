@@ -1,6 +1,7 @@
 {
-  "idx": "3625",
+  "id": "3625",
   "name": "Wyatt Peacemaker of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3625",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

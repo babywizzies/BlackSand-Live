@@ -1,6 +1,7 @@
 {
-  "idx": "6450",
+  "id": "6450",
   "name": "Barad Raider of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6450",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

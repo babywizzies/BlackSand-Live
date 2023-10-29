@@ -1,6 +1,7 @@
 {
-  "idx": "11277",
+  "id": "11277",
   "name": "Vega Miscreant of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11277",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

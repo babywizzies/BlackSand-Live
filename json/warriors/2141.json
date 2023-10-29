@@ -1,6 +1,7 @@
 {
-  "idx": "2141",
+  "id": "2141",
   "name": "Bruno Render of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2141",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Green Buckler",
       "filename": "shield_circle_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

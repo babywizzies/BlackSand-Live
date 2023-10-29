@@ -1,6 +1,7 @@
 {
-  "idx": "2243",
+  "id": "2243",
   "name": "Kace Hellraiser of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2243",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

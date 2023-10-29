@@ -1,6 +1,7 @@
 {
-  "idx": "2654",
+  "id": "2654",
   "name": "Blake Lightbearer of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2654",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

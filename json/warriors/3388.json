@@ -1,6 +1,7 @@
 {
-  "idx": "3388",
+  "id": "3388",
   "name": "Orusula Dicer of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3388",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

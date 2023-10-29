@@ -1,6 +1,7 @@
 {
-  "idx": "3685",
+  "id": "3685",
   "name": "Keren Explorer of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3685",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

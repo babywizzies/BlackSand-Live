@@ -1,6 +1,7 @@
 {
-  "idx": "1834",
+  "id": "1834",
   "name": "Cy Punisher of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1834",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Crowbar",
       "filename": "weapon_crowbar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

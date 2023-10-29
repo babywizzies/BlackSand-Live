@@ -1,6 +1,7 @@
 {
-  "idx": "5769",
+  "id": "5769",
   "name": "Alex Conqueror of the Canyon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5769",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

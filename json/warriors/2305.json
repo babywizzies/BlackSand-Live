@@ -1,6 +1,7 @@
 {
-  "idx": "2305",
+  "id": "2305",
   "name": "Butch Killer of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2305",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

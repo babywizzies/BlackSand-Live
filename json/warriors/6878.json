@@ -1,6 +1,7 @@
 {
-  "idx": "6878",
+  "id": "6878",
   "name": "Remus Sword of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6878",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladius",
       "filename": "weapon_gladius.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

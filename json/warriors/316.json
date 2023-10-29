@@ -1,6 +1,7 @@
 {
-  "idx": "316",
+  "id": "316",
   "name": "Wolfgang Smasher of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/316",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

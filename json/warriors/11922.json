@@ -1,6 +1,7 @@
 {
-  "idx": "11922",
+  "id": "11922",
   "name": "Rumbar Slayer of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11922",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

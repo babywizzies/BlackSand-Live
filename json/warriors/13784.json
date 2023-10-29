@@ -1,6 +1,7 @@
 {
-  "idx": "13784",
+  "id": "13784",
   "name": "Felix Stabber of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13784",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

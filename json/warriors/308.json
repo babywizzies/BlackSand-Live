@@ -1,6 +1,7 @@
 {
-  "idx": "308",
+  "id": "308",
   "name": "Uri Lumper of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/308",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

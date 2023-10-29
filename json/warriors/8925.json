@@ -1,6 +1,7 @@
 {
-  "idx": "8925",
+  "id": "8925",
   "name": "Kona Impaler of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8925",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

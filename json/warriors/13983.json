@@ -1,6 +1,7 @@
 {
-  "idx": "13983",
+  "id": "13983",
   "name": "Miles Exterminator of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13983",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

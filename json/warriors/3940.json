@@ -1,6 +1,7 @@
 {
-  "idx": "3940",
+  "id": "3940",
   "name": "Keren Assaulter of the Sunset",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3940",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

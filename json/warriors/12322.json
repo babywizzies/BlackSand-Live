@@ -1,6 +1,7 @@
 {
-  "idx": "12322",
+  "id": "12322",
   "name": "Arnie Stormer of the Duck Alliance",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12322",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Buckler",
       "filename": "shield_buckler.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

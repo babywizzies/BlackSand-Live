@@ -1,6 +1,7 @@
 {
-  "idx": "10534",
+  "id": "10534",
   "name": "Mushbutt Ruin of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10534",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

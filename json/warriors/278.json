@@ -1,6 +1,7 @@
 {
-  "idx": "278",
+  "id": "278",
   "name": "Wilda Guillotiner of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/278",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7807",
+  "id": "7807",
   "name": "Bellatrix Archer of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7807",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12474",
+  "id": "12474",
   "name": "Mondo Slayer of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12474",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13750",
+  "id": "13750",
   "name": "Umberto Armageddon of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13750",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

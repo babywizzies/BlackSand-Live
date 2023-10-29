@@ -1,6 +1,7 @@
 {
-  "idx": "10222",
+  "id": "10222",
   "name": "Erin Smasher of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10222",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

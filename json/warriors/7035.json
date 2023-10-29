@@ -1,6 +1,7 @@
 {
-  "idx": "7035",
+  "id": "7035",
   "name": "Boop Vanquisher of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7035",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

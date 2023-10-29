@@ -1,6 +1,7 @@
 {
-  "idx": "3408",
+  "id": "3408",
   "name": "Jojo Cleaver of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3408",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

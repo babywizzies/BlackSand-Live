@@ -1,6 +1,7 @@
 {
-  "idx": "13702",
+  "id": "13702",
   "name": "Brock Champion of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13702",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

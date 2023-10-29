@@ -1,6 +1,7 @@
 {
-  "idx": "12444",
+  "id": "12444",
   "name": "Ayo Doom of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12444",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

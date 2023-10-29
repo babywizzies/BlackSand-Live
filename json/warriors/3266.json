@@ -1,6 +1,7 @@
 {
-  "idx": "3266",
+  "id": "3266",
   "name": "Remi Eradicator of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3266",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Longbow",
       "filename": "weapon_longbow.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

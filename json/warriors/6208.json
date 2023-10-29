@@ -1,6 +1,7 @@
 {
-  "idx": "6208",
+  "id": "6208",
   "name": "Rufaro Savior of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6208",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13200",
+  "id": "13200",
   "name": "Hugh Menace of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13200",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

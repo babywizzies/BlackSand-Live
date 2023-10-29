@@ -1,6 +1,7 @@
 {
-  "idx": "1488",
+  "id": "1488",
   "name": "Adira Sword of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1488",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

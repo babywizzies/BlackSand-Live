@@ -1,6 +1,7 @@
 {
-  "idx": "11858",
+  "id": "11858",
   "name": "Porter Cleaver of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11858",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8924",
+  "id": "8924",
   "name": "Tad Slaughterer of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8924",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

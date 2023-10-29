@@ -1,6 +1,7 @@
 {
-  "idx": "4601",
+  "id": "4601",
   "name": "Kadrin Sword of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4601",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

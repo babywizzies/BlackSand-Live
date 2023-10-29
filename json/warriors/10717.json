@@ -1,6 +1,7 @@
 {
-  "idx": "10717",
+  "id": "10717",
   "name": "Philip Exterminator of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10717",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "7341",
+  "id": "7341",
   "name": "Nanaya of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7341",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Mug of Ale",
       "filename": "item_ale.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

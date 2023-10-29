@@ -1,6 +1,7 @@
 {
-  "idx": "14116",
+  "id": "14116",
   "name": "Hoc Sword of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14116",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Amaryllis Fey Sword",
       "filename": "weapon_feysword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

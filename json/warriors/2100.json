@@ -1,6 +1,7 @@
 {
-  "idx": "2100",
+  "id": "2100",
   "name": "Krull Stormer of all that is Holy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2100",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

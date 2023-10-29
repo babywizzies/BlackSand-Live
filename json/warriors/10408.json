@@ -1,6 +1,7 @@
 {
-  "idx": "10408",
+  "id": "10408",
   "name": "Jojo Ruin of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10408",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

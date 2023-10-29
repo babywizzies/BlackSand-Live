@@ -1,6 +1,7 @@
 {
-  "idx": "5158",
+  "id": "5158",
   "name": "Wulfrum Disintegrator of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5158",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Down",
       "filename": "rune_down.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

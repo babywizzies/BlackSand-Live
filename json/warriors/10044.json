@@ -1,6 +1,7 @@
 {
-  "idx": "10044",
+  "id": "10044",
   "name": "Verus Madcap of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10044",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

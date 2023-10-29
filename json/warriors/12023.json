@@ -1,6 +1,7 @@
 {
-  "idx": "12023",
+  "id": "12023",
   "name": "Tyson Marauder of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12023",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

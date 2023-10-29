@@ -1,6 +1,7 @@
 {
-  "idx": "5101",
+  "id": "5101",
   "name": "Sharon Shaver of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5101",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

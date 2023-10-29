@@ -1,6 +1,7 @@
 {
-  "idx": "4665",
+  "id": "4665",
   "name": "Ayodele the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4665",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

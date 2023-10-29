@@ -1,6 +1,7 @@
 {
-  "idx": "13875",
+  "id": "13875",
   "name": "Fred Protector of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13875",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

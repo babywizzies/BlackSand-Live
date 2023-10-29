@@ -1,6 +1,7 @@
 {
-  "idx": "15926",
+  "id": "15926",
   "name": "Stinker Danger of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15926",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Green Longsword",
       "filename": "weapon_longsword_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

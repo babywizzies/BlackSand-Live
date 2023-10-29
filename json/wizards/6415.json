@@ -1,48 +1,59 @@
 {
+  "id": 6415,
   "name": "Runecaster Argus of the Tower",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/6415.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 6415
+      "value": 6415,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Jester Diamonds"
+      "value": "Jester Diamonds",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Emerald Slime"
+      "value": "Emerald Slime",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Hermit"
+      "value": "Hermit",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Courage Staff"
+      "value": "Courage Staff",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Darkness"
+      "value": "Darkness",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "2"
+      "value": "2",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "50"
+      "value": "50",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

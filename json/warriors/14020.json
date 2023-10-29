@@ -1,6 +1,7 @@
 {
-  "idx": "14020",
+  "id": "14020",
   "name": "Septimus Eradicator of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14020",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13532",
+  "id": "13532",
   "name": "Moka of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13532",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

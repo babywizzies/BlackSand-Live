@@ -1,6 +1,7 @@
 {
-  "idx": "6701",
+  "id": "6701",
   "name": "Vega Paragon of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6701",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

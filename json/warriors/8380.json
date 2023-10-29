@@ -1,6 +1,7 @@
 {
-  "idx": "8380",
+  "id": "8380",
   "name": "Pippa Peacemaker of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8380",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

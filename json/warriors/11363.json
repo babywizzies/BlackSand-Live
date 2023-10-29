@@ -1,6 +1,7 @@
 {
-  "idx": "11363",
+  "id": "11363",
   "name": "Frida Battler of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11363",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Buckler",
       "filename": "shield_buckler.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

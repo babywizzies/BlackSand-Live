@@ -1,6 +1,7 @@
 {
-  "idx": "7541",
+  "id": "7541",
   "name": "Willy Attacker of Death",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7541",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

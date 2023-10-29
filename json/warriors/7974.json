@@ -1,6 +1,7 @@
 {
-  "idx": "7974",
+  "id": "7974",
   "name": " Doom of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7974",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

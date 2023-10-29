@@ -1,6 +1,7 @@
 {
-  "idx": "5842",
+  "id": "5842",
   "name": "Reginald Blade of the Disco",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5842",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Malachite Dragon Pike",
       "filename": "weapon_dragonpike_green.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

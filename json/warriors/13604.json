@@ -1,6 +1,7 @@
 {
-  "idx": "13604",
+  "id": "13604",
   "name": "Talon Ranger of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13604",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

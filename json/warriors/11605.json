@@ -1,6 +1,7 @@
 {
-  "idx": "11605",
+  "id": "11605",
   "name": "Doldain Guardian of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11605",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Omega",
       "filename": "rune_omega.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12430",
+  "id": "12430",
   "name": "Muthril Piercer of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12430",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

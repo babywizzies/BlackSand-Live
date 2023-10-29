@@ -1,6 +1,7 @@
 {
-  "idx": "5611",
+  "id": "5611",
   "name": "Winchester Guillotiner of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5611",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

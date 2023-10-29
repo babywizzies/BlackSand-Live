@@ -1,6 +1,7 @@
 {
-  "idx": "13800",
+  "id": "13800",
   "name": "Bernadette Shark of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13800",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

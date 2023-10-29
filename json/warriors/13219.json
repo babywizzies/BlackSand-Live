@@ -1,6 +1,7 @@
 {
-  "idx": "13219",
+  "id": "13219",
   "name": "Herman Wrecker of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13219",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

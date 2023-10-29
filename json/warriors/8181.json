@@ -1,6 +1,7 @@
 {
-  "idx": "8181",
+  "id": "8181",
   "name": "Akon Obliterator of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8181",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

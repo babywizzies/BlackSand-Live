@@ -1,6 +1,7 @@
 {
-  "idx": "2844",
+  "id": "2844",
   "name": "Cyrus Slaughterer of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2844",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

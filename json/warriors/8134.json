@@ -1,6 +1,7 @@
 {
-  "idx": "8134",
+  "id": "8134",
   "name": "Jasper Mercenary of Chaos",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8134",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

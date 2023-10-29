@@ -1,6 +1,7 @@
 {
-  "idx": "2114",
+  "id": "2114",
   "name": "Aramastus Sword of the Prism",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2114",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

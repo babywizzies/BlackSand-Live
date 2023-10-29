@@ -1,6 +1,7 @@
 {
-  "idx": "5307",
+  "id": "5307",
   "name": "Guy of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5307",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

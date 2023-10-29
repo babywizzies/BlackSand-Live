@@ -1,6 +1,7 @@
 {
-  "idx": "1741",
+  "id": "1741",
   "name": "Duke Dicer of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1741",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

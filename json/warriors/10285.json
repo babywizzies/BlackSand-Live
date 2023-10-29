@@ -1,6 +1,7 @@
 {
-  "idx": "10285",
+  "id": "10285",
   "name": "Glub Shadow of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10285",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

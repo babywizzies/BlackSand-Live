@@ -1,6 +1,7 @@
 {
-  "idx": "668",
+  "id": "668",
   "name": "Maximus Shatterer of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/668",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "9249",
+  "id": "9249",
   "name": "John Slasher of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9249",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

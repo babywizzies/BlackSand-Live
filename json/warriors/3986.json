@@ -1,6 +1,7 @@
 {
-  "idx": "3986",
+  "id": "3986",
   "name": "Dullahan Striker of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3986",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Goblin Axe",
       "filename": "weapon_axe_goblin.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

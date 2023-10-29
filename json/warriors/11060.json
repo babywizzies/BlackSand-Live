@@ -1,6 +1,7 @@
 {
-  "idx": "11060",
+  "id": "11060",
   "name": "Miles Poker of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11060",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2217",
+  "id": "2217",
   "name": "Chernobog Sorrow of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2217",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

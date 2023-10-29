@@ -1,6 +1,7 @@
 {
-  "idx": "2089",
+  "id": "2089",
   "name": "Hongo Debilitator of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2089",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

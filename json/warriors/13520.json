@@ -1,6 +1,7 @@
 {
-  "idx": "13520",
+  "id": "13520",
   "name": "Sharla Blade of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13520",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

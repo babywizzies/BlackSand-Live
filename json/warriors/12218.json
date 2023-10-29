@@ -1,6 +1,7 @@
 {
-  "idx": "12218",
+  "id": "12218",
   "name": "Rizzo Menace of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12218",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3750",
+  "id": "3750",
   "name": "Kace Hero of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3750",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

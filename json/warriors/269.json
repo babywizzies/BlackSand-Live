@@ -1,6 +1,7 @@
 {
-  "idx": "269",
+  "id": "269",
   "name": "Sid Vanquisher of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/269",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "345",
+  "id": "345",
   "name": "Donley Hellraiser of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/345",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

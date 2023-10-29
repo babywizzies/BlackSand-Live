@@ -1,6 +1,7 @@
 {
-  "idx": "11464",
+  "id": "11464",
   "name": "Ferox Voyager of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11464",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

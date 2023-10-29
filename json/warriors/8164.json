@@ -1,6 +1,7 @@
 {
-  "idx": "8164",
+  "id": "8164",
   "name": "Wuri Sword of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8164",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

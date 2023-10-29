@@ -1,6 +1,7 @@
 {
-  "idx": "11648",
+  "id": "11648",
   "name": "Titan Swashbuckler of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11648",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

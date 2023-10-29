@@ -1,6 +1,7 @@
 {
-  "idx": "1949",
+  "id": "1949",
   "name": "Bruno Killer of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1949",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

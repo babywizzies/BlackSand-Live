@@ -1,6 +1,7 @@
 {
-  "idx": "1539",
+  "id": "1539",
   "name": "Bruno Attacker of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1539",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

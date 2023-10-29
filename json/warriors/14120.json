@@ -1,6 +1,7 @@
 {
-  "idx": "14120",
+  "id": "14120",
   "name": "Jordan Calamity of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14120",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Brown Longsword",
       "filename": "weapon_longsword_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

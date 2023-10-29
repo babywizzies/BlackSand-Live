@@ -1,6 +1,7 @@
 {
-  "idx": "12675",
+  "id": "12675",
   "name": "Juno Conqueror of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12675",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

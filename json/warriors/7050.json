@@ -1,6 +1,7 @@
 {
-  "idx": "7050",
+  "id": "7050",
   "name": "Casey Battler of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7050",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

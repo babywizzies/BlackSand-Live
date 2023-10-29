@@ -1,6 +1,7 @@
 {
-  "idx": "12404",
+  "id": "12404",
   "name": "Ayana Cleaver of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12404",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "8338",
+  "id": "8338",
   "name": "Raiden Eidolon of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8338",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Partisan",
       "filename": "weapon_partisan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

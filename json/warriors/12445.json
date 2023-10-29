@@ -1,6 +1,7 @@
 {
-  "idx": "12445",
+  "id": "12445",
   "name": "Presley Cataclysm of Blood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12445",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

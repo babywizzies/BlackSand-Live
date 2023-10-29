@@ -1,6 +1,7 @@
 {
-  "idx": "1775",
+  "id": "1775",
   "name": "Arthur Sharpshooter of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1775",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

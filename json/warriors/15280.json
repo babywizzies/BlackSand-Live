@@ -1,6 +1,7 @@
 {
-  "idx": "15280",
+  "id": "15280",
   "name": "Draco Scoundrel of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15280",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

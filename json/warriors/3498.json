@@ -1,6 +1,7 @@
 {
-  "idx": "3498",
+  "id": "3498",
   "name": "Hoc Eidolon of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3498",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13074",
+  "id": "13074",
   "name": "Nix Ravager of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13074",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

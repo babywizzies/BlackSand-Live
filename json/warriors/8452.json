@@ -1,6 +1,7 @@
 {
-  "idx": "8452",
+  "id": "8452",
   "name": "Bambam Champion of the Clouds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8452",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

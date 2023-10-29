@@ -1,6 +1,7 @@
 {
-  "idx": "8510",
+  "id": "8510",
   "name": "Nova Wounder of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8510",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Gladiator Sword",
       "filename": "weapon_sword_spartan.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

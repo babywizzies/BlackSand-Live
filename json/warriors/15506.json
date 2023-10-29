@@ -1,6 +1,7 @@
 {
-  "idx": "15506",
+  "id": "15506",
   "name": "Jarek Speaker of Death",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15506",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

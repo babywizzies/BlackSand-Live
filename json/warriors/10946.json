@@ -1,6 +1,7 @@
 {
-  "idx": "10946",
+  "id": "10946",
   "name": "Einer Death of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10946",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

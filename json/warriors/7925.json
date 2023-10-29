@@ -1,6 +1,7 @@
 {
-  "idx": "7925",
+  "id": "7925",
   "name": "Mushen Protector of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7925",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

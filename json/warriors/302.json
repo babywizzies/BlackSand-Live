@@ -1,6 +1,7 @@
 {
-  "idx": "302",
+  "id": "302",
   "name": "Adisa Striker of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/302",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

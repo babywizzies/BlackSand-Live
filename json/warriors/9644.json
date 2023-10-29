@@ -1,6 +1,7 @@
 {
-  "idx": "9644",
+  "id": "9644",
   "name": "Homer Marauder of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9644",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

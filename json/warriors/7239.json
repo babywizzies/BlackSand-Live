@@ -1,6 +1,7 @@
 {
-  "idx": "7239",
+  "id": "7239",
   "name": "John Assaulter of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7239",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

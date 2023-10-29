@@ -1,6 +1,7 @@
 {
-  "idx": "1266",
+  "id": "1266",
   "name": "Bruiser Battler of Komodi",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1266",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

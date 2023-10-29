@@ -1,6 +1,7 @@
 {
-  "idx": "4121",
+  "id": "4121",
   "name": "Mack Ravager of the Sunrise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4121",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

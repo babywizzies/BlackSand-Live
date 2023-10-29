@@ -1,6 +1,7 @@
 {
-  "idx": "2527",
+  "id": "2527",
   "name": "Zod Hero of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2527",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

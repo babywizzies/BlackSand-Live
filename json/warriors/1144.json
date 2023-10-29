@@ -1,6 +1,7 @@
 {
-  "idx": "1144",
+  "id": "1144",
   "name": "Mick Battler of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1144",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Aurelian Double Blade",
       "filename": "weapon_doubleblade_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "3797",
+  "id": "3797",
   "name": "Leonard Death of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3797",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Iron Buckler",
       "filename": "shield_buckler.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

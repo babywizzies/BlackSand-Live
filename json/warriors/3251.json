@@ -1,6 +1,7 @@
 {
-  "idx": "3251",
+  "id": "3251",
   "name": "Howard Ruin of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3251",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

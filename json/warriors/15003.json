@@ -1,6 +1,7 @@
 {
-  "idx": "15003",
+  "id": "15003",
   "name": "Nuru Cataclysm of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15003",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

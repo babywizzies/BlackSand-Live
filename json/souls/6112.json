@@ -1,6 +1,7 @@
 {
-  "idx": "6112",
+  "id": "6112",
   "name": "Blight Zombie Wizard Lin of the Ice Abyss",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Ghost Bat",
       "filename": "familiar_bat_ghost.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

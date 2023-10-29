@@ -1,6 +1,7 @@
 {
-  "idx": "2105",
+  "id": "2105",
   "name": "Jabari Eidolon of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2105",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

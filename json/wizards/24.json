@@ -1,48 +1,59 @@
 {
+  "id": 24,
   "name": "Philosopher Nietzsche of the Mountain",
   "image": "ipfs://QmbtiPZfgUzHd79T1aPcL9yZnhGFmzwar7h4vmfV6rV8Kq/24.png",
   "attributes": [
     {
       "trait_type": "Serial",
-      "display_type": "number",
-      "value": 24
+      "value": 24,
+      "filename": null
     },
     {
       "trait_type": "background",
-      "value": "Black"
+      "value": "Black",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "Aristocrat Purple"
+      "value": "Aristocrat Purple",
+      "filename": null
     },
     {
       "trait_type": "familiar",
-      "value": "Golden Viper"
+      "value": "Golden Viper",
+      "filename": null
     },
     {
       "trait_type": "head",
-      "value": "Philosopher"
+      "value": "Philosopher",
+      "filename": null
     },
     {
       "trait_type": "prop",
-      "value": "Hobgoblin's Flame: the Wayward Spell"
+      "value": "Hobgoblin's Flame: the Wayward Spell",
+      "filename": null
     },
     {
       "trait_type": "Affinity",
-      "value": "Amber"
+      "value": "Amber",
+      "filename": null
     },
     {
       "trait_type": "# Traits",
-      "value": "4"
+      "value": "4",
+      "filename": null
     },
     {
       "trait_type": "# Traits in Affinity",
-      "value": "3"
+      "value": "3",
+      "filename": null
     },
     {
       "trait_type": "% Traits in Affinity",
-      "value": "75"
+      "value": "75",
+      "filename": null
     }
   ],
+  "compiler": null,
   "background_color": "000000"
 }

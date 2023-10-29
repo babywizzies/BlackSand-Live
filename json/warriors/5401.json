@@ -1,6 +1,7 @@
 {
-  "idx": "5401",
+  "id": "5401",
   "name": "Turbo Sword of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5401",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

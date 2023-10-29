@@ -1,6 +1,7 @@
 {
-  "idx": "14242",
+  "id": "14242",
   "name": "Gorgah Eradicator of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14242",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1528",
+  "id": "1528",
   "name": "Boarhead of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1528",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "1704",
+  "id": "1704",
   "name": "Zombie King of the Undead",
+  "image": null,
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Fresh Brains",
       "filename": "item_brain.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

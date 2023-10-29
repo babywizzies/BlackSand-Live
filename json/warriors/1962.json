@@ -1,6 +1,7 @@
 {
-  "idx": "1962",
+  "id": "1962",
   "name": "Hoc Cleaver of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1962",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

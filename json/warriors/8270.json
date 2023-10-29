@@ -1,6 +1,7 @@
 {
-  "idx": "8270",
+  "id": "8270",
   "name": "Griffin Shaver of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8270",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

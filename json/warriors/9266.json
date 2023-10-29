@@ -1,6 +1,7 @@
 {
-  "idx": "9266",
+  "id": "9266",
   "name": "Eon Bruiser of the Berg",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9266",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

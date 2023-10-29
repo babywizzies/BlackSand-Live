@@ -1,6 +1,7 @@
 {
-  "idx": "4782",
+  "id": "4782",
   "name": "Magnus Killer of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4782",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

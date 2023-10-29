@@ -1,6 +1,7 @@
 {
-  "idx": "12181",
+  "id": "12181",
   "name": "Hades Protector of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12181",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "923",
+  "id": "923",
   "name": "Pierce Paragon of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/923",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

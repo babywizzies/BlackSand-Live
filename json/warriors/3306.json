@@ -1,6 +1,7 @@
 {
-  "idx": "3306",
+  "id": "3306",
   "name": "Margaret Outlaw of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3306",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

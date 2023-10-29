@@ -1,6 +1,7 @@
 {
-  "idx": "5366",
+  "id": "5366",
   "name": "Murphy Vanquisher of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5366",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

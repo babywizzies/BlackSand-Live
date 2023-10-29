@@ -1,6 +1,7 @@
 {
-  "idx": "9066",
+  "id": "9066",
   "name": "Nitro Trimmer of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9066",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Red Shortsword",
       "filename": "weapon_shortsword_red.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

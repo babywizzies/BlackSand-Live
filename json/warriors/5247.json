@@ -1,6 +1,7 @@
 {
-  "idx": "5247",
+  "id": "5247",
   "name": "Jules Vanquisher of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5247",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

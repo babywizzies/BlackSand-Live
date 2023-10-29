@@ -1,6 +1,7 @@
 {
-  "idx": "3366",
+  "id": "3366",
   "name": "Adira Battler of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3366",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

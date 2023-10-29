@@ -1,6 +1,7 @@
 {
-  "idx": "8161",
+  "id": "8161",
   "name": "Buster Mincer of the Sunset",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8161",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Scimitar",
       "filename": "weapon_scimitar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

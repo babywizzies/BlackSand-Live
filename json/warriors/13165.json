@@ -1,6 +1,7 @@
 {
-  "idx": "13165",
+  "id": "13165",
   "name": "Hedgie Hero of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13165",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

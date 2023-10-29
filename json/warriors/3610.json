@@ -1,6 +1,7 @@
 {
-  "idx": "3610",
+  "id": "3610",
   "name": "Octavius Attacker of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3610",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

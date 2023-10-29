@@ -1,6 +1,7 @@
 {
-  "idx": "747",
+  "id": "747",
   "name": "Jerry Hero of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/747",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Purple Kite",
       "filename": "shield_kite_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

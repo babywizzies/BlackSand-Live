@@ -1,6 +1,7 @@
 {
-  "idx": "13059",
+  "id": "13059",
   "name": "Hendrix Hero of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13059",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

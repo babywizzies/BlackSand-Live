@@ -1,6 +1,7 @@
 {
-  "idx": "12265",
+  "id": "12265",
   "name": "Pippa Ravager of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12265",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

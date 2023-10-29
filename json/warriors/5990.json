@@ -1,6 +1,7 @@
 {
-  "idx": "5990",
+  "id": "5990",
   "name": "Barret Danger of the Bamboo Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5990",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5151",
+  "id": "5151",
   "name": "Dormok Paragon of the Lantern",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5151",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

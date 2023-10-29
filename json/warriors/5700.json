@@ -1,6 +1,7 @@
 {
-  "idx": "5700",
+  "id": "5700",
   "name": "Remi Fencer of the Quantum Downs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5700",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Tuck",
       "filename": "weapon_needle.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

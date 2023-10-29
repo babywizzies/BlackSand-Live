@@ -1,6 +1,7 @@
 {
-  "idx": "15246",
+  "id": "15246",
   "name": "Roger Executor of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15246",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

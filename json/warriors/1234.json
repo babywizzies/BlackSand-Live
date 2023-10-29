@@ -1,6 +1,7 @@
 {
-  "idx": "1234",
+  "id": "1234",
   "name": "Brutus Dismantler of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1234",
   "attributes": [
     {
       "trait_type": "background",
@@ -17,5 +18,7 @@
       "value": "Lycan Warrior",
       "filename": "head_logum.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

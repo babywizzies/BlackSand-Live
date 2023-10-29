@@ -1,6 +1,7 @@
 {
-  "idx": "5703",
+  "id": "5703",
   "name": "Agnes Contender of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5703",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

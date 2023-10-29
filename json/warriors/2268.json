@@ -1,6 +1,7 @@
 {
-  "idx": "2268",
+  "id": "2268",
   "name": "Gunnar Ruffian of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2268",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rapier",
       "filename": "weapon_rapier.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

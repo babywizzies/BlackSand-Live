@@ -1,6 +1,7 @@
 {
-  "idx": "11692",
+  "id": "11692",
   "name": "Nix Slaughterer of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11692",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Purple Longsword",
       "filename": "weapon_longsword_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

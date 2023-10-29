@@ -1,6 +1,7 @@
 {
-  "idx": "1898",
+  "id": "1898",
   "name": "Oliver Monk of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1898",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

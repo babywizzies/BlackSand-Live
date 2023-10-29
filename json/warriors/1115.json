@@ -1,6 +1,7 @@
 {
-  "idx": "1115",
+  "id": "1115",
   "name": "Holt Armageddon of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1115",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

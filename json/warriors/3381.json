@@ -1,6 +1,7 @@
 {
-  "idx": "3381",
+  "id": "3381",
   "name": "Rocky Eidolon of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3381",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2256",
+  "id": "2256",
   "name": "Romulus Opponent of Scallywags",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2256",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

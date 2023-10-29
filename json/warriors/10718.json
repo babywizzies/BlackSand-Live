@@ -1,6 +1,7 @@
 {
-  "idx": "10718",
+  "id": "10718",
   "name": "Vega Sword of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10718",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

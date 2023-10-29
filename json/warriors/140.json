@@ -1,6 +1,7 @@
 {
-  "idx": "140",
+  "id": "140",
   "name": "Edwin Assaulter for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/140",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Agapanthus Fey Sword",
       "filename": "weapon_feysword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

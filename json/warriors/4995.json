@@ -1,6 +1,7 @@
 {
-  "idx": "4995",
+  "id": "4995",
   "name": "Meryl Marauder of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4995",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

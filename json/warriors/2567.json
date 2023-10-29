@@ -1,6 +1,7 @@
 {
-  "idx": "2567",
+  "id": "2567",
   "name": "Denali Obliterator of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2567",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

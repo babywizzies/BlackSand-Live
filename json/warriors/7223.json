@@ -1,6 +1,7 @@
 {
-  "idx": "7223",
+  "id": "7223",
   "name": "Cerb Lopper of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7223",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

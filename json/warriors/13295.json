@@ -1,6 +1,7 @@
 {
-  "idx": "13295",
+  "id": "13295",
   "name": "Arta Grifter of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13295",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

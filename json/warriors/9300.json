@@ -1,6 +1,7 @@
 {
-  "idx": "9300",
+  "id": "9300",
   "name": "Harvey Protector of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9300",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

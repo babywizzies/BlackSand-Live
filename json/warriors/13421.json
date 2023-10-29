@@ -1,6 +1,7 @@
 {
-  "idx": "13421",
+  "id": "13421",
   "name": "Dex of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13421",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

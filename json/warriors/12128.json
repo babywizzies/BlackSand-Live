@@ -1,6 +1,7 @@
 {
-  "idx": "12128",
+  "id": "12128",
   "name": "Zasha Bruiser of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12128",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

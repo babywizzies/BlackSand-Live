@@ -1,6 +1,7 @@
 {
-  "idx": "14624",
+  "id": "14624",
   "name": "Lance Nuker of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14624",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

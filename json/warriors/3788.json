@@ -1,6 +1,7 @@
 {
-  "idx": "3788",
+  "id": "3788",
   "name": "Bambam Ranger of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3788",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

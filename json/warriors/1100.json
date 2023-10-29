@@ -1,6 +1,7 @@
 {
-  "idx": "1100",
+  "id": "1100",
   "name": "Reginald Exterminator of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1100",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

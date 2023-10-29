@@ -1,6 +1,7 @@
 {
-  "idx": "9525",
+  "id": "9525",
   "name": "Agnes Jackhammer of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9525",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Iron Hammer",
       "filename": "weapon_hammer_grey.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "11720",
+  "id": "11720",
   "name": "Louis Mercenary of the Snow",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11720",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "5485",
+  "id": "5485",
   "name": "Farrell Doom of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5485",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

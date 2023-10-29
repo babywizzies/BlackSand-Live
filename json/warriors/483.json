@@ -1,6 +1,7 @@
 {
-  "idx": "483",
+  "id": "483",
   "name": "Frazzon Cruncher of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/483",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

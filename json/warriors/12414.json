@@ -1,6 +1,7 @@
 {
-  "idx": "12414",
+  "id": "12414",
   "name": "Krull Fencer of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12414",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

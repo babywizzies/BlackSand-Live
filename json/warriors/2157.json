@@ -1,6 +1,7 @@
 {
-  "idx": "2157",
+  "id": "2157",
   "name": "Orusula Guardian of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2157",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

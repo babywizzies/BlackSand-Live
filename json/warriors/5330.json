@@ -1,6 +1,7 @@
 {
-  "idx": "5330",
+  "id": "5330",
   "name": "Sandy Assaulter of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5330",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brass",
       "filename": "rune_brass.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

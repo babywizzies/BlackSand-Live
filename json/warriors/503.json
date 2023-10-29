@@ -1,6 +1,7 @@
 {
-  "idx": "503",
+  "id": "503",
   "name": "Saumya Beater of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/503",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Protection",
       "filename": "rune_protection.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

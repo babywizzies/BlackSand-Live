@@ -1,6 +1,7 @@
 {
-  "idx": "1832",
+  "id": "1832",
   "name": "Daxton of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1832",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Cheeseburger",
       "filename": "item_hamburger.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

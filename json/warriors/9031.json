@@ -1,6 +1,7 @@
 {
-  "idx": "9031",
+  "id": "9031",
   "name": "Dayo Raider of the Fey",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9031",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Blue Shortsword",
       "filename": "weapon_shortsword_blue.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

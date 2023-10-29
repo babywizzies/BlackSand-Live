@@ -1,6 +1,7 @@
 {
-  "idx": "10258",
+  "id": "10258",
   "name": "Divya Guardian of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10258",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

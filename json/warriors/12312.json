@@ -1,6 +1,7 @@
 {
-  "idx": "12312",
+  "id": "12312",
   "name": "Ernest Hero of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12312",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

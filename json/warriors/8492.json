@@ -1,6 +1,7 @@
 {
-  "idx": "8492",
+  "id": "8492",
   "name": "Riggs Amputator of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8492",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Brown Kite",
       "filename": "shield_kite_brown.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

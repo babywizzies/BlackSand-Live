@@ -1,6 +1,7 @@
 {
-  "idx": "13788",
+  "id": "13788",
   "name": "Haru Assaulter of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13788",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

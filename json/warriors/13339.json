@@ -1,6 +1,7 @@
 {
-  "idx": "13339",
+  "id": "13339",
   "name": "Chuck Menace of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13339",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Estoc",
       "filename": "weapon_estoc.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10777",
+  "id": "10777",
   "name": "Dozer Waster of the Ice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10777",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

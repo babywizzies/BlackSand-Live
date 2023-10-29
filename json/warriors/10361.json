@@ -1,6 +1,7 @@
 {
-  "idx": "10361",
+  "id": "10361",
   "name": "Pollentius Slaughterer of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10361",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

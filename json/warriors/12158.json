@@ -1,6 +1,7 @@
 {
-  "idx": "12158",
+  "id": "12158",
   "name": "Arnie Ruin of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12158",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

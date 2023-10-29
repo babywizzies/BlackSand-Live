@@ -1,6 +1,7 @@
 {
-  "idx": "9936",
+  "id": "9936",
   "name": "Kace Cleaver of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9936",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Giant Cleaver",
       "filename": "weapon_cleaver_purple.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2147",
+  "id": "2147",
   "name": "Lavanya Terror of the Lotus",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2147",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Up",
       "filename": "rune_up.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

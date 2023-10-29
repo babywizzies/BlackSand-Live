@@ -1,6 +1,7 @@
 {
-  "idx": "11622",
+  "id": "11622",
   "name": "Drulek Slayer of Blood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11622",
   "attributes": [
     {
       "trait_type": "background",
@@ -32,5 +33,7 @@
       "value": "Rune of Venus",
       "filename": "rune_venus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "2344",
+  "id": "2344",
   "name": "Ayodele Shatterer of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2344",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Neptune",
       "filename": "rune_neptune.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

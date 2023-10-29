@@ -1,6 +1,7 @@
 {
-  "idx": "13401",
+  "id": "13401",
   "name": "Amara Impaler of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13401",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Fire",
       "filename": "rune_fire.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "10730",
+  "id": "10730",
   "name": "Shira Apocalypse of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10730",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

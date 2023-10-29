@@ -1,6 +1,7 @@
 {
-  "idx": "7103",
+  "id": "7103",
   "name": "Valerie Cataclysm of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7103",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sun",
       "filename": "rune_sun.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

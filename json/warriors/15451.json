@@ -1,6 +1,7 @@
 {
-  "idx": "15451",
+  "id": "15451",
   "name": " Marauder of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15451",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Lime",
       "filename": "rune_lime.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

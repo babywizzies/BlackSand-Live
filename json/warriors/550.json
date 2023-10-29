@@ -1,6 +1,7 @@
 {
-  "idx": "550",
+  "id": "550",
   "name": "Clubber Stabber of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/550",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Power",
       "filename": "rune_power.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

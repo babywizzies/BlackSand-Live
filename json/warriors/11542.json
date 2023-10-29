@@ -1,6 +1,7 @@
 {
-  "idx": "11542",
+  "id": "11542",
   "name": "Glargum Doom of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11542",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

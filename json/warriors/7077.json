@@ -1,6 +1,7 @@
 {
-  "idx": "7077",
+  "id": "7077",
   "name": "Hagar Battler of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7077",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

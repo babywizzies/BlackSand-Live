@@ -1,6 +1,7 @@
 {
-  "idx": "6188",
+  "id": "6188",
   "name": "Tori Champion of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6188",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Stratiotai Spear",
       "filename": "weapon_spear_byzantine.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

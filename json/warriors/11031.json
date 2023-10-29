@@ -1,6 +1,7 @@
 {
-  "idx": "11031",
+  "id": "11031",
   "name": "Flamma Wounder of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11031",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Cyber Axe",
       "filename": "weapon_axe_cyber.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

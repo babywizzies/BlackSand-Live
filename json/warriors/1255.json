@@ -1,6 +1,7 @@
 {
-  "idx": "1255",
+  "id": "1255",
   "name": "Theo Death of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1255",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Master Claymore",
       "filename": "weapon_claymore.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "12141",
+  "id": "12141",
   "name": "Julia Shadow of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12141",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Pluto",
       "filename": "rune_pluto.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

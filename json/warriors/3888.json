@@ -1,6 +1,7 @@
 {
-  "idx": "3888",
+  "id": "3888",
   "name": "Sid Sword of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3888",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

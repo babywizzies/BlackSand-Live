@@ -1,6 +1,7 @@
 {
-  "idx": "4976",
+  "id": "4976",
   "name": "Roddrick Paragon of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4976",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

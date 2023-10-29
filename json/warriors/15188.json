@@ -1,6 +1,7 @@
 {
-  "idx": "15188",
+  "id": "15188",
   "name": "Jarek Raider of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15188",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

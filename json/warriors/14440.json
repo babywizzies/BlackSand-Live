@@ -1,6 +1,7 @@
 {
-  "idx": "14440",
+  "id": "14440",
   "name": "Archer Cutter of the City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14440",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Earth",
       "filename": "rune_earth.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

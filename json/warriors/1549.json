@@ -1,6 +1,7 @@
 {
-  "idx": "1549",
+  "id": "1549",
   "name": "Stormand Slaughterer of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1549",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

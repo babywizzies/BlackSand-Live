@@ -1,6 +1,7 @@
 {
-  "idx": "10294",
+  "id": "10294",
   "name": "Chike Carver of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10294",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

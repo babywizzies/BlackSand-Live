@@ -1,6 +1,7 @@
 {
-  "idx": "5215",
+  "id": "5215",
   "name": "Talon Champion of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5215",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

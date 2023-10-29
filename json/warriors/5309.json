@@ -1,6 +1,7 @@
 {
-  "idx": "5309",
+  "id": "5309",
   "name": "Peter Eidolon of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5309",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

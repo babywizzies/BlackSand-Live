@@ -1,6 +1,7 @@
 {
-  "idx": "5976",
+  "id": "5976",
   "name": "Beezle Cutter of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5976",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

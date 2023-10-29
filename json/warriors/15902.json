@@ -1,6 +1,7 @@
 {
-  "idx": "15902",
+  "id": "15902",
   "name": "Bronco Marauder of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15902",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Sigma",
       "filename": "rune_sigma.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

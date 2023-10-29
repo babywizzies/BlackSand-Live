@@ -1,6 +1,7 @@
 {
-  "idx": "802",
+  "id": "802",
   "name": "Gilbert Buster of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/802",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

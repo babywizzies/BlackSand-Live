@@ -1,6 +1,7 @@
 {
-  "idx": "10706",
+  "id": "10706",
   "name": "Donner Contender of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10706",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mercury",
       "filename": "rune_mercury.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "13080",
+  "id": "13080",
   "name": "Jordan Peacemaker of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13080",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Mars",
       "filename": "rune_mars.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

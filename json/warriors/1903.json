@@ -1,6 +1,7 @@
 {
-  "idx": "1903",
+  "id": "1903",
   "name": "Belteshazzar Menace of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1903",
   "attributes": [
     {
       "trait_type": "background",
@@ -22,5 +23,7 @@
       "value": "Battle Axe",
       "filename": "weapon_axe.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

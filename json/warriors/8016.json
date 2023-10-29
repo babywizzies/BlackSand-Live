@@ -1,6 +1,7 @@
 {
-  "idx": "8016",
+  "id": "8016",
   "name": "Julie Wanderer of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8016",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Cinnabar",
       "filename": "rune_cinnabar.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

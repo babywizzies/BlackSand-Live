@@ -1,6 +1,7 @@
 {
-  "idx": "7724",
+  "id": "7724",
   "name": "Valentino Clubber of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7724",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Bo Staff",
       "filename": "weapon_bostaff.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

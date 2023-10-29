@@ -1,6 +1,7 @@
 {
-  "idx": "2493",
+  "id": "2493",
   "name": "Winchester Ravager of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2493",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Sabre",
       "filename": "weapon_sabre.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

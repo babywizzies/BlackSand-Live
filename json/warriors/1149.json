@@ -1,6 +1,7 @@
 {
-  "idx": "1149",
+  "id": "1149",
   "name": "Glorf Wrecker of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1149",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

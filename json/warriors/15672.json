@@ -1,6 +1,7 @@
 {
-  "idx": "15672",
+  "id": "15672",
   "name": "Sita Guillotiner of the Sunrise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15672",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Jupiter",
       "filename": "rune_jupiter.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

@@ -1,6 +1,7 @@
 {
-  "idx": "6098",
+  "id": "6098",
   "name": "Tetraites Wounder of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6098",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Air",
       "filename": "rune_air.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

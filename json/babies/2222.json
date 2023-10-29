@@ -1,16 +1,19 @@
 {
+  "id": 2222,
   "name": "Oozing Jelly Donut from the Trash",
   "image": "https://forgottenbabies.com/uri/json/2222.png",
-  "serial": 2222,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green"
+      "value": "Green",
+      "filename": null
     },
     {
       "trait_type": "body",
-      "value": "grape_jelly_donut"
+      "value": "grape_jelly_donut",
+      "filename": null
     }
   ],
-  "compiler": "Baby Maker v2"
+  "compiler": "Baby Maker v2",
+  "background_color": null
 }

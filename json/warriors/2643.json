@@ -1,6 +1,7 @@
 {
-  "idx": "2643",
+  "id": "2643",
   "name": "Cane Amputator of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2643",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Saturn",
       "filename": "rune_saturn.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

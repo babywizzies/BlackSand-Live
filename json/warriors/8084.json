@@ -1,6 +1,7 @@
 {
-  "idx": "8084",
+  "id": "8084",
   "name": "Nia Slaughterer of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8084",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Brimstone",
       "filename": "rune_brimstone.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

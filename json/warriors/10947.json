@@ -1,6 +1,7 @@
 {
-  "idx": "10947",
+  "id": "10947",
   "name": "Rock Cutter of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10947",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Journeyman Falchion",
       "filename": "weapon_sword_falchion_gold.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

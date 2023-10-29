@@ -1,6 +1,7 @@
 {
-  "idx": "9408",
+  "id": "9408",
   "name": "Aramastus Mercenary of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9408",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Water",
       "filename": "rune_water.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

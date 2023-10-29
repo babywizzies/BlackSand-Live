@@ -1,6 +1,7 @@
 {
-  "idx": "3301",
+  "id": "3301",
   "name": "Soran Champion of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3301",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Steel",
       "filename": "rune_steel.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

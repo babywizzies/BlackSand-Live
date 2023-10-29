@@ -1,6 +1,7 @@
 {
-  "idx": "12899",
+  "id": "12899",
   "name": "Dirk Explorer of the Worms",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12899",
   "attributes": [
     {
       "trait_type": "background",
@@ -27,5 +28,7 @@
       "value": "Chakram",
       "filename": "weapon_chakram.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }

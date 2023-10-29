@@ -1,6 +1,7 @@
 {
-  "idx": "11600",
+  "id": "11600",
   "name": "Gruzzon Amputator of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11600",
   "attributes": [
     {
       "trait_type": "background",
@@ -37,5 +38,7 @@
       "value": "Rune of Uranus",
       "filename": "rune_uranus.png"
     }
-  ]
+  ],
+  "compiler": null,
+  "background_color": null
 }
