@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak",
+      "value": "body_auraknight_red",
       "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Olive Mendicant",
+      "value": "head_armok",
       "filename": "head_armok.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Aspis",
+      "value": "shield_circle_cross_green",
       "filename": "shield_circle_cross_green.png"
     },
     {
       "trait_type": "prop",
-      "value": "Blue Shortsword",
+      "value": "weapon_shortsword_blue",
       "filename": "weapon_shortsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Jupiter",
+      "value": "rune_jupiter",
       "filename": "rune_jupiter.png"
     }
   ],

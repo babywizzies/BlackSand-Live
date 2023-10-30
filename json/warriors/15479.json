@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red",
+      "value": "bg_red",
       "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Attack Drone",
+      "value": "companion_drone",
       "filename": "companion_drone.png"
     },
     {
       "trait_type": "body",
-      "value": "Argyropoeia Bot",
+      "value": "body_robo_grey",
       "filename": "body_robo_grey.png"
     },
     {
       "trait_type": "head",
-      "value": "BucketHead: Atomic 26",
+      "value": "head_buckethead",
       "filename": "head_buckethead.png"
     },
     {
       "trait_type": "prop",
-      "value": "Blue Longsword",
+      "value": "weapon_longsword_blue",
       "filename": "weapon_longsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass",
+      "value": "rune_brass",
       "filename": "rune_brass.png"
     }
   ],

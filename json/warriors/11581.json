@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak",
+      "value": "body_auraknight_red",
       "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Olympian",
+      "value": "head_ewo",
       "filename": "head_ewo.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield",
+      "value": "shield_magic",
       "filename": "shield_magic.png"
     },
     {
       "trait_type": "prop",
-      "value": "Rapier",
+      "value": "weapon_rapier",
       "filename": "weapon_rapier.png"
     }
   ],

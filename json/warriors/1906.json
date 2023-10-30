@@ -5,22 +5,22 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Suit",
+      "value": "body_redcover",
       "filename": "body_redcover.png"
     },
     {
       "trait_type": "head",
-      "value": "Legionnaire Helmet",
+      "value": "head_legionnaire",
       "filename": "head_legionnaire.png"
     },
     {
       "trait_type": "prop",
-      "value": "Partisan",
+      "value": "weapon_partisan",
       "filename": "weapon_partisan.png"
     }
   ],

@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air",
+      "value": "body_knightair",
       "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Lady",
+      "value": "head_sharyl",
       "filename": "head_sharyl.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield",
+      "value": "shield_magic",
       "filename": "shield_magic.png"
     },
     {
       "trait_type": "prop",
-      "value": "Rapier",
+      "value": "weapon_rapier",
       "filename": "weapon_rapier.png"
     }
   ],

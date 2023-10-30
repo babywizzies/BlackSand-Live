@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier",
+      "value": "body_goblin_leather",
       "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin",
+      "value": "head_goblin_cap",
       "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield",
+      "value": "shield_butterfly",
       "filename": "shield_butterfly.png"
     },
     {
       "trait_type": "prop",
-      "value": "Iron Hammer",
+      "value": "weapon_hammer_grey",
       "filename": "weapon_hammer_grey.png"
     }
   ],

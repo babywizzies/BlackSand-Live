@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor",
+      "value": "body_shirtarmor_red",
       "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "South Sider",
+      "value": "head_rockmov",
       "filename": "head_rockmov.png"
     },
     {
       "trait_type": "shield",
-      "value": "Wooden Buckler",
+      "value": "shield_circlewood",
       "filename": "shield_circlewood.png"
     },
     {
       "trait_type": "prop",
-      "value": "Sabre",
+      "value": "weapon_sabre",
       "filename": "weapon_sabre.png"
     }
   ],

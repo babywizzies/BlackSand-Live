@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air",
+      "value": "body_knightair",
       "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man",
+      "value": "head_bill",
       "filename": "head_bill.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield",
+      "value": "shield_fire",
       "filename": "shield_fire.png"
     },
     {
       "trait_type": "prop",
-      "value": "Battle Axe",
+      "value": "weapon_axe",
       "filename": "weapon_axe.png"
     }
   ],

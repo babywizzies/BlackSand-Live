@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green",
+      "value": "bg_green",
       "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Attack Drone",
+      "value": "companion_drone",
       "filename": "companion_drone.png"
     },
     {
       "trait_type": "body",
-      "value": "Cyborg Body",
+      "value": "body_cyberhalf_skinlight",
       "filename": "body_cyberhalf_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Metabot",
+      "value": "head_metabot",
       "filename": "head_metabot.png"
     },
     {
       "trait_type": "prop",
-      "value": "Cyber Axe",
+      "value": "weapon_axe_cyber",
       "filename": "weapon_axe_cyber.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Neptune",
+      "value": "rune_neptune",
       "filename": "rune_neptune.png"
     }
   ],

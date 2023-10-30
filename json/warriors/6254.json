@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Gigas Hornet",
+      "value": "companion_hornet",
       "filename": "companion_hornet.png"
     },
     {
       "trait_type": "body",
-      "value": "Murmillo Gear",
+      "value": "body_gladiator_skinlight",
       "filename": "body_gladiator_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Indigo Mendicant",
+      "value": "head_armak",
       "filename": "head_armak.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield",
+      "value": "shield_fire",
       "filename": "shield_fire.png"
     },
     {
       "trait_type": "prop",
-      "value": "Skull Sword",
+      "value": "weapon_skullsword",
       "filename": "weapon_skullsword.png"
     }
   ],

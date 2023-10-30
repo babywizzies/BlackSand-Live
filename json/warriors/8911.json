@@ -5,37 +5,37 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx",
+      "value": "companion_lynx",
       "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Desert Wear",
+      "value": "body_desert",
       "filename": "body_desert.png"
     },
     {
       "trait_type": "head",
-      "value": "Jarl Raider",
+      "value": "head_dormok",
       "filename": "head_dormok.png"
     },
     {
       "trait_type": "shield",
-      "value": "Magic Shield",
+      "value": "shield_magic",
       "filename": "shield_magic.png"
     },
     {
       "trait_type": "prop",
-      "value": "Scimitar",
+      "value": "weapon_scimitar",
       "filename": "weapon_scimitar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Air",
+      "value": "rune_air",
       "filename": "rune_air.png"
     }
   ],

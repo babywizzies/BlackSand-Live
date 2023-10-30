@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green",
+      "value": "bg_green",
       "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle",
+      "value": "companion_turtle",
       "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Chelonian Armor",
+      "value": "body_knightTurtle_yellow",
       "filename": "body_knightTurtle_yellow.png"
     },
     {
       "trait_type": "head",
-      "value": "Happy Viking",
+      "value": "head_victor",
       "filename": "head_victor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun",
+      "value": "shield_sun",
       "filename": "shield_sun.png"
     },
     {
       "trait_type": "prop",
-      "value": "Hambone",
+      "value": "item_hambone",
       "filename": "item_hambone.png"
     }
   ],

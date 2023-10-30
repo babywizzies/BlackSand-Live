@@ -12,7 +12,7 @@ interface CharacterRenderProps {
   collection: string;
 }
 
-const traitOrder = ['background', 'body', 'head', 'familiar', 'rune', 'companion', 'weapon', 'prop'];
+const traitOrder = ['background', 'body', 'head', 'familiar', 'rune', 'companion', 'shield', 'weapon', 'prop'];
 
 const orderTraits = (traits: Trait[]): Trait[] => {
   return traitOrder.map((order) => traits.find((trait) => trait.trait_type.toLowerCase() === order) || { trait_type: order, value: '' });

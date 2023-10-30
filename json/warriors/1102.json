@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Mutant Snapping Turtle",
+      "value": "companion_turtle",
       "filename": "companion_turtle.png"
     },
     {
       "trait_type": "body",
-      "value": "Purple Road Warrior",
+      "value": "body_roadwarrior_skinlight",
       "filename": "body_roadwarrior_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Purple Viking Helm",
+      "value": "head_gerj",
       "filename": "head_gerj.png"
     },
     {
       "trait_type": "prop",
-      "value": "Spiked Ball and Chain",
+      "value": "weapon_ballchain",
       "filename": "weapon_ballchain.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus",
+      "value": "rune_venus",
       "filename": "rune_venus.png"
     }
   ],

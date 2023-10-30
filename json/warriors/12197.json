@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Megasuit",
+      "value": "body_megasuit",
       "filename": "body_megasuit.png"
     },
     {
       "trait_type": "head",
-      "value": "Cool Guy",
+      "value": "head_john",
       "filename": "head_john.png"
     },
     {
       "trait_type": "prop",
-      "value": "Mace",
+      "value": "weapon_mace",
       "filename": "weapon_mace.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Venus",
+      "value": "rune_venus",
       "filename": "rune_venus.png"
     }
   ],

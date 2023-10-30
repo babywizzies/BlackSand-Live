@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier",
+      "value": "body_goblin_leather",
       "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin",
+      "value": "head_goblin_cap",
       "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Green Buckler",
+      "value": "shield_circle_green",
       "filename": "shield_circle_green.png"
     },
     {
       "trait_type": "prop",
-      "value": "Hambone",
+      "value": "item_hambone",
       "filename": "item_hambone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire",
+      "value": "rune_fire",
       "filename": "rune_fire.png"
     }
   ],

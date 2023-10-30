@@ -5,37 +5,37 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "companion",
-      "value": "Attack Drone",
+      "value": "companion_drone",
       "filename": "companion_drone.png"
     },
     {
       "trait_type": "body",
-      "value": "Nord Armor",
+      "value": "body_nordarmour_skinlight",
       "filename": "body_nordarmour_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Hibernian",
+      "value": "head_mello",
       "filename": "head_mello.png"
     },
     {
       "trait_type": "shield",
-      "value": "Blue Buckler",
+      "value": "shield_circle_blue",
       "filename": "shield_circle_blue.png"
     },
     {
       "trait_type": "prop",
-      "value": "Blue Longsword",
+      "value": "weapon_longsword_blue",
       "filename": "weapon_longsword_blue.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Brass",
+      "value": "rune_brass",
       "filename": "rune_brass.png"
     }
   ],

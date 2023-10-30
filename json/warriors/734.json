@@ -5,37 +5,37 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Green",
+      "value": "bg_green",
       "filename": "bg_green.png"
     },
     {
       "trait_type": "companion",
-      "value": "Buffkin",
+      "value": "companion_buff",
       "filename": "companion_buff.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air",
+      "value": "body_knightair",
       "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Fungus",
+      "value": "head_mushy",
       "filename": "head_mushy.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield",
+      "value": "shield_fire",
       "filename": "shield_fire.png"
     },
     {
       "trait_type": "prop",
-      "value": "Bo Staff",
+      "value": "weapon_bostaff",
       "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun",
+      "value": "rune_sun",
       "filename": "rune_sun.png"
     }
   ],

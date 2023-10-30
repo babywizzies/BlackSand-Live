@@ -5,37 +5,37 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Northern Lynx",
+      "value": "companion_lynx",
       "filename": "companion_lynx.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air",
+      "value": "body_knightair",
       "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man",
+      "value": "head_darell",
       "filename": "head_darell.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield",
+      "value": "shield_might",
       "filename": "shield_might.png"
     },
     {
       "trait_type": "prop",
-      "value": "Wooden Club",
+      "value": "weapon_club",
       "filename": "weapon_club.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Steel",
+      "value": "rune_steel",
       "filename": "rune_steel.png"
     }
   ],

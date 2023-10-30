@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Aura Knight with Red Cloak",
+      "value": "body_auraknight_red",
       "filename": "body_auraknight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Frankish Helm",
+      "value": "head_marlan",
       "filename": "head_marlan.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield",
+      "value": "shield_3tri",
       "filename": "shield_3tri.png"
     },
     {
       "trait_type": "prop",
-      "value": "Partisan",
+      "value": "weapon_partisan",
       "filename": "weapon_partisan.png"
     }
   ],

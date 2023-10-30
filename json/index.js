@@ -1,77 +1,40 @@
-const fs = require('fs').promises;
+const fs = require('fs');
 const path = require('path');
 
-const homogenize = (data, sourceType) => {
-  let id = data.idx || data.serial || null;
-  let image = data.image || null;
+const folderPath = './warriors'; // Replace with the path to your folder containing JSON files
 
-  // Special case for wizards: Extract serial from attributes
-  if (sourceType === 'wizards') {
-    const serialAttribute = data.attributes.find(attr => attr.trait_type === 'Serial');
-    if (serialAttribute) {
-      id = serialAttribute.value;
-    }
+// Read all files in the folder
+fs.readdir(folderPath, (err, files) => {
+  if (err) {
+    console.error('Error reading directory:', err);
+    return;
   }
 
-  // Special case for warriors: Generate image URL
-  if (sourceType === 'warriors') {
-    image = `https://portal.forgottenrunes.com/api/warriors/img/${data.idx}`;
-  }
+  files.forEach(file => {
+    const filePath = path.join(folderPath, file);
 
-  return {
-    id,
-    name: data.name || null,
-    image,
-    attributes: data.attributes.map(attr => ({
-      trait_type: attr.trait_type,
-      value: attr.value,
-      filename: attr.filename || null
-    })),
-    compiler: data.compiler || null,
-    background_color: data.background_color || null
-  };
-};
-
-
-const processFolder = async (inputFolder, outputFolder, sourceType) => {
-  // Create output folder if it doesn't exist
-  await fs.mkdir(outputFolder, { recursive: true });
-
-  const filenames = await fs.readdir(inputFolder);
-
-  const processFile = async (filename) => {
-    try {
-      const filePath = path.join(inputFolder, filename);
-      const fileData = await fs.readFile(filePath, 'utf-8');
-      
-      // Check if the file is empty or not
-      if (!fileData.trim()) {
-        console.warn(`Skipping empty file: ${filename}`);
+    // Read each JSON file
+    fs.readFile(filePath, 'utf8', (err, data) => {
+      if (err) {
+        console.error(`Error reading file ${file}:`, err);
         return;
       }
-  
-      const jsonData = JSON.parse(fileData);
-      const homogenizedData = homogenize(jsonData, sourceType);
-  
-      const outputFilePath = path.join(outputFolder, filename);
-      await fs.writeFile(outputFilePath, JSON.stringify(homogenizedData, null, 2));
-    } catch (err) {
-      console.error(`Error processing file ${filename}: ${err.message}`);
-    }
-  };
-  
 
-  // Process each file in the folder
-  await Promise.all(filenames.map(processFile));
-};
+      let jsonData = JSON.parse(data);
 
-const main = async () => {
-  await Promise.all([
-    processFolder('./babies', './homogenized_babies', 'babies'),
-    processFolder('./warriors', './homogenized_warriors', 'warriors'),
-    processFolder('./wizards', './homogenized_wizards', 'wizards'),
-    processFolder('./souls', './homogenized_souls', 'souls')
-  ]);
-};
+      // Update the 'value' field
+      jsonData.attributes.forEach(attr => {
+        if (attr.filename) {
+          attr.value = attr.filename.replace('.png', '');
+        }
+      });
 
-main().catch(err => console.error(err));
+      // Write the updated JSON back to the file
+      fs.writeFile(filePath, JSON.stringify(jsonData, null, 2), 'utf8', err => {
+        if (err) {
+          console.error(`Error writing to file ${file}:`, err);
+        }
+      });
+    });
+  });
+});

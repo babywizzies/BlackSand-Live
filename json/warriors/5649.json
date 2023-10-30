@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Woodland Armor",
+      "value": "body_woodarmor_fem",
       "filename": "body_woodarmor_fem.png"
     },
     {
       "trait_type": "head",
-      "value": "Bambam",
+      "value": "head_bambam",
       "filename": "head_bambam.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield",
+      "value": "shield_tomb",
       "filename": "shield_tomb.png"
     },
     {
       "trait_type": "prop",
-      "value": "Hambone",
+      "value": "item_hambone",
       "filename": "item_hambone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Mercury",
+      "value": "rune_mercury",
       "filename": "rune_mercury.png"
     }
   ],

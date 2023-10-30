@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red",
+      "value": "bg_red",
       "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Black Goat",
+      "value": "companion_goat_black",
       "filename": "companion_goat_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Guardian of the Flame",
+      "value": "body_guardian_grey",
       "filename": "body_guardian_grey.png"
     },
     {
       "trait_type": "head",
-      "value": "Imperial Helmet",
+      "value": "head_fanhelmet",
       "filename": "head_fanhelmet.png"
     },
     {
       "trait_type": "prop",
-      "value": "Bone Club",
+      "value": "weapon_bone",
       "filename": "weapon_bone.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun",
+      "value": "rune_sun",
       "filename": "rune_sun.png"
     }
   ],

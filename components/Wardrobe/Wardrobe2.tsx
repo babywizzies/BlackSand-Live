@@ -9,6 +9,7 @@ import RenderCharacter from "./characterrender"
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { matchTraitsToFile } from "./utils"; // Import the utility function
 import { generateArt, RequestModel } from '../../utils/imageGene';
+import axios from "axios";
 
 import Items from './Items'
 enum EquipScreen {
@@ -59,22 +60,6 @@ const Wardrobe2: React.FC = () => {
       }
     }, [characterData, selectedCharacter]);
 
-
-useEffect(() => {
-  // Apply the transformation logic only for warriors
-  if (selectedCharacter?.contract === SOULS_CONTRACT && characterData && characterData.attributes) {
-    let transformedAttributes = characterData.attributes.map((attr) => {
-      return {
-        ...attr,
-        trait_type: attr.trait_type.toLowerCase(),
-        value: attr.value.toLowerCase(),
-        filename: attr.filename.toLowerCase(),
-      };
-    });
-    const matchedFiles = matchTraitsToFile(transformedAttributes);
-    // Do something with matchedFiles, e.g., pass it to RenderCharacter
-  }
-}, [characterData, selectedCharacter]);
 
 
     
@@ -154,16 +139,9 @@ const handleEquipItem = (itemId: string, traitType: string) => {
         // Check directly if the user owns any "babies" tokens
         const ownsBabies = tokens.some(token => token?.token?.contract === BABIES_CONTRACT);
         
-        if (ownsBabies) {
-          // Fetch additional items for "babies" from another folder and merge with `data`
-          fetch('/api/items/babies')
-            .then(res => res.json())
-            .then(babiesData => {
-              setItems([...data, ...babiesData]);
-            });
-        } else {
+
           setFreeItems(data);
-        }
+        
       });
   }, [tokens]);
   
@@ -178,8 +156,48 @@ const handleEquipItem = (itemId: string, traitType: string) => {
       handleEquipItem,
     };
     
+    const handleGenerateArt = async () => {
+      if (characterData) {
+        // Filter out unnecessary attributes if needed
+        const relevantAttributes = characterData.attributes.filter(attr => 
+          ["background", "body", "familiar", "head", "prop", "rune", "weapon", "shield"].includes(attr.trait_type)
+        );
     
-
+        // Prepare the buildObject array based on filtered attributes
+        const buildObject = relevantAttributes.map(attr => ({
+          name: attr.trait_type,
+          item: attr.value.toLowerCase().replace(/ /g, '_')
+        }));
+    
+        let modifiedTokenId = characterData.id;  // Assuming characterData.id exists and is correct
+    
+        // Modify token ID based on the collection
+        if (selectedCharacter?.contract === BABIES_CONTRACT) {
+          modifiedTokenId += 10000;
+        } else if (selectedCharacter?.contract === WARRIORS_CONTRACT) {
+          modifiedTokenId += 20000;
+        }
+    
+        const requestModel = {
+          name: characterData.name,
+          tokenId: modifiedTokenId,
+          collectionType: collectionName,  // Make sure this field exists in your characterData
+          buildObject
+        };
+    
+        try {
+          const response = await axios.post('http://localhost:5555/art/', requestModel);
+          let storedImageLocation = response.data.replace(/\\/g, "/");
+          console.log(`Image saved at: ${storedImageLocation}`);
+        } catch (error) {
+          console.error('Failed to generate art', error);
+        }
+      } else {
+        console.log('Character data is not available.');
+      }
+    };
+    
+    
 
     return (
         
@@ -193,7 +211,10 @@ const handleEquipItem = (itemId: string, traitType: string) => {
                   <Items itemsProps={itemsProps} />
                     <button className={styles.connect_button} onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}>
                       Back <HiOutlineArrowLeft color="#000" fontSize="16" />
-                    </button>
+                    </button>     
+                     <button className={styles.generate_art_button} onClick={handleGenerateArt}>
+        Generate Art
+      </button>
             </div>
           )}
 

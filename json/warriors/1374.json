@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor",
+      "value": "body_shirtarmor_red",
       "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Praetorian",
+      "value": "head_spartan_skinlight",
       "filename": "head_spartan_skinlight.png"
     },
     {
       "trait_type": "shield",
-      "value": "Triple Triangle Shield",
+      "value": "shield_3tri",
       "filename": "shield_3tri.png"
     },
     {
       "trait_type": "prop",
-      "value": "Estoc",
+      "value": "weapon_estoc",
       "filename": "weapon_estoc.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun",
+      "value": "rune_sun",
       "filename": "rune_sun.png"
     }
   ],

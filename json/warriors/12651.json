@@ -5,37 +5,37 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "companion",
-      "value": "Demon Hound",
+      "value": "companion_demonHound",
       "filename": "companion_demonHound.png"
     },
     {
       "trait_type": "body",
-      "value": "Prism Armor",
+      "value": "body_prismknight",
       "filename": "body_prismknight.png"
     },
     {
       "trait_type": "head",
-      "value": "Executioner",
+      "value": "head_executioner",
       "filename": "head_executioner.png"
     },
     {
       "trait_type": "shield",
-      "value": "Infinity Shield",
+      "value": "shield_infinity",
       "filename": "shield_infinity.png"
     },
     {
       "trait_type": "prop",
-      "value": "Bowl of Ramen",
+      "value": "item_ramen",
       "filename": "item_ramen.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Sun",
+      "value": "rune_sun",
       "filename": "rune_sun.png"
     }
   ],

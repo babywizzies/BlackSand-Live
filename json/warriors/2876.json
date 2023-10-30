@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier",
+      "value": "body_goblin_leather",
       "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin",
+      "value": "head_goblin_bald",
       "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield",
+      "value": "shield_tomb",
       "filename": "shield_tomb.png"
     },
     {
       "trait_type": "prop",
-      "value": "Iron Hammer",
+      "value": "weapon_hammer_grey",
       "filename": "weapon_hammer_grey.png"
     }
   ],

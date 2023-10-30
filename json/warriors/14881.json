@@ -5,22 +5,22 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Megasuit",
+      "value": "body_megasuit",
       "filename": "body_megasuit.png"
     },
     {
       "trait_type": "head",
-      "value": "Forgotten Man",
+      "value": "head_bill",
       "filename": "head_bill.png"
     },
     {
       "trait_type": "prop",
-      "value": "Scimitar",
+      "value": "weapon_scimitar",
       "filename": "weapon_scimitar.png"
     }
   ],

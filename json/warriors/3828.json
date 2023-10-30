@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor",
+      "value": "body_shirtarmor_red",
       "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Imperial Helmet",
+      "value": "head_fanhelmet",
       "filename": "head_fanhelmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield",
+      "value": "shield_butterfly",
       "filename": "shield_butterfly.png"
     },
     {
       "trait_type": "prop",
-      "value": "Hambone",
+      "value": "item_hambone",
       "filename": "item_hambone.png"
     }
   ],

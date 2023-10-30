@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Hedge Knight Armor",
+      "value": "body_knight_red",
       "filename": "body_knight_red.png"
     },
     {
       "trait_type": "head",
-      "value": "South Sider",
+      "value": "head_rockmov",
       "filename": "head_rockmov.png"
     },
     {
       "trait_type": "shield",
-      "value": "Air Elemental Shield",
+      "value": "shield_wind",
       "filename": "shield_wind.png"
     },
     {
       "trait_type": "prop",
-      "value": "Bo Staff",
+      "value": "weapon_bostaff",
       "filename": "weapon_bostaff.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Earth",
+      "value": "rune_earth",
       "filename": "rune_earth.png"
     }
   ],

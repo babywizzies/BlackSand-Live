@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Raider",
+      "value": "body_goblin_skull",
       "filename": "body_goblin_skull.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin",
+      "value": "head_goblin_cap",
       "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Might Shield",
+      "value": "shield_might",
       "filename": "shield_might.png"
     },
     {
       "trait_type": "prop",
-      "value": "Mace",
+      "value": "weapon_mace",
       "filename": "weapon_mace.png"
     }
   ],

@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Fur Barbarian",
+      "value": "body_fur_skinlight",
       "filename": "body_fur_skinlight.png"
     },
     {
       "trait_type": "head",
-      "value": "Contender Helm",
+      "value": "head_helmet",
       "filename": "head_helmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Butterfly Shield",
+      "value": "shield_butterfly",
       "filename": "shield_butterfly.png"
     },
     {
       "trait_type": "prop",
-      "value": "Bo Staff",
+      "value": "weapon_bostaff",
       "filename": "weapon_bostaff.png"
     }
   ],

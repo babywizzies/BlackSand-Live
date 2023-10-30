@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor",
+      "value": "body_shirtarmor_red",
       "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Foot Soldier Helm",
+      "value": "head_gunthor",
       "filename": "head_gunthor.png"
     },
     {
       "trait_type": "shield",
-      "value": "Red Kite",
+      "value": "shield_kite_red",
       "filename": "shield_kite_red.png"
     },
     {
       "trait_type": "prop",
-      "value": "Spiked Ball and Chain",
+      "value": "weapon_ballchain",
       "filename": "weapon_ballchain.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Pluto",
+      "value": "rune_pluto",
       "filename": "rune_pluto.png"
     }
   ],

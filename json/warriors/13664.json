@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier",
+      "value": "body_goblin_leather",
       "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Goblin",
+      "value": "head_goblin_bald",
       "filename": "head_goblin_bald.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler",
+      "value": "shield_circle_yellow",
       "filename": "shield_circle_yellow.png"
     },
     {
       "trait_type": "prop",
-      "value": "Gladius",
+      "value": "weapon_gladius",
       "filename": "weapon_gladius.png"
     }
   ],

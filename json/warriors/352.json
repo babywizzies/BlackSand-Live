@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Street Hoodlum",
+      "value": "body_gruffer_skindark",
       "filename": "body_gruffer_skindark.png"
     },
     {
       "trait_type": "head",
-      "value": "Ether Horn Helm",
+      "value": "head_helmethorn_light",
       "filename": "head_helmethorn_light.png"
     },
     {
       "trait_type": "prop",
-      "value": "Bottle of Rune Beer",
+      "value": "item_beer_purple",
       "filename": "item_beer_purple.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Water",
+      "value": "rune_water",
       "filename": "rune_water.png"
     }
   ],

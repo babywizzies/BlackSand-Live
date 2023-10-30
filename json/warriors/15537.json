@@ -5,37 +5,37 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Red",
+      "value": "bg_red",
       "filename": "bg_red.png"
     },
     {
       "trait_type": "companion",
-      "value": "Cardinal Raptor",
+      "value": "companion_raptor_red",
       "filename": "companion_raptor_red.png"
     },
     {
       "trait_type": "body",
-      "value": "Guardian of the Flame",
+      "value": "body_guardian_grey",
       "filename": "body_guardian_grey.png"
     },
     {
       "trait_type": "head",
-      "value": "Flame Guardian Helm",
+      "value": "head_guardian_grey",
       "filename": "head_guardian_grey.png"
     },
     {
       "trait_type": "shield",
-      "value": "Fire Shield",
+      "value": "shield_fire",
       "filename": "shield_fire.png"
     },
     {
       "trait_type": "prop",
-      "value": "Firebrand",
+      "value": "weapon_sword_firebrand",
       "filename": "weapon_sword_firebrand.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Fire",
+      "value": "rune_fire",
       "filename": "rune_fire.png"
     }
   ],

@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Black",
+      "value": "bg_black",
       "filename": "bg_black.png"
     },
     {
       "trait_type": "body",
-      "value": "Armor of Air",
+      "value": "body_knightair",
       "filename": "body_knightair.png"
     },
     {
       "trait_type": "head",
-      "value": "Legionnaire Helmet",
+      "value": "head_legionnaire",
       "filename": "head_legionnaire.png"
     },
     {
       "trait_type": "shield",
-      "value": "Shield of the Sun",
+      "value": "shield_sun",
       "filename": "shield_sun.png"
     },
     {
       "trait_type": "prop",
-      "value": "Gladius",
+      "value": "weapon_gladius",
       "filename": "weapon_gladius.png"
     }
   ],

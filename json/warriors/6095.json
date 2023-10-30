@@ -5,32 +5,32 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Red Tunic Armor",
+      "value": "body_shirtarmor_red",
       "filename": "body_shirtarmor_red.png"
     },
     {
       "trait_type": "head",
-      "value": "Imperial Helmet",
+      "value": "head_fanhelmet",
       "filename": "head_fanhelmet.png"
     },
     {
       "trait_type": "shield",
-      "value": "Tomb Shield",
+      "value": "shield_tomb",
       "filename": "shield_tomb.png"
     },
     {
       "trait_type": "prop",
-      "value": "Scimitar",
+      "value": "weapon_scimitar",
       "filename": "weapon_scimitar.png"
     },
     {
       "trait_type": "rune",
-      "value": "Rune of Cinnabar",
+      "value": "rune_cinnabar",
       "filename": "rune_cinnabar.png"
     }
   ],

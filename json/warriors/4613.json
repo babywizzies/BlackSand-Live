@@ -5,27 +5,27 @@
   "attributes": [
     {
       "trait_type": "background",
-      "value": "Blue",
+      "value": "bg_blue",
       "filename": "bg_blue.png"
     },
     {
       "trait_type": "body",
-      "value": "Goblin Footsoldier",
+      "value": "body_goblin_leather",
       "filename": "body_goblin_leather.png"
     },
     {
       "trait_type": "head",
-      "value": "Capped Goblin",
+      "value": "head_goblin_cap",
       "filename": "head_goblin_cap.png"
     },
     {
       "trait_type": "shield",
-      "value": "Yellow Buckler",
+      "value": "shield_circle_yellow",
       "filename": "shield_circle_yellow.png"
     },
     {
       "trait_type": "prop",
-      "value": "Battle Axe",
+      "value": "weapon_axe",
       "filename": "weapon_axe.png"
     }
   ],
