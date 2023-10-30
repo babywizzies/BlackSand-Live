@@ -96,7 +96,6 @@ const CharacterSelect: FC<{ id: string; contract: string; onSelect: (character: 
   }
   
   return (
-    <div className={styles.choose}>
       <div
             onClick={() => onSelect({ id, contract })}
             onMouseEnter={() => setIsHovered(true)}
@@ -130,7 +129,6 @@ const CharacterSelect: FC<{ id: string; contract: string; onSelect: (character: 
         }}
       />
       </div>
-    </div>
     </div>
     
   );
