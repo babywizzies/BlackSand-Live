@@ -74,7 +74,7 @@ const handleEquipItem = (itemId: string, traitType: string) => {
 
     if (targetTrait) {
       targetTrait.value = itemId.toLowerCase();
-      targetTrait.filename = `${itemId.toLowerCase().replace(/ /g, '_')}.png`;
+      targetTrait.filename = `${itemId.toLowerCase().replace(/ /g, '_').replace(/,/g, '').replace(/,/g, '')}.png`;
     }
 
     if (traitType.toLowerCase() === 'body') {
@@ -82,15 +82,15 @@ const handleEquipItem = (itemId: string, traitType: string) => {
 
       if (itemId.endsWith('_Onesie')) {
         if (headTrait) {
-          if (!headTrait.value.toLowerCase().endsWith('_onesie')) {
+          if (!headTrait.value.toLowerCase().replace(/,/g, '').endsWith('_onesie')) {
             // If the character is a warrior, use filename; otherwise, use trait value
             headTrait.value = isWarrior 
               ? headTrait.filename.split('.')[0] + '_onesie'
               : `${headTrait.value}_onesie`.toLowerCase();
 
             headTrait.filename = isWarrior 
-              ? headTrait.filename.replace('.png', '_onesie.png')
-              : `${headTrait.value.replace(/ /g, '_')}.png`;
+              ? headTrait.filename.replace('.png', '_onesie.png').replace(/,/g, '')
+              : `${headTrait.value.replace(/ /g, '_').replace(/,/g, '')}.png`;
           }
         } else {
           characterData.attributes.push({
@@ -102,7 +102,7 @@ const handleEquipItem = (itemId: string, traitType: string) => {
       } else {
         if (headTrait && headTrait.value.toLowerCase().endsWith('_onesie')) {
           headTrait.value = headTrait.value.slice(0, -7).toLowerCase();
-          headTrait.filename = `${headTrait.value.replace(/ /g, '_')}.png`;
+          headTrait.filename = `${headTrait.value.replace(/ /g, '_').replace(/,/g, '')}.png`;
         }
       }
     }
@@ -166,11 +166,11 @@ const handleEquipItem = (itemId: string, traitType: string) => {
         // Prepare the buildObject array based on filtered attributes
         const buildObject = relevantAttributes.map(attr => ({
           name: attr.trait_type,
-          item: attr.value.toLowerCase().replace(/ /g, '_')
+          item: attr.value.toLowerCase().replace(/ /g, '_').replace(/,/g, '')
         }));
     
-        let modifiedTokenId = characterData.id;  // Assuming characterData.id exists and is correct
-    
+        let modifiedTokenId = Number(characterData.id);  // Convert to number
+
         // Modify token ID based on the collection
         if (selectedCharacter?.contract === BABIES_CONTRACT) {
           modifiedTokenId += 10000;
