@@ -33,6 +33,7 @@ const ITEM_CONTRACT = "0x7c104b4db94494688027cced1e2ebfb89642c80f";
 const COLLECTION_SET_ID =
   "fd9e9cda66f0d8a4b77416c483f5e7be5c8761a043161bd7722fcbf3e3609c8a";
 
+
 const SPECIAL_RACE_RULES: Record<
   string,
   { dieSides: number; dieCount: number; max: number; required_item?: number }
@@ -446,6 +447,7 @@ const Paddock = () => {
                   }}
                 />
                 </div>
+        
                 <input
                   placeholder="Discord Handle"
                   className={styles["discord-handle-input"]}
@@ -468,6 +470,7 @@ const Paddock = () => {
                         setErrorText("Please select a mount or a pony");
                         return;
                       }
+                
 
                       if (discordHandle.length === 0) {
                         setRegistering(false);
@@ -475,27 +478,19 @@ const Paddock = () => {
                         return;
                       }
 
-                      const results = discordHandle.match(/(?!\s).+#\d{4}/i);
-                      const sanitzedHandle =
-                        results && results[0] ? results[0] : null;
-
-                      if (!sanitzedHandle) {
-                        setErrorText("Discord handle is invalid");
-                        setRegistering(false);
-                        return;
-                      }
+                    
 
                       const signature = await signMessageAsync({
                         message: "Register for BlackSand Race",
                       });
                       const racerPieces = selectedRacer.split(":");
-
+                     
                       const response = await axios.post(
                         "https://blacksand.city/api/blacksand/registration/create",
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
-                          discord_handle: sanitzedHandle,
+                          discord_handle: discordHandle,
                           treats: selectedItems.map((item) => item.id),
                           signature,
                         }
@@ -625,7 +620,6 @@ const Paddock = () => {
               </div>
             )}
             </div>
-
             <div className={styles.card3}>
             <h2 ref={specialItemsRef} className={styles.subtitle_card3}>
               Special Treats
@@ -856,11 +850,12 @@ const Paddock = () => {
         </div>
       )}
       <Modal open={registeredModalOpen} setOpen={setRegisteredModalOpen}>
-        <h2 className={styles["modal-title"]}>Off to the Races!</h2>
+
         <p style={{ color: "white", textAlign: "center" }}>
           You're all set, if you'd like to update your registration you can by
           submitting again before the race starts.
         </p>
+          
         <div className={styles["modal-actions"]}>
           <a
             href="https://discord.com/channels/853432452181262346/1047907741999566959"

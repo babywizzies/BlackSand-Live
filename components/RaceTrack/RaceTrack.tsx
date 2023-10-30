@@ -15,7 +15,7 @@ const DynamicRaceTrackMap = dynamic(() => import("./RaceTrackMap"), {
 });
 
 const RaceTrack = () => {
-  useAudio("/audio/grand-tour.mp3", {
+  useAudio("/audio/cumcup.wav", {
     autoplay: true,
     volume: 0.09,
     loop: true,
@@ -68,12 +68,32 @@ const RaceTrack = () => {
   }, [race.race_data]);
   const countdownStart = useTimeSince(raceStartTimestamp);
   const countdownEnd = useTimeSince(raceEndTimestamp);
+  const teamScores = useMemo(() => {
+    const scores: { [team: string]: number } = {};
+    const teamPlayerCount: { [team: string]: number } = {};
+  
+    positions.forEach((position: any) => {
+      const team = position.registration.team;
+      const points = position.tour_points || 0;
+      if (team) {
+        scores[team] = (scores[team] || 0) + points;
+        teamPlayerCount[team] = (teamPlayerCount[team] || 0) + 1;
+      }
+    });
+  
+    // Calculate the average score multiplied by 12 for each team and round down
+
+    return scores;
+  }, [positions]);
+  
 
   return (
     <div className={styles.container}>
       <h1 className={styles.title}>Race Track</h1>
       <div className={styles["race-details"]}>
         <h2 className={styles.subtitle}>{raceName}</h2>
+      
+ 
         <div className={styles["race-info"]}>
           {race && raceStarted && (
             <p>
@@ -83,10 +103,18 @@ const RaceTrack = () => {
             </p>
           )}
           {race && !raceStarted && <p>Race starts {countdownStart}</p>}
+          <div className={styles["team-scores"]}>
+            
+
+</div>
+
+
+
           <p>{positions.length} contestants</p>
         </div>
       </div>
       <DynamicRaceTrackMap data={positions} />
+      
       {positions && positions.length > 0 && (
         <div className={styles["leaderboard-table"]}>
           <div className={styles["leaderboard-row-header"]}>

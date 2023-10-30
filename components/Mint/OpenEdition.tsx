@@ -53,7 +53,7 @@ const Home: NextPage = () => {
   const { config: contractWriteConfig } = usePrepareContractWrite({
     ...contractConfig,
     functionName: "buyArtwork",
-    args: [0, `${mintCount}`],
+    args: [1, `${mintCount}`],
     overrides: {
       value: ethers.utils.parseEther(`${mintPrice}`),
     },
@@ -216,11 +216,11 @@ const Home: NextPage = () => {
   const incrementMintCount = () => {
     let newMintCount = mintCount + 1;
     let newMintPrice = Math.round(mintPrice * 1000 + 0.01 * 1000) / 1000;
-    if (newMintCount > 3) {
-      newMintCount = 3;
+    if (newMintCount > 100) {
+      newMintCount = 100;
     }
-    if (newMintPrice > 0.03) {
-      newMintPrice = 0.03;
+    if (newMintPrice > 1.00) {
+      newMintPrice = 1.00;
     }
     setMintCount(newMintCount);
     setMintPrice(newMintPrice);
@@ -249,7 +249,7 @@ const Home: NextPage = () => {
   const { data: totalSupplyData } = useContractRead({
     ...contractConfig,
     functionName: "totalSupply",
-    args: [0],
+    args: [1],
     watch: true,
   });
 
@@ -292,7 +292,7 @@ const Home: NextPage = () => {
             loop
             controls
           >
-            <source src="/video/grandtour.mp4" type="video/mp4" />
+            <source src="/video/forgottenbabies.mp4" type="video/mp4" />
           </video>
         </div>
         
@@ -303,10 +303,8 @@ const Home: NextPage = () => {
           It is with great pride that we showcase the hard work of Academy members in a new collection: The BlackSand Editions.
           <br/>
           <br/>
-          The genesis piece of this collection marks a historic moment, commemorating the inaugural cross-country race: The Runiverse Grand Tour.
-          <br/>
-          <br/>
-          “The Runiverse Grand Tour” is an Open Edition that showcases the first ever collaboration between two phenomenal artists: <span>Leif Dojang</span> (music) and <span>Ozzz</span> (visual). It will be available to mint until <span>May 3, 2023</span> for <span>0.01 eth</span> per token.
+        
+          The “Baby Racer's Anthem”  is an Open Edition that showcases the first ever collaboration between two phenomenal artists: <span>Leif Dojang</span> (music) and <span>Acideater</span> (visual). It will be available to mint until <span>October 1, 2023</span> for <span>0.01 eth</span> per token.
           <br/>
           <br/>
           The BlackSand Editions are fully integrated in the BlackSand ecosystem, and will be an ongoing showcase  of some of the incredible work created by the Artists of the BlackSand Academy
