@@ -41,7 +41,10 @@ const Wardrobe2: React.FC = () => {
     const [items, setItems] = useState([])
     const [freeItems, setFreeItems] = useState<string[]>([]);
     const [blacksandEditionsItem, setBlacksandEditionsItem] = useState<string[]>([]);
-
+    const [imageSuccess, setImageSuccess] = useState<boolean>(false);
+    const [imageURL, setImageURL] = useState<string | null>(null);
+    const [successMessage, setSuccessMessage] = useState<string | null>(null);
+    const [showSuccessMessage, setShowSuccessMessage] = useState(false);
 
     
     useEffect(() => {
@@ -61,7 +64,10 @@ const Wardrobe2: React.FC = () => {
     }, [characterData, selectedCharacter]);
 
 
-
+    const handleCloseSuccessMessage = () => {
+      setShowSuccessMessage(false);
+    };
+    
     
 const handleEquipItem = (itemId: string, traitType: string) => {
   
@@ -184,16 +190,15 @@ const handleEquipItem = (itemId: string, traitType: string) => {
           collectionType: collectionName,  // Make sure this field exists in your characterData
           buildObject
         };
-    
         try {
           const response = await axios.post('http://localhost:5555/art/', requestModel);
           let storedImageLocation = response.data.replace(/\\/g, "/");
-          console.log(`Image saved at: ${storedImageLocation}`);
+          const fullImageUrl = `file:///${storedImageLocation}`;
+          setImageURL(fullImageUrl);
+          setShowSuccessMessage(true); // Show the success message
         } catch (error) {
           console.error('Failed to generate art', error);
         }
-      } else {
-        console.log('Character data is not available.');
       }
     };
     
@@ -216,6 +221,27 @@ const handleEquipItem = (itemId: string, traitType: string) => {
                      <button className={styles.generate_art_button} onClick={handleGenerateArt}>
                       Generate Art
                     </button>
+                    {imageSuccess && (
+      <div className={styles.successMessage}>
+        <p>Image successfully saved!</p>
+        <button onClick={() => setImageSuccess(false)}>Close</button>
+      </div>
+    )}
+
+    {successMessage && (
+  <div className={styles.successMessage}>
+    <p dangerouslySetInnerHTML={{ __html: successMessage }}></p>
+  </div>
+)}
+{showSuccessMessage && (
+  <div className={styles.successMessage}>
+    <p>Image successfully saved!</p>
+    <img src={`http://forgottenbabies.com/art/image.png`} alt="Generated Art" />
+    <button onClick={handleCloseSuccessMessage}>Close</button>
+  </div>
+)}
+
+
                     </div>
             </div>
           )}
