@@ -31,7 +31,7 @@ const generateImagePath = (type: string, value: string, filename?: string | null
     return `/assets/souls/${finalFilename}`;
   }
   // Otherwise, generate the filename based on the trait value
-  finalFilename = value.replace(/\s+/g, '_').replace(/'/g, '').toLowerCase() + '.png';
+  finalFilename = value.replace(/\s+/g, '_').replace(/'/g, '').toLowerCase().replace(/,/g, '') + '.png';
   return `/assets/${type}/${finalFilename}`;
 };
 
