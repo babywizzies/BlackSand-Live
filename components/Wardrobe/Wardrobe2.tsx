@@ -209,12 +209,14 @@ const handleEquipItem = (itemId: string, traitType: string) => {
                   <RenderCharacter traits={characterData.attributes} collection={collectionName} />
                 </div>
                   <Items itemsProps={itemsProps} />
+                  <div className={styles.buttons}>
                     <button className={styles.connect_button} onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}>
                       Back <HiOutlineArrowLeft color="#000" fontSize="16" />
                     </button>     
                      <button className={styles.generate_art_button} onClick={handleGenerateArt}>
-        Generate Art
-      </button>
+                      Generate Art
+                    </button>
+                    </div>
             </div>
           )}
 

@@ -1,4 +1,5 @@
 import { FC, useEffect, useState } from "react";
+import styles from "../../styles/css/wardrobe2.module.css"
 
 const backgroundPositions = [
   "19px 18px",
@@ -95,6 +96,7 @@ const CharacterSelect: FC<{ id: string; contract: string; onSelect: (character: 
   }
   
   return (
+    <div className={styles.choose}>
       <div
             onClick={() => onSelect({ id, contract })}
             onMouseEnter={() => setIsHovered(true)}
@@ -129,6 +131,8 @@ const CharacterSelect: FC<{ id: string; contract: string; onSelect: (character: 
       />
       </div>
     </div>
+    </div>
+    
   );
 };
 
