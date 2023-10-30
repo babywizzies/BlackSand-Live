@@ -223,7 +223,6 @@ const handleEquipItem = (itemId: string, traitType: string) => {
           {equipScreen === EquipScreen.CharacterSelection && (
             <div className={styles.container3}>
               <h2 className={styles.title}>Choose your Adventurer</h2>
-              <div className={styles.choose}>
                 {tokens.map((token, i) => (
                       <CharacterSelect
                           id={token?.token?.tokenId as string}
@@ -233,7 +232,6 @@ const handleEquipItem = (itemId: string, traitType: string) => {
                           isSelected={selectedCharacter?.id === token?.token?.tokenId}
                       />
                 ))}
-                </div>
             </div>
           )}    
            
