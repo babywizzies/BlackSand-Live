@@ -6,7 +6,10 @@ import BlackSandEditions from './BlackSandEditions';
 import styles from "../../styles/css/wardrobe2.module.css";
 
 interface YourItemType {
-  // Define the properties of YourItemType here
+  // Define the shape of the item here
+  name: string;
+  type: string;
+  // ... other properties
 }
 
 interface ItemsProps {
@@ -15,13 +18,12 @@ interface ItemsProps {
     freeItems: string[];
     barrenCourt: YourItemType[];
     blacksandEditions: YourItemType[];
-    handleEquipItem: (item: YourItemType) => void;
-  };
+    handleEquipItem: (itemName: string, type: string) => void;  };
 }
 
 const Items: React.FC<ItemsProps> = ({ itemsProps }) => {
   const { athenaeumItems, freeItems, barrenCourt, handleEquipItem } = itemsProps;
-  const [activeTab, setActiveTab] = useState('athenaeum');
+  const [activeTab, setActiveTab] = useState('costume');
 
   const renderContent = () => {
     switch (activeTab) {
@@ -42,8 +44,7 @@ const Items: React.FC<ItemsProps> = ({ itemsProps }) => {
           </div>
         );
       case 'blacksand':
-        return <BlackSandEditions handleEquipItem={handleEquipItem} />;
-      case 'barrenCourt':
+        return <BlackSandEditions handleEquipItem={handleEquipItem} />;      case 'barrenCourt':
         return (
           <div className={styles.barren_item_container}>
             {barrenCourt?.map((item, i) => (
@@ -59,8 +60,9 @@ const Items: React.FC<ItemsProps> = ({ itemsProps }) => {
   return (
     <div className={styles.items_container}>
       <div className={styles.tabs}>
+      <button className={activeTab === 'costume' ? 'active' : ''} onClick={() => setActiveTab('costume')}>Costume</button>
+
         <button className={activeTab === 'athenaeum' ? 'active' : ''} onClick={() => setActiveTab('athenaeum')}>Athenaeum</button>
-        <button className={activeTab === 'costume' ? 'active' : ''} onClick={() => setActiveTab('costume')}>Costume</button>
         <button className={activeTab === 'blacksand' ? 'active' : ''} onClick={() => setActiveTab('blacksand')}>Black Sand Editions</button>
         <button className={activeTab === 'barrenCourt' ? 'active' : ''} onClick={() => setActiveTab('barrenCourt')}>Barren Court</button>
       </div>

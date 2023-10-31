@@ -297,14 +297,14 @@ const Home: NextPage = () => {
         </div>
         
         <p className={styles.text}>
-        The prestigious BlackSand Academy has been flourishing as a collaborative creator&apos;s space. Innovative ideas echo throughout the halls. The sound of joyful music rises up through the rafters. Artists mix their colors and paint with passion. Builders craft their raw materials into majestic structures with purpose.
+        The prestigious BlackSand Academy has been flourishing as a collaborative creators space. Innovative ideas echo throughout the halls. The sound of joyful music rises up through the rafters. Artists mix their colors and paint with passion. Builders craft their raw materials into majestic structures with purpose.
           <br />
           <br />
           It is with great pride that we showcase the hard work of Academy members in a new collection: The BlackSand Editions.
           <br/>
           <br/>
         
-          The “Baby Racer's Anthem”  is an Open Edition that showcases the first ever collaboration between two phenomenal artists: <span>Leif Dojang</span> (music) and <span>Acideater</span> (visual). It will be available to mint until <span>October 1, 2023</span> for <span>0.01 eth</span> per token.
+          The “Baby Racers Anthem”  is an Open Edition that showcases the first ever collaboration between two phenomenal artists: <span>Leif Dojang</span> (music) and <span>Acideater</span> (visual). It will be available to mint until <span>October 1, 2023</span> for <span>0.01 eth</span> per token.
           <br/>
           <br/>
           The BlackSand Editions are fully integrated in the BlackSand ecosystem, and will be an ongoing showcase  of some of the incredible work created by the Artists of the BlackSand Academy

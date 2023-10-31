@@ -50,8 +50,7 @@ const Wardrobe2: React.FC = () => {
     useEffect(() => {
         console.log(characterData);
     }, [characterData]);
-    const handleCharacterSelect = (character: { characterId: string; contract: string }) => {
-        
+    const handleCharacterSelect = (character: { id: string; contract: string }) => {        
         setSelectedCharacter(character);
     };
 
@@ -89,14 +88,13 @@ const handleEquipItem = (itemId: string, traitType: string) => {
       if (itemId.endsWith('_Onesie')) {
         if (headTrait) {
           if (!headTrait.value.toLowerCase().replace(/,/g, '').endsWith('_onesie')) {
-            // If the character is a warrior, use filename; otherwise, use trait value
             headTrait.value = isWarrior 
-              ? headTrait.filename.split('.')[0] + '_onesie'
-              : `${headTrait.value}_onesie`.toLowerCase();
-
-            headTrait.filename = isWarrior 
-              ? headTrait.filename.replace('.png', '_onesie.png').replace(/,/g, '')
-              : `${headTrait.value.replace(/ /g, '_').replace(/,/g, '')}.png`;
+            ? headTrait.filename!.split('.')[0] + '_onesie'  // Use ! to assert non-null
+            : `${headTrait.value}_onesie`.toLowerCase();
+          headTrait.filename = isWarrior 
+            ? headTrait.filename!.replace('.png', '_onesie.png').replace(/,/g, '')  // Use ! to assert non-null
+            : `${headTrait.value.replace(/ /g, '_').replace(/,/g, '')}.png`;
+          
           }
         } else {
           characterData.attributes.push({
@@ -138,19 +136,36 @@ const handleEquipItem = (itemId: string, traitType: string) => {
   });
 
 
-  useEffect(() => {
-    fetch('/api/items')
-      .then(res => res.json())
-      .then(data => {
-        // Check directly if the user owns any "babies" tokens
-        const ownsBabies = tokens.some(token => token?.token?.contract === BABIES_CONTRACT);
-        
+   useEffect(() => {
+    // Debugging: Log the tokens to see when they change
+    console.log("Tokens changed:", tokens);
+
+    // Conditional fetching: Only run when certain conditions are met
+    const shouldFetch = true;  // Replace with your actual condition
+
+    if (shouldFetch) {
+      // Throttling: Limit the number of requests
+      const timer = setTimeout(async () => {
+        try {
+          const res = await fetch('/api/items');
+          const data = await res.json();
+
+          // Your business logic
+          const ownsBabies = tokens.some(token => token?.token?.contract === BABIES_CONTRACT);
+          // ... more code
 
           setFreeItems(data);
-        
-      });
+        } catch (error) {
+          console.error("Fetch failed:", error);
+          // Handle the error appropriately
+        }
+      }, 3000);  // Run the fetch every 3 second
+
+      // Cleanup: Clear the timer when component unmounts or tokens change
+      return () => clearTimeout(timer);
+    }
   }, [tokens]);
-  
+
 
 
 
@@ -191,9 +206,9 @@ const handleEquipItem = (itemId: string, traitType: string) => {
           buildObject
         };
         try {
-          const response = await axios.post('http://localhost:5555/art/', requestModel);
+          const response = await axios.post('https://forgottenbabies.com/art/', requestModel);
           let storedImageLocation = response.data.replace(/\\/g, "/");
-          const fullImageUrl = `file:///${storedImageLocation}`;
+          const fullImageUrl = `https://forgottenbabies.com/build/images/${modifiedTokenId}.png`;
           setImageURL(fullImageUrl);
           setShowSuccessMessage(true); // Show the success message
         } catch (error) {
@@ -211,10 +226,9 @@ const handleEquipItem = (itemId: string, traitType: string) => {
             <div className={styles.container1}>
               <h2 className={styles.title}>Costume Up</h2>
                 <div className={styles.adventurer_select}>
-                  <RenderCharacter traits={characterData.attributes} collection={collectionName} />
-                </div>
-                  <Items itemsProps={itemsProps} />
-                  <div className={styles.buttons}>
+                {characterData && (<RenderCharacter traits={characterData.attributes} collection={collectionName} />
+                )}</div>
+        <Items itemsProps={itemsProps as any} />                  <div className={styles.buttons}>
                     <button className={styles.connect_button} onClick={() => setEquipScreen(EquipScreen.CharacterSelection)}>
                       Back <HiOutlineArrowLeft color="#000" fontSize="16" />
                     </button>     
@@ -224,7 +238,7 @@ const handleEquipItem = (itemId: string, traitType: string) => {
                     {imageSuccess && (
       <div className={styles.successMessage}>
         <p>Image successfully saved!</p>
-        <button onClick={() => setImageSuccess(false)}>Close</button>
+        <button className={styles.connect_button} onClick={() => setImageSuccess(false)}>Close</button>
       </div>
     )}
 
@@ -236,7 +250,7 @@ const handleEquipItem = (itemId: string, traitType: string) => {
 {showSuccessMessage && (
   <div className={styles.successMessage}>
     <p>Image successfully saved!</p>
-    <img src={`http://forgottenbabies.com/art/image.png`} alt="Generated Art" />
+    <img src={imageURL} alt="Generated Art" />
     <button onClick={handleCloseSuccessMessage}>Close</button>
   </div>
 )}
@@ -251,13 +265,14 @@ const handleEquipItem = (itemId: string, traitType: string) => {
               <h2 className={styles.title}>Choose your Adventurer</h2>
               <div className={styles.choose}>
                 {tokens.map((token, i) => (
-                      <CharacterSelect
-                          id={token?.token?.tokenId as string}
-                          contract={token?.token?.contract}
-                          key={i}
-                          onSelect={handleCharacterSelect}
-                          isSelected={selectedCharacter?.id === token?.token?.tokenId}
-                      />
+                  <CharacterSelect
+                      id={token?.token?.tokenId as string}
+                      contract={token?.token?.contract || "defaultContract"}
+                      key={i}
+                      onSelect={handleCharacterSelect}
+                      isSelected={selectedCharacter?.id === token?.token?.tokenId}
+                    />
+
                 ))}
                 </div>
             </div>

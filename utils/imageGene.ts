@@ -1,5 +1,17 @@
 import axios from 'axios';
 
+export interface RequestModel {
+    id: string | number | null;
+    name: string | null;
+    image: string | null;
+    attributes: Attribute[];
+    compiler?: string | null;
+    background_color?: string | null;
+    collectionType: string;
+    buildObject: BuildObject[];
+  }
+  
+
 interface Attribute {
   trait_type: string;
   value: string;
@@ -9,17 +21,6 @@ interface Attribute {
 interface BuildObject {
   name: string;
   item: string;
-}
-
-interface RequestModel {
-  id: string | number | null; // Added id to match the homogenized schema
-  name: string | null;
-  image: string | null; // Added image to match the homogenized schema
-  attributes: Attribute[]; // Added attributes to match the homogenized schema
-  compiler?: string | null; // Optional fields
-  background_color?: string | null; // Optional fields
-  collectionType: string;
-  buildObject: BuildObject[];
 }
 
 export const generateArt = async (requestModel: RequestModel) => {

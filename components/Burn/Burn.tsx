@@ -179,13 +179,14 @@ const Burn = () => {
             }}
           >
             {tokens.map((token, i) => (
-              <CharacterSelect
-                id={token?.token?.tokenId as string}
-                contract={token?.token?.contract}
-                key={i}
-                onSelect={handleCharacterSelect}
-                isSelected={selectedCharacter?.id === token?.token?.tokenId}
-              />
+             <CharacterSelect
+             id={token?.token?.tokenId as string}
+             contract={token?.token?.contract || ''}
+             key={i}
+             onSelect={handleCharacterSelect}
+             isSelected={selectedCharacter?.id === token?.token?.tokenId}
+           />
+           
             ))}
           </div>
           <button

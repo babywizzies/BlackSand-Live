@@ -1,6 +1,12 @@
 // utils.ts
-export const matchTraitsToFile = (traits: any) => {
-    // Mocking your sample JSON for demonstration
+
+interface Trait {
+  trait_type: string;
+  value: string;
+  // ... other properties
+}
+
+export const matchTraitsToFile = (traits: Trait[]) => {    // Mocking your sample JSON for demonstration
     const mockJson = {
         
             "idx": "0",
@@ -54,14 +60,11 @@ export const matchTraitsToFile = (traits: any) => {
   
   // Transform your traits to fit into the mockJson format.
   const transformedTraits: { [key: string]: string } = {};
-
-  traits.forEach((trait) => {
-    // Transform the trait_type to match the keys in mockJson.traits. Adjust as needed.
+  traits.forEach((trait: Trait) => {
     const transformedTraitType = trait.trait_type.toLowerCase();
 
     // Locate the filename in mockJson using the transformed trait_type and value.
-    const filename = mockJson.traits[transformedTraitType]?.filename;
-
+    const filename = mockJson.traits[transformedTraitType as keyof typeof mockJson.traits]?.filename;
     // If filename is found, add it to the transformedTraits object.
     if (filename) {
       transformedTraits[transformedTraitType] = filename;

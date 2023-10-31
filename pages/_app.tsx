@@ -5,7 +5,6 @@ import "react-tooltip/dist/react-tooltip.css";
 import type { AppProps } from "next/app";
 import { RainbowKitProvider, getDefaultWallets } from "@rainbow-me/rainbowkit";
 import { configureChains, createClient, WagmiConfig } from "wagmi";
-import { ActorContextProvider } from "../components/actorContext";
 
 import { mainnet, goerli } from "wagmi/chains";
 
@@ -59,7 +58,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   }, []);
 
   return (
-    <ActorContextProvider>
+   
       <SWRConfig
         value={{
           fetcher: (resource, init) =>
@@ -98,7 +97,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           </RainbowKitProvider>
         </WagmiConfig>
       </SWRConfig>
-    </ActorContextProvider>
+    
   );
 }
 

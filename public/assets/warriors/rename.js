@@ -1,25 +1,24 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = './';  // Replace with your directory path
+const folderPath = './'; // Replace with your folder path
 
-fs.readdir(directoryPath, (err, files) => {
-    if (err) {
-        return console.error('Unable to read directory: ' + err);
-    }
+fs.readdir(folderPath, (err, files) => {
+  if (err) {
+    console.error('An error occurred:', err);
+    return;
+  }
 
-    files.forEach(file => {
-        if (file.endsWith('.json')) {
-            const oldPath = path.join(directoryPath, file);
-            const newPath = path.join(directoryPath, file.slice(0, -5));  // Removes the last 5 characters (.json)
+  files.forEach(file => {
+    const oldPath = path.join(folderPath, file);
+    const newPath = path.join(folderPath, file.toLowerCase());
 
-            fs.rename(oldPath, newPath, function(err) {
-                if (err) {
-                    console.error('Error renaming file:', err);
-                } else {
-                    console.log(`Renamed ${oldPath} to ${newPath}`);
-                }
-            });
-        }
+    fs.rename(oldPath, newPath, err => {
+      if (err) {
+        console.error(`Failed to rename ${file}:`, err);
+      } else {
+        console.log(`Successfully renamed ${file} to ${file.toLowerCase()}`);
+      }
     });
+  });
 });

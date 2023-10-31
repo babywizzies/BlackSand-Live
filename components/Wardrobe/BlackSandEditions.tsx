@@ -1,13 +1,18 @@
 import React from 'react';
 import styles from "../../styles/css/wardrobe2.module.css"
 
+interface YourItemType {
+  // Define the shape of the item here
+  name: string;
+  type: string;
+  // ... other properties
+}
+
 interface BlackSandEditionsItemProps {
-    item: YourItemType;  
-    handleEquipItem: (itemName: string, type: string) => void;
+      handleEquipItem: (itemName: string, type: string) => void;
 }
   
-const BlackSandEditions: React.FC<BlackSandEditionsItemProps> = ({ item, handleEquipItem }) => {
-
+const BlackSandEditions: React.FC<BlackSandEditionsItemProps> = ({ handleEquipItem }) => {
   const imagePath = `/assets/blacksandeditions/oz2.png`;
 
   return (<>
