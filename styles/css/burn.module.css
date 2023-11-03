@@ -1,12 +1,47 @@
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+#bsMap{
+    border:1px solid red;
+}
+
 .video-hero {
     display: flex;
     flex-direction: column;
     align-items: center;
     height: 100%;
     justify-content: center;
+
 }
 
-.connect-button{
+.connect_button{
+    font-size: 1.3rem;
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: #d4b42c;
+    color: black;
+    font-family: 'Piilani';
+    border-radius: 10px;
+}
+
+.container1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.adventure_container{
+    display: flex;
+    justify-content: center;
+    flex: wrap;
+    overflow-y: auto;
+
+}
+
+.proceed_button{
     font-size: 1.3rem;
     margin-top: 30px;
     padding: 10px 20px;

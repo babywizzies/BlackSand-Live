@@ -32,7 +32,7 @@ const PixiComponentViewport = PixiComponent("Viewport", {
       "wheel",
       (e) => {
         const target = e.target as Element;
-        if (target && target.id === "burnStage") {
+        if (target && target.id === "bsMap") {
           e?.preventDefault();
           e?.stopPropagation();
         }
@@ -55,9 +55,9 @@ const PixiComponentViewport = PixiComponent("Viewport", {
     });
 
     viewport
-      //.drag()
-      //.pinch()
-      //.wheel()
+      .drag()
+      .pinch()
+      .wheel()
       .clamp({ direction: "all" })
       .clampZoom({
         minScale: 1,

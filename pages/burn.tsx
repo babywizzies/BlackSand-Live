@@ -12,7 +12,7 @@ const BurnPage: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className="main">
+      <main className="main_burn">
         <Burn />
       </main>
     </div>

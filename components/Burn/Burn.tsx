@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
-import { Stage, AnimatedSprite, Container } from "@inlet/react-pixi";
+import { Stage, AnimatedSprite, Container, Sprite } from "@inlet/react-pixi";
 import { BlurFilter } from 'pixi.js';
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
@@ -10,6 +10,7 @@ import { Polygon } from "pixi.js";
 import CharacterSelect from "./CharacterSelect";
 import { useUserTokens } from "@reservoir0x/reservoir-kit-ui";
 import { useAccount } from "wagmi";
+import * as PIXI from "pixi.js";
 
 const noHitArea = new Polygon([]);
 
@@ -20,6 +21,14 @@ enum BurnScreen {
   Confirmation,
   Portal,
 }
+
+const frameWidth =  1017// Set the width of each frame in your sprite sheet
+const frameHeight = 947// Set the height of each frame in your sprite sheet
+const totalFrames = 4;
+const rows = 4.3;
+const animationSpeed = 200;
+const startX = 0; // X position at the start of the canvas
+const endX = 500;
 
 
 const Burn = () => {
@@ -35,6 +44,9 @@ const Burn = () => {
   useEffect(() => {
     attemptPlay();
   }, []);
+  const [currentFrame, setCurrentFrame] = useState(0);
+  const [spriteX, setSpriteX] = useState(startX);
+  const [characterNumber, setCharacterNumber] = useState(0);
   const mounted = useIsMounted();
   const [selectedCharacter, setSelectedCharacter] = useState<any>(null);
 
@@ -66,18 +78,60 @@ const Burn = () => {
       "2bbf8c77426ecef122b930e50d37eef1eefd8de0eaad268e3ee3abc05d3a2937",
   });
 
+  useEffect(() => {
+    const animationInterval = setInterval(() => {
+      setCurrentFrame((prevFrame) => (prevFrame + 1) % totalFrames);
+    }, animationSpeed);
+
+    return () => {
+      clearInterval(animationInterval);
+    };
+  }, []);
+
+  useEffect(() => {
+    if (spriteX < endX) {
+      const moveInterval = setInterval(() => {
+        setSpriteX((prevX) => prevX + 2); // Adjust the movement speed as needed
+        if (spriteX >= endX) {
+          clearInterval(moveInterval);
+        }
+      }, 30); // Adjust the interval to control the movement speed
+      return () => {
+        clearInterval(moveInterval);
+      };
+    }
+  }, [spriteX]);
+
+  const handleCharacterNumberChange = (event:any) => {
+    // Update the character number when the input changes
+    setCharacterNumber(event.target.value);
+    setCurrentFrame(0);
+    setSpriteX(startX);
+  };
+
+  const spriteSheetUrl = `https://www.forgottenrunes.com/api/art/warriors/${characterNumber}/spritesheet.png?width=1024`;
+  const stopspriteSheetUrl = `https://www.forgottenrunes.com/api/art/warriors/${characterNumber}/spritesheet.png?width=1024`;
+
+  const row = rows - 1; // The last row index
+  let frameX = currentFrame * frameWidth; // Calculate X position based on the current frame
+  let frameY = row * frameHeight; // Calculate Y position based on the last row
+
+  const spriteTexture = PIXI.Texture.from(spriteX >= endX ? stopspriteSheetUrl : spriteSheetUrl);
+ //const spriteTexture = PIXI.Texture.from(spriteSheetImage);
+
+ if (spriteX >= endX) {
+    frameX = 0; // X position of the first frame
+    frameY = 0; // Y position of the first frame
+  }
+
   if (!mounted || typeof window === "undefined") {
     return null;
   }
 
   return (
-    <div
-      style={{
-        position: "relative",
-        overflow: "hidden",
-        height: 2000,
-        width: "100%",
-      }}
+    <>
+    <div className={styles.container}
+      
     >
       {burnScreen === BurnScreen.Start && (
         <div className={styles["video-hero"]}>
@@ -119,7 +173,7 @@ const Burn = () => {
                       if (!connected) {
                         return (
                           <button
-                            className={styles["connect-button"]}
+                            className={styles.connect_button}
                             onClick={openConnectModal}
                             type="button"
                           >
@@ -131,7 +185,7 @@ const Burn = () => {
                       if (chain.unsupported) {
                         return (
                           <button
-                            className={styles["connect-button"]}
+                            className={styles.connect_button}
                             onClick={openChainModal}
                             type="button"
                           >
@@ -142,7 +196,7 @@ const Burn = () => {
 
                       return (
                         <button
-                          className={styles["connect-button"]}
+                          className={styles.connect_button}
                           onClick={() =>
                             setBurnScreen(BurnScreen.CharacterSelection)
                           }
@@ -160,7 +214,7 @@ const Burn = () => {
         </div>
       )}
       {burnScreen === BurnScreen.CharacterSelection && (
-        <div>
+        <div className={styles.container1}>
           <h2 className={styles.title}>Choose your Adventurer</h2>
           {selectedCharacter && (
         <div>
@@ -168,15 +222,8 @@ const Burn = () => {
         </div>
       )}
           <div
-            style={{
-              display: "flex",
-              justifyContent: "center",
-              gap: 20,
-              margin: "20px 60px",
-              flexWrap: "wrap",
-              overflowY: "auto",
-              height: 600,
-            }}
+
+            className={styles.adventure_container}
           >
             {tokens.map((token, i) => (
               <CharacterSelect
@@ -189,7 +236,7 @@ const Burn = () => {
             ))}
           </div>
           <button
-                          className={styles["connect-button"]}
+                          className={styles.proceed_button}
                           onClick={() =>
                             setBurnScreen(BurnScreen.Portal)
                           }
@@ -201,21 +248,26 @@ const Burn = () => {
         </div>
       )}
       {burnScreen === BurnScreen.Portal && (
-        <>
-          <Stage width={windowSize[0]} height={1400} id="burnStage">
+        <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
+        <Stage
+            width={windowSize[0]}
+            height={2400}
+            id="bsMap"
+          >
             <ViewPort
               screenWidth={windowSize[0]}
-              screenHeight={1400}
-              worldWidth={1400}
-              worldHeight={1450}
+              screenHeight={2400}
+              worldWidth={600}
+              worldHeight={600}
             >
-              <AnimatedSprite
+          <Sprite image="./img/burn/burn.png" x={0} y={0} />
+          <AnimatedSprite
                 isPlaying={true}
                 images={[
-                  "./img/burn/main1.png",
-                  "./img/burn/main2.png",
-                  "./img/burn/main3.png",
-                  "./img/burn/main4.png",
+                  "./img/burn/burn1.png",
+                  "./img/burn/burn2.png",
+                  "./img/burn/burn3.png",
+                  "./img/burn/burn4.png",
                 ]}
                 animationSpeed={0.07}
                 x={0}
@@ -223,32 +275,28 @@ const Burn = () => {
                 interactive={false}
                 hitArea={noHitArea}
                 cursor="pointer"
-                width={1400}
               />
-              <AnimatedSprite
-                interactive={true}
-                isPlaying={true}
-                images={[
-                  "./img/burn/portal1.png",
-                  "./img/burn/portal2.png",
-                  "./img/burn/portal3.png",
-                  "./img/burn/portal4.png",
-                ]}
-                animationSpeed={0.07}
-                x={0}
-                y={0}
-                hitArea={noHitArea}
-                cursor="pointer"
-                width={1400}
-              />     
-           
-            
-            </ViewPort>
-            
-          </Stage>
-        </>
-      )}
+             <Sprite
+              texture={new PIXI.Texture(spriteTexture.baseTexture, new PIXI.Rectangle(frameX, frameY, frameWidth, frameHeight))}
+              x={spriteX}
+              y={95.5} // Adjust the Y position based on your needs
+              width={frameWidth * 0.066}
+              height={frameHeight * 0.066}
+              scale={{ x: 1, y: 1 }}
+              anchor={new PIXI.Point(0.5, 0.5)}
+            />
+          </ViewPort>
+          
+        </Stage>
+      </div>
+    )}
     </div>
+    <input
+          type="number"
+          value={characterNumber}
+          onChange={handleCharacterNumberChange}
+        />
+    </>
   );
 };
 
