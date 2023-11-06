@@ -27,8 +27,8 @@ const frameHeight = 947// Set the height of each frame in your sprite sheet
 const totalFrames = 4;
 const rows = 4.3;
 const animationSpeed = 200;
-const startX = 0; // X position at the start of the canvas
-const endX = 500;
+const startX = 400; // X position at the start of the canvas
+const endX = 430;
 
 
 const Burn = () => {
@@ -41,25 +41,34 @@ const Burn = () => {
       });
     }
   };
-  useEffect(() => {
-    attemptPlay();
-  }, []);
+  const [isTransitioning, setIsTransitioning] = useState(false);
+  const [isSecondStage, setIsSecondStage] = useState(false);
+  const handleButtonClick = () => {
+    setIsSecondStage(true);
+  };
   const [currentFrame, setCurrentFrame] = useState(0);
   const [spriteX, setSpriteX] = useState(startX);
   const [characterNumber, setCharacterNumber] = useState(0);
   const mounted = useIsMounted();
   const [selectedCharacter, setSelectedCharacter] = useState<any>(null);
-
+  const [showImage, setShowImage] = useState(false);
   const handleCharacterSelect = (character: { id: string; contract: string }) => {
     setSelectedCharacter(character);
     
   };
-
   const [windowSize, setWindowSize] = useState([
     typeof window !== "undefined" ? window.innerWidth : 0,
     typeof window !== "undefined" ? window.innerHeight : 0,
   ]);
   const [burnScreen, setBurnScreen] = useState<BurnScreen>(BurnScreen.Start);
+  const { data: tokens } = useUserTokens(accountAddress, {
+    collectionsSetId:
+      "2bbf8c77426ecef122b930e50d37eef1eefd8de0eaad268e3ee3abc05d3a2937",
+  });
+
+  useEffect(() => {
+    attemptPlay();
+  }, []);
 
   useEffect(() => {
     const handleWindowResize = () => {
@@ -72,11 +81,6 @@ const Burn = () => {
       window.removeEventListener("resize", handleWindowResize);
     };
   }, []);
-
-  const { data: tokens } = useUserTokens(accountAddress, {
-    collectionsSetId:
-      "2bbf8c77426ecef122b930e50d37eef1eefd8de0eaad268e3ee3abc05d3a2937",
-  });
 
   useEffect(() => {
     const animationInterval = setInterval(() => {
@@ -116,8 +120,22 @@ const Burn = () => {
   let frameX = currentFrame * frameWidth; // Calculate X position based on the current frame
   let frameY = row * frameHeight; // Calculate Y position based on the last row
 
-  const spriteTexture = PIXI.Texture.from(spriteX >= endX ? stopspriteSheetUrl : spriteSheetUrl);
- //const spriteTexture = PIXI.Texture.from(spriteSheetImage);
+  const spriteTexture = PIXI.Texture.from(spriteX >= endX ? stopspriteSheetUrl : spriteSheetUrl); //const spriteTexture = PIXI.Texture.from(spriteSheetImage);
+
+ // Add a useEffect to toggle the image visibility when spriteX reaches endX
+ useEffect(() => {
+   if (spriteX >= endX) {
+     setShowImage(true);
+   } else {
+     setShowImage(false);
+   }
+ }, [spriteX]);
+
+ const handleSpriteClick = () => {
+  if (spriteX >= endX) {
+    setIsTransitioning(true);
+  }
+};
 
  if (spriteX >= endX) {
     frameX = 0; // X position of the first frame
@@ -130,9 +148,7 @@ const Burn = () => {
 
   return (
     <>
-    <div className={styles.container}
-      
-    >
+    <div className={styles.container}>
       {burnScreen === BurnScreen.Start && (
         <div className={styles["video-hero"]}>
           <video
@@ -247,7 +263,7 @@ const Burn = () => {
                         </button>
         </div>
       )}
-      {burnScreen === BurnScreen.Portal && (
+      {burnScreen === BurnScreen.Portal && !isTransitioning && (
         <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
         <Stage
             width={windowSize[0]}
@@ -285,11 +301,57 @@ const Burn = () => {
               scale={{ x: 1, y: 1 }}
               anchor={new PIXI.Point(0.5, 0.5)}
             />
+            <Sprite image="./img/burn/shazam.png"
+            width={25}
+            height={44}
+            x={445}
+            y={82}
+            />
+            
+            {showImage && (
+            <Sprite
+              image="./img/burn/box.png"
+              width={100}
+              height={28} // Replace with the path to your image
+              x={460}
+              y={50}
+              interactive
+            pointerdown={handleSpriteClick}
+            cursor="pointer"
+            />
+          )}
           </ViewPort>
           
         </Stage>
       </div>
-    )}
+      )}
+      {isTransitioning && !isSecondStage && (
+      <>
+       <div className={styles.container2}>
+        <p style={{color: 'white', fontSize: '122px'}}>Graphic of Burn</p>
+          <button className={styles.continue} onClick={handleButtonClick} >Continue</button>
+       </div>
+      </>
+      )}
+      {isSecondStage && (
+        <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
+        <Stage
+            width={windowSize[0]}
+            height={2600}
+            id="bsMap"
+          >
+            <ViewPort
+              screenWidth={windowSize[0]}
+              screenHeight={2600}
+              worldWidth={2000}
+              worldHeight={2600}
+            >
+          <Sprite image="./img/burn/main1.png" x={0} y={0} />
+          </ViewPort>
+          
+        </Stage>
+      </div>
+      )}
     </div>
     <input
           type="number"
