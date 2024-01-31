@@ -6,7 +6,8 @@ const CONTRACT_TO_COLLECTION_MAP: Record<string, string> = {
     '0x521f9c7505005cfa19a8e5786a9c3c9c9f5e6f42': 'wizards',
     '0x4b1e130ae84c97b931ffbe91ead6b1da16993d45': 'babies',
     '0x9690b63eb85467be5267a3603f770589ab12dc95': 'warriors',
-    '0x251b5f14a825c537ff788604ea1b58e49b70726f': 'souls'
+    '0x251b5f14a825c537ff788604ea1b58e49b70726f': 'souls',
+    '0xf55b615b479482440135ebf1b907fd4c37ed9420': 'ponies'
 };
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {

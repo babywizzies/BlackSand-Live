@@ -13,7 +13,7 @@ const BurnPage: NextPage = () => {
   
   return (
     <>
-    <BurnPony apiUrl="https://portal.forgottenrunes.com/api/shadowfax/data/" />
+    <BurnPony apiUrl="http://localhost:3000/api/getCharacterData" />
     <BurnMech apiUrl="https://forgottenbabies.com/blacksand/uri/" />
     </>
   );
