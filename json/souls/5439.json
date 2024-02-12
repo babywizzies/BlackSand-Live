@@ -1,0 +1,39 @@
+{
+  "id": "5439",
+  "name": "Grave Robbing Kobold Pix of Phantasmagoria",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasm Sash",
+      "filename": "body_phantasm_sash.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Kobold Skull",
+      "filename": "head_woomba_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Dwarve's Heart: the Diamond Spell",
+      "filename": "spell_earth_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Fire",
+      "filename": "rune_fire.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Rat",
+      "filename": "familiar_rat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

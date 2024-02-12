@@ -1,0 +1,39 @@
+{
+  "id": "1663",
+  "name": "Wilda Lightbearer of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1663",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_black",
+      "filename": "companion_goat_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinlight",
+      "filename": "body_streetpunk_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_red",
+      "filename": "head_femhelm_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

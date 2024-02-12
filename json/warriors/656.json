@@ -1,0 +1,39 @@
+{
+  "id": "656",
+  "name": "Alam Guardian of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/656",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skindark",
+      "filename": "body_spikeBarb_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gilgamesh",
+      "filename": "head_gilgamesh.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

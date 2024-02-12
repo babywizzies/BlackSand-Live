@@ -1,0 +1,39 @@
+{
+  "id": "9640",
+  "name": "Wolfe of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9640",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skinlight",
+      "filename": "body_gruffer_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeff",
+      "filename": "head_jeff.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

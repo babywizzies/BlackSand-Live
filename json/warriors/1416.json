@@ -1,0 +1,44 @@
+{
+  "id": "1416",
+  "name": "Brion Divider of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1416",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightwater",
+      "filename": "body_knightwater.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

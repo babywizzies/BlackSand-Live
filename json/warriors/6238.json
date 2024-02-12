@@ -1,0 +1,39 @@
+{
+  "id": "6238",
+  "name": "Margarita Exterminator of Islands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6238",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fempirateWar",
+      "filename": "body_fempirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherry",
+      "filename": "head_sherry.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

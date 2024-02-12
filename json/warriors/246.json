@@ -1,0 +1,34 @@
+{
+  "id": "246",
+  "name": "Ayo Eidolon of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/246",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wildfem",
+      "filename": "body_wildfem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mellah",
+      "filename": "head_mellah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

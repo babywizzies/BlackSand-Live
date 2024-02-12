@@ -1,0 +1,44 @@
+{
+  "id": "6067",
+  "name": "Arnie Despoiler of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6067",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_yan",
+      "filename": "head_yan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

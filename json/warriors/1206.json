@@ -1,0 +1,39 @@
+{
+  "id": "1206",
+  "name": "Ryker Conqueror for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1206",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skindark",
+      "filename": "body_wrestler_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocktim",
+      "filename": "head_rocktim.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

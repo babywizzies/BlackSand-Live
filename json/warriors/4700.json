@@ -1,0 +1,44 @@
+{
+  "id": "4700",
+  "name": "Dillon Eidolon of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4700",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gloryKnight_skindark",
+      "filename": "body_gloryKnight_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_polarman",
+      "filename": "head_polarman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_yellow",
+      "filename": "weapon_boomerang_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2098",
+  "name": "Caldus Destroyer of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2098",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skinlight",
+      "filename": "body_commando_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_legionnaire",
+      "filename": "head_legionnaire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bone",
+      "filename": "weapon_bone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

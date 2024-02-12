@@ -1,0 +1,44 @@
+{
+  "id": "11561",
+  "name": "Quince Guardian of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11561",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skinlight",
+      "filename": "body_clericknight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmov",
+      "filename": "head_rockmov.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

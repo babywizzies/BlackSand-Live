@@ -1,0 +1,39 @@
+{
+  "id": "13755",
+  "name": "Edwin Lacerator of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13755",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_purple",
+      "filename": "body_shirtarmor_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_crusader",
+      "filename": "head_crusader.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

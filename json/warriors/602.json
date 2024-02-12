@@ -1,0 +1,34 @@
+{
+  "id": "602",
+  "name": "Nova Calamity of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/602",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spartan_silver_skinlight",
+      "filename": "body_spartan_silver_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skinlight",
+      "filename": "head_base_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

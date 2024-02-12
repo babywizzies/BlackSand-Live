@@ -1,0 +1,44 @@
+{
+  "id": "13009",
+  "name": "Rocky Lacerator of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13009",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightwater",
+      "filename": "body_knightwater.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

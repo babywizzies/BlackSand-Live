@@ -1,0 +1,44 @@
+{
+  "id": "9751",
+  "name": "Archer Executor of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9751",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skinlight",
+      "filename": "body_barbarian_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_skullsword",
+      "filename": "weapon_skullsword.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

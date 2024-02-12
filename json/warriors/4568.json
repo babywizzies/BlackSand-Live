@@ -1,0 +1,39 @@
+{
+  "id": "4568",
+  "name": "Baril Paragon of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4568",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gloryKnight_skinlight",
+      "filename": "body_gloryKnight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gerj",
+      "filename": "head_gerj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

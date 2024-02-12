@@ -1,0 +1,39 @@
+{
+  "id": "2629",
+  "name": "Taurus of Komodi",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2629",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skinlight",
+      "filename": "body_commando_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gladiator",
+      "filename": "head_gladiator.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

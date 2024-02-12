@@ -1,0 +1,39 @@
+{
+  "id": "15452",
+  "name": "Trudy Demolisher of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15452",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinlight",
+      "filename": "body_streetpunk_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_marci",
+      "filename": "head_marci.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_nunchucku",
+      "filename": "weapon_nunchucku.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

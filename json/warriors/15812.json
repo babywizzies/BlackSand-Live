@@ -1,0 +1,39 @@
+{
+  "id": "15812",
+  "name": "Kat Savior of the Good Luck Squad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15812",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pari",
+      "filename": "head_pari.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4971",
+  "name": "Orson Mercenary of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4971",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_white",
+      "filename": "body_starcleric_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_robby",
+      "filename": "head_robby.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

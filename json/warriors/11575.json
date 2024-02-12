@@ -1,0 +1,39 @@
+{
+  "id": "11575",
+  "name": "Luke Lacerator of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11575",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_purple",
+      "filename": "body_sharp_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_akon",
+      "filename": "head_akon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_yellow",
+      "filename": "weapon_chainsaw_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

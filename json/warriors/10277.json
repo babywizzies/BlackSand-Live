@@ -1,0 +1,39 @@
+{
+  "id": "10277",
+  "name": "Rogue Disintegrator of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10277",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_green_skinmid",
+      "filename": "body_provoc_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_swordBabylon",
+      "filename": "weapon_swordBabylon.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

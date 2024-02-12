@@ -1,0 +1,44 @@
+{
+  "id": "10005",
+  "name": "Flavia Amputator of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10005",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_red_skindark",
+      "filename": "body_amazon_red_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrun",
+      "filename": "head_valkyrun.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

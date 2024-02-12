@@ -1,0 +1,39 @@
+{
+  "id": "283",
+  "name": "Arnie Smasher of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/283",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skinlight",
+      "filename": "body_gruffer_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_brown",
+      "filename": "weapon_hammer_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

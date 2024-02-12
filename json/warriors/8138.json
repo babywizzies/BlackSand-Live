@@ -1,0 +1,44 @@
+{
+  "id": "8138",
+  "name": "Trudy Scissor of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8138",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fembarian_skindark",
+      "filename": "body_fembarian_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_marsha",
+      "filename": "head_marsha.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2661",
+  "name": "Major of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2661",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_white",
+      "filename": "companion_goat_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_black",
+      "filename": "body_plateArmor_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

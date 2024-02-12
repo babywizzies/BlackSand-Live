@@ -1,0 +1,39 @@
+{
+  "id": "2766",
+  "name": "Dash Paragon of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2766",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_green",
+      "filename": "body_knight_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jardem",
+      "filename": "head_jardem.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

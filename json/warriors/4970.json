@@ -1,0 +1,44 @@
+{
+  "id": "4970",
+  "name": "Mug Apocalypse of the Crossroad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4970",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_kobold",
+      "filename": "body_roadwarrior_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_skull",
+      "filename": "shield_skull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

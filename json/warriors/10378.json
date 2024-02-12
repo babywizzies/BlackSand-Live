@@ -1,0 +1,39 @@
+{
+  "id": "10378",
+  "name": "Relic Vanquisher of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10378",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willson",
+      "filename": "head_willson.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

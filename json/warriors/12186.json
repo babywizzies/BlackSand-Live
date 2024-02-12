@@ -1,0 +1,39 @@
+{
+  "id": "12186",
+  "name": "Perseus Armageddon of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12186",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_brown_skinlight",
+      "filename": "body_streetpunk_brown_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_metabot",
+      "filename": "head_metabot.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_red",
+      "filename": "weapon_sword_bigbarb_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

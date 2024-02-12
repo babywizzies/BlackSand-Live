@@ -1,0 +1,44 @@
+{
+  "id": "5288",
+  "name": "Gungunu Paragon of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5288",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_red",
+      "filename": "body_shirtarmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_byzantine",
+      "filename": "head_byzantine.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_tizona",
+      "filename": "weapon_tizona.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

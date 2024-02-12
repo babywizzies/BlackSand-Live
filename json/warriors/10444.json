@@ -1,0 +1,44 @@
+{
+  "id": "10444",
+  "name": "Nombeko Adventurer of Nothing",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10444",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skindark",
+      "filename": "body_femguard_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_maude",
+      "filename": "head_maude.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circlewood",
+      "filename": "shield_circlewood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

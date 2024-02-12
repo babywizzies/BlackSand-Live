@@ -1,0 +1,39 @@
+{
+  "id": "2374",
+  "name": "Orgdego Thief of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2374",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_green",
+      "filename": "body_shirtarmor_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ewo",
+      "filename": "head_ewo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sai",
+      "filename": "weapon_sai.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

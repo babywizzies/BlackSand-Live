@@ -1,0 +1,44 @@
+{
+  "id": "2794",
+  "name": "Goober Impaler of the Slime",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2794",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehelmet",
+      "filename": "head_furgnomehelmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_speargold",
+      "filename": "weapon_speargold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

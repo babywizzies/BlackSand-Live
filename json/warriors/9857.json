@@ -1,0 +1,44 @@
+{
+  "id": "9857",
+  "name": "Nooka Raider of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9857",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_demonHound",
+      "filename": "companion_demonHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_kobold_black",
+      "filename": "body_kobold_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_womble",
+      "filename": "head_womble.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_spartan",
+      "filename": "weapon_sword_spartan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

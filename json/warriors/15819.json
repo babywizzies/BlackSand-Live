@@ -1,0 +1,39 @@
+{
+  "id": "15819",
+  "name": "Fugh Dueler of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15819",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_brute",
+      "filename": "body_goblin_brute.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_cap",
+      "filename": "head_goblin_cap.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

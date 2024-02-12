@@ -1,0 +1,44 @@
+{
+  "id": "3289",
+  "name": "Jack Ruin of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3289",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_blue_skindark",
+      "filename": "body_grillknight_blue_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dormok",
+      "filename": "head_dormok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

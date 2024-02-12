@@ -1,0 +1,44 @@
+{
+  "id": "11595",
+  "name": "Farrell Sword of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11595",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_harpy",
+      "filename": "companion_eagle_harpy.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_green",
+      "filename": "body_shirtarmor_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_fuchow",
+      "filename": "head_fuchow.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_lotus",
+      "filename": "shield_lotus.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_green",
+      "filename": "weapon_longsword_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

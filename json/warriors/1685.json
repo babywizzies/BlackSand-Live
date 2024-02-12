@@ -1,0 +1,44 @@
+{
+  "id": "1685",
+  "name": "Sharon Guardian of Beasts",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1685",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_green_skinlight",
+      "filename": "body_fem_knight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mello",
+      "filename": "head_mello.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spearWing",
+      "filename": "weapon_spearWing.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13124",
+  "name": "Humphrey Ravager of the Mist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13124",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_red",
+      "filename": "body_samurai_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_blue",
+      "filename": "head_knight_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_blue",
+      "filename": "shield_kite_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

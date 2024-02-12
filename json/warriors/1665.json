@@ -1,0 +1,44 @@
+{
+  "id": "1665",
+  "name": "Damien Double-Crosser of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1665",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_blue",
+      "filename": "body_shirtarmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet_spike",
+      "filename": "head_helmet_spike.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

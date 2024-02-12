@@ -1,0 +1,39 @@
+{
+  "id": "13034",
+  "name": "Zora Cleaver of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13034",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinlight",
+      "filename": "body_streetpunk_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sel",
+      "filename": "head_sel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_silver",
+      "filename": "weapon_dragonpike_silver.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

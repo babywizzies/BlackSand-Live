@@ -1,0 +1,44 @@
+{
+  "id": "5069",
+  "name": "Xerxes Outlaw of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5069",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_harpy",
+      "filename": "companion_eagle_harpy.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_green",
+      "filename": "body_knight_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_yan",
+      "filename": "head_yan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

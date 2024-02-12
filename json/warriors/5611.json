@@ -1,0 +1,34 @@
+{
+  "id": "5611",
+  "name": "Winchester Guillotiner of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5611",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skinlight",
+      "filename": "body_clericknight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willy",
+      "filename": "head_willy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3418",
+  "name": "Damien Death of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3418",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skinlight",
+      "filename": "body_meso_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_executioner",
+      "filename": "head_executioner.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wolf",
+      "filename": "shield_wolf.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_goblin",
+      "filename": "weapon_sword_goblin.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

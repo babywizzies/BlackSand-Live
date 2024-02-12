@@ -1,0 +1,44 @@
+{
+  "id": "14489",
+  "name": "Boris Fiend of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14489",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_griffin",
+      "filename": "companion_griffin.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_yellow",
+      "filename": "body_auraknight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jardem",
+      "filename": "head_jardem.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_lotus",
+      "filename": "shield_lotus.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jade",
+      "filename": "weapon_sword_jade.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

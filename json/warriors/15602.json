@@ -1,0 +1,44 @@
+{
+  "id": "15602",
+  "name": "Tera Smasher of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15602",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skindark",
+      "filename": "body_femguard_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_parah",
+      "filename": "head_parah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_frog",
+      "filename": "shield_frog.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_crowbar",
+      "filename": "weapon_crowbar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

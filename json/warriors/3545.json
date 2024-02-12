@@ -1,0 +1,44 @@
+{
+  "id": "3545",
+  "name": "Anaya Ravager of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3545",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_blue",
+      "filename": "companion_raptor_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_red_skindark",
+      "filename": "body_amazon_red_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sol",
+      "filename": "head_sol.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bloodSkull",
+      "filename": "shield_bloodSkull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

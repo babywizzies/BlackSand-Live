@@ -1,0 +1,44 @@
+{
+  "id": "2413",
+  "name": "Glorf Flattener of Bears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2413",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_leather",
+      "filename": "body_goblin_leather.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_cap",
+      "filename": "head_goblin_cap.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_crowbar",
+      "filename": "weapon_crowbar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

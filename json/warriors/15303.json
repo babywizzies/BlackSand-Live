@@ -1,0 +1,39 @@
+{
+  "id": "15303",
+  "name": "Alex Champion of the Storm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15303",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_valkyrie_skindark",
+      "filename": "body_valkyrie_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_biffi",
+      "filename": "head_biffi.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

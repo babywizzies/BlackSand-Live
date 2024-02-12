@@ -1,0 +1,44 @@
+{
+  "id": "3745",
+  "name": "Ethan Vindicator of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3745",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_green_skinmid",
+      "filename": "body_provoc_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brandan",
+      "filename": "head_brandan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kraken",
+      "filename": "shield_kraken.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

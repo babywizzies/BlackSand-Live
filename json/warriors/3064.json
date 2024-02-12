@@ -1,0 +1,44 @@
+{
+  "id": "3064",
+  "name": "Buer of the Slime",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3064",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_black",
+      "filename": "companion_goat_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_yellow",
+      "filename": "body_knightTurtle_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmethorn_dark",
+      "filename": "head_helmethorn_dark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wolf",
+      "filename": "shield_wolf.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

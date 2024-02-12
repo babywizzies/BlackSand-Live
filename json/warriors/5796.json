@@ -1,0 +1,39 @@
+{
+  "id": "5796",
+  "name": "Bolin Stalker of Sharks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5796",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_pirateWar",
+      "filename": "body_pirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_chun",
+      "filename": "head_chun.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

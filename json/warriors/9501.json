@@ -1,0 +1,34 @@
+{
+  "id": "9501",
+  "name": "Talal Armageddon of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9501",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_yellow",
+      "filename": "body_knight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_arabian",
+      "filename": "head_arabian.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9046",
+  "name": "Maximo Beater for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9046",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinmid",
+      "filename": "body_wrestler_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_manuel",
+      "filename": "head_manuel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_brown",
+      "filename": "weapon_hammer_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

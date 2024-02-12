@@ -1,0 +1,39 @@
+{
+  "id": "2080",
+  "name": "Wraith Captain Soran of the Inifinite Nothing",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Paranormal Phantasmal Body",
+      "filename": "body_phantasm_paranormal.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Captain",
+      "filename": "head_wraith_four.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Bag of Cataclysm",
+      "filename": "item_magicbag_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Jupiter",
+      "filename": "rune_jupiter.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

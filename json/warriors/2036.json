@@ -1,0 +1,44 @@
+{
+  "id": "2036",
+  "name": "Luther Render of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2036",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_suspenders_skindark",
+      "filename": "body_suspenders_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_protection",
+      "filename": "rune_protection.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

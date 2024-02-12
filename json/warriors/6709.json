@@ -1,0 +1,39 @@
+{
+  "id": "6709",
+  "name": "Aurelia Assailant of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6709",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fembarian_skindark",
+      "filename": "body_fembarian_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_blue",
+      "filename": "head_femhelm_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "6439",
+  "name": "Caesar of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6439",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_green_skinlight",
+      "filename": "body_grillknight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeff",
+      "filename": "head_jeff.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

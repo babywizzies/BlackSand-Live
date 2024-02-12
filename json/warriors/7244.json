@@ -1,0 +1,39 @@
+{
+  "id": "7244",
+  "name": "Dubaku Calamity of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7244",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skindark",
+      "filename": "body_spikeBarb_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ronny",
+      "filename": "head_ronny.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

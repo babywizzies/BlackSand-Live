@@ -1,0 +1,44 @@
+{
+  "id": "4056",
+  "name": "Leona Rival of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4056",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_surdarmour_skindark",
+      "filename": "body_surdarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

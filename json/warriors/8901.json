@@ -1,0 +1,29 @@
+{
+  "id": "8901",
+  "name": "Ryland Impaler of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8901",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_purple_skinlight",
+      "filename": "body_streetpunk_purple_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bearman",
+      "filename": "head_bearman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

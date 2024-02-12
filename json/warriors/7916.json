@@ -1,0 +1,44 @@
+{
+  "id": "7916",
+  "name": "Bargo Lacerator of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7916",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_blue",
+      "filename": "companion_boar_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightearth",
+      "filename": "body_knightearth.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jardem",
+      "filename": "head_jardem.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_green",
+      "filename": "weapon_longsword_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

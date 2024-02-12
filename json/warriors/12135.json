@@ -1,0 +1,39 @@
+{
+  "id": "12135",
+  "name": "Titus Savior of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12135",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinmid",
+      "filename": "body_wrestler_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_stan",
+      "filename": "head_stan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1851",
+  "name": "Warden Dispatcher of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1851",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_demonHound",
+      "filename": "companion_demonHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_red",
+      "filename": "body_shirtarmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_berserker_skinlight",
+      "filename": "head_berserker_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

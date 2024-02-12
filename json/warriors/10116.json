@@ -1,0 +1,39 @@
+{
+  "id": "10116",
+  "name": "Bruno Armageddon of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10116",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_yellow",
+      "filename": "body_cloak_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_john",
+      "filename": "head_john.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

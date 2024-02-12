@@ -1,0 +1,44 @@
+{
+  "id": "8960",
+  "name": "Drodum Divider of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8960",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_red",
+      "filename": "body_shirtarmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_elephant",
+      "filename": "head_elephant.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bloodSkull",
+      "filename": "shield_bloodSkull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonsword_red",
+      "filename": "weapon_dragonsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

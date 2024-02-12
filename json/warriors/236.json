@@ -1,0 +1,34 @@
+{
+  "id": "236",
+  "name": "Grogan Amputator of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/236",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_purple_skinlight",
+      "filename": "body_streetpunk_purple_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

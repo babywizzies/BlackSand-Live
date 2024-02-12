@@ -1,0 +1,39 @@
+{
+  "id": "15157",
+  "name": "Bronco Champion of Penguins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15157",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_redcover",
+      "filename": "body_redcover.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocky",
+      "filename": "head_rocky.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

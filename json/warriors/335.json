@@ -1,0 +1,39 @@
+{
+  "id": "335",
+  "name": "Vommbar Deadeye of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/335",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skinlight",
+      "filename": "body_gaul_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gerj",
+      "filename": "head_gerj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

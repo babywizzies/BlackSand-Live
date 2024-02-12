@@ -1,0 +1,44 @@
+{
+  "id": "15486",
+  "name": "Volantius Knave of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15486",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spartan_silver_skinmid",
+      "filename": "body_spartan_silver_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gladiator",
+      "filename": "head_gladiator.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_slingshot",
+      "filename": "weapon_slingshot.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

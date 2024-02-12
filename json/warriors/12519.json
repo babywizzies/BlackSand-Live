@@ -1,0 +1,39 @@
+{
+  "id": "12519",
+  "name": "Heydar Shadow of Atlantis",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12519",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_yellow_skindark",
+      "filename": "body_provoc_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_armok",
+      "filename": "head_armok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

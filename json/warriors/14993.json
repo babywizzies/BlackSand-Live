@@ -1,0 +1,44 @@
+{
+  "id": "14993",
+  "name": "Naberius Disintegrator of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14993",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_white",
+      "filename": "body_plateArmor_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jaxon",
+      "filename": "head_jaxon.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

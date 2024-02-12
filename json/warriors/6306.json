@@ -1,0 +1,39 @@
+{
+  "id": "6306",
+  "name": "Leena of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6306",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinmid",
+      "filename": "body_streetpunk_fem_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

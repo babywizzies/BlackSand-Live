@@ -1,0 +1,39 @@
+{
+  "id": "13403",
+  "name": "Falcon Stabber for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13403",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skinlight",
+      "filename": "body_judo_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brandan",
+      "filename": "head_brandan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

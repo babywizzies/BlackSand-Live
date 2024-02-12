@@ -1,0 +1,39 @@
+{
+  "id": "5782",
+  "name": "Dree Bludgeoner of Demons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5782",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mello",
+      "filename": "head_mello.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

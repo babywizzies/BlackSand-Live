@@ -1,0 +1,39 @@
+{
+  "id": "10379",
+  "name": "Ned of the Canyon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10379",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skinlight",
+      "filename": "body_commando_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bearman",
+      "filename": "head_bearman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ale",
+      "filename": "item_ale.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

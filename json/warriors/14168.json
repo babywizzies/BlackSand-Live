@@ -1,0 +1,39 @@
+{
+  "id": "14168",
+  "name": "Lubalar Vanquisher of the Disco",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14168",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_yellow",
+      "filename": "body_sharp_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

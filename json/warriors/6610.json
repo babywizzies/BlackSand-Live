@@ -1,0 +1,39 @@
+{
+  "id": "6610",
+  "name": "Sandra Marauder of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6610",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_white_skinmid",
+      "filename": "body_onepiece_white_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippin",
+      "filename": "head_pippin.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

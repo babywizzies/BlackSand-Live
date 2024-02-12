@@ -1,0 +1,44 @@
+{
+  "id": "1667",
+  "name": "Bardora Opponent of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1667",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_green_skinlight",
+      "filename": "body_grillknight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_victor",
+      "filename": "head_victor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circlewood",
+      "filename": "shield_circlewood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_crowbar",
+      "filename": "weapon_crowbar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

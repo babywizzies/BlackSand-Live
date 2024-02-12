@@ -1,0 +1,39 @@
+{
+  "id": "9455",
+  "name": "Cicero Belligerent of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9455",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skindark",
+      "filename": "body_mma_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skindark",
+      "filename": "head_spartan_skindark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_falchion_red",
+      "filename": "weapon_sword_falchion_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

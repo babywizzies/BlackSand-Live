@@ -1,0 +1,44 @@
+{
+  "id": "7211",
+  "name": "Archer Punisher of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7211",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skindark",
+      "filename": "body_meso_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jardem",
+      "filename": "head_jardem.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_crowbar",
+      "filename": "weapon_crowbar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "15202",
+  "name": "Zod Sword of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15202",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skindark",
+      "filename": "body_barbarian_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocktim",
+      "filename": "head_rocktim.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

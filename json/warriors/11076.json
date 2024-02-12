@@ -1,0 +1,44 @@
+{
+  "id": "11076",
+  "name": "Narfi Destroyer of Frogs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11076",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmethorn_light",
+      "filename": "head_helmethorn_light.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

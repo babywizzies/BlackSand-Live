@@ -1,0 +1,39 @@
+{
+  "id": "10050",
+  "name": "Victor Terror of the Disco",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10050",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_purple",
+      "filename": "body_sharp_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skindark",
+      "filename": "head_base_skindark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_spartan",
+      "filename": "weapon_sword_spartan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

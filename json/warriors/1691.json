@@ -1,0 +1,39 @@
+{
+  "id": "1691",
+  "name": "Brock Defeater of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1691",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skinlight",
+      "filename": "body_judo_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_steve",
+      "filename": "head_steve.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

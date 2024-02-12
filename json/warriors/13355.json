@@ -1,0 +1,44 @@
+{
+  "id": "13355",
+  "name": "Wyatt Marauder of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13355",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fur_skinlight",
+      "filename": "body_fur_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logan",
+      "filename": "head_logan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

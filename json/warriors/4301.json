@@ -1,0 +1,39 @@
+{
+  "id": "4301",
+  "name": "Jasper Despoiler of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4301",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skindark",
+      "filename": "body_mma_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dormok",
+      "filename": "head_dormok.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_blue",
+      "filename": "weapon_longsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

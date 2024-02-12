@@ -1,0 +1,44 @@
+{
+  "id": "5900",
+  "name": "Brion Shadow of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5900",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightfire",
+      "filename": "body_knightfire.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

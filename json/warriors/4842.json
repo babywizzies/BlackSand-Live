@@ -1,0 +1,44 @@
+{
+  "id": "4842",
+  "name": "Xorb Raider of Torment Manor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4842",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_leather",
+      "filename": "body_goblin_leather.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_cap",
+      "filename": "head_goblin_cap.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wood",
+      "filename": "shield_wood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_gold",
+      "filename": "weapon_dragonpike_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

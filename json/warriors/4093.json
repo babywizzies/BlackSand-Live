@@ -1,0 +1,44 @@
+{
+  "id": "4093",
+  "name": "Amanita Blazer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4093",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightearth",
+      "filename": "body_knightearth.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mushy",
+      "filename": "head_mushy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_flamethrower",
+      "filename": "weapon_flamethrower.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

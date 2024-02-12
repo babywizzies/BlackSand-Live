@@ -1,0 +1,39 @@
+{
+  "id": "8556",
+  "name": "Wild Zombie Angus of Goblin town",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Conquest",
+      "filename": "bg_red_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Decaying Skeleton",
+      "filename": "body_skeleton_bloody.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wild Zombie",
+      "filename": "head_tundror_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Platypus hatchling",
+      "filename": "item_egg_platypus_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Pluto",
+      "filename": "rune_pluto.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Snake",
+      "filename": "familiar_snake_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

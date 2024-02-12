@@ -1,0 +1,39 @@
+{
+  "id": "1413",
+  "name": "Herbert Guillotiner of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1413",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_crom",
+      "filename": "head_crom.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

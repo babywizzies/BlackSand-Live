@@ -1,0 +1,39 @@
+{
+  "id": "12968",
+  "name": "Ash Slicer of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12968",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_purple",
+      "filename": "companion_beetle_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skindark",
+      "filename": "body_roadwarrior_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sigma",
+      "filename": "rune_sigma.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

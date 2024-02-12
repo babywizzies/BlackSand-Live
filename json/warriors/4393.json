@@ -1,0 +1,39 @@
+{
+  "id": "4393",
+  "name": "Miles Champion of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4393",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_redcover",
+      "filename": "body_redcover.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocketman",
+      "filename": "head_rocketman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spearWing",
+      "filename": "weapon_spearWing.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

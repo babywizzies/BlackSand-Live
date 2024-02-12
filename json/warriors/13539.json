@@ -1,0 +1,44 @@
+{
+  "id": "13539",
+  "name": "Boipel Slayer of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13539",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_green",
+      "filename": "body_starcleric_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rommi",
+      "filename": "head_rommi.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

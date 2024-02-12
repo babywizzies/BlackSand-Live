@@ -1,0 +1,39 @@
+{
+  "id": "3637",
+  "name": "Vince Explorer of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3637",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_martial_skindark",
+      "filename": "body_martial_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_yellow",
+      "filename": "weapon_boomerang_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

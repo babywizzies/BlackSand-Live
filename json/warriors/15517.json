@@ -1,0 +1,39 @@
+{
+  "id": "15517",
+  "name": "KN-1GT Guardian of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15517",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_guardian_grey",
+      "filename": "body_guardian_grey.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_guardian_grey",
+      "filename": "head_guardian_grey.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_guardian",
+      "filename": "shield_guardian.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_gear",
+      "filename": "weapon_sword_gear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

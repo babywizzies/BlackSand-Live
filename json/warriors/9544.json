@@ -1,0 +1,44 @@
+{
+  "id": "9544",
+  "name": "Asmodeus Chopper of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9544",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_red",
+      "filename": "companion_raptor_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skindark",
+      "filename": "body_meso_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmethorn_dark",
+      "filename": "head_helmethorn_dark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonsword_blue",
+      "filename": "weapon_dragonsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

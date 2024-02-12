@@ -1,0 +1,34 @@
+{
+  "id": "8656",
+  "name": "Aldokeg Axe of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8656",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skindark",
+      "filename": "body_barbarian_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_berserker_skindark",
+      "filename": "head_berserker_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_goblin",
+      "filename": "weapon_axe_goblin.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

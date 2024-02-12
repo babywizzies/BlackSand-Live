@@ -1,0 +1,39 @@
+{
+  "id": "1736",
+  "name": "Sherry Guardian of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1736",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skindark",
+      "filename": "body_femguard_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_parah",
+      "filename": "head_parah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1172",
+  "name": "Gorgah Mangler of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1172",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_red",
+      "filename": "body_plateArmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_voideth",
+      "filename": "head_voideth.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_mace",
+      "filename": "weapon_mace.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

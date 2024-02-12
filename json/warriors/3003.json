@@ -1,0 +1,34 @@
+{
+  "id": "3003",
+  "name": "Diabolos Paragon of Joy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3003",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_male_skinlight",
+      "filename": "body_dom_male_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_executioner",
+      "filename": "head_executioner.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_skullspear",
+      "filename": "weapon_skullspear.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

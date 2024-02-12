@@ -1,0 +1,39 @@
+{
+  "id": "6693",
+  "name": "Draxon Paragon of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6693",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightfire",
+      "filename": "body_knightfire.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocky",
+      "filename": "head_rocky.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

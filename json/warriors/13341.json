@@ -1,0 +1,44 @@
+{
+  "id": "13341",
+  "name": "Willy Protector of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13341",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_green",
+      "filename": "body_knight_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_stan",
+      "filename": "head_stan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

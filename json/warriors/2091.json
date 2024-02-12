@@ -1,0 +1,34 @@
+{
+  "id": "2091",
+  "name": "Duncan Piercer of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2091",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_red_skinlight",
+      "filename": "body_provoc_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shawn",
+      "filename": "head_shawn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

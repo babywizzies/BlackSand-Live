@@ -1,0 +1,39 @@
+{
+  "id": "14607",
+  "name": "Flekk of Gross Gorge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14607",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_skull",
+      "filename": "body_goblin_skull.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_cap",
+      "filename": "head_goblin_cap.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1357",
+  "name": "Groos of Sharks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1357",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_pirateWar",
+      "filename": "body_pirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gerj",
+      "filename": "head_gerj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

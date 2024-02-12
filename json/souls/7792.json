@@ -1,0 +1,39 @@
+{
+  "id": "7792",
+  "name": "Night Ghoul Tundror of the Scum Barrel",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Decaying Skeleton",
+      "filename": "body_skeleton_bloody.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ghoul of Shade",
+      "filename": "head_ghoul_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Fire Stone Staff",
+      "filename": "staff_djewel_red_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Uranus",
+      "filename": "rune_uranus.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Crow",
+      "filename": "familiar_crow_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

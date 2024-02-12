@@ -1,0 +1,39 @@
+{
+  "id": "3179",
+  "name": "Wraith Deacon Cullen of Torment Manor",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Wight Cape",
+      "filename": "body_lich_cape.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Deacon",
+      "filename": "head_wraith_one.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "A dumb stick... on fire",
+      "filename": "item_stick_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Lime",
+      "filename": "rune_lime.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Snake",
+      "filename": "familiar_snake_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

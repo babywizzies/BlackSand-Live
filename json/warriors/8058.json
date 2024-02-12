@@ -1,0 +1,34 @@
+{
+  "id": "8058",
+  "name": "Shira Guardian of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8058",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_white_skindark",
+      "filename": "body_fem_knight_white_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tora",
+      "filename": "head_tora.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

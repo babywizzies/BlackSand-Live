@@ -1,0 +1,44 @@
+{
+  "id": "9565",
+  "name": "Nicolas Render of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9565",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_drone",
+      "filename": "companion_drone.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_guardian_blue",
+      "filename": "body_guardian_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brandan",
+      "filename": "head_brandan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

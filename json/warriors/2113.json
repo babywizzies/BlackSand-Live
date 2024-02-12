@@ -1,0 +1,44 @@
+{
+  "id": "2113",
+  "name": "Anwir Dueler of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2113",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_blue",
+      "filename": "body_shirtarmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet_spike",
+      "filename": "head_helmet_spike.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

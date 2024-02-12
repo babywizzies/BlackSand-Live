@@ -1,0 +1,39 @@
+{
+  "id": "13684",
+  "name": "Thomas Sword of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13684",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight",
+      "filename": "body_knight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_blue",
+      "filename": "head_knight_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

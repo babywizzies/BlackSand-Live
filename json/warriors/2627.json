@@ -1,0 +1,44 @@
+{
+  "id": "2627",
+  "name": "Astaroth Executor of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2627",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_red_skinlight",
+      "filename": "body_provoc_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_garth",
+      "filename": "head_garth.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9042",
+  "name": "Arnie Battler of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9042",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_brown",
+      "filename": "body_shirtarmor_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

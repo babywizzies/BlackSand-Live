@@ -1,0 +1,44 @@
+{
+  "id": "5559",
+  "name": "Zora Belligerent of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5559",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_brown_skindark",
+      "filename": "body_fem_knight_brown_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

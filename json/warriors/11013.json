@@ -1,0 +1,44 @@
+{
+  "id": "11013",
+  "name": "Sabo Armageddon of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11013",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_blue",
+      "filename": "body_shirtarmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_elephant",
+      "filename": "head_elephant.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_swordBabylon",
+      "filename": "weapon_swordBabylon.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1953",
+  "name": "Azim Stabber of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1953",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightair",
+      "filename": "body_knightair.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_armok",
+      "filename": "head_armok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

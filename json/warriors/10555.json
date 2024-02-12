@@ -1,0 +1,44 @@
+{
+  "id": "10555",
+  "name": "Gabe Bloodbath of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10555",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_black",
+      "filename": "body_plateArmor_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_blue",
+      "filename": "weapon_chainsaw_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

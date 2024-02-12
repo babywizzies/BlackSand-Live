@@ -1,0 +1,44 @@
+{
+  "id": "13333",
+  "name": "Adira Sword of Knights",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13333",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skindark",
+      "filename": "body_nordarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_marsha",
+      "filename": "head_marsha.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "12101",
+  "name": "Vulcan Exterminator of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12101",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skindark",
+      "filename": "body_clericknight_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dormok",
+      "filename": "head_dormok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

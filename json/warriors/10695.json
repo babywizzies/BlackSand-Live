@@ -1,0 +1,39 @@
+{
+  "id": "10695",
+  "name": "Sandra Eidolon of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10695",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_red",
+      "filename": "head_femhelm_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

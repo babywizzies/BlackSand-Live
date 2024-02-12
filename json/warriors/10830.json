@@ -1,0 +1,39 @@
+{
+  "id": "10830",
+  "name": "Walter Contaminator of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10830",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_green",
+      "filename": "body_knight_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_green",
+      "filename": "head_knight_green.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_yellow",
+      "filename": "shield_circle_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "15048",
+  "name": "Charlie Basher of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15048",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_yellow",
+      "filename": "body_knight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logan",
+      "filename": "head_logan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_grey",
+      "filename": "weapon_hammer_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

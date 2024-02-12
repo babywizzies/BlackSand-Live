@@ -1,0 +1,44 @@
+{
+  "id": "4146",
+  "name": "Grimmold Champion of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4146",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glorf",
+      "filename": "head_glorf.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_lotus",
+      "filename": "shield_lotus.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

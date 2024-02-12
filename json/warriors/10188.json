@@ -1,0 +1,39 @@
+{
+  "id": "10188",
+  "name": "Malacoda Impaler of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10188",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_purple",
+      "filename": "body_knight_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet_spike",
+      "filename": "head_helmet_spike.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

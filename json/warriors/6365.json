@@ -1,0 +1,39 @@
+{
+  "id": "6365",
+  "name": "Blake Executor of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6365",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_surdarmour_skinlight",
+      "filename": "body_surdarmour_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shana",
+      "filename": "head_shana.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

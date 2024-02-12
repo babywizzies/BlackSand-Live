@@ -1,0 +1,44 @@
+{
+  "id": "6837",
+  "name": "Judy Protector of Fish",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6837",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femcaptain",
+      "filename": "body_femcaptain.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buffy",
+      "filename": "head_buffy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

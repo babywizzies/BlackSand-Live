@@ -1,0 +1,34 @@
+{
+  "id": "5925",
+  "name": "Mala Fencer of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5925",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skinlight",
+      "filename": "body_femguard_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_velbi",
+      "filename": "head_velbi.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

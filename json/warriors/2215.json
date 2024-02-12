@@ -1,0 +1,44 @@
+{
+  "id": "2215",
+  "name": "Moe Lopper of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2215",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehorn",
+      "filename": "head_furgnomehorn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_blood",
+      "filename": "weapon_sword_blood.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

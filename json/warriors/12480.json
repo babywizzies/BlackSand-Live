@@ -1,0 +1,39 @@
+{
+  "id": "12480",
+  "name": "Fanlorn Despoiler of the Disco",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12480",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_harpy",
+      "filename": "companion_eagle_harpy.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skinlight",
+      "filename": "body_gruffer_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_feysword_blue",
+      "filename": "weapon_feysword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

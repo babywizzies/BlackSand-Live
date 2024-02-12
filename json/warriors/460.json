@@ -1,0 +1,39 @@
+{
+  "id": "460",
+  "name": "Olufemi Annihilator of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/460",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_yellow",
+      "filename": "body_cloak_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ronny",
+      "filename": "head_ronny.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wind",
+      "filename": "shield_wind.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

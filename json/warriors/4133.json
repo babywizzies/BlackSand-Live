@@ -1,0 +1,39 @@
+{
+  "id": "4133",
+  "name": "Callahan Basher of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4133",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skindark",
+      "filename": "body_gruffer_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmer",
+      "filename": "head_rockmer.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_nunchucku",
+      "filename": "weapon_nunchucku.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

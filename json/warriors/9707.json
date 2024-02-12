@@ -1,0 +1,44 @@
+{
+  "id": "9707",
+  "name": "Dusty Armageddon of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9707",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_red",
+      "filename": "body_cloak_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skindark",
+      "filename": "head_brawler_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_blue",
+      "filename": "weapon_shortsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

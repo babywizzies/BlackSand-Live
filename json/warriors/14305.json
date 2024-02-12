@@ -1,0 +1,44 @@
+{
+  "id": "14305",
+  "name": "Takara Conqueror of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14305",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_red_skinlight",
+      "filename": "body_onepiece_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_catgirl",
+      "filename": "head_catgirl.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_gold",
+      "filename": "weapon_sword_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

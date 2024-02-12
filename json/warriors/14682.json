@@ -1,0 +1,44 @@
+{
+  "id": "14682",
+  "name": "Murph Guardian of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14682",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_desert",
+      "filename": "body_desert.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dormok",
+      "filename": "head_dormok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

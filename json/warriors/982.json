@@ -1,0 +1,44 @@
+{
+  "id": "982",
+  "name": "Devon Explorer of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/982",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodarmor_fem",
+      "filename": "body_woodarmor_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sharon",
+      "filename": "head_sharon.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wood",
+      "filename": "shield_wood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_yellow",
+      "filename": "weapon_boomerang_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

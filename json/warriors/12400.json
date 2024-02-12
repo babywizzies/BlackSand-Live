@@ -1,0 +1,44 @@
+{
+  "id": "12400",
+  "name": "Bambam Savior of the Swamp",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12400",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippa",
+      "filename": "head_pippa.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_yellow",
+      "filename": "shield_circle_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

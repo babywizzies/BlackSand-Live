@@ -1,0 +1,44 @@
+{
+  "id": "15577",
+  "name": "Marci Battler of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15577",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_red_skinlight",
+      "filename": "body_onepiece_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_red",
+      "filename": "head_femhelm_red.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

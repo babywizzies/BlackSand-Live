@@ -1,0 +1,44 @@
+{
+  "id": "13018",
+  "name": "Lu Shatterer of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13018",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_black",
+      "filename": "companion_goat_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_black_skinlight",
+      "filename": "body_onepiece_black_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lina",
+      "filename": "head_lina.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_skull",
+      "filename": "shield_skull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_mjolnir",
+      "filename": "weapon_mjolnir.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

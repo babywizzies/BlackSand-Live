@@ -1,0 +1,39 @@
+{
+  "id": "75",
+  "name": "Hardwin Nailer of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/75",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skinlight",
+      "filename": "body_mma_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brandan",
+      "filename": "head_brandan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sigma",
+      "filename": "rune_sigma.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

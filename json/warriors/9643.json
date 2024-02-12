@@ -1,0 +1,44 @@
+{
+  "id": "9643",
+  "name": "Joan Assaulter of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9643",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_fem_skinlight",
+      "filename": "body_roadwarrior_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_red",
+      "filename": "head_femhelm_red.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

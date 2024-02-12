@@ -1,0 +1,29 @@
+{
+  "id": "9313",
+  "name": "Veiled Phantasm Lumos of the Mist",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton with Sash",
+      "filename": "body_revenant.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Phantasm of the Veil",
+      "filename": "head_phantasm_veil.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Penumbra Potion",
+      "filename": "item_potion_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

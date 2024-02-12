@@ -1,0 +1,39 @@
+{
+  "id": "2272",
+  "name": "Auberon Impaler of the Tombs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2272",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_suit_skinlight",
+      "filename": "body_suit_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_garth",
+      "filename": "head_garth.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

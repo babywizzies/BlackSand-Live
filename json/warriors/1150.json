@@ -1,0 +1,39 @@
+{
+  "id": "1150",
+  "name": "Xander Hero of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1150",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skinlight",
+      "filename": "body_gruffer_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmov",
+      "filename": "head_rockmov.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sai",
+      "filename": "weapon_sai.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

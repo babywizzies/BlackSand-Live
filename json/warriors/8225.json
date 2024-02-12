@@ -1,0 +1,39 @@
+{
+  "id": "8225",
+  "name": "Saumya Shadow of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8225",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femwolf",
+      "filename": "body_femwolf.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

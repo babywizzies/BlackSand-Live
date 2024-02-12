@@ -1,0 +1,39 @@
+{
+  "id": "3103",
+  "name": "Faust Amputator of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3103",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinlight",
+      "filename": "body_wrestler_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_john",
+      "filename": "head_john.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

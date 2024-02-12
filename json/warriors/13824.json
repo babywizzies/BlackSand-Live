@@ -1,0 +1,44 @@
+{
+  "id": "13824",
+  "name": "Gruttle Danger of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13824",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_leather",
+      "filename": "body_goblin_leather.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_cap",
+      "filename": "head_goblin_cap.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_yellow",
+      "filename": "shield_circle_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

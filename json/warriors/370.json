@@ -1,0 +1,44 @@
+{
+  "id": "370",
+  "name": "Sandy Guillotiner of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/370",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_green_skinmid",
+      "filename": "body_onepiece_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_toru",
+      "filename": "head_toru.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

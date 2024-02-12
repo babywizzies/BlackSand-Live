@@ -1,0 +1,44 @@
+{
+  "id": "15416",
+  "name": "Rudolph Executor of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15416",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_drone",
+      "filename": "companion_drone.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_green",
+      "filename": "body_knight_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_john",
+      "filename": "head_john.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

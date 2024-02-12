@@ -1,0 +1,39 @@
+{
+  "id": "12982",
+  "name": "Buer Vindicator of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12982",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_grey",
+      "filename": "body_robo_grey.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_cyberhood",
+      "filename": "head_cyberhood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

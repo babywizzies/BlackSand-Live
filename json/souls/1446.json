@@ -1,0 +1,39 @@
+{
+  "id": "1446",
+  "name": "Necro Frog Rixxa of the Slime Pits",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Emerald Zombie",
+      "filename": "body_twopiecesuit_oz_zombie.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Anuran Skull",
+      "filename": "head_pezo_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Underworld Peyote",
+      "filename": "item_peyote_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Neptune",
+      "filename": "rune_neptune.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Rat",
+      "filename": "familiar_rat_zombie.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

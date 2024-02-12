@@ -1,0 +1,44 @@
+{
+  "id": "7249",
+  "name": "Bruno Mischief Maker of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7249",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skinlight",
+      "filename": "body_gaul_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_steve",
+      "filename": "head_steve.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1274",
+  "name": "Bronco Champion of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1274",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_green_skinmid",
+      "filename": "body_provoc_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brandan",
+      "filename": "head_brandan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_frog",
+      "filename": "shield_frog.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

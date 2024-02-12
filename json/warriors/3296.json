@@ -1,0 +1,44 @@
+{
+  "id": "3296",
+  "name": "Rex Exterminator of the Tiger Claw",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3296",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_red",
+      "filename": "body_samurai_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jordan",
+      "filename": "head_jordan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_blue",
+      "filename": "shield_circle_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_green",
+      "filename": "weapon_sword_jewel_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

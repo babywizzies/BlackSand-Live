@@ -1,0 +1,39 @@
+{
+  "id": "3676",
+  "name": "Bronco Attacker of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3676",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_red_skinlight",
+      "filename": "body_provoc_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shawn",
+      "filename": "head_shawn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_yellow",
+      "filename": "shield_circle_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

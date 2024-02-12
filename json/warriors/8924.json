@@ -1,0 +1,44 @@
+{
+  "id": "8924",
+  "name": "Tad Slaughterer of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8924",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight",
+      "filename": "body_knight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rothkor",
+      "filename": "head_rothkor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_swordBabylon",
+      "filename": "weapon_swordBabylon.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

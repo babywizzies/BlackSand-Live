@@ -1,0 +1,44 @@
+{
+  "id": "6168",
+  "name": "Vermundo Mercenary of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6168",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_magpie",
+      "filename": "companion_magpie.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_blue",
+      "filename": "body_plateArmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jordan",
+      "filename": "head_jordan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_blue",
+      "filename": "shield_kite_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_blue",
+      "filename": "weapon_sword_bigbarb_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

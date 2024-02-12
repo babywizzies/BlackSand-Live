@@ -1,0 +1,44 @@
+{
+  "id": "678",
+  "name": "Hacan Villain of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/678",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_purple_skindark",
+      "filename": "body_provoc_purple_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet",
+      "filename": "head_helmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

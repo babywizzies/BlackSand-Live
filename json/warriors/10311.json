@@ -1,0 +1,34 @@
+{
+  "id": "10311",
+  "name": "Maximus Marauder the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10311",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_highlander",
+      "filename": "body_highlander.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_legionnaire",
+      "filename": "head_legionnaire.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_down",
+      "filename": "shield_kite_down.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

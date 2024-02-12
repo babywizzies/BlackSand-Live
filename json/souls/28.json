@@ -1,0 +1,39 @@
+{
+  "id": "28",
+  "name": "The Ghost of Gremplin",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skipper Ghost",
+      "filename": "body_usergnome.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Gremplin Ghost",
+      "filename": "head_usergnome_angel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "A Big Magic Stick with Ether Fire",
+      "filename": "staff_bigstick_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Rat",
+      "filename": "familiar_rat_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

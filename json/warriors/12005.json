@@ -1,0 +1,44 @@
+{
+  "id": "12005",
+  "name": "Ryker Exterminator of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12005",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_desert",
+      "filename": "body_desert.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logum",
+      "filename": "head_logum.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wolf",
+      "filename": "shield_wolf.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_falchion_gold",
+      "filename": "weapon_sword_falchion_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

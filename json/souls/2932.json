@@ -1,0 +1,39 @@
+{
+  "id": "2932",
+  "name": "Night Ghoul Daphne of the Chasm",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Regal Undead",
+      "filename": "body_wraith_three.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ghoul of Shade",
+      "filename": "head_ghoul_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Poison Apple",
+      "filename": "item_apple_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Brimstone",
+      "filename": "rune_brimstone.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Blaze Frog",
+      "filename": "familiar_frog_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

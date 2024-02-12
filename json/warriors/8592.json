@@ -1,0 +1,39 @@
+{
+  "id": "8592",
+  "name": "Kobeat Antagonist of the Battlefront",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8592",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skindark",
+      "filename": "body_commando_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gorj",
+      "filename": "head_gorj.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_up",
+      "filename": "rune_up.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

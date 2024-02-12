@@ -1,0 +1,39 @@
+{
+  "id": "820",
+  "name": "Imari Despoiler of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/820",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skindark",
+      "filename": "body_roadwarrior_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rommi",
+      "filename": "head_rommi.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonsword_gold",
+      "filename": "weapon_dragonsword_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_power",
+      "filename": "rune_power.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

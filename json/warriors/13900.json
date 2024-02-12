@@ -1,0 +1,39 @@
+{
+  "id": "13900",
+  "name": "Pollentius Beheader of the Battlefront",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13900",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skinlight",
+      "filename": "body_commando_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_fanhelmet",
+      "filename": "head_fanhelmet.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

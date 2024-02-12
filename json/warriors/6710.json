@@ -1,0 +1,44 @@
+{
+  "id": "6710",
+  "name": "Amelia Paragon of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6710",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_white_skinmid",
+      "filename": "body_onepiece_white_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

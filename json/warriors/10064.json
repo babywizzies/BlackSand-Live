@@ -1,0 +1,44 @@
+{
+  "id": "10064",
+  "name": "Xerxes Beater of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10064",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_suspenders_skinlight",
+      "filename": "body_suspenders_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_arnie",
+      "filename": "head_arnie.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_heraclesclub",
+      "filename": "weapon_heraclesclub.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_up",
+      "filename": "rune_up.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

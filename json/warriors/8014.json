@@ -1,0 +1,44 @@
+{
+  "id": "8014",
+  "name": "Callahan Combustor of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8014",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_blue",
+      "filename": "body_knight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_flamethrower",
+      "filename": "weapon_flamethrower.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

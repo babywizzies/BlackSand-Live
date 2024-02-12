@@ -1,0 +1,44 @@
+{
+  "id": "6234",
+  "name": "Rhovan Beheader of Chickens",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6234",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_brute",
+      "filename": "body_goblin_brute.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_cap",
+      "filename": "head_goblin_cap.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

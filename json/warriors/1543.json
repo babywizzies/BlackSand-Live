@@ -1,0 +1,44 @@
+{
+  "id": "1543",
+  "name": "Trudy Antagonist of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1543",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_red_skinlight",
+      "filename": "body_onepiece_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_red",
+      "filename": "head_femhelm_red.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

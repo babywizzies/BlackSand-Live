@@ -1,0 +1,44 @@
+{
+  "id": "10223",
+  "name": "Caesar Assailant of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10223",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skinlight",
+      "filename": "body_meso_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skinlight",
+      "filename": "head_brawler_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_feysword_blue",
+      "filename": "weapon_feysword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

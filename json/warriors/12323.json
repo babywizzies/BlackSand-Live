@@ -1,0 +1,39 @@
+{
+  "id": "12323",
+  "name": "Aden of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12323",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skindark",
+      "filename": "body_roadwarrior_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willson",
+      "filename": "head_willson.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

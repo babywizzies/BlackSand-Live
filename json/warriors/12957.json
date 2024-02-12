@@ -1,0 +1,44 @@
+{
+  "id": "12957",
+  "name": "Winchester Defender of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12957",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_blue",
+      "filename": "companion_boar_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_blue",
+      "filename": "body_auraknight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brandan",
+      "filename": "head_brandan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

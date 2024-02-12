@@ -1,0 +1,39 @@
+{
+  "id": "1366",
+  "name": "Perseus Annihilator of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1366",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_blue",
+      "filename": "body_robo_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead",
+      "filename": "head_buckethead.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_green",
+      "filename": "weapon_sword_jewel_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

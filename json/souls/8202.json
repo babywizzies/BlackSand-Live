@@ -1,0 +1,29 @@
+{
+  "id": "8202",
+  "name": "Ethereal Spectre Casper of the Death Cloud",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Spectral Body",
+      "filename": "body_spectre_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ethereal Spectre",
+      "filename": "head_spectre_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Penumbra Potion",
+      "filename": "item_potion_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

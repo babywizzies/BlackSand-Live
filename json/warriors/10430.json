@@ -1,0 +1,39 @@
+{
+  "id": "10430",
+  "name": "Zola of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10430",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skindark",
+      "filename": "body_nordarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

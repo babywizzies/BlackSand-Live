@@ -1,0 +1,34 @@
+{
+  "id": "231",
+  "name": "Bellicus Punisher of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/231",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skindark",
+      "filename": "body_gruffer_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gladiator",
+      "filename": "head_gladiator.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "14560",
+  "name": "Gulder Grinder of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14560",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_leather",
+      "filename": "body_goblin_leather.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_cap",
+      "filename": "head_goblin_cap.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_grey",
+      "filename": "weapon_hammer_grey.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

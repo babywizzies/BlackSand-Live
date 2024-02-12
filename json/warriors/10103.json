@@ -1,0 +1,39 @@
+{
+  "id": "10103",
+  "name": "Grunkol Neutralizer of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10103",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_drone",
+      "filename": "companion_drone.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skinlight",
+      "filename": "body_roadwarrior_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gerj",
+      "filename": "head_gerj.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wrench_green",
+      "filename": "weapon_wrench_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

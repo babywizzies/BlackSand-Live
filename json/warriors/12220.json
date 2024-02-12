@@ -1,0 +1,34 @@
+{
+  "id": "12220",
+  "name": "Blaze Guardian of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12220",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_white",
+      "filename": "body_knight_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

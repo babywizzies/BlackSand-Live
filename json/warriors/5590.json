@@ -1,0 +1,44 @@
+{
+  "id": "5590",
+  "name": "Fanlorn Attacker of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5590",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_yellow",
+      "filename": "body_knight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ewo",
+      "filename": "head_ewo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4098",
+  "name": "Maximus Guardian of the Swamp",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4098",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_yellow",
+      "filename": "body_knightTurtle_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gladiator",
+      "filename": "head_gladiator.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

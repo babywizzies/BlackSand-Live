@@ -1,0 +1,39 @@
+{
+  "id": "4158",
+  "name": "Wraith Knight Jabir of the Ice Abyss",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Wight Cape",
+      "filename": "body_lich_cape.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Knight",
+      "filename": "head_wraith_three.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Bag of Cataclysm",
+      "filename": "item_magicbag_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Mercury",
+      "filename": "rune_mecury.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Crow Skeleton",
+      "filename": "familiar_crow_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

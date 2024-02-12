@@ -1,0 +1,44 @@
+{
+  "id": "8461",
+  "name": "Mushloom Vanquisher of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8461",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_brown",
+      "filename": "body_shirtarmor_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mushy",
+      "filename": "head_mushy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5736",
+  "name": "Spurius Neutralizer of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5736",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skinlight",
+      "filename": "body_clericknight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_legionnaire",
+      "filename": "head_legionnaire.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

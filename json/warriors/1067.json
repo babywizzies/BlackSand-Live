@@ -1,0 +1,44 @@
+{
+  "id": "1067",
+  "name": "Tank Apocalypse of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1067",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight",
+      "filename": "body_knight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_horseshoe",
+      "filename": "shield_horseshoe.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "14125",
+  "name": "Millicent of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14125",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sari",
+      "filename": "body_sari.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippin",
+      "filename": "head_pippin.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

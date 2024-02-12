@@ -1,0 +1,44 @@
+{
+  "id": "7330",
+  "name": "Crixus Chopper of Oni",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7330",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_red",
+      "filename": "body_samurai_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skinlight",
+      "filename": "head_spartan_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

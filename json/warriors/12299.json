@@ -1,0 +1,44 @@
+{
+  "id": "12299",
+  "name": "Rex Cleaver of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12299",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_demonHound",
+      "filename": "companion_demonHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skinlight",
+      "filename": "body_spikeBarb_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeremy",
+      "filename": "head_jeremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

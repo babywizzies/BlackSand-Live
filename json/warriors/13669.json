@@ -1,0 +1,39 @@
+{
+  "id": "13669",
+  "name": "Rock Menace of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13669",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_white",
+      "filename": "body_starcleric_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

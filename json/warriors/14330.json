@@ -1,0 +1,44 @@
+{
+  "id": "14330",
+  "name": "Brock of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14330",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_black",
+      "filename": "body_plateArmor_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_skull",
+      "filename": "shield_skull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

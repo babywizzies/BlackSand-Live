@@ -1,0 +1,34 @@
+{
+  "id": "5350",
+  "name": "Baldwyn Impaler of Sheep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5350",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_highlander",
+      "filename": "body_highlander.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shawn",
+      "filename": "head_shawn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

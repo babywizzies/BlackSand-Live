@@ -1,0 +1,39 @@
+{
+  "id": "11410",
+  "name": "Baril Antagonist of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11410",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skindark",
+      "filename": "body_mma_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

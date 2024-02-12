@@ -1,0 +1,39 @@
+{
+  "id": "8525",
+  "name": "Kremplin Defeater of the Sunset",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8525",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_green",
+      "filename": "body_knight_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehorn",
+      "filename": "head_furgnomehorn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "921",
+  "name": "Sal Shatterer of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/921",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skinlight",
+      "filename": "body_nordarmour_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherry",
+      "filename": "head_sherry.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_club",
+      "filename": "weapon_club.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

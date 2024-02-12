@@ -1,0 +1,39 @@
+{
+  "id": "2111",
+  "name": "Sita Sword of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2111",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_fem_skinmid",
+      "filename": "body_roadwarrior_fem_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_nourga",
+      "filename": "head_nourga.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_tizona",
+      "filename": "weapon_tizona.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

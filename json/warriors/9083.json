@@ -1,0 +1,39 @@
+{
+  "id": "9083",
+  "name": "Tank Antagonist of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9083",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skinlight",
+      "filename": "body_judo_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jordan",
+      "filename": "head_jordan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

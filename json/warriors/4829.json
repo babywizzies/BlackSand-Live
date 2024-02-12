@@ -1,0 +1,39 @@
+{
+  "id": "4829",
+  "name": "Vega Rapscallion of the Storm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4829",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fempirateWar",
+      "filename": "body_fempirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_riona",
+      "filename": "head_riona.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

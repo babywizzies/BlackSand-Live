@@ -1,0 +1,44 @@
+{
+  "id": "972",
+  "name": "Willy Neutralizer for Freedom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/972",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_highlander",
+      "filename": "body_highlander.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_john",
+      "filename": "head_john.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

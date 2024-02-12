@@ -1,0 +1,39 @@
+{
+  "id": "2758",
+  "name": "Dante Buster of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2758",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skinlight",
+      "filename": "body_commando_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skinlight",
+      "filename": "head_base_skinlight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wratchet",
+      "filename": "weapon_wratchet.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

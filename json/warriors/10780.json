@@ -1,0 +1,39 @@
+{
+  "id": "10780",
+  "name": "Bones Ravager of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10780",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skindark",
+      "filename": "body_barbarian_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willson",
+      "filename": "head_willson.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

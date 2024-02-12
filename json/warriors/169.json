@@ -1,0 +1,44 @@
+{
+  "id": "169",
+  "name": "Javier Dissector of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/169",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_fuchow",
+      "filename": "head_fuchow.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

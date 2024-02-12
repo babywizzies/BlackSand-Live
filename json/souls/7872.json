@@ -1,0 +1,34 @@
+{
+  "id": "7872",
+  "name": "Lich Marquis Adrienne of the Smell",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Consumption Rags",
+      "filename": "body_zombie_pale.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Marquis",
+      "filename": "head_lich_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Platypus hatchling",
+      "filename": "item_egg_platypus_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Wolf",
+      "filename": "familiar_wolf_zombie.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

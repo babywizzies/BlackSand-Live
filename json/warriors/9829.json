@@ -1,0 +1,44 @@
+{
+  "id": "9829",
+  "name": "Sid of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9829",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightair",
+      "filename": "body_knightair.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeremy",
+      "filename": "head_jeremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_blue",
+      "filename": "shield_circle_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

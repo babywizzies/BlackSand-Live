@@ -1,0 +1,39 @@
+{
+  "id": "11032",
+  "name": "Blaze Bludgeoner of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11032",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinlight",
+      "filename": "body_wrestler_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willy",
+      "filename": "head_willy.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_mace",
+      "filename": "weapon_mace.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

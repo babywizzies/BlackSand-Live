@@ -1,0 +1,44 @@
+{
+  "id": "2140",
+  "name": "Garn Dicer of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2140",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_yellow",
+      "filename": "body_auraknight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wharton",
+      "filename": "head_wharton.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_down",
+      "filename": "shield_kite_down.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

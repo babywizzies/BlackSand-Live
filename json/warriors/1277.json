@@ -1,0 +1,34 @@
+{
+  "id": "1277",
+  "name": "Inanna Guardian of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1277",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bea_skindark",
+      "filename": "body_bea_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tora",
+      "filename": "head_tora.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1049",
+  "name": "Gouged Revenant Aiko of the Bottomless Grave",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Consumption Rags",
+      "filename": "body_zombie_pale.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Gouged Revenant",
+      "filename": "head_revenant_eyes.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Joker Card",
+      "filename": "item_card_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Earth",
+      "filename": "rune_earth.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Snail",
+      "filename": "familiar_snail_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

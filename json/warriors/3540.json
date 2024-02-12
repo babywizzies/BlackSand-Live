@@ -1,0 +1,39 @@
+{
+  "id": "3540",
+  "name": "Marcus Basher of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3540",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skinlight",
+      "filename": "body_roadwarrior_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skinlight",
+      "filename": "head_spartan_skinlight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

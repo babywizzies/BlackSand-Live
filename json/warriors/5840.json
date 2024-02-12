@@ -1,0 +1,39 @@
+{
+  "id": "5840",
+  "name": "Nova Charlatan of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5840",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skindark",
+      "filename": "body_gruffer_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skindark",
+      "filename": "head_brawler_skindark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9682",
+  "name": "Etana Shark of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9682",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skindark",
+      "filename": "body_femguard_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sloanna",
+      "filename": "head_sloanna.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

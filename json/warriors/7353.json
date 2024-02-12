@@ -1,0 +1,44 @@
+{
+  "id": "7353",
+  "name": "Throndilor Guardian of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7353",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skindark",
+      "filename": "body_clericknight_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_trident",
+      "filename": "weapon_trident.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

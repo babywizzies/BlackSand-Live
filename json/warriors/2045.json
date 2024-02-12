@@ -1,0 +1,39 @@
+{
+  "id": "2045",
+  "name": "Gabe Guardian of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2045",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skinlight",
+      "filename": "body_barbarian_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logan",
+      "filename": "head_logan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

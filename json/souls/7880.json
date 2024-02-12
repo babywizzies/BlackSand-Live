@@ -1,0 +1,34 @@
+{
+  "id": "7880",
+  "name": "Necro Frog Pozzik of the Ethereal Realm",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Tunic",
+      "filename": "body_beltrobe_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Anuran Skull",
+      "filename": "head_pezo_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Underworld Peyote",
+      "filename": "item_peyote_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

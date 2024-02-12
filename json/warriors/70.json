@@ -1,0 +1,44 @@
+{
+  "id": "70",
+  "name": "Keoni Obliterator of Crystals",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/70",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_prismknight",
+      "filename": "body_prismknight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_grey",
+      "filename": "weapon_hammer_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "568",
+  "name": "Maud Stalker of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/568",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cassowary",
+      "filename": "companion_cassowary.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_red_skindark",
+      "filename": "body_amazon_red_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sloanna",
+      "filename": "head_sloanna.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "12000",
+  "name": "Heracles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12000",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinlight",
+      "filename": "body_wrestler_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gilgamosh",
+      "filename": "head_gilgamosh.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_heraclesclub",
+      "filename": "weapon_heraclesclub.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

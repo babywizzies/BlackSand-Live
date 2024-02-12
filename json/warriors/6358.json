@@ -1,0 +1,39 @@
+{
+  "id": "6358",
+  "name": "Claw Pounder of Riffraff",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6358",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_blue",
+      "filename": "body_plateArmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lion",
+      "filename": "head_lion.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

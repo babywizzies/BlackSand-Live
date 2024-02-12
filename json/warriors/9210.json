@@ -1,0 +1,39 @@
+{
+  "id": "9210",
+  "name": "Glorf of Chickens",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9210",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_kobold",
+      "filename": "body_streetpunk_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ramen",
+      "filename": "item_ramen.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

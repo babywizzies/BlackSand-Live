@@ -1,0 +1,39 @@
+{
+  "id": "6017",
+  "name": "Horgrum Eradicator of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6017",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bandArmor_brown",
+      "filename": "body_bandArmor_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_goat",
+      "filename": "shield_goat.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

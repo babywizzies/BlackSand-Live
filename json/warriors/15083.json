@@ -1,0 +1,39 @@
+{
+  "id": "15083",
+  "name": "Murphy Sword of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15083",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skinlight",
+      "filename": "body_gaul_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

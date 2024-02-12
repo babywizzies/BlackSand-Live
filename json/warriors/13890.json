@@ -1,0 +1,44 @@
+{
+  "id": "13890",
+  "name": "Stormand Sorrow of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13890",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skinlight",
+      "filename": "body_gaul_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wharton",
+      "filename": "head_wharton.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kraken",
+      "filename": "shield_kraken.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

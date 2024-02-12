@@ -15,13 +15,13 @@ const DynamicRaceTrackMap = dynamic(() => import("./RaceTrackMap"), {
 });
 
 const RaceTrack = () => {
-  useAudio("/audio/cumcup.wav", {
+  useAudio("/audio/elysian_circuit.mp3", {
     autoplay: true,
     volume: 0.09,
     loop: true,
   });
   const { data } = useSWR(
-    "http://localhost:3000/api/blacksand/races/latest",
+    "https://blacksand.city/api/blacksand/races/latest",
     null,
     {
       refreshInterval: 1000 * 60, //1 minute

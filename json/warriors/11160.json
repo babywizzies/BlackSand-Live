@@ -1,0 +1,44 @@
+{
+  "id": "11160",
+  "name": "Radna Render of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11160",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_red",
+      "filename": "body_auraknight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_cyberhood",
+      "filename": "head_cyberhood.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

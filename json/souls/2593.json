@@ -1,0 +1,34 @@
+{
+  "id": "2593",
+  "name": "Rotten Revenant Nolan of the Bottomless Grave",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Putrid Rags",
+      "filename": "body_zombie_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Rotten Revenant",
+      "filename": "head_revenant_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Blood Moon Staff",
+      "filename": "staff_moon_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Snake",
+      "filename": "familiar_snake_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

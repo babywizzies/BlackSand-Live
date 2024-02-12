@@ -1,0 +1,39 @@
+{
+  "id": "9116",
+  "name": "Vermundo of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9116",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skinlight",
+      "filename": "body_gaul_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_samurai_red",
+      "filename": "head_samurai_red.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ramen",
+      "filename": "item_ramen.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4237",
+  "name": "Maud Belligerent of Penguins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4237",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mado",
+      "filename": "body_mado.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bambam",
+      "filename": "head_bambam.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

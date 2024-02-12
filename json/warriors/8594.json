@@ -1,0 +1,44 @@
+{
+  "id": "8594",
+  "name": "Baako Annihilator of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8594",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_purple",
+      "filename": "companion_beetle_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_green_skinlight",
+      "filename": "body_fem_knight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sel",
+      "filename": "head_sel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_protection",
+      "filename": "rune_protection.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6550",
+  "name": "Valda Neutralizer of the Snow",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6550",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mado",
+      "filename": "body_mado.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tori",
+      "filename": "head_tori.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_club",
+      "filename": "weapon_club.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

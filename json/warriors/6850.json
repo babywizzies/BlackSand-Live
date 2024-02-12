@@ -1,0 +1,44 @@
+{
+  "id": "6850",
+  "name": "Mayumi Hero of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6850",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_fem_skinlight",
+      "filename": "body_roadwarrior_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_onna",
+      "filename": "head_onna.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_red",
+      "filename": "weapon_sword_bigbarb_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

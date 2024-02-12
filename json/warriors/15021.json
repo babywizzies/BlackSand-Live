@@ -1,0 +1,34 @@
+{
+  "id": "15021",
+  "name": "Wolfe Combatant of Ruffians",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15021",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logum",
+      "filename": "head_logum.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "5850",
+  "name": "Moriko Lightbearer of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5850",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_green_skinlight",
+      "filename": "body_amazon_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_onna",
+      "filename": "head_onna.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_guardian",
+      "filename": "shield_guardian.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

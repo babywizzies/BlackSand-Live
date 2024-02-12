@@ -1,0 +1,34 @@
+{
+  "id": "8357",
+  "name": "Lich Despot Lumos of the Spike",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Carnal Body of Shade",
+      "filename": "body_ghoul_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Despot",
+      "filename": "head_lich_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Banshee's Bell",
+      "filename": "item_bell_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Rat",
+      "filename": "familiar_rat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

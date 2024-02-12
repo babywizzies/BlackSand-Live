@@ -1,0 +1,44 @@
+{
+  "id": "4285",
+  "name": "Toshiko Vanquisher of Deer",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4285",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodarmor_fem",
+      "filename": "body_woodarmor_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_catgirl",
+      "filename": "head_catgirl.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

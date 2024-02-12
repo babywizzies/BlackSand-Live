@@ -1,0 +1,39 @@
+{
+  "id": "15114",
+  "name": "Thromble Stabber of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15114",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_brown",
+      "filename": "body_knight_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_zubbik",
+      "filename": "head_zubbik.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

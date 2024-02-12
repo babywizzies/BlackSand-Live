@@ -1,0 +1,39 @@
+{
+  "id": "1752",
+  "name": "Zeke Mercenary of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1752",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_megasuit",
+      "filename": "body_megasuit.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logan",
+      "filename": "head_logan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

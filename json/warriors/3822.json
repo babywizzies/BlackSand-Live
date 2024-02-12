@@ -1,0 +1,44 @@
+{
+  "id": "3822",
+  "name": "Stone Ravager of the Lowlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3822",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_highlander",
+      "filename": "body_highlander.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bill",
+      "filename": "head_bill.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_falchion_gold",
+      "filename": "weapon_sword_falchion_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

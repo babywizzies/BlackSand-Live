@@ -1,0 +1,44 @@
+{
+  "id": "12900",
+  "name": "William Traveler of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12900",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_blue_skindark",
+      "filename": "body_grillknight_blue_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_impeh",
+      "filename": "head_impeh.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "243",
+  "name": "Andrea Savior of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/243",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodarmor_fem",
+      "filename": "body_woodarmor_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tori",
+      "filename": "head_tori.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_blue",
+      "filename": "weapon_sword_bigbarb_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

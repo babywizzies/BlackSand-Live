@@ -1,0 +1,34 @@
+{
+  "id": "2004",
+  "name": "Zeke Danger of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2004",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fur_skindark",
+      "filename": "body_fur_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

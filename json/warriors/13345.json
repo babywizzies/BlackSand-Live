@@ -1,0 +1,44 @@
+{
+  "id": "13345",
+  "name": "Alicia Sword of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13345",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodfem_green_skinmid",
+      "filename": "body_woodfem_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tania",
+      "filename": "head_tania.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_red",
+      "filename": "weapon_sword_bigbarb_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

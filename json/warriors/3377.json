@@ -1,0 +1,44 @@
+{
+  "id": "3377",
+  "name": "Gurgo Belligerent of Brown-Hat Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3377",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_duck",
+      "filename": "companion_duck.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_kobold_black",
+      "filename": "body_kobold_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_blood",
+      "filename": "weapon_sword_blood.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

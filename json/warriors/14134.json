@@ -1,0 +1,34 @@
+{
+  "id": "14134",
+  "name": "Herman Shark of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14134",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinmid",
+      "filename": "body_wrestler_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gladiator",
+      "filename": "head_gladiator.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sai",
+      "filename": "weapon_sai.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

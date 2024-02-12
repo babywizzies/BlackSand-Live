@@ -1,0 +1,44 @@
+{
+  "id": "5334",
+  "name": "Nails Masher of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5334",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_purple",
+      "filename": "body_knight_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_polarman",
+      "filename": "head_polarman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

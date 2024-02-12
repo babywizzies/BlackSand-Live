@@ -1,0 +1,39 @@
+{
+  "id": "12621",
+  "name": "Kaz Daredevil of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12621",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_steve",
+      "filename": "head_steve.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

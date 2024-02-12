@@ -1,0 +1,44 @@
+{
+  "id": "10883",
+  "name": "Kojak Guardian of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10883",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_green_skinlight",
+      "filename": "body_grillknight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_fuchow",
+      "filename": "head_fuchow.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

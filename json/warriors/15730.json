@@ -1,0 +1,39 @@
+{
+  "id": "15730",
+  "name": "John Slasher of Torment Manor",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15730",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_duck",
+      "filename": "companion_duck.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_male_skinlight",
+      "filename": "body_dom_male_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_crusader",
+      "filename": "head_crusader.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_blood",
+      "filename": "weapon_sword_blood.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

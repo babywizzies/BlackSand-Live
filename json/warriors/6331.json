@@ -1,0 +1,39 @@
+{
+  "id": "6331",
+  "name": "Kalon Thief of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6331",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_dark",
+      "filename": "companion_boar_dark.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_megasuit",
+      "filename": "body_megasuit.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_executioner",
+      "filename": "head_executioner.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_goldenbow",
+      "filename": "weapon_goldenbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

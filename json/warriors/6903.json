@@ -1,0 +1,39 @@
+{
+  "id": "6903",
+  "name": "Reginald Cataclysm of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6903",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_griffin",
+      "filename": "companion_griffin.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skindark",
+      "filename": "body_gruffer_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_gold",
+      "filename": "head_knight_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_rainbow",
+      "filename": "weapon_sword_rainbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

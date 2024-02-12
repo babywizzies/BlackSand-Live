@@ -1,0 +1,44 @@
+{
+  "id": "6026",
+  "name": "Ayo of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6026",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ronny",
+      "filename": "head_ronny.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_yellow",
+      "filename": "shield_circle_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

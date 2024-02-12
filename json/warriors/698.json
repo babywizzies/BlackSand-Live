@@ -1,0 +1,39 @@
+{
+  "id": "698",
+  "name": "Buster Obliterator of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/698",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_brown_skinlight",
+      "filename": "body_streetpunk_brown_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logan",
+      "filename": "head_logan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1800",
+  "name": "Malificia Cleaver of the Trail",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1800",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_green_skinmid",
+      "filename": "body_onepiece_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_green",
+      "filename": "head_femhelm_green.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_green",
+      "filename": "weapon_longsword_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3290",
+  "name": "Bambam Mercenary of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3290",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightwater",
+      "filename": "body_knightwater.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pari",
+      "filename": "head_pari.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_blue",
+      "filename": "shield_circle_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

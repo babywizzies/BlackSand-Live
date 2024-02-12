@@ -1,0 +1,39 @@
+{
+  "id": "5901",
+  "name": "Cornelius Miscreant of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5901",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_yellow_skindark",
+      "filename": "body_provoc_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gladiator",
+      "filename": "head_gladiator.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_goat",
+      "filename": "shield_goat.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

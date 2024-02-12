@@ -1,0 +1,39 @@
+{
+  "id": "2035",
+  "name": "Putrid Zombie Jaffer of the Undying Chill",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Mantle",
+      "filename": "body_lich_mantle.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Putrid Zombie",
+      "filename": "head_zombie_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Spectre Stone Staff",
+      "filename": "staff_yjewel_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

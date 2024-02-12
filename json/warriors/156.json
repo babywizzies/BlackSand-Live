@@ -1,0 +1,34 @@
+{
+  "id": "156",
+  "name": "Cornelius of the Cage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/156",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_martial_skinlight",
+      "filename": "body_martial_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_legionnaire",
+      "filename": "head_legionnaire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

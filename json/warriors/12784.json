@@ -1,0 +1,44 @@
+{
+  "id": "12784",
+  "name": "Drulek Assaulter of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12784",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight",
+      "filename": "body_knight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shutterknight",
+      "filename": "head_shutterknight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_horseshoe",
+      "filename": "shield_horseshoe.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_blue",
+      "filename": "weapon_sword_bigbarb_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

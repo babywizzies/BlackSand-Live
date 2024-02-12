@@ -1,0 +1,44 @@
+{
+  "id": "10705",
+  "name": "Xiulin Cataclysm of Thunder Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10705",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_green_skinlight",
+      "filename": "body_amazon_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lina",
+      "filename": "head_lina.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_blue",
+      "filename": "shield_circle_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

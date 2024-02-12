@@ -1,0 +1,39 @@
+{
+  "id": "3270",
+  "name": "Krull Scorcher of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3270",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_blue_skindark",
+      "filename": "body_grillknight_blue_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet",
+      "filename": "head_helmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_flamethrower",
+      "filename": "weapon_flamethrower.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

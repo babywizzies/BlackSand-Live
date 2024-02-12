@@ -1,0 +1,44 @@
+{
+  "id": "6224",
+  "name": "Erim Wounder of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6224",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_dark",
+      "filename": "companion_boar_dark.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bandArmor_purple",
+      "filename": "body_bandArmor_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gerj",
+      "filename": "head_gerj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

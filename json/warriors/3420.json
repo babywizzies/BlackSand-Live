@@ -1,0 +1,44 @@
+{
+  "id": "3420",
+  "name": "Squee Assaulter of Brown-Hat Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3420",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_demonHound",
+      "filename": "companion_demonHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_kobold_red",
+      "filename": "body_kobold_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wembo",
+      "filename": "head_wembo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_blood",
+      "filename": "weapon_sword_blood.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_protection",
+      "filename": "rune_protection.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

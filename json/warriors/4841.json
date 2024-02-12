@@ -1,0 +1,44 @@
+{
+  "id": "4841",
+  "name": "Turbo Bruiser of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4841",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skinlight",
+      "filename": "body_barbarian_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_yan",
+      "filename": "head_yan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_grey",
+      "filename": "weapon_hammer_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

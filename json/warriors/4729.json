@@ -1,0 +1,39 @@
+{
+  "id": "4729",
+  "name": "Typhon Impaler of the Highlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4729",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_highlander",
+      "filename": "body_highlander.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet",
+      "filename": "head_helmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_frog",
+      "filename": "shield_frog.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

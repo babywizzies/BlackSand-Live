@@ -1,0 +1,44 @@
+{
+  "id": "5455",
+  "name": "Remi Smasher of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5455",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skinlight",
+      "filename": "body_meso_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_crom",
+      "filename": "head_crom.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_morningstar",
+      "filename": "weapon_morningstar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

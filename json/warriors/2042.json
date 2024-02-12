@@ -1,0 +1,39 @@
+{
+  "id": "2042",
+  "name": "Bear Eradicator of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2042",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skinlight",
+      "filename": "body_gruffer_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jordan",
+      "filename": "head_jordan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_blue",
+      "filename": "weapon_sword_bigbarb_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

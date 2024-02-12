@@ -1,0 +1,39 @@
+{
+  "id": "15002",
+  "name": "Shelia Crusher of the Sunrise",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15002",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sariwar",
+      "filename": "body_sariwar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippin",
+      "filename": "head_pippin.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_brown",
+      "filename": "weapon_hammer_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

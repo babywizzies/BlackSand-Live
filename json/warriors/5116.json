@@ -1,0 +1,39 @@
+{
+  "id": "5116",
+  "name": "Krafili Hero of the Glitch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5116",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_blue",
+      "filename": "companion_boar_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_gold",
+      "filename": "body_robo_gold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shutterknight",
+      "filename": "head_shutterknight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_green",
+      "filename": "weapon_sword_jewel_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_power",
+      "filename": "rune_power.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

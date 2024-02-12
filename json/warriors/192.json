@@ -1,0 +1,34 @@
+{
+  "id": "192",
+  "name": "Jarek Chisler of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/192",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skinlight",
+      "filename": "body_clericknight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logan",
+      "filename": "head_logan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wind",
+      "filename": "shield_wind.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

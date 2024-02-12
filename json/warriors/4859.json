@@ -1,0 +1,44 @@
+{
+  "id": "4859",
+  "name": "Gremps Rogue of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4859",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_red",
+      "filename": "body_cloak_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehelmet",
+      "filename": "head_furgnomehelmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

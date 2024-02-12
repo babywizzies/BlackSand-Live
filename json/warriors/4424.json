@@ -1,0 +1,44 @@
+{
+  "id": "4424",
+  "name": "Bellatrix Conqueror of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4424",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sariwar",
+      "filename": "body_sariwar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippin",
+      "filename": "head_pippin.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

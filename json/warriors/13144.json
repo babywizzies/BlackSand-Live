@@ -1,0 +1,39 @@
+{
+  "id": "13144",
+  "name": "Cornelius Slayer of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13144",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skindark",
+      "filename": "body_mma_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skindark",
+      "filename": "head_spartan_skindark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_goblin",
+      "filename": "weapon_sword_goblin.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

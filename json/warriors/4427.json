@@ -1,0 +1,44 @@
+{
+  "id": "4427",
+  "name": "Bronco Crasher of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4427",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_red",
+      "filename": "body_plateArmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dormok",
+      "filename": "head_dormok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_morningstar",
+      "filename": "weapon_morningstar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

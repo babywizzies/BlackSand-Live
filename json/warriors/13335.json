@@ -1,0 +1,44 @@
+{
+  "id": "13335",
+  "name": "Ubel Mercenary of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13335",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skinlight",
+      "filename": "body_gaul_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_garth",
+      "filename": "head_garth.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_firebrand",
+      "filename": "weapon_sword_firebrand.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_up",
+      "filename": "rune_up.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

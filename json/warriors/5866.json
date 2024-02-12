@@ -1,0 +1,34 @@
+{
+  "id": "5866",
+  "name": "Thorne Hero of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5866",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_byzantine",
+      "filename": "body_byzantine.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shawn",
+      "filename": "head_shawn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

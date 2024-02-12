@@ -1,0 +1,39 @@
+{
+  "id": "1902",
+  "name": "Relic Ruin of the Penthouse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1902",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_male_skinlight",
+      "filename": "body_dom_male_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

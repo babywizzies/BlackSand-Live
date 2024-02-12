@@ -1,0 +1,39 @@
+{
+  "id": "1943",
+  "name": "Murphy Dueler of the Snow",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1943",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fur_skindark",
+      "filename": "body_fur_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_joremy",
+      "filename": "head_joremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

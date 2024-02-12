@@ -1,0 +1,39 @@
+{
+  "id": "5320",
+  "name": "Skeleton Kalo of the Haze",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasm Sash",
+      "filename": "body_phantasm_sash.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Imp Skull",
+      "filename": "head_imp_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Penumbra Potion",
+      "filename": "item_potion_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Jupiter",
+      "filename": "rune_jupiter.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

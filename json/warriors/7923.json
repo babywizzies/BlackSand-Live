@@ -1,0 +1,39 @@
+{
+  "id": "7923",
+  "name": "Buckethead Heater of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7923",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_grey",
+      "filename": "body_robo_grey.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_metabot",
+      "filename": "head_metabot.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_flamethrower",
+      "filename": "weapon_flamethrower.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

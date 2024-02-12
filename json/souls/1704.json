@@ -1,0 +1,29 @@
+{
+  "id": "1704",
+  "name": "Zombie King of the Undead",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Regal Decay",
+      "filename": "body_zombieking.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "King of the Dead",
+      "filename": "head_zombieking.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Fresh Brains",
+      "filename": "item_brain.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

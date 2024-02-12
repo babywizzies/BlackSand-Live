@@ -1,0 +1,44 @@
+{
+  "id": "15000",
+  "name": "GoldFang Champion of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15000",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_red",
+      "filename": "body_auraknight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lion",
+      "filename": "head_lion.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_heart",
+      "filename": "shield_heart.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_swordBabylon",
+      "filename": "weapon_swordBabylon.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

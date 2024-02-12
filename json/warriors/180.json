@@ -1,0 +1,29 @@
+{
+  "id": "180",
+  "name": "Sam Hero of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/180",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fur_skindark",
+      "filename": "body_fur_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_berserker_skindark",
+      "filename": "head_berserker_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

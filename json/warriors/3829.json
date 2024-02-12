@@ -1,0 +1,44 @@
+{
+  "id": "3829",
+  "name": "Guy Guardian of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3829",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightwater",
+      "filename": "body_knightwater.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_blue",
+      "filename": "head_knight_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear",
+      "filename": "weapon_spear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

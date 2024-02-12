@@ -1,0 +1,39 @@
+{
+  "id": "8085",
+  "name": "Void Phantasm Cassiopeia of the Paranormal",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasmal body of the Void",
+      "filename": "body_phantasm_void.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Phantasm of the Void",
+      "filename": "head_phantasm_void.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Candle of Clairvoyance",
+      "filename": "item_candle_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Fire",
+      "filename": "rune_fire.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Blaze Frog",
+      "filename": "familiar_frog_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

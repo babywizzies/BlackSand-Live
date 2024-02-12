@@ -1,0 +1,39 @@
+{
+  "id": "12925",
+  "name": "Adil Malefactor of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12925",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_yellow",
+      "filename": "body_shirtarmor_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_arabian",
+      "filename": "head_arabian.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1657",
+  "name": "Crash Hero of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1657",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinlight",
+      "filename": "body_wrestler_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_yan",
+      "filename": "head_yan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sai",
+      "filename": "weapon_sai.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

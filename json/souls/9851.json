@@ -1,0 +1,39 @@
+{
+  "id": "9851",
+  "name": "Horned Phantasm Adrienne of the Dread Tower",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Decaying Skeleton",
+      "filename": "body_skeleton_bloody.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Horned Phantasm",
+      "filename": "head_phantasm_horned.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Double Phoenix Feather",
+      "filename": "item_phoenixfeather_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Sigma",
+      "filename": "rune_steel.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Snake",
+      "filename": "familiar_snake_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

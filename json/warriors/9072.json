@@ -1,0 +1,44 @@
+{
+  "id": "9072",
+  "name": "Alexander Mischief Maker of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9072",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightearth",
+      "filename": "body_knightearth.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

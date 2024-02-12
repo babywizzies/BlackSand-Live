@@ -1,0 +1,34 @@
+{
+  "id": "4278",
+  "name": "Ragnar Protector of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4278",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightfire",
+      "filename": "body_knightfire.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmov",
+      "filename": "head_rockmov.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

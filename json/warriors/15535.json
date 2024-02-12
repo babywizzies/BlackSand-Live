@@ -1,0 +1,39 @@
+{
+  "id": "15535",
+  "name": "Lethal Deadly Venom",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15535",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bea_skindark",
+      "filename": "body_bea_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrun",
+      "filename": "head_valkyrun.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wind",
+      "filename": "shield_wind.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_razor",
+      "filename": "weapon_sword_razor.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

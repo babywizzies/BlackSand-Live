@@ -1,0 +1,44 @@
+{
+  "id": "2918",
+  "name": "Leila Destroyer of Frogs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2918",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_yellow",
+      "filename": "body_knightTurtle_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_blue",
+      "filename": "head_femhelm_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_horseshoe",
+      "filename": "shield_horseshoe.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

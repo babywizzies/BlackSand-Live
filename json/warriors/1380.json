@@ -1,0 +1,39 @@
+{
+  "id": "1380",
+  "name": "Ryland Lumper of Titans",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1380",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_redcover",
+      "filename": "body_redcover.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bearman",
+      "filename": "head_bearman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_club",
+      "filename": "weapon_club.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

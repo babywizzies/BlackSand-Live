@@ -1,0 +1,39 @@
+{
+  "id": "10833",
+  "name": "Gruzzon Clobberer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10833",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_blue",
+      "filename": "body_knight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dormok",
+      "filename": "head_dormok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_morningstar",
+      "filename": "weapon_morningstar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

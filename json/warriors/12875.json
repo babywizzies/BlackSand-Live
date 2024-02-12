@@ -1,0 +1,44 @@
+{
+  "id": "12875",
+  "name": "Tank Villain of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12875",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skindark",
+      "filename": "body_spikeBarb_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_infinity",
+      "filename": "shield_infinity.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

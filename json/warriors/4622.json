@@ -1,0 +1,44 @@
+{
+  "id": "4622",
+  "name": "Kat Marauder of the Slime",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4622",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_green",
+      "filename": "head_femhelm_green.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wind",
+      "filename": "shield_wind.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

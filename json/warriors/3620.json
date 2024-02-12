@@ -1,0 +1,44 @@
+{
+  "id": "3620",
+  "name": "Virilianus Render of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3620",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_red",
+      "filename": "body_cloak_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skindark",
+      "filename": "head_spartan_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

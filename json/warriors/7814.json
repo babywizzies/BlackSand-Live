@@ -1,0 +1,39 @@
+{
+  "id": "7814",
+  "name": "Pooka Contaminator of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7814",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cobra_black",
+      "filename": "companion_cobra_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skindark",
+      "filename": "body_commando_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnome",
+      "filename": "head_furgnome.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_grasscutter",
+      "filename": "weapon_grasscutter.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

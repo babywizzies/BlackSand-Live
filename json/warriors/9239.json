@@ -1,0 +1,39 @@
+{
+  "id": "9239",
+  "name": "Kat Dodger of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9239",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_yellow_skinlight",
+      "filename": "body_fem_knight_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tori",
+      "filename": "head_tori.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_frog",
+      "filename": "shield_frog.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

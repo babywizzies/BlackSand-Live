@@ -1,0 +1,44 @@
+{
+  "id": "5403",
+  "name": "Everett Champion of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5403",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_red",
+      "filename": "body_samurai_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jordan",
+      "filename": "head_jordan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_poleaxe_grey",
+      "filename": "weapon_poleaxe_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

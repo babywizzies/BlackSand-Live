@@ -1,0 +1,39 @@
+{
+  "id": "8289",
+  "name": "Putrid Zombie Ixar of the Severed Innocence",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Putrid Rags",
+      "filename": "body_zombie_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Putrid Zombie",
+      "filename": "head_zombie_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Joker Card",
+      "filename": "item_card_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Sigma",
+      "filename": "rune_steel.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Bat Skeleton",
+      "filename": "familiar_bat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

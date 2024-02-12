@@ -1,0 +1,29 @@
+{
+  "id": "133",
+  "name": "Bloody Mary",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Houppelande",
+      "filename": "body_bloodymary.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Mary Tudor",
+      "filename": "head_bloodymary.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Mary's Torch",
+      "filename": "item_marystorch.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1421",
+  "name": "Caesar Beater the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1421",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_martial_skindark",
+      "filename": "body_martial_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmer",
+      "filename": "head_rockmer.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_brown",
+      "filename": "weapon_hammer_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

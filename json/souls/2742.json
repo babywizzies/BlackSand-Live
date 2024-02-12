@@ -1,0 +1,39 @@
+{
+  "id": "2742",
+  "name": "Grim Ghoul Aleister of the Ice Abyss",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Tunic",
+      "filename": "body_beltrobe_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Pale Ghoul",
+      "filename": "head_ghoul_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Howl of Cerberus: the Black Flame Spell",
+      "filename": "spell_fire_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Down",
+      "filename": "rune_down.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Cat",
+      "filename": "familiar_cat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

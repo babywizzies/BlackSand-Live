@@ -1,0 +1,44 @@
+{
+  "id": "338",
+  "name": "Rudolph Monk of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/338",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_blue_skindark",
+      "filename": "body_grillknight_blue_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shutterknight",
+      "filename": "head_shutterknight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_blue",
+      "filename": "shield_kite_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

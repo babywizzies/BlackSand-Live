@@ -1,0 +1,44 @@
+{
+  "id": "9095",
+  "name": "Gerda Lopper of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9095",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_blue",
+      "filename": "body_knight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_elephant",
+      "filename": "head_elephant.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_yellow",
+      "filename": "shield_circle_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

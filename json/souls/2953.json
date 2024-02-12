@@ -1,0 +1,39 @@
+{
+  "id": "2953",
+  "name": "Veiled Phantasm Hu of Pandemonium",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasmal body of the Veil",
+      "filename": "body_phantasm_veil.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Phantasm of the Veil",
+      "filename": "head_phantasm_veil.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Crook",
+      "filename": "staff_crook_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Down",
+      "filename": "rune_down.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Bat Skeleton",
+      "filename": "familiar_bat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

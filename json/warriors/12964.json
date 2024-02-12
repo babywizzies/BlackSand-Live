@@ -1,0 +1,44 @@
+{
+  "id": "12964",
+  "name": "Stormand Champion of the Swamps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12964",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_red",
+      "filename": "companion_boar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_kobold",
+      "filename": "body_roadwarrior_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_firebrand",
+      "filename": "weapon_sword_firebrand.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

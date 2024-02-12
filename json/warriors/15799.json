@@ -1,0 +1,44 @@
+{
+  "id": "15799",
+  "name": "Gershlok Sword of the Dread Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15799",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_red",
+      "filename": "companion_boar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_brute",
+      "filename": "body_goblin_brute.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_skull",
+      "filename": "head_goblin_skull.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

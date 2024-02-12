@@ -1,0 +1,44 @@
+{
+  "id": "3010",
+  "name": "Magnus Destroyer of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3010",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skindark",
+      "filename": "body_spikeBarb_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bomb_black",
+      "filename": "weapon_bomb_black.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

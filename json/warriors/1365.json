@@ -1,0 +1,44 @@
+{
+  "id": "1365",
+  "name": "Hobbs Guardian of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1365",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehelmet",
+      "filename": "head_furgnomehelmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

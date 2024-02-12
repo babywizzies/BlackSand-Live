@@ -1,0 +1,39 @@
+{
+  "id": "12509",
+  "name": "Murphy of Concrete",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12509",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skindark",
+      "filename": "body_judo_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

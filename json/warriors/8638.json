@@ -1,0 +1,39 @@
+{
+  "id": "8638",
+  "name": "Sherry Impaler of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8638",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_fem_skinlight",
+      "filename": "body_roadwarrior_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_red",
+      "filename": "head_femhelm_red.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_speargold",
+      "filename": "weapon_speargold.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

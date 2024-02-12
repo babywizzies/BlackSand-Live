@@ -1,0 +1,39 @@
+{
+  "id": "2463",
+  "name": "Ekrin Striker of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2463",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_white",
+      "filename": "companion_goat_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_green",
+      "filename": "body_starcleric_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glorf",
+      "filename": "head_glorf.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_guardian",
+      "filename": "shield_guardian.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_feysword_red",
+      "filename": "weapon_feysword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

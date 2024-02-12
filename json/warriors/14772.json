@@ -1,0 +1,44 @@
+{
+  "id": "14772",
+  "name": "Gorgo Dispatcher of Thunder Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14772",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_green",
+      "filename": "body_knight_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jaxon",
+      "filename": "head_jaxon.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

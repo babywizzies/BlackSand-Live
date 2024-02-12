@@ -1,0 +1,44 @@
+{
+  "id": "11223",
+  "name": "Vega of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11223",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_lea_skinlight",
+      "filename": "body_lea_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sloane",
+      "filename": "head_sloane.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hamburger",
+      "filename": "item_hamburger.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

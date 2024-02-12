@@ -1,0 +1,44 @@
+{
+  "id": "998",
+  "name": "Logan Crusher of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/998",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bandArmor_brown",
+      "filename": "body_bandArmor_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmov",
+      "filename": "head_rockmov.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circlewood",
+      "filename": "shield_circlewood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

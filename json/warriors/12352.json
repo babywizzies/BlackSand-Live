@@ -1,0 +1,44 @@
+{
+  "id": "12352",
+  "name": "Sherry Grifter of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12352",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skindark",
+      "filename": "body_femguard_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippa",
+      "filename": "head_pippa.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

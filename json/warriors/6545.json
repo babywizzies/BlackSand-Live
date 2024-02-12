@@ -1,0 +1,39 @@
+{
+  "id": "6545",
+  "name": "Maya Mercenary of the Baobabs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6545",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_lea_skinlight",
+      "filename": "body_lea_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_piper",
+      "filename": "head_piper.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

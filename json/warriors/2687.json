@@ -1,0 +1,39 @@
+{
+  "id": "2687",
+  "name": "Gage Sword of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2687",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_pirateWar",
+      "filename": "body_pirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocky",
+      "filename": "head_rocky.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

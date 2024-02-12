@@ -1,0 +1,39 @@
+{
+  "id": "5037",
+  "name": "Arnie Exterminator of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5037",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_purple_skinlight",
+      "filename": "body_streetpunk_purple_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_steve",
+      "filename": "head_steve.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

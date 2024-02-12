@@ -1,0 +1,39 @@
+{
+  "id": "3733",
+  "name": "Griffin Crasher of the Cage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3733",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skinlight",
+      "filename": "body_mma_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_john",
+      "filename": "head_john.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_crowbar",
+      "filename": "weapon_crowbar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

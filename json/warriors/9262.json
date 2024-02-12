@@ -1,0 +1,39 @@
+{
+  "id": "9262",
+  "name": "Zed Lightbearer of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9262",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cobra_white",
+      "filename": "companion_cobra_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_grey",
+      "filename": "body_robo_grey.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead_gold",
+      "filename": "head_buckethead_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_power",
+      "filename": "rune_power.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

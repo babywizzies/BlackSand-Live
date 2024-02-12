@@ -1,0 +1,44 @@
+{
+  "id": "9369",
+  "name": "Magnus of the Slime",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9369",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_yellow",
+      "filename": "body_knightTurtle_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_joremy",
+      "filename": "head_joremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

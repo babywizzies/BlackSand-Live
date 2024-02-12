@@ -1,0 +1,44 @@
+{
+  "id": "10514",
+  "name": "Ernest Champion of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10514",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_yellow_skindark",
+      "filename": "body_provoc_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocktim",
+      "filename": "head_rocktim.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_blue",
+      "filename": "shield_kite_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_green",
+      "filename": "weapon_sword_jewel_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

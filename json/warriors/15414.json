@@ -1,0 +1,39 @@
+{
+  "id": "15414",
+  "name": "Crom Ravager of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15414",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skinlight",
+      "filename": "body_roadwarrior_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

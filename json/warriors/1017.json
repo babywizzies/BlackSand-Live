@@ -1,0 +1,39 @@
+{
+  "id": "1017",
+  "name": "Uma of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1017",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_red_skinmid",
+      "filename": "body_fem_knight_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_hindi",
+      "filename": "head_hindi.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

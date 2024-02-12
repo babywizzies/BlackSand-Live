@@ -1,0 +1,39 @@
+{
+  "id": "11933",
+  "name": "Zeke Robber of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11933",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_dark",
+      "filename": "body_samurai_dark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_victor",
+      "filename": "head_victor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

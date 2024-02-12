@@ -1,0 +1,34 @@
+{
+  "id": "10216",
+  "name": "Giblet Slaughterer of Gross Gorge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10216",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_leather",
+      "filename": "body_goblin_leather.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_bald",
+      "filename": "head_goblin_bald.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

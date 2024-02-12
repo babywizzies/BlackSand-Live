@@ -1,0 +1,44 @@
+{
+  "id": "11661",
+  "name": "Baal Bifurcator of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11661",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skinmid",
+      "filename": "body_meso_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_garth",
+      "filename": "head_garth.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

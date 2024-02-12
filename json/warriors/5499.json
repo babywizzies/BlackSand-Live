@@ -1,0 +1,44 @@
+{
+  "id": "5499",
+  "name": "Aida Sword of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5499",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skinlight",
+      "filename": "body_nordarmour_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pari",
+      "filename": "head_pari.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_blue",
+      "filename": "shield_circle_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_green",
+      "filename": "weapon_sword_jewel_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

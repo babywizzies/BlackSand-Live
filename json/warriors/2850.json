@@ -1,0 +1,39 @@
+{
+  "id": "2850",
+  "name": "Arioch Contender of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2850",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_red",
+      "filename": "body_samurai_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmethorn_dark",
+      "filename": "head_helmethorn_dark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_heart",
+      "filename": "shield_heart.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_feysword_red",
+      "filename": "weapon_feysword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

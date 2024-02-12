@@ -1,0 +1,44 @@
+{
+  "id": "736",
+  "name": "Amara of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/736",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_green_skindark",
+      "filename": "body_amazon_green_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

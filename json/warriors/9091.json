@@ -1,0 +1,39 @@
+{
+  "id": "9091",
+  "name": "Atox Sword of Lions",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9091",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skinlight",
+      "filename": "body_judo_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skinlight",
+      "filename": "head_spartan_skinlight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4162",
+  "name": "Seven Battler of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4162",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_blue",
+      "filename": "body_shirtarmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_john",
+      "filename": "head_john.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_falchion_red",
+      "filename": "weapon_sword_falchion_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

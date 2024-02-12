@@ -1,0 +1,44 @@
+{
+  "id": "13581",
+  "name": "Shyla Ranger of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13581",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_green_skinmid",
+      "filename": "body_onepiece_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

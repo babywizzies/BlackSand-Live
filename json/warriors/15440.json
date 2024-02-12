@@ -1,0 +1,44 @@
+{
+  "id": "15440",
+  "name": "Bambam Champion of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15440",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cobra_white",
+      "filename": "companion_cobra_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_white_skindark",
+      "filename": "body_fem_knight_white_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_blue",
+      "filename": "head_femhelm_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_blue",
+      "filename": "shield_circle_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear",
+      "filename": "weapon_spear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

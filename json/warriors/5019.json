@@ -1,0 +1,39 @@
+{
+  "id": "5019",
+  "name": "Damon Basher of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5019",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skindark",
+      "filename": "body_roadwarrior_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_morningstar",
+      "filename": "weapon_morningstar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

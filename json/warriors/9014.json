@@ -1,0 +1,39 @@
+{
+  "id": "9014",
+  "name": "Beezle Traveler of the Ring",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9014",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_manowar",
+      "filename": "companion_manowar.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skinlight",
+      "filename": "body_mma_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmethorn_dark",
+      "filename": "head_helmethorn_dark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "89",
+  "name": "Farrell Crusher of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/89",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spartan_gold_skindark",
+      "filename": "body_spartan_gold_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

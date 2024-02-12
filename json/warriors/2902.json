@@ -1,0 +1,44 @@
+{
+  "id": "2902",
+  "name": "Hunter Dispatcher of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2902",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_green_skinlight",
+      "filename": "body_grillknight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_fuchow",
+      "filename": "head_fuchow.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wood",
+      "filename": "shield_wood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

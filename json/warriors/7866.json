@@ -1,0 +1,34 @@
+{
+  "id": "7866",
+  "name": "Cid Ranger of the Lowlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7866",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_highlander",
+      "filename": "body_highlander.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_arabian",
+      "filename": "head_arabian.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

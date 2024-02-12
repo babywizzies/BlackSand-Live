@@ -1,0 +1,39 @@
+{
+  "id": "7393",
+  "name": "Nova Sword of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7393",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_purple",
+      "filename": "companion_beetle_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_martial_skindark",
+      "filename": "body_martial_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

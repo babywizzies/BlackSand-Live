@@ -1,0 +1,44 @@
+{
+  "id": "4708",
+  "name": "Jerry Devastator of the Obelisk",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4708",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_yellow_skindark",
+      "filename": "body_provoc_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_guardian",
+      "filename": "shield_guardian.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bomb_red",
+      "filename": "weapon_bomb_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

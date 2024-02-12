@@ -1,0 +1,39 @@
+{
+  "id": "13580",
+  "name": "Sal Fencer of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13580",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinmid",
+      "filename": "body_streetpunk_fem_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tania",
+      "filename": "head_tania.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

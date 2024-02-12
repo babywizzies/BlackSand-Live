@@ -1,0 +1,34 @@
+{
+  "id": "8313",
+  "name": "Dragga Paragon of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8313",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_skull",
+      "filename": "body_goblin_skull.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_bald",
+      "filename": "head_goblin_bald.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

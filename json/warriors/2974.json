@@ -1,0 +1,39 @@
+{
+  "id": "2974",
+  "name": "Silas Assasinator of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2974",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinlight",
+      "filename": "body_wrestler_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_steve",
+      "filename": "head_steve.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

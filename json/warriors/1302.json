@@ -1,0 +1,34 @@
+{
+  "id": "1302",
+  "name": "Drogo Jackhammer of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1302",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_purple",
+      "filename": "body_shirtarmor_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_marlan",
+      "filename": "head_marlan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_mace",
+      "filename": "weapon_mace.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

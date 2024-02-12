@@ -1,0 +1,44 @@
+{
+  "id": "3",
+  "name": "Velbi Axe of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skinlight",
+      "filename": "body_femguard_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_velbi",
+      "filename": "head_velbi.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

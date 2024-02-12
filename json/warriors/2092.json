@@ -1,0 +1,39 @@
+{
+  "id": "2092",
+  "name": "Felix Disintegrator of the Dawn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2092",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_yellow",
+      "filename": "body_knight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willy",
+      "filename": "head_willy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

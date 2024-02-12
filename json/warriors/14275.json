@@ -1,0 +1,39 @@
+{
+  "id": "14275",
+  "name": "Gorgo Render of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14275",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_red_skinmid",
+      "filename": "body_streetpunk_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_medSkull",
+      "filename": "head_medSkull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_yellow",
+      "filename": "weapon_chainsaw_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

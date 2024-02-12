@@ -1,0 +1,39 @@
+{
+  "id": "7800",
+  "name": "Lyam Champion of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7800",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_blue",
+      "filename": "body_cloak_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_joremy",
+      "filename": "head_joremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spearWing",
+      "filename": "weapon_spearWing.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "14850",
+  "name": "Hunter Lacerator of Rogues",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14850",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightearth",
+      "filename": "body_knightearth.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bearman",
+      "filename": "head_bearman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

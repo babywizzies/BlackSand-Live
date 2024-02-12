@@ -1,0 +1,34 @@
+{
+  "id": "8380",
+  "name": "Pippa Peacemaker of the Guild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8380",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_red_skinmid",
+      "filename": "body_fem_knight_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_toru",
+      "filename": "head_toru.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wind",
+      "filename": "shield_wind.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

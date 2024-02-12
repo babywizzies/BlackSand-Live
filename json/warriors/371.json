@@ -1,0 +1,44 @@
+{
+  "id": "371",
+  "name": "Bambam Mauler of Nothing",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/371",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skinlight",
+      "filename": "body_nordarmour_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mello",
+      "filename": "head_mello.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_crowbar",
+      "filename": "weapon_crowbar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

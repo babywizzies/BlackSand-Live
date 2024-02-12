@@ -1,0 +1,44 @@
+{
+  "id": "12019",
+  "name": "Marie Plunderer of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12019",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_green_skindark",
+      "filename": "body_amazon_green_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippa",
+      "filename": "head_pippa.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_infinity",
+      "filename": "shield_infinity.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

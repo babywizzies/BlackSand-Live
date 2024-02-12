@@ -1,0 +1,44 @@
+{
+  "id": "310",
+  "name": "Draxon Protector of the South",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/310",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_white",
+      "filename": "body_shirtarmor_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_joremy",
+      "filename": "head_joremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

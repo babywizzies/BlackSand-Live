@@ -1,0 +1,44 @@
+{
+  "id": "1838",
+  "name": "Pak Carver of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1838",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_white",
+      "filename": "companion_goat_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_kobold",
+      "filename": "body_roadwarrior_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_blood",
+      "filename": "weapon_sword_blood.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

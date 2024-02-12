@@ -1,0 +1,39 @@
+{
+  "id": "8496",
+  "name": "Donovan Grinder of the Underground",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8496",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_purple_skinlight",
+      "filename": "body_streetpunk_purple_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_chun",
+      "filename": "head_chun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballbat",
+      "filename": "weapon_ballbat.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

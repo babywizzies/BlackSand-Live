@@ -1,0 +1,44 @@
+{
+  "id": "11161",
+  "name": "Fingus Disintegrator of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11161",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_tritops_green",
+      "filename": "companion_tritops_green.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnome",
+      "filename": "head_furgnome.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_goat",
+      "filename": "shield_goat.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_feysword_red",
+      "filename": "weapon_feysword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

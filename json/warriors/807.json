@@ -1,0 +1,29 @@
+{
+  "id": "807",
+  "name": "Boron Sword of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/807",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_yellow",
+      "filename": "body_sharp_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

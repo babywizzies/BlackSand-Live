@@ -1,0 +1,44 @@
+{
+  "id": "902",
+  "name": "Margaret Hellraiser of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/902",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_green_skinlight",
+      "filename": "body_fem_knight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tori",
+      "filename": "head_tori.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

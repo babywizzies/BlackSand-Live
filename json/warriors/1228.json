@@ -1,0 +1,34 @@
+{
+  "id": "1228",
+  "name": "Vega Thief of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1228",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sariwar",
+      "filename": "body_sariwar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippin",
+      "filename": "head_pippin.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

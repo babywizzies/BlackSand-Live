@@ -1,0 +1,39 @@
+{
+  "id": "8925",
+  "name": "Kona Impaler of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8925",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skindark",
+      "filename": "body_commando_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_berserker_skindark",
+      "filename": "head_berserker_skindark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

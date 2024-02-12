@@ -1,0 +1,39 @@
+{
+  "id": "4979",
+  "name": "Raddix of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4979",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_green_skindark",
+      "filename": "body_streetpunk_green_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jardem",
+      "filename": "head_jardem.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ale",
+      "filename": "item_ale.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

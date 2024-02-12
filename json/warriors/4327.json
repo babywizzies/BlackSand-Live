@@ -1,0 +1,39 @@
+{
+  "id": "4327",
+  "name": "Frida Hero of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4327",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_fem_skinmid",
+      "filename": "body_roadwarrior_fem_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sai",
+      "filename": "weapon_sai.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "403",
+  "name": "Narfi Rival of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/403",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_white",
+      "filename": "companion_goat_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skinlight",
+      "filename": "body_spikeBarb_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_executioner",
+      "filename": "head_executioner.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_dane",
+      "filename": "weapon_axe_dane.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

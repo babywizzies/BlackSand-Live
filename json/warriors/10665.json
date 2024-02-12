@@ -1,0 +1,34 @@
+{
+  "id": "10665",
+  "name": "Dralin Slasher of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10665",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_brown",
+      "filename": "body_shirtarmor_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gerj",
+      "filename": "head_gerj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

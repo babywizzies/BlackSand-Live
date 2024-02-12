@@ -1,0 +1,39 @@
+{
+  "id": "3916",
+  "name": "Kuna Daredevil of Fire",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3916",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightfire",
+      "filename": "body_knightfire.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shelley",
+      "filename": "head_shelley.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

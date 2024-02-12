@@ -1,0 +1,39 @@
+{
+  "id": "9231",
+  "name": "Moriko Guardian of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9231",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rin",
+      "filename": "head_rin.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "13481",
+  "name": "Gadreel Assailant of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13481",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_blue",
+      "filename": "body_knight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jaxon",
+      "filename": "head_jaxon.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circlewood",
+      "filename": "shield_circlewood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_blue",
+      "filename": "weapon_shortsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

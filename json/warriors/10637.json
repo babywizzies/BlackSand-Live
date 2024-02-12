@@ -1,0 +1,39 @@
+{
+  "id": "10637",
+  "name": "Glorga Vanquisher of the Plaguelands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10637",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_goblin",
+      "filename": "body_streetpunk_goblin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_bald",
+      "filename": "head_goblin_bald.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

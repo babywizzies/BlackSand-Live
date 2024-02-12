@@ -1,0 +1,39 @@
+{
+  "id": "9371",
+  "name": "Riggs Wrecker of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9371",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bandArmor_green",
+      "filename": "body_bandArmor_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_impeh",
+      "filename": "head_impeh.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wind",
+      "filename": "shield_wind.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

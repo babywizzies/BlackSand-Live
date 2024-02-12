@@ -1,0 +1,44 @@
+{
+  "id": "4500",
+  "name": "Sauda Despoiler of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4500",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_purple",
+      "filename": "companion_beetle_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_valkyrie_skindark",
+      "filename": "body_valkyrie_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_maude",
+      "filename": "head_maude.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

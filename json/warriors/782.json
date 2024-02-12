@@ -1,0 +1,44 @@
+{
+  "id": "782",
+  "name": "Isane Guardian of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/782",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_yellow_skinlight",
+      "filename": "body_amazon_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sloane",
+      "filename": "head_sloane.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_blue",
+      "filename": "shield_kite_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear",
+      "filename": "weapon_spear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

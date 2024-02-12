@@ -1,0 +1,39 @@
+{
+  "id": "10700",
+  "name": "Fingus Disintegrator of Chickens",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10700",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_kobold",
+      "filename": "body_roadwarrior_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

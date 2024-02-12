@@ -1,0 +1,44 @@
+{
+  "id": "4310",
+  "name": "Alexa Terror of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4310",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_harpy",
+      "filename": "companion_eagle_harpy.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_valkyrie_skinlight",
+      "filename": "body_valkyrie_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mello",
+      "filename": "head_mello.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_aegis",
+      "filename": "shield_aegis.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_butcher",
+      "filename": "weapon_butcher.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

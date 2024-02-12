@@ -1,0 +1,44 @@
+{
+  "id": "15067",
+  "name": "Sanaa Protector of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15067",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_yellow",
+      "filename": "body_knightTurtle_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_yellow",
+      "filename": "shield_circle_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_trident",
+      "filename": "weapon_trident.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

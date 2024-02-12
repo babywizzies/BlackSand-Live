@@ -1,0 +1,34 @@
+{
+  "id": "15773",
+  "name": "Dain Eidolon of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15773",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gladiator_skindark",
+      "filename": "body_gladiator_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet",
+      "filename": "head_helmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_down",
+      "filename": "shield_kite_down.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

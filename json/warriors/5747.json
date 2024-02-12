@@ -1,0 +1,44 @@
+{
+  "id": "5747",
+  "name": "Mahi of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5747",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sariwar",
+      "filename": "body_sariwar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_nourga",
+      "filename": "head_nourga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ramen",
+      "filename": "item_ramen.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

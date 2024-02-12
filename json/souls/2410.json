@@ -1,0 +1,34 @@
+{
+  "id": "2410",
+  "name": "Malodorous Ghoul Uvlius of the Pile",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Carnal Body of Sickness",
+      "filename": "body_ghoul_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ghoul of Sickness",
+      "filename": "head_ghoul_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Wand of Conquest",
+      "filename": "item_wand_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

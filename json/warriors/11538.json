@@ -1,0 +1,44 @@
+{
+  "id": "11538",
+  "name": "Aspra Combatant of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11538",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_green_skinlight",
+      "filename": "body_fem_knight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrie",
+      "filename": "head_valkyrie.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

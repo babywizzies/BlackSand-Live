@@ -1,0 +1,44 @@
+{
+  "id": "15035",
+  "name": "John Calamity of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15035",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_green_skinmid",
+      "filename": "body_provoc_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_crusader",
+      "filename": "head_crusader.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

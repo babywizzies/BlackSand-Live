@@ -1,0 +1,44 @@
+{
+  "id": "10823",
+  "name": "Nori Combatant of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10823",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_black_skinlight",
+      "filename": "body_onepiece_black_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_onna",
+      "filename": "head_onna.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_skull",
+      "filename": "shield_skull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

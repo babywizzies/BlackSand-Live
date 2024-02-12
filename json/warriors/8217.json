@@ -1,0 +1,44 @@
+{
+  "id": "8217",
+  "name": "Blade Eliminator of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8217",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gladiator_skinlight",
+      "filename": "body_gladiator_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

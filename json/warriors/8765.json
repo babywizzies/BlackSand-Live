@@ -1,0 +1,39 @@
+{
+  "id": "8765",
+  "name": "Gregg Despoiler of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8765",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_red",
+      "filename": "companion_raptor_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_kobold",
+      "filename": "body_streetpunk_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wembo",
+      "filename": "head_wembo.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_blood",
+      "filename": "weapon_sword_blood.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

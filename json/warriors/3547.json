@@ -1,0 +1,39 @@
+{
+  "id": "3547",
+  "name": "Dell Raider of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3547",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_kobold",
+      "filename": "body_streetpunk_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_womble",
+      "filename": "head_womble.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_dane",
+      "filename": "weapon_axe_dane.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

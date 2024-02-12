@@ -1,0 +1,44 @@
+{
+  "id": "13510",
+  "name": "Glork Punisher of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13510",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_red_skinlight",
+      "filename": "body_provoc_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wood",
+      "filename": "shield_wood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_goblin",
+      "filename": "weapon_sword_goblin.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

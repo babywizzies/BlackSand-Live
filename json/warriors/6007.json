@@ -1,0 +1,39 @@
+{
+  "id": "6007",
+  "name": "Maya Striker of Deer",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6007",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodfem_green_skinmid",
+      "filename": "body_woodfem_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_green",
+      "filename": "head_femhelm_green.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_down",
+      "filename": "shield_kite_down.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

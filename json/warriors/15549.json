@@ -1,0 +1,39 @@
+{
+  "id": "15549",
+  "name": "Javier of the Canyon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15549",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skinlight",
+      "filename": "body_commando_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocky",
+      "filename": "head_rocky.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sigma",
+      "filename": "rune_sigma.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9727",
+  "name": "Typhon Eidolon of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9727",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_red_skinmid",
+      "filename": "body_streetpunk_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet_spike",
+      "filename": "head_helmet_spike.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

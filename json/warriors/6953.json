@@ -1,0 +1,34 @@
+{
+  "id": "6953",
+  "name": "Blarf Battler of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6953",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_white",
+      "filename": "body_starcleric_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_womble",
+      "filename": "head_womble.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

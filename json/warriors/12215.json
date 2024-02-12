@@ -1,0 +1,44 @@
+{
+  "id": "12215",
+  "name": "Harland Ravager of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12215",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_griffin",
+      "filename": "companion_griffin.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_red",
+      "filename": "body_cloak_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_joremy",
+      "filename": "head_joremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_feysword_red",
+      "filename": "weapon_feysword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

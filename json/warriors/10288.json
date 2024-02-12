@@ -1,0 +1,39 @@
+{
+  "id": "10288",
+  "name": "Helga Exterminator of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10288",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinlight",
+      "filename": "body_streetpunk_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_marci",
+      "filename": "head_marci.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_pirate",
+      "filename": "weapon_sword_pirate.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

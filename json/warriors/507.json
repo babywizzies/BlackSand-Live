@@ -1,0 +1,44 @@
+{
+  "id": "507",
+  "name": "Fredric Striker of the Horde",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/507",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_brute",
+      "filename": "body_goblin_brute.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_bald",
+      "filename": "head_goblin_bald.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_guardian",
+      "filename": "shield_guardian.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_falchion_gold",
+      "filename": "weapon_sword_falchion_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

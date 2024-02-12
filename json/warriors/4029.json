@@ -1,0 +1,44 @@
+{
+  "id": "4029",
+  "name": "Parker Antihero of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4029",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skinlight",
+      "filename": "body_spikeBarb_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_arnie",
+      "filename": "head_arnie.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bomb_skull",
+      "filename": "weapon_bomb_skull.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

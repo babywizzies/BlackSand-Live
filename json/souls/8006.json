@@ -1,0 +1,39 @@
+{
+  "id": "8006",
+  "name": "Putrid Zombie Milo of the Bottomless Grave",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Putrid Rags",
+      "filename": "body_zombie_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Putrid Zombie",
+      "filename": "head_zombie_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Howl of Cerberus: the Black Flame Spell",
+      "filename": "spell_fire_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Neptune",
+      "filename": "rune_neptune.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Rat",
+      "filename": "familiar_rat_zombie.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

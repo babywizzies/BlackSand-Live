@@ -1,0 +1,44 @@
+{
+  "id": "7563",
+  "name": "Murphy Cruncher of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7563",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_blue",
+      "filename": "body_plateArmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dormok",
+      "filename": "head_dormok.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballbat",
+      "filename": "weapon_ballbat.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

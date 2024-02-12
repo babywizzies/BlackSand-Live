@@ -1,0 +1,44 @@
+{
+  "id": "2371",
+  "name": "Sterling Marauder of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2371",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cyberviking",
+      "filename": "body_cyberviking.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead_gold",
+      "filename": "head_buckethead_gold.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_hazard",
+      "filename": "shield_hazard.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_blue",
+      "filename": "weapon_shortsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

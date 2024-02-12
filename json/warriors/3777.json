@@ -1,0 +1,39 @@
+{
+  "id": "3777",
+  "name": "Servo Savior of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3777",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_grey",
+      "filename": "body_robo_grey.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead",
+      "filename": "head_buckethead.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

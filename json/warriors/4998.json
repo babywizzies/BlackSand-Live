@@ -1,0 +1,39 @@
+{
+  "id": "4998",
+  "name": "Oula Annihilator of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4998",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_green_skinlight",
+      "filename": "body_fem_knight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_piper",
+      "filename": "head_piper.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_goblin",
+      "filename": "weapon_sword_goblin.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

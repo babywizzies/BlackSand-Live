@@ -1,0 +1,39 @@
+{
+  "id": "13070",
+  "name": "Herman Ravager of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13070",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_red",
+      "filename": "body_auraknight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skinlight",
+      "filename": "head_spartan_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_doubleblade_gold",
+      "filename": "weapon_doubleblade_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

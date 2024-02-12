@@ -1,0 +1,39 @@
+{
+  "id": "7609",
+  "name": "Addanc of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7609",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skinlight",
+      "filename": "body_roadwarrior_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_executioner",
+      "filename": "head_executioner.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

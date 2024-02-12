@@ -1,0 +1,34 @@
+{
+  "id": "3115",
+  "name": "Rotten Revenant Jeldor of the Bottomless Grave",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Consumption Rags",
+      "filename": "body_zombie_pale.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Rotten Revenant",
+      "filename": "head_revenant_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Soul Reaper Scythe",
+      "filename": "staff_scythe_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Rat",
+      "filename": "familiar_rat_zombie.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

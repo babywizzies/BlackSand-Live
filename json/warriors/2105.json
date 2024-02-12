@@ -1,0 +1,39 @@
+{
+  "id": "2105",
+  "name": "Jabari Eidolon of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2105",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_purple",
+      "filename": "body_knight_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rommi",
+      "filename": "head_rommi.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

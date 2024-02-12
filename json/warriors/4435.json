@@ -1,0 +1,39 @@
+{
+  "id": "4435",
+  "name": "Dozer Dissector of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4435",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_byzantine",
+      "filename": "body_byzantine.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_skull",
+      "filename": "shield_skull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

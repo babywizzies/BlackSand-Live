@@ -1,0 +1,39 @@
+{
+  "id": "11438",
+  "name": "Nervilla Vanquisher of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11438",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_fem_skindark",
+      "filename": "body_roadwarrior_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrun",
+      "filename": "head_valkyrun.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

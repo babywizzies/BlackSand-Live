@@ -1,0 +1,34 @@
+{
+  "id": "12071",
+  "name": "Ravana Wounder of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12071",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinmid",
+      "filename": "body_wrestler_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet_spike",
+      "filename": "head_helmet_spike.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

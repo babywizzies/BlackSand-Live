@@ -1,0 +1,34 @@
+{
+  "id": "11031",
+  "name": "Flamma Wounder of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11031",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_green_skindark",
+      "filename": "body_streetpunk_green_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skindark",
+      "filename": "head_spartan_skindark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_cyber",
+      "filename": "weapon_axe_cyber.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

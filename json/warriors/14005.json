@@ -1,0 +1,44 @@
+{
+  "id": "14005",
+  "name": "Hilda of Devils",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14005",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_green_skinmid",
+      "filename": "body_onepiece_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_green",
+      "filename": "head_femhelm_green.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_lotus",
+      "filename": "shield_lotus.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

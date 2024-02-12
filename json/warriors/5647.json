@@ -1,0 +1,44 @@
+{
+  "id": "5647",
+  "name": "Nkiru Slaughterer of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5647",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_green_skindark",
+      "filename": "body_amazon_green_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_nala",
+      "filename": "head_nala.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gungnir",
+      "filename": "weapon_gungnir.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sigma",
+      "filename": "rune_sigma.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "15548",
+  "name": "Winchester Grinder of the Ditch",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15548",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skinlight",
+      "filename": "body_commando_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skinlight",
+      "filename": "head_base_skinlight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

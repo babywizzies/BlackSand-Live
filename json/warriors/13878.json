@@ -1,0 +1,39 @@
+{
+  "id": "13878",
+  "name": "Bundo Razer of Bandits",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13878",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_kobold",
+      "filename": "body_streetpunk_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_womble",
+      "filename": "head_womble.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sigma",
+      "filename": "rune_sigma.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

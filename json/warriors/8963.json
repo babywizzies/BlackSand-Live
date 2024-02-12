@@ -1,0 +1,39 @@
+{
+  "id": "8963",
+  "name": "Alex Swashbuckler of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8963",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_surdarmour_skinlight",
+      "filename": "body_surdarmour_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tori",
+      "filename": "head_tori.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

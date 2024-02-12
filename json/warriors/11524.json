@@ -1,0 +1,44 @@
+{
+  "id": "11524",
+  "name": "Dell Ruin of the Capital",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11524",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_black",
+      "filename": "companion_goat_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_kobold",
+      "filename": "body_roadwarrior_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_mjolnir",
+      "filename": "weapon_mjolnir.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

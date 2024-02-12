@@ -1,0 +1,44 @@
+{
+  "id": "7043",
+  "name": "Therman Slasher of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7043",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_yellow_skindark",
+      "filename": "body_provoc_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shutterknight",
+      "filename": "head_shutterknight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

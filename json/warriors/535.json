@@ -1,0 +1,39 @@
+{
+  "id": "535",
+  "name": "Magnus Champion of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/535",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_brown",
+      "filename": "body_knight_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bearman",
+      "filename": "head_bearman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

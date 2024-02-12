@@ -1,0 +1,44 @@
+{
+  "id": "12075",
+  "name": "Kaz Bludgeoner of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12075",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_brown",
+      "filename": "body_knight_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willy",
+      "filename": "head_willy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_morningstar",
+      "filename": "weapon_morningstar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

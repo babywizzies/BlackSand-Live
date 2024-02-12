@@ -1,0 +1,44 @@
+{
+  "id": "7110",
+  "name": "Kobe Demolisher of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7110",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skinlight",
+      "filename": "body_meso_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_berserker_skinlight",
+      "filename": "head_berserker_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kraken",
+      "filename": "shield_kraken.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_grey",
+      "filename": "weapon_hammer_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

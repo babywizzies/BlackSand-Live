@@ -1,0 +1,44 @@
+{
+  "id": "14668",
+  "name": "Crixus Vanquisher of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14668",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_blue",
+      "filename": "body_plateArmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_legionnaire",
+      "filename": "head_legionnaire.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_purple",
+      "filename": "weapon_longsword_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

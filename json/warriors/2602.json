@@ -1,0 +1,44 @@
+{
+  "id": "2602",
+  "name": "Julia Champion of Liches",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2602",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skindark",
+      "filename": "body_nordarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_blue",
+      "filename": "head_femhelm_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_poleaxe_grey",
+      "filename": "weapon_poleaxe_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

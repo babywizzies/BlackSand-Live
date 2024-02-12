@@ -1,0 +1,39 @@
+{
+  "id": "719",
+  "name": "Chase of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/719",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_blue",
+      "filename": "body_auraknight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wharton",
+      "filename": "head_wharton.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hamburger",
+      "filename": "item_hamburger.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "4211",
+  "name": "Durdle Stabber of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4211",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_kobold",
+      "filename": "body_streetpunk_kobold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_gear",
+      "filename": "weapon_sword_gear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

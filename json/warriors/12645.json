@@ -1,0 +1,39 @@
+{
+  "id": "12645",
+  "name": "Elbrus Paragon of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12645",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skindark",
+      "filename": "body_wrestler_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

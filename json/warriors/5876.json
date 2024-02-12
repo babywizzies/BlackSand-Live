@@ -1,0 +1,44 @@
+{
+  "id": "5876",
+  "name": "Kace Guardian of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5876",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_grillknight_blue_skindark",
+      "filename": "body_grillknight_blue_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willson",
+      "filename": "head_willson.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

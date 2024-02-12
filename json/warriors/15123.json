@@ -1,0 +1,39 @@
+{
+  "id": "15123",
+  "name": " Basher of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15123",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_yellow",
+      "filename": "body_knight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_armak",
+      "filename": "head_armak.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wratchet",
+      "filename": "weapon_wratchet.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

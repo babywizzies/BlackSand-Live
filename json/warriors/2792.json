@@ -1,0 +1,44 @@
+{
+  "id": "2792",
+  "name": "Velbi Eidolon of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2792",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_harpy",
+      "filename": "companion_eagle_harpy.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_yellow_skinlight",
+      "filename": "body_amazon_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sharyl",
+      "filename": "head_sharyl.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_frog",
+      "filename": "shield_frog.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

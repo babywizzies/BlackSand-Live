@@ -1,0 +1,44 @@
+{
+  "id": "10949",
+  "name": "Damon Blade of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10949",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skindark",
+      "filename": "body_meso_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

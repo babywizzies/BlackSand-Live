@@ -1,0 +1,44 @@
+{
+  "id": "12419",
+  "name": "Dusty Mangler of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12419",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_yellow_skindark",
+      "filename": "body_provoc_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skindark",
+      "filename": "head_brawler_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_hazard",
+      "filename": "shield_hazard.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wrench_red",
+      "filename": "weapon_wrench_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

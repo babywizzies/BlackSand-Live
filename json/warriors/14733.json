@@ -1,0 +1,44 @@
+{
+  "id": "14733",
+  "name": "Buster Crasher of the Jungle",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14733",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spartan_gold_skinlight",
+      "filename": "body_spartan_gold_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_berserker_skinlight",
+      "filename": "head_berserker_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballbat",
+      "filename": "weapon_ballbat.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

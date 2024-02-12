@@ -1,0 +1,39 @@
+{
+  "id": "1843",
+  "name": "Buckethead Terror of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1843",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_grey",
+      "filename": "body_robo_grey.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead_gold",
+      "filename": "head_buckethead_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_red",
+      "filename": "weapon_chainsaw_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_up",
+      "filename": "rune_up.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "7445",
+  "name": "Decima Bludgeoner of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7445",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_velbi",
+      "filename": "head_velbi.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

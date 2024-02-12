@@ -1,0 +1,39 @@
+{
+  "id": "512",
+  "name": "Lecherous Ghoul Florah of Nightmare Paradise",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton",
+      "filename": "body_skeleton.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Salacious Ghoul",
+      "filename": "head_ghoul_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Nixie's Lament: the Rain Spell",
+      "filename": "spell_water_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Venus",
+      "filename": "rune_venus.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Rat",
+      "filename": "familiar_rat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

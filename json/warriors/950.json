@@ -1,0 +1,39 @@
+{
+  "id": "950",
+  "name": "Goober Protector of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/950",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bandArmor_green",
+      "filename": "body_bandArmor_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehorn",
+      "filename": "head_furgnomehorn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

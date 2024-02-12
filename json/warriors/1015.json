@@ -1,0 +1,39 @@
+{
+  "id": "1015",
+  "name": "Riley Rival of the Ridge",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1015",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_white_skinmid",
+      "filename": "body_onepiece_white_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_toru",
+      "filename": "head_toru.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

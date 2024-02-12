@@ -1,0 +1,39 @@
+{
+  "id": "12169",
+  "name": "Relic Attacker of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12169",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_yellow",
+      "filename": "body_cloak_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_goblin",
+      "filename": "weapon_axe_goblin.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

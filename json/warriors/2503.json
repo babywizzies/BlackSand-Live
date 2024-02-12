@@ -1,0 +1,44 @@
+{
+  "id": "2503",
+  "name": "Kane Wrecker of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2503",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skinlight",
+      "filename": "body_spikeBarb_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

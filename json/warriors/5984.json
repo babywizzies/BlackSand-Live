@@ -1,0 +1,39 @@
+{
+  "id": "5984",
+  "name": "Hades Slasher of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5984",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skindark",
+      "filename": "body_roadwarrior_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logum",
+      "filename": "head_logum.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

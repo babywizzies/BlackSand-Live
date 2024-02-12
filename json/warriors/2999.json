@@ -1,0 +1,44 @@
+{
+  "id": "2999",
+  "name": "Burple Hammer the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2999",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_kobold_black",
+      "filename": "body_kobold_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_kanabo",
+      "filename": "weapon_kanabo.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_power",
+      "filename": "rune_power.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

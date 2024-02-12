@@ -1,0 +1,39 @@
+{
+  "id": "15253",
+  "name": "Devon Battler of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15253",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_surdarmour_skindark",
+      "filename": "body_surdarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_toru",
+      "filename": "head_toru.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

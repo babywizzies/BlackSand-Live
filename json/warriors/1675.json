@@ -1,0 +1,39 @@
+{
+  "id": "1675",
+  "name": "Grumel Cleaver of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1675",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_purple_skindark",
+      "filename": "body_provoc_purple_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_medSkull",
+      "filename": "head_medSkull.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_gold",
+      "filename": "weapon_sword_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

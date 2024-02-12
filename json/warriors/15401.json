@@ -1,0 +1,39 @@
+{
+  "id": "15401",
+  "name": "Stone Hellraiser of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15401",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_byzantine",
+      "filename": "body_byzantine.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rothkor",
+      "filename": "head_rothkor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_blue",
+      "filename": "weapon_shortsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

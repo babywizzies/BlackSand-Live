@@ -1,0 +1,44 @@
+{
+  "id": "940",
+  "name": "Cossus Defeater of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/940",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_red",
+      "filename": "body_auraknight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bill",
+      "filename": "head_bill.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

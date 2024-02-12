@@ -1,0 +1,39 @@
+{
+  "id": "1446",
+  "name": "Aamon Fragmenter of Power",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1446",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_drone",
+      "filename": "companion_drone.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wrestler_skinmid",
+      "filename": "body_wrestler_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_cyberhood",
+      "filename": "head_cyberhood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wratchet",
+      "filename": "weapon_wratchet.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

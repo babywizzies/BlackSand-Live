@@ -1,0 +1,39 @@
+{
+  "id": "1798",
+  "name": "Zazne of the Underground",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1798",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_purple",
+      "filename": "body_sharp_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_joremy",
+      "filename": "head_joremy.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_lollipop",
+      "filename": "item_lollipop.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

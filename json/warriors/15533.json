@@ -1,0 +1,44 @@
+{
+  "id": "15533",
+  "name": "Aella The Sassy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15533",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cassowary",
+      "filename": "companion_cassowary.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_cloud",
+      "filename": "head_cloud.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_lollipop",
+      "filename": "item_lollipop.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "2096",
+  "name": "Urmgurn Marauder of the Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2096",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_blue",
+      "filename": "companion_boar_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_dark",
+      "filename": "body_samurai_dark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glork",
+      "filename": "head_glork.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_blue",
+      "filename": "shield_kite_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_blue",
+      "filename": "weapon_sword_bigbarb_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

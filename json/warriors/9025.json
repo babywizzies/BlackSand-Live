@@ -1,0 +1,39 @@
+{
+  "id": "9025",
+  "name": "Zasha Armageddon of the Clouds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9025",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodfem_skindark",
+      "filename": "body_woodfem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippa",
+      "filename": "head_pippa.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_blue",
+      "filename": "weapon_shortsword_blue.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

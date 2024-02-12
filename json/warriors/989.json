@@ -1,0 +1,44 @@
+{
+  "id": "989",
+  "name": "Wambe Eidolon of Brown-Hat Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/989",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_white",
+      "filename": "companion_goat_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_kobold_black",
+      "filename": "body_kobold_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_womble",
+      "filename": "head_womble.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_guardian",
+      "filename": "shield_guardian.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spearWing",
+      "filename": "weapon_spearWing.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

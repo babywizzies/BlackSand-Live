@@ -1,0 +1,39 @@
+{
+  "id": "3599",
+  "name": "Wraith Captain Xerxes of the Ethereal Realm",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Conquest",
+      "filename": "bg_red_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Elven Cloak",
+      "filename": "body_elf_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Captain",
+      "filename": "head_wraith_four.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Penumbra Potion",
+      "filename": "item_potion_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Steel",
+      "filename": "rune_sun.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Crow",
+      "filename": "familiar_crow_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

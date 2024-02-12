@@ -1,0 +1,44 @@
+{
+  "id": "7254",
+  "name": "Kat Hacker of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7254",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femwolf",
+      "filename": "body_femwolf.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_toru",
+      "filename": "head_toru.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_infinity",
+      "filename": "shield_infinity.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_dane",
+      "filename": "weapon_axe_dane.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

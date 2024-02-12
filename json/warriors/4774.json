@@ -1,0 +1,39 @@
+{
+  "id": "4774",
+  "name": "Goliath Marauder of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4774",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skinlight",
+      "filename": "body_judo_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_samurai_red",
+      "filename": "head_samurai_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_red",
+      "filename": "weapon_sword_bigbarb_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

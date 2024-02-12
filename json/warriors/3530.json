@@ -1,0 +1,44 @@
+{
+  "id": "3530",
+  "name": "Harvey Sword of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3530",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spartan_silver_skinmid",
+      "filename": "body_spartan_silver_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_stan",
+      "filename": "head_stan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_down",
+      "filename": "shield_kite_down.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_gear",
+      "filename": "weapon_sword_gear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

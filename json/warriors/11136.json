@@ -1,0 +1,39 @@
+{
+  "id": "11136",
+  "name": "Tildor Bifurcator of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11136",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_red",
+      "filename": "companion_boar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_red_skinlight",
+      "filename": "body_provoc_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glorn",
+      "filename": "head_glorn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_blue",
+      "filename": "weapon_chainsaw_blue.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

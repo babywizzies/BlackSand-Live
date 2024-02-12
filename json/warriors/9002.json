@@ -1,0 +1,34 @@
+{
+  "id": "9002",
+  "name": "Crash Dueler of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9002",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightair",
+      "filename": "body_knightair.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willy",
+      "filename": "head_willy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

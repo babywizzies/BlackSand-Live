@@ -1,0 +1,39 @@
+{
+  "id": "9229",
+  "name": "Ming Cutter of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9229",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_green_skinlight",
+      "filename": "body_fem_knight_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lina",
+      "filename": "head_lina.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_horseshoe",
+      "filename": "shield_horseshoe.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

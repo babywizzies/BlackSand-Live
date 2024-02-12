@@ -1,0 +1,44 @@
+{
+  "id": "2351",
+  "name": "Buffy Bifurcator of the Gate",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2351",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_color",
+      "filename": "body_fem_knight_color.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_blue",
+      "filename": "head_femhelm_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_blue",
+      "filename": "weapon_chainsaw_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

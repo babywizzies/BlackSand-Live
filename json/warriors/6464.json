@@ -1,0 +1,39 @@
+{
+  "id": "6464",
+  "name": "Adira Opponent of the Moon",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6464",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bea_skindark",
+      "filename": "body_bea_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_parah",
+      "filename": "head_parah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_hammer_grey",
+      "filename": "weapon_hammer_grey.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "12149",
+  "name": "Bronco Carver of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12149",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_green",
+      "filename": "body_starcleric_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_impeh",
+      "filename": "head_impeh.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

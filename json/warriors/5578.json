@@ -1,0 +1,44 @@
+{
+  "id": "5578",
+  "name": "Zora Tormenter of Nothing",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5578",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_yellow_skindark",
+      "filename": "body_onepiece_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shelley",
+      "filename": "head_shelley.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

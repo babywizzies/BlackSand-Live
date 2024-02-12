@@ -1,0 +1,44 @@
+{
+  "id": "9532",
+  "name": "Murdock Hammer of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9532",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_yellow",
+      "filename": "body_shirtarmor_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_akon",
+      "filename": "head_akon.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circlewood",
+      "filename": "shield_circlewood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_morningstar",
+      "filename": "weapon_morningstar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

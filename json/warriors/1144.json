@@ -1,0 +1,34 @@
+{
+  "id": "1144",
+  "name": "Mick Battler of the Flame",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1144",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_doubleblade_gold",
+      "filename": "weapon_doubleblade_gold.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

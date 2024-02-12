@@ -1,0 +1,39 @@
+{
+  "id": "9275",
+  "name": "Dex Broiler of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9275",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_blue",
+      "filename": "body_knight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_flamethrower",
+      "filename": "weapon_flamethrower.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

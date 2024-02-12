@@ -1,0 +1,34 @@
+{
+  "id": "1140",
+  "name": "Murphy Cleaver of First Blood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1140",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skindark",
+      "filename": "body_commando_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

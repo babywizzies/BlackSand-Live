@@ -1,0 +1,39 @@
+{
+  "id": "9483",
+  "name": "Sanaa Dismantler of the Dread Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9483",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_fem_skindark",
+      "filename": "body_dom_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_maude",
+      "filename": "head_maude.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_razor",
+      "filename": "weapon_sword_razor.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "1181",
+  "name": "Death Shroom Mycho of Goblin town",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Carnal Body Salaciousness",
+      "filename": "body_ghoul_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Death Shroom",
+      "filename": "head_mushroom_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Cockatrice hatchling",
+      "filename": "item_egg_cockatrice_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Frog",
+      "filename": "familiar_frog_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

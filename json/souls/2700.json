@@ -1,0 +1,39 @@
+{
+  "id": "2700",
+  "name": "Wraith Deacon Nazim of the Majestic Filth",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Carnal Body of Sickness",
+      "filename": "body_ghoul_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Deacon",
+      "filename": "head_wraith_one.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Banshee's Bell",
+      "filename": "item_bell_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Up Only",
+      "filename": "rune_saturn.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Frog",
+      "filename": "familiar_frog_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

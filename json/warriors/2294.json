@@ -1,0 +1,44 @@
+{
+  "id": "2294",
+  "name": "Dayo Cruncher of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2294",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bea_skindark",
+      "filename": "body_bea_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_chane",
+      "filename": "head_chane.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

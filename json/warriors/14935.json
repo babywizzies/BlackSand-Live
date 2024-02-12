@@ -1,0 +1,44 @@
+{
+  "id": "14935",
+  "name": "Akane Hero of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14935",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_black",
+      "filename": "companion_goat_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_green",
+      "filename": "body_knightTurtle_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_onna",
+      "filename": "head_onna.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_up",
+      "filename": "rune_up.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

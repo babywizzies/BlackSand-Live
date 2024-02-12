@@ -1,0 +1,34 @@
+{
+  "id": "11260",
+  "name": "Frakk Assassin of the Worms",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11260",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_skull",
+      "filename": "body_goblin_skull.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_bald",
+      "filename": "head_goblin_bald.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

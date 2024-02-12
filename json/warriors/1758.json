@@ -1,0 +1,44 @@
+{
+  "id": "1758",
+  "name": "Akinyi Eidolon of the Swamp",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1758",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_yellow",
+      "filename": "body_knightTurtle_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_yellow",
+      "filename": "weapon_boomerang_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

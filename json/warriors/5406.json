@@ -1,0 +1,44 @@
+{
+  "id": "5406",
+  "name": "Shurgz Ruffian of Nasty Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5406",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_goblin_skull",
+      "filename": "body_goblin_skull.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_goblin_skull",
+      "filename": "head_goblin_skull.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

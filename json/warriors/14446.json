@@ -1,0 +1,39 @@
+{
+  "id": "14446",
+  "name": "Ruthven Antihero of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14446",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_male_skindark",
+      "filename": "body_dom_male_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_cyberhood",
+      "filename": "head_cyberhood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_yellow",
+      "filename": "weapon_chainsaw_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

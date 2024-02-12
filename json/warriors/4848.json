@@ -1,0 +1,44 @@
+{
+  "id": "4848",
+  "name": "Willy Antagonist of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4848",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cobra_white",
+      "filename": "companion_cobra_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_red",
+      "filename": "body_auraknight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_polarman",
+      "filename": "head_polarman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2892",
+  "name": "Wraith Devout Udor ",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Putrid Rags",
+      "filename": "body_zombie_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Devout",
+      "filename": "head_wraith_two.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Dwarve's Heart: the Diamond Spell",
+      "filename": "spell_earth_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Frog",
+      "filename": "familiar_frog_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

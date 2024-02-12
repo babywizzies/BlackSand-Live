@@ -1,0 +1,44 @@
+{
+  "id": "4976",
+  "name": "Roddrick Paragon of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4976",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skinlight",
+      "filename": "body_meso_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_blue",
+      "filename": "head_knight_blue.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear",
+      "filename": "weapon_spear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

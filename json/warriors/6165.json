@@ -1,0 +1,44 @@
+{
+  "id": "6165",
+  "name": "Nibbs Lopper of the East",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6165",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_green",
+      "filename": "body_starcleric_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehelmet",
+      "filename": "head_furgnomehelmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

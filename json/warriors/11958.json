@@ -1,0 +1,39 @@
+{
+  "id": "11958",
+  "name": "Braddock Champion of the Rock",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11958",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skindark",
+      "filename": "body_gaul_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_darell",
+      "filename": "head_darell.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

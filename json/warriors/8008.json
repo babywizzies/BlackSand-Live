@@ -1,0 +1,44 @@
+{
+  "id": "8008",
+  "name": "Donley Punisher of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8008",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_red",
+      "filename": "body_plateArmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_impeh",
+      "filename": "head_impeh.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_guardian",
+      "filename": "shield_guardian.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

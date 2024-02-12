@@ -1,0 +1,44 @@
+{
+  "id": "806",
+  "name": "Elbrus Menace of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/806",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_tritops_blue",
+      "filename": "companion_tritops_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_green_skinmid",
+      "filename": "body_provoc_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_fuchow",
+      "filename": "head_fuchow.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jade",
+      "filename": "weapon_sword_jade.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

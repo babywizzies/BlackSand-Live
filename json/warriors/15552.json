@@ -1,0 +1,34 @@
+{
+  "id": "15552",
+  "name": "Casey Grinder of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15552",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mello",
+      "filename": "head_mello.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_nunchucku",
+      "filename": "weapon_nunchucku.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

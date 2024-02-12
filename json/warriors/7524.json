@@ -1,0 +1,39 @@
+{
+  "id": "7524",
+  "name": "Chara Champion of the Quantum Downs",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7524",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_red",
+      "filename": "companion_boar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_gold",
+      "filename": "body_robo_gold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_nourga",
+      "filename": "head_nourga.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_trident",
+      "filename": "weapon_trident.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

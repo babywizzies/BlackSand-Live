@@ -1,0 +1,44 @@
+{
+  "id": "5400",
+  "name": "Ayako Eidolon of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5400",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_red_skinlight",
+      "filename": "body_onepiece_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rin",
+      "filename": "head_rin.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_shroom",
+      "filename": "shield_shroom.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1802",
+  "name": "Gilbert Ruin of Tigers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1802",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_martial_skinlight",
+      "filename": "body_martial_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bill",
+      "filename": "head_bill.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bomb_black",
+      "filename": "weapon_bomb_black.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9878",
+  "name": "Eon Peacemaker of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9878",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinmid",
+      "filename": "body_streetpunk_fem_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_toru",
+      "filename": "head_toru.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_yellow",
+      "filename": "weapon_boomerang_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

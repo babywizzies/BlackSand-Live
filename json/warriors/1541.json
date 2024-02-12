@@ -1,0 +1,44 @@
+{
+  "id": "1541",
+  "name": "Durus Assaulter of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1541",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_blue",
+      "filename": "body_starcleric_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spartan_skinlight",
+      "filename": "head_spartan_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

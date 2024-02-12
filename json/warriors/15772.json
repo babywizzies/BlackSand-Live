@@ -1,0 +1,34 @@
+{
+  "id": "15772",
+  "name": "Rex of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15772",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_red_skinmid",
+      "filename": "body_streetpunk_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_manuel",
+      "filename": "head_manuel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

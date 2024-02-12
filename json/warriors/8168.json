@@ -1,0 +1,39 @@
+{
+  "id": "8168",
+  "name": "Einer Guardian of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8168",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_purple_skinlight",
+      "filename": "body_streetpunk_purple_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_chad_skinlight",
+      "filename": "head_chad_skinlight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spearWing",
+      "filename": "weapon_spearWing.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

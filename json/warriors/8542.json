@@ -1,0 +1,39 @@
+{
+  "id": "8542",
+  "name": "Guy Eidolon of the Good Luck Squad",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8542",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skinlight",
+      "filename": "body_mma_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_blue",
+      "filename": "head_knight_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_poleaxe_grey",
+      "filename": "weapon_poleaxe_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

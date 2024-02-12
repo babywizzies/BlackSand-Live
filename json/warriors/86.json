@@ -1,0 +1,34 @@
+{
+  "id": "86",
+  "name": "Rufaro Rapscallion of the Bloodfalls",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/86",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_fem_skindark",
+      "filename": "body_dom_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_butcher",
+      "filename": "weapon_butcher.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

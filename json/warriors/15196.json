@@ -1,0 +1,34 @@
+{
+  "id": "15196",
+  "name": "Wambe Fiend of Penguins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15196",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_redcover",
+      "filename": "body_redcover.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_impy",
+      "filename": "head_impy.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

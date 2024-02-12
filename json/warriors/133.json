@@ -1,0 +1,44 @@
+{
+  "id": "133",
+  "name": "Zenon Fencer of the Tower",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/133",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_white",
+      "filename": "body_starcleric_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_akon",
+      "filename": "head_akon.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "395",
+  "name": "Xander Champion of Doomsday",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/395",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_prismknight",
+      "filename": "body_prismknight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

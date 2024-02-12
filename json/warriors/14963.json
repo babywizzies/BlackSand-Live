@@ -1,0 +1,34 @@
+{
+  "id": "14963",
+  "name": "Hunter Wrecker of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14963",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skinlight",
+      "filename": "body_clericknight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

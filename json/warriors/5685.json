@@ -1,0 +1,34 @@
+{
+  "id": "5685",
+  "name": "Victor Hero of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5685",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_white",
+      "filename": "body_starcleric_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bearman",
+      "filename": "head_bearman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_goblin",
+      "filename": "weapon_axe_goblin.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

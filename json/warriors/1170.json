@@ -1,0 +1,34 @@
+{
+  "id": "1170",
+  "name": "Frazzon Marauder of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1170",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gorj",
+      "filename": "head_gorj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

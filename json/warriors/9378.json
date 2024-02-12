@@ -1,0 +1,39 @@
+{
+  "id": "9378",
+  "name": "Bronco Scissor of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9378",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skindark",
+      "filename": "body_gruffer_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_akon",
+      "filename": "head_akon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

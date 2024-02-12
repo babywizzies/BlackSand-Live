@@ -1,0 +1,39 @@
+{
+  "id": "15543",
+  "name": "Marie Guardian of the Trees",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15543",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_gold",
+      "filename": "companion_eagle_gold.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_yellow_skinlight",
+      "filename": "body_fem_knight_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrie",
+      "filename": "head_valkyrie.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_protection",
+      "filename": "rune_protection.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

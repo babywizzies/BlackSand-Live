@@ -1,0 +1,44 @@
+{
+  "id": "2585",
+  "name": "Theo Ruffian of Turtles",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2585",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightTurtle_yellow",
+      "filename": "body_knightTurtle_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_impeh",
+      "filename": "head_impeh.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_butcher",
+      "filename": "weapon_butcher.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

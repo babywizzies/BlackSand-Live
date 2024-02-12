@@ -1,0 +1,39 @@
+{
+  "id": "5598",
+  "name": "Lucy Protector of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5598",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_white_skinmid",
+      "filename": "body_onepiece_white_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

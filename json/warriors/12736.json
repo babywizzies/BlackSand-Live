@@ -1,0 +1,39 @@
+{
+  "id": "12736",
+  "name": "Manuel Eidolon of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12736",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_gold",
+      "filename": "body_robo_gold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_steve",
+      "filename": "head_steve.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_trident",
+      "filename": "weapon_trident.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

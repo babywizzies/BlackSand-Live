@@ -1,0 +1,34 @@
+{
+  "id": "12375",
+  "name": "Donner Battler of the Sacred Pillars",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12375",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_white",
+      "filename": "body_knight_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brock",
+      "filename": "head_brock.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe",
+      "filename": "weapon_axe.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

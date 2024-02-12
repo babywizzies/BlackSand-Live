@@ -1,0 +1,39 @@
+{
+  "id": "5316",
+  "name": "Theo Champion of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5316",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_white",
+      "filename": "companion_goat_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_black",
+      "filename": "body_plateArmor_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_brown",
+      "filename": "shield_kite_brown.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

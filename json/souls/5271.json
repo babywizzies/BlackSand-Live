@@ -1,0 +1,34 @@
+{
+  "id": "5271",
+  "name": "Lich Baron Victoria of Nightmare Paradise",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton in Spandex",
+      "filename": "body_claire_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Baron",
+      "filename": "head_lich_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Poison Apple",
+      "filename": "item_apple_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Rat",
+      "filename": "familiar_rat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

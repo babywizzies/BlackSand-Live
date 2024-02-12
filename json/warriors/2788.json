@@ -1,0 +1,44 @@
+{
+  "id": "2788",
+  "name": "Fang Slaughterer of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2788",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_greywolf",
+      "filename": "companion_greywolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_black",
+      "filename": "body_plateArmor_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeremy",
+      "filename": "head_jeremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_green",
+      "filename": "shield_kite_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

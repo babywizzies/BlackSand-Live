@@ -1,0 +1,44 @@
+{
+  "id": "331",
+  "name": "Jimbo Guardian of the Lost City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/331",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gladiator_skindark",
+      "filename": "body_gladiator_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wolf",
+      "filename": "shield_wolf.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_speargold",
+      "filename": "weapon_speargold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

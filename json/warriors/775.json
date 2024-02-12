@@ -1,0 +1,44 @@
+{
+  "id": "775",
+  "name": "Justice Combatant of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/775",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_dark",
+      "filename": "companion_boar_dark.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_suspenders_skindark",
+      "filename": "body_suspenders_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bargo",
+      "filename": "head_bargo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_eye",
+      "filename": "shield_eye.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_doubleblade_purple",
+      "filename": "weapon_doubleblade_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

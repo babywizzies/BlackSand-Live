@@ -1,0 +1,44 @@
+{
+  "id": "15521",
+  "name": "Pollux the Magnificent",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15521",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_manticore",
+      "filename": "companion_manticore.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_blue",
+      "filename": "body_cloak_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_elephant",
+      "filename": "head_elephant.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_heart",
+      "filename": "shield_heart.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_flamethrower",
+      "filename": "weapon_flamethrower.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

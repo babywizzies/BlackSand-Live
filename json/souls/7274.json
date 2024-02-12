@@ -1,0 +1,29 @@
+{
+  "id": "7274",
+  "name": "Grim Reaper",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Reaper Robe",
+      "filename": "body_grim.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Grim Reaper's Skull",
+      "filename": "head_grim.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Soul Reaper Scythe",
+      "filename": "staff_scythe_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

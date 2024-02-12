@@ -1,0 +1,44 @@
+{
+  "id": "9738",
+  "name": "Vega Guardian of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9738",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodfem_green_skinmid",
+      "filename": "body_woodfem_green_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tania",
+      "filename": "head_tania.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

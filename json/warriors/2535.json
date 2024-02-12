@@ -1,0 +1,34 @@
+{
+  "id": "2535",
+  "name": "Farol Rogue of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2535",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_white",
+      "filename": "body_starcleric_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logum",
+      "filename": "head_logum.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

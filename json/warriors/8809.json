@@ -1,0 +1,44 @@
+{
+  "id": "8809",
+  "name": "Louis Contender of the Sea",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8809",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_pirateWar",
+      "filename": "body_pirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skinlight",
+      "filename": "head_base_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kraken",
+      "filename": "shield_kraken.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_spartan",
+      "filename": "weapon_sword_spartan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

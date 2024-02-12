@@ -1,0 +1,39 @@
+{
+  "id": "13315",
+  "name": "Tamiko Paragon of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13315",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_black",
+      "filename": "companion_goat_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinlight",
+      "filename": "body_streetpunk_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rin",
+      "filename": "head_rin.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_poleaxe_grey",
+      "filename": "weapon_poleaxe_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

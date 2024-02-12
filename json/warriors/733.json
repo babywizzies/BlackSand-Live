@@ -1,0 +1,44 @@
+{
+  "id": "733",
+  "name": "Gertrude Menace of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/733",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_yellow_skinlight",
+      "filename": "body_amazon_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_riona",
+      "filename": "head_riona.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

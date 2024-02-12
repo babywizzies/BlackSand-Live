@@ -1,0 +1,44 @@
+{
+  "id": "15526",
+  "name": "Soul Reaper",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15526",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_white",
+      "filename": "companion_raptor_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_guardian_blue",
+      "filename": "body_guardian_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dreamknight",
+      "filename": "head_dreamknight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_aegis",
+      "filename": "shield_aegis.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

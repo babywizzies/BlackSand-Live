@@ -1,0 +1,39 @@
+{
+  "id": "11317",
+  "name": "Koffi of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11317",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skinlight",
+      "filename": "body_nordarmour_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sel",
+      "filename": "head_sel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wolf",
+      "filename": "shield_wolf.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

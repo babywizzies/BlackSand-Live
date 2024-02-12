@@ -1,0 +1,34 @@
+{
+  "id": "7910",
+  "name": "Sal Blade of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7910",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodfem_brown_skinlight",
+      "filename": "body_woodfem_brown_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sharyl",
+      "filename": "head_sharyl.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_gold",
+      "filename": "shield_circle_cross_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

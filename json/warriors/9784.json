@@ -1,0 +1,44 @@
+{
+  "id": "9784",
+  "name": "Diana Sword of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9784",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_yellow_skindark",
+      "filename": "body_onepiece_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_biffi",
+      "filename": "head_biffi.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

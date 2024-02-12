@@ -1,0 +1,44 @@
+{
+  "id": "5179",
+  "name": "Ravana Dicer of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5179",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_red",
+      "filename": "body_plateArmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_dreamknight",
+      "filename": "head_dreamknight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_bigbarb_blue",
+      "filename": "weapon_sword_bigbarb_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

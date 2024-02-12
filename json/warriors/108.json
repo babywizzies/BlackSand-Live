@@ -1,0 +1,44 @@
+{
+  "id": "108",
+  "name": "Pooroo Hacker of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/108",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_green",
+      "filename": "body_shirtarmor_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mushy",
+      "filename": "head_mushy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_gear",
+      "filename": "weapon_sword_gear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_air",
+      "filename": "rune_air.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

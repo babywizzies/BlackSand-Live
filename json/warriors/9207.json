@@ -1,0 +1,44 @@
+{
+  "id": "9207",
+  "name": "Mala Battler of the Riverlands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9207",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skindark",
+      "filename": "body_nordarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrun",
+      "filename": "head_valkyrun.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circlewood",
+      "filename": "shield_circlewood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_dane",
+      "filename": "weapon_axe_dane.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

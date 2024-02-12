@@ -1,0 +1,44 @@
+{
+  "id": "10470",
+  "name": "Jupiter Assailant of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10470",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_white",
+      "filename": "body_shirtarmor_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_elephant",
+      "filename": "head_elephant.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_spartan",
+      "filename": "weapon_sword_spartan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

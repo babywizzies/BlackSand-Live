@@ -1,0 +1,44 @@
+{
+  "id": "11232",
+  "name": "Agnes Hacker of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11232",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skindark",
+      "filename": "body_nordarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrun",
+      "filename": "head_valkyrun.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_yellow",
+      "filename": "weapon_chainsaw_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

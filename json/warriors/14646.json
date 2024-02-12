@@ -1,0 +1,44 @@
+{
+  "id": "14646",
+  "name": "Nkiru Battler of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14646",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_red_skindark",
+      "filename": "body_amazon_red_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sol",
+      "filename": "head_sol.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bloodSkull",
+      "filename": "shield_bloodSkull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "4831",
+  "name": "Radley Mercenary of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4831",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_white",
+      "filename": "body_plateArmor_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rothkor",
+      "filename": "head_rothkor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

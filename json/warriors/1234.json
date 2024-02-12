@@ -1,0 +1,24 @@
+{
+  "id": "1234",
+  "name": "Brutus Dismantler of Machines",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1234",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_megasuit",
+      "filename": "body_megasuit.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_logum",
+      "filename": "head_logum.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

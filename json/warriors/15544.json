@@ -1,0 +1,39 @@
+{
+  "id": "15544",
+  "name": "Ricky the Raptor Boy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15544",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_blue",
+      "filename": "companion_raptor_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skinlight",
+      "filename": "body_judo_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeff",
+      "filename": "head_jeff.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonsword_blue",
+      "filename": "weapon_dragonsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

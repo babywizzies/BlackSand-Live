@@ -1,0 +1,39 @@
+{
+  "id": "14288",
+  "name": "Ruthven Mercenary of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14288",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skindark",
+      "filename": "body_spikeBarb_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_cyberhood",
+      "filename": "head_cyberhood.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_goblin",
+      "filename": "weapon_axe_goblin.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

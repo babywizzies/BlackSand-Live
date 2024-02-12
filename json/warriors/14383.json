@@ -1,0 +1,39 @@
+{
+  "id": "14383",
+  "name": "Molly Basher of the Rune Raiders",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14383",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_natrix",
+      "filename": "head_natrix.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_nunchucku",
+      "filename": "weapon_nunchucku.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

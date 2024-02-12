@@ -1,0 +1,44 @@
+{
+  "id": "269",
+  "name": "Sid Vanquisher of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/269",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_suspenders_skinlight",
+      "filename": "body_suspenders_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeremy",
+      "filename": "head_jeremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_wolf",
+      "filename": "shield_wolf.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wrench_green",
+      "filename": "weapon_wrench_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "6442",
+  "name": "Dormok Battler of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6442",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gaul_skindark",
+      "filename": "body_gaul_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skindark",
+      "filename": "head_base_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1046",
+  "name": "Horned Phantasm Artis of the Gloom",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Paranormal Phantasmal Body",
+      "filename": "body_phantasm_paranormal.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Horned Phantasm",
+      "filename": "head_phantasm_horned.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Bugbear's Flame: the Discombobulation Spell",
+      "filename": "spell_greenflame_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Uranus",
+      "filename": "rune_uranus.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Hummingbird Skeleton",
+      "filename": "familiar_hummingbird_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

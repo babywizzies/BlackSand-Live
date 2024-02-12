@@ -1,0 +1,34 @@
+{
+  "id": "4509",
+  "name": "Consumption Zombie Cairon of the Bottomless Grave",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Consumption Rags",
+      "filename": "body_zombie_pale.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Consumption Zombie",
+      "filename": "head_zombie_pale.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Penumbra Potion",
+      "filename": "item_potion_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

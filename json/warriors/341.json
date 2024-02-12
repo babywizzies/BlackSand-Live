@@ -1,0 +1,39 @@
+{
+  "id": "341",
+  "name": "Lin Mercenary of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/341",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nordarmour_skinlight",
+      "filename": "body_nordarmour_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_onna",
+      "filename": "head_onna.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "3225",
+  "name": "Leona Punisher of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3225",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skindark",
+      "filename": "body_femguard_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippa",
+      "filename": "head_pippa.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_lotus",
+      "filename": "shield_lotus.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

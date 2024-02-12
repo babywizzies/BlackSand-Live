@@ -1,0 +1,39 @@
+{
+  "id": "4804",
+  "name": "Rogue Ruin of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4804",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cloak_yellow",
+      "filename": "body_cloak_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_miguel",
+      "filename": "head_miguel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

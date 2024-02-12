@@ -1,0 +1,34 @@
+{
+  "id": "9060",
+  "name": "Alden Render of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9060",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_brown",
+      "filename": "body_shirtarmor_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gerj",
+      "filename": "head_gerj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tomb",
+      "filename": "shield_tomb.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "14247",
+  "name": "Ekrin of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14247",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_red",
+      "filename": "body_plateArmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ewo",
+      "filename": "head_ewo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

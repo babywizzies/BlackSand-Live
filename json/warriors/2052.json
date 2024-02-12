@@ -1,0 +1,39 @@
+{
+  "id": "2052",
+  "name": "Neon Sword of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2052",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_blue",
+      "filename": "body_robo_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead",
+      "filename": "head_buckethead.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_blue",
+      "filename": "weapon_longsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

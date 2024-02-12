@@ -1,0 +1,39 @@
+{
+  "id": "9639",
+  "name": "Wilda of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9639",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femwolf",
+      "filename": "body_femwolf.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "9560",
+  "name": "Misumi Breaker of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9560",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_duck",
+      "filename": "companion_duck.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_fem_skinlight",
+      "filename": "body_dom_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rin",
+      "filename": "head_rin.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_mace",
+      "filename": "weapon_mace.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

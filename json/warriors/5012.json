@@ -1,0 +1,39 @@
+{
+  "id": "5012",
+  "name": "Nkiru Eidolon of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5012",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skindark",
+      "filename": "body_streetpunk_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sol",
+      "filename": "head_sol.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_trident",
+      "filename": "weapon_trident.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

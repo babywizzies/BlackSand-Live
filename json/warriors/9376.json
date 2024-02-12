@@ -1,0 +1,44 @@
+{
+  "id": "9376",
+  "name": "Aspra Mercenary of Arcadia",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9376",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_red",
+      "filename": "companion_boar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_valkyrie_skinlight",
+      "filename": "body_valkyrie_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_brush",
+      "filename": "head_femhelm_brush.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_firebrand",
+      "filename": "weapon_sword_firebrand.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_power",
+      "filename": "rune_power.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

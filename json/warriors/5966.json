@@ -1,0 +1,44 @@
+{
+  "id": "5966",
+  "name": "Clubber Exterminator of Thieves",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5966",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_red",
+      "filename": "companion_boar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_blue",
+      "filename": "body_auraknight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_samurai_red",
+      "filename": "head_samurai_red.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_heart",
+      "filename": "shield_heart.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_feysword_red",
+      "filename": "weapon_feysword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "10284",
+  "name": "Glorn Slasher of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10284",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skindark",
+      "filename": "body_barbarian_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gorj",
+      "filename": "head_gorj.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "821",
+  "name": "Lich Marquis Sonja of the Plague Lands",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Conquest",
+      "filename": "bg_red_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lascivious Body of Sickness",
+      "filename": "body_ghoul_green_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Marquis",
+      "filename": "head_lich_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Crook",
+      "filename": "staff_crook_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Earth",
+      "filename": "rune_earth.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Bat Skeleton",
+      "filename": "familiar_bat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

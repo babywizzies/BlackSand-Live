@@ -1,0 +1,39 @@
+{
+  "id": "573",
+  "name": "Wraith Deacon Bathsheba of the Mist",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Mantle",
+      "filename": "body_lich_mantle.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Deacon",
+      "filename": "head_wraith_one.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Shroom",
+      "filename": "item_mushroom_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Earth",
+      "filename": "rune_earth.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Frog",
+      "filename": "familiar_frog_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

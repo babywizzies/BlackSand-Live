@@ -1,0 +1,44 @@
+{
+  "id": "1920",
+  "name": " Killer of Unicorns",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1920",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_nude_skinlight",
+      "filename": "body_nude_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_armak",
+      "filename": "head_armak.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_club",
+      "filename": "weapon_club.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "6150",
+  "name": "Peter Clubber of the Range",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6150",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_green",
+      "filename": "body_starcleric_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_marlan",
+      "filename": "head_marlan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballchain",
+      "filename": "weapon_ballchain.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

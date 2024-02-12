@@ -1,0 +1,39 @@
+{
+  "id": "4560",
+  "name": "Atticus Demolisher of Imps",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4560",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_red_skinmid",
+      "filename": "body_streetpunk_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_miguel",
+      "filename": "head_miguel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wratchet",
+      "filename": "weapon_wratchet.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

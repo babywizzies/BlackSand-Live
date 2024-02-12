@@ -1,0 +1,44 @@
+{
+  "id": "8524",
+  "name": "Gerda Rival of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8524",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_red",
+      "filename": "companion_raptor_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_red",
+      "filename": "body_shirtarmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_elephant",
+      "filename": "head_elephant.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_goblin",
+      "filename": "weapon_sword_goblin.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

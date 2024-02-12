@@ -1,0 +1,39 @@
+{
+  "id": "6271",
+  "name": "Boris Striker of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6271",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fur_skindark",
+      "filename": "body_fur_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmer",
+      "filename": "head_rockmer.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_scimitar",
+      "filename": "weapon_scimitar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6206",
+  "name": "Andrea Combatant of the Thorn",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6206",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodarmor_fem",
+      "filename": "body_woodarmor_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_natrix",
+      "filename": "head_natrix.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_purple",
+      "filename": "shield_kite_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_blue",
+      "filename": "weapon_shortsword_blue.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

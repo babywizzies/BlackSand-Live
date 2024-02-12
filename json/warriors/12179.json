@@ -1,0 +1,44 @@
+{
+  "id": "12179",
+  "name": "Athina of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12179",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_red_skinlight",
+      "filename": "body_onepiece_red_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherry",
+      "filename": "head_sherry.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

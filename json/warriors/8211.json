@@ -1,0 +1,44 @@
+{
+  "id": "8211",
+  "name": "Tad Attacker of the Pavillion",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8211",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_barbarian_skinlight",
+      "filename": "body_barbarian_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bill",
+      "filename": "head_bill.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

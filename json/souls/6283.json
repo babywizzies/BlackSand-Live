@@ -1,0 +1,29 @@
+{
+  "id": "6283",
+  "name": "White Lady",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "White Chiffon",
+      "filename": "body_whitelady.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Jane Doe",
+      "filename": "head_whitelady.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "White Skull",
+      "filename": "item_whiteskull.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

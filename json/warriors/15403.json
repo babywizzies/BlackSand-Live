@@ -1,0 +1,44 @@
+{
+  "id": "15403",
+  "name": "King Battler of the Forest",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15403",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_samurai_dark",
+      "filename": "body_samurai_dark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_goat",
+      "filename": "shield_goat.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_razor",
+      "filename": "weapon_sword_razor.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

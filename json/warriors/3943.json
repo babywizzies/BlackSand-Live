@@ -1,0 +1,39 @@
+{
+  "id": "3943",
+  "name": "Dain Attacker of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3943",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cyberviking",
+      "filename": "body_cyberviking.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_cyberhood",
+      "filename": "head_cyberhood.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_cyber",
+      "filename": "weapon_axe_cyber.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

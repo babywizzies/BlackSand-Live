@@ -1,0 +1,39 @@
+{
+  "id": "2352",
+  "name": "Epoch Shatterer of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2352",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_blue",
+      "filename": "body_robo_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead",
+      "filename": "head_buckethead.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bone",
+      "filename": "weapon_bone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

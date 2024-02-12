@@ -1,0 +1,44 @@
+{
+  "id": "5610",
+  "name": " Hero of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5610",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_guardian_blue",
+      "filename": "body_guardian_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_armak",
+      "filename": "head_armak.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_infinity",
+      "filename": "shield_infinity.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_green",
+      "filename": "weapon_boomerang_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "286",
+  "name": "Brock Dispatcher of Brigands",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/286",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_purple",
+      "filename": "body_shirtarmor_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skinlight",
+      "filename": "head_brawler_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_blue",
+      "filename": "weapon_longsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "15514",
+  "name": "Georgios Striker of Courage",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15514",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_red",
+      "filename": "companion_raptor_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_byzantine",
+      "filename": "body_byzantine.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_byzantine",
+      "filename": "head_byzantine.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

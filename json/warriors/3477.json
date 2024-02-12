@@ -1,0 +1,39 @@
+{
+  "id": "3477",
+  "name": "Murphy Bruiser of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3477",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gloryKnight_skinlight",
+      "filename": "body_gloryKnight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rockmov",
+      "filename": "head_rockmov.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bostaff",
+      "filename": "weapon_bostaff.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

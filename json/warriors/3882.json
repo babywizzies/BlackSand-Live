@@ -1,0 +1,39 @@
+{
+  "id": "3882",
+  "name": "Ao Hellraiser of Monsters",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3882",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_white",
+      "filename": "body_plateArmor_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lizard",
+      "filename": "head_lizard.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_claymore",
+      "filename": "weapon_claymore.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

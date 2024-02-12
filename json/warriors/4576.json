@@ -1,0 +1,44 @@
+{
+  "id": "4576",
+  "name": "Tera Protector of the Lighthouse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4576",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fempirateWar",
+      "filename": "body_fempirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_riona",
+      "filename": "head_riona.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

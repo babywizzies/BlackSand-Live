@@ -1,0 +1,39 @@
+{
+  "id": "1742",
+  "name": "Neon Savior of Area 71",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1742",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_blue",
+      "filename": "body_robo_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buckethead",
+      "filename": "head_buckethead.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear",
+      "filename": "weapon_spear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

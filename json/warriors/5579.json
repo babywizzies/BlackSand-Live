@@ -1,0 +1,44 @@
+{
+  "id": "5579",
+  "name": "Ryder Paragon of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5579",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight",
+      "filename": "body_knight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skindark",
+      "filename": "head_brawler_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_water",
+      "filename": "shield_water.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_poleaxe_grey",
+      "filename": "weapon_poleaxe_grey.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "10228",
+  "name": "Velbi Sword of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10228",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodarmor_fem",
+      "filename": "body_woodarmor_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherry",
+      "filename": "head_sherry.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circlewood",
+      "filename": "shield_circlewood.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

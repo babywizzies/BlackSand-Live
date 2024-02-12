@@ -1,0 +1,44 @@
+{
+  "id": "3511",
+  "name": "Gorgo Contaminator of the Sunset",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3511",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_red",
+      "filename": "body_shirtarmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_garth",
+      "filename": "head_garth.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

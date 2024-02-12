@@ -1,0 +1,44 @@
+{
+  "id": "5343",
+  "name": "Conker Champion of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5343",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_green",
+      "filename": "body_shirtarmor_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mushy",
+      "filename": "head_mushy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

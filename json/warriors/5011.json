@@ -1,0 +1,44 @@
+{
+  "id": "5011",
+  "name": "Moni Dodger of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5011",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_valkyrie_skindark",
+      "filename": "body_valkyrie_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shelley",
+      "filename": "head_shelley.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

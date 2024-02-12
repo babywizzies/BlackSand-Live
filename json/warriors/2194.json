@@ -1,0 +1,44 @@
+{
+  "id": "2194",
+  "name": "Bane Basher of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2194",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spartan_silver_skinmid",
+      "filename": "body_spartan_silver_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_miguel",
+      "filename": "head_miguel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bone",
+      "filename": "weapon_bone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "8301",
+  "name": "Diana Impaler of Worlds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8301",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_yellow_skinlight",
+      "filename": "body_amazon_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_femhelm_brush",
+      "filename": "head_femhelm_brush.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_red",
+      "filename": "shield_chevron_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1832",
+  "name": "Daxton of the North",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1832",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_blue",
+      "filename": "body_plateArmor_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeremy",
+      "filename": "head_jeremy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hamburger",
+      "filename": "item_hamburger.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

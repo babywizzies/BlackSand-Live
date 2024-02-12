@@ -1,0 +1,34 @@
+{
+  "id": "1201",
+  "name": "Delu of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1201",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_brown_skindark",
+      "filename": "body_fem_knight_brown_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

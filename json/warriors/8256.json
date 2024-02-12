@@ -1,0 +1,39 @@
+{
+  "id": "8256",
+  "name": "Roddrick Paragon of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8256",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_commando_skindark",
+      "filename": "body_commando_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocketman",
+      "filename": "head_rocketman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

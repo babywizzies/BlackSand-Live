@@ -1,0 +1,39 @@
+{
+  "id": "3463",
+  "name": "Alexander of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3463",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skindark",
+      "filename": "body_judo_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ale",
+      "filename": "item_ale.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

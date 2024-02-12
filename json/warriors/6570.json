@@ -1,0 +1,39 @@
+{
+  "id": "6570",
+  "name": "Archer Calamity of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6570",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gloryKnight_skindark",
+      "filename": "body_gloryKnight_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mucho",
+      "filename": "head_mucho.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_purple",
+      "filename": "weapon_cleaver_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

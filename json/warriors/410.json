@@ -1,0 +1,44 @@
+{
+  "id": "410",
+  "name": "Agnes Cleaver of the Storm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/410",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_griffin",
+      "filename": "companion_griffin.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_valkyrie_skinlight",
+      "filename": "body_valkyrie_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_valkyrie",
+      "filename": "head_valkyrie.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_aegis",
+      "filename": "shield_aegis.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_gold",
+      "filename": "weapon_dragonpike_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

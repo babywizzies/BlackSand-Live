@@ -1,0 +1,44 @@
+{
+  "id": "4890",
+  "name": "Clubber of the Apocalypse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4890",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_brown",
+      "filename": "body_shirtarmor_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skindark",
+      "filename": "head_base_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

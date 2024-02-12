@@ -1,0 +1,44 @@
+{
+  "id": "15430",
+  "name": "Kalo Assailant of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15430",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_purple",
+      "filename": "companion_beetle_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_purple",
+      "filename": "body_knight_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_puzu",
+      "filename": "head_puzu.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_yellow",
+      "filename": "shield_kite_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_cyber",
+      "filename": "weapon_axe_cyber.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_power",
+      "filename": "rune_power.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

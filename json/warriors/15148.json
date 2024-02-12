@@ -1,0 +1,44 @@
+{
+  "id": "15148",
+  "name": "Zazne Ravager of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15148",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_yellow",
+      "filename": "body_auraknight_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_stan",
+      "filename": "head_stan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_blue",
+      "filename": "shield_kite_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_green",
+      "filename": "weapon_dragonpike_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

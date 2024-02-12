@@ -1,0 +1,39 @@
+{
+  "id": "14846",
+  "name": "Orgdego Savior of the Docks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14846",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_yellow",
+      "filename": "body_sharp_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glorn",
+      "filename": "head_glorn.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

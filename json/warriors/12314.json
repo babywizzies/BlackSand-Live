@@ -1,0 +1,44 @@
+{
+  "id": "12314",
+  "name": "Abioye Jackhammer of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12314",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_red",
+      "filename": "companion_boar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_red",
+      "filename": "body_plateArmor_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ronny",
+      "filename": "head_ronny.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bloodSkull",
+      "filename": "shield_bloodSkull.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_wrench_red",
+      "filename": "weapon_wrench_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

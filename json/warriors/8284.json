@@ -1,0 +1,44 @@
+{
+  "id": "8284",
+  "name": "Mako Vanquisher of the Marsh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8284",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_red",
+      "filename": "companion_raptor_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_kobold_red",
+      "filename": "body_kobold_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_skullflame",
+      "filename": "shield_skullflame.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jewel_red",
+      "filename": "weapon_sword_jewel_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

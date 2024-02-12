@@ -1,0 +1,34 @@
+{
+  "id": "9806",
+  "name": "Liam Hero of Flowers",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9806",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_red",
+      "filename": "body_knight_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_berserker_skindark",
+      "filename": "head_berserker_skindark.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gladius",
+      "filename": "weapon_gladius.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

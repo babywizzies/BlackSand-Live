@@ -1,0 +1,39 @@
+{
+  "id": "10180",
+  "name": "Bram Dispatcher of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10180",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_yellow",
+      "filename": "body_shirtarmor_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_conan",
+      "filename": "head_conan.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_falchion_gold",
+      "filename": "weapon_sword_falchion_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

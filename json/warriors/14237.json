@@ -1,0 +1,39 @@
+{
+  "id": "14237",
+  "name": "Xiu Stalker of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14237",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinlight",
+      "filename": "body_streetpunk_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lina",
+      "filename": "head_lina.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_butcher",
+      "filename": "weapon_butcher.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

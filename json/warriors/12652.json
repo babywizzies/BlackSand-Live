@@ -1,0 +1,39 @@
+{
+  "id": "12652",
+  "name": "Gabe of Muscle Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12652",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_white",
+      "filename": "companion_raptor_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skindark",
+      "filename": "body_judo_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jules",
+      "filename": "head_jules.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_down",
+      "filename": "rune_down.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

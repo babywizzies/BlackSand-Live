@@ -1,0 +1,34 @@
+{
+  "id": "4103",
+  "name": "Yejide Ranger of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4103",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wildfem",
+      "filename": "body_wildfem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shelley",
+      "filename": "head_shelley.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

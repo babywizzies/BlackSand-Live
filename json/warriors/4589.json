@@ -1,0 +1,39 @@
+{
+  "id": "4589",
+  "name": "Sandra Leveler of X",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4589",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_drone",
+      "filename": "companion_drone.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_gold",
+      "filename": "body_robo_gold.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shana",
+      "filename": "head_shana.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bomb_skull",
+      "filename": "weapon_bomb_skull.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

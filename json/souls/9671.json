@@ -1,0 +1,39 @@
+{
+  "id": "9671",
+  "name": "Ectoplasmic Spectre Nikolas of the Ectoplasmic Horizon",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ecto Spectral Body",
+      "filename": "body_spectre_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ecto Spectre",
+      "filename": "head_spectre_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Skeleton Key",
+      "filename": "item_key_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Water",
+      "filename": "rune_water.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "1370",
+  "name": "Rotten Revenant Gogol of the Mortal Coil",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Tunic",
+      "filename": "body_beltrobe_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Rotten Revenant",
+      "filename": "head_revenant_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Banshee's Bell",
+      "filename": "item_bell_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Uranus",
+      "filename": "rune_uranus.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ladybug Ghost",
+      "filename": "familair_ladybug_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

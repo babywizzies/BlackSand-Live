@@ -1,0 +1,44 @@
+{
+  "id": "469",
+  "name": "Leena Axe of Goblins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/469",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_white_skinmid",
+      "filename": "body_onepiece_white_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tania",
+      "filename": "head_tania.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_gold",
+      "filename": "shield_holy_gold.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_dane",
+      "filename": "weapon_axe_dane.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

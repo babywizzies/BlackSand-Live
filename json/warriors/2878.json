@@ -1,0 +1,39 @@
+{
+  "id": "2878",
+  "name": "Grumel of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2878",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_red_skinmid",
+      "filename": "body_streetpunk_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_garth",
+      "filename": "head_garth.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ramen",
+      "filename": "item_ramen.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "685",
+  "name": "Nitro of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/685",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skinlight",
+      "filename": "body_roadwarrior_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_yan",
+      "filename": "head_yan.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ale",
+      "filename": "item_ale.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

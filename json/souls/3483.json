@@ -1,0 +1,39 @@
+{
+  "id": "3483",
+  "name": "Night Ghoul Xiaosheng of the Asphodel Meadows",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Conquest",
+      "filename": "bg_red_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton in Spandex",
+      "filename": "body_claire_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ghoul of Shade",
+      "filename": "head_ghoul_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Charred Pipe",
+      "filename": "item_pipe_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Brimstone",
+      "filename": "rune_brimstone.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Bunny",
+      "filename": "familiar_bunny_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

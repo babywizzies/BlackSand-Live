@@ -1,0 +1,34 @@
+{
+  "id": "13372",
+  "name": "Aramastus of the Keep",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13372",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_purple",
+      "filename": "companion_goat_purple.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skindark",
+      "filename": "body_roadwarrior_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmethorn_light",
+      "filename": "head_helmethorn_light.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

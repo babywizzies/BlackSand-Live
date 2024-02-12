@@ -1,0 +1,44 @@
+{
+  "id": "4985",
+  "name": " Danger of Snakes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4985",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hornet",
+      "filename": "companion_hornet.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightfire",
+      "filename": "body_knightfire.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_armak",
+      "filename": "head_armak.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_snake",
+      "filename": "shield_snake.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "15693",
+  "name": "Kalon Protector of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15693",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_yellow",
+      "filename": "body_sharp_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet_spike",
+      "filename": "head_helmet_spike.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

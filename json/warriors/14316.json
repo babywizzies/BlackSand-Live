@@ -1,0 +1,39 @@
+{
+  "id": "14316",
+  "name": "Harvey Assasinator of the Street",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14316",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mma_skinlight",
+      "filename": "body_mma_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_chad_skinlight",
+      "filename": "head_chad_skinlight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

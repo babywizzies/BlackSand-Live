@@ -1,0 +1,39 @@
+{
+  "id": "2010",
+  "name": "Goliath Ravager of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2010",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gruffer_skindark",
+      "filename": "body_gruffer_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skindark",
+      "filename": "head_brawler_skindark.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_blue",
+      "filename": "weapon_longsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

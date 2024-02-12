@@ -1,0 +1,44 @@
+{
+  "id": "9380",
+  "name": "Rziya Incinerator of Cataclysm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9380",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bea_skindark",
+      "filename": "body_bea_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mellah",
+      "filename": "head_mellah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_flamethrower",
+      "filename": "weapon_flamethrower.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

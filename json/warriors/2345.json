@@ -1,0 +1,29 @@
+{
+  "id": "2345",
+  "name": "Draco Dicer of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2345",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_red_skinmid",
+      "filename": "body_streetpunk_red_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gunthor",
+      "filename": "head_gunthor.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "4443",
+  "name": "Stone Ruin of Dragons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4443",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gloryKnight_skinlight",
+      "filename": "body_gloryKnight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_john",
+      "filename": "head_john.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

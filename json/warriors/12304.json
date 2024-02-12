@@ -1,0 +1,39 @@
+{
+  "id": "12304",
+  "name": "Herbert Cutter of the Ruins",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12304",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_provoc_purple_skindark",
+      "filename": "body_provoc_purple_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_goblin",
+      "filename": "weapon_axe_goblin.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

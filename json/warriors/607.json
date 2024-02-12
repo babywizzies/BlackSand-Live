@@ -1,0 +1,39 @@
+{
+  "id": "607",
+  "name": "Chuck Shark of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/607",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_penguin",
+      "filename": "companion_penguin.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cyberhalf_skinlight",
+      "filename": "body_cyberhalf_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brawler_skinlight",
+      "filename": "head_brawler_skinlight.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_yellow",
+      "filename": "weapon_boomerang_yellow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

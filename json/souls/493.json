@@ -1,0 +1,39 @@
+{
+  "id": "493",
+  "name": "Rotten Revenant Katherine of Torment Manor",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Vile Skeleton",
+      "filename": "body_skeleton_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Rotten Revenant",
+      "filename": "head_revenant_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Golden Caduceus",
+      "filename": "staff_caduceus_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Water",
+      "filename": "rune_water.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Cat",
+      "filename": "familiar_cat_zombie.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

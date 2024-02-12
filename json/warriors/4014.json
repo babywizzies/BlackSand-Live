@@ -1,0 +1,39 @@
+{
+  "id": "4014",
+  "name": "Millicent Vindicator of the Storm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4014",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fempirateWar",
+      "filename": "body_fempirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shana",
+      "filename": "head_shana.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_might",
+      "filename": "shield_might.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longbow",
+      "filename": "weapon_longbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

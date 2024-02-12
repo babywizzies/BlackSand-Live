@@ -1,0 +1,44 @@
+{
+  "id": "10171",
+  "name": "Maximo Champion of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10171",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_lynx",
+      "filename": "companion_lynx.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_starcleric_blue",
+      "filename": "body_starcleric_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_miguel",
+      "filename": "head_miguel.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

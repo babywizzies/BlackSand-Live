@@ -1,0 +1,44 @@
+{
+  "id": "10049",
+  "name": "Nirvi Stinger of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10049",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_surdarmour_skindark",
+      "filename": "body_surdarmour_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherah",
+      "filename": "head_sherah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_hazard",
+      "filename": "shield_hazard.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_whip",
+      "filename": "weapon_whip.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

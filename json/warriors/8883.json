@@ -1,0 +1,39 @@
+{
+  "id": "8883",
+  "name": "Fuzzo Cutter of Brown-Hat Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8883",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_demonHound",
+      "filename": "companion_demonHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_kobold_red",
+      "filename": "body_kobold_red.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_wambe",
+      "filename": "head_wambe.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_pony",
+      "filename": "shield_pony.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_red",
+      "filename": "weapon_cleaver_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

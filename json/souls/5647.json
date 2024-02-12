@@ -1,0 +1,34 @@
+{
+  "id": "5647",
+  "name": "Wraith Deacon Nazim of the Abandoned Waste",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Corporeal Body",
+      "filename": "body_wraith_four.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Deacon",
+      "filename": "head_wraith_one.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Inverted Horseshoe",
+      "filename": "item_horseshoe_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Resurrected Thylacine",
+      "filename": "familiar_thylacine.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

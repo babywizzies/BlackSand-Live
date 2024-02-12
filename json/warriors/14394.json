@@ -1,0 +1,39 @@
+{
+  "id": "14394",
+  "name": "Kat of the Ice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14394",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_penguin",
+      "filename": "companion_penguin.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_mado",
+      "filename": "body_mado.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sherry",
+      "filename": "head_sherry.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_tuna",
+      "filename": "item_tuna.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

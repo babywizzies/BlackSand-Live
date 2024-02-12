@@ -1,0 +1,39 @@
+{
+  "id": "11116",
+  "name": "Myla of the Plains",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11116",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_buff",
+      "filename": "companion_buff.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_yellow_skindark",
+      "filename": "body_onepiece_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_parah",
+      "filename": "head_parah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_tuna",
+      "filename": "item_tuna.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

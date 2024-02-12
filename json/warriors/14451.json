@@ -1,0 +1,39 @@
+{
+  "id": "14451",
+  "name": "Juno Mercenary of Goblin Town",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14451",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skinlight",
+      "filename": "body_streetpunk_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_athena",
+      "filename": "head_athena.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_gear",
+      "filename": "weapon_sword_gear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

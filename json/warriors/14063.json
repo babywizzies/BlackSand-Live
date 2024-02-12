@@ -1,0 +1,39 @@
+{
+  "id": "14063",
+  "name": "Beezle Dicer of Robots",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14063",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_harpy",
+      "filename": "companion_eagle_harpy.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_robo_blue",
+      "filename": "body_robo_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_spz",
+      "filename": "head_spz.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonsword_blue",
+      "filename": "weapon_dragonsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

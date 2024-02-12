@@ -1,0 +1,34 @@
+{
+  "id": "30",
+  "name": "Eldritch Horror Great Old One Andolini",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Tunic",
+      "filename": "body_beltrobe_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Eldritch Horror",
+      "filename": "head_ctulu_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Bag of Cataclysm",
+      "filename": "item_magicbag_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Monkey",
+      "filename": "familiar_monkey_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "15947",
+  "name": "Oula Cleaver of Demons",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15947",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_beetle_blue",
+      "filename": "companion_beetle_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_rin",
+      "filename": "body_rin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pari",
+      "filename": "head_pari.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_gungnir",
+      "filename": "weapon_gungnir.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "14680",
+  "name": "Rufaro Dueler of Furgnomes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14680",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodfem_skindark",
+      "filename": "body_woodfem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sol",
+      "filename": "head_sol.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_heart",
+      "filename": "shield_heart.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "105",
+  "name": "Rocco Dicer of Joy",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/105",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_greywolf",
+      "filename": "companion_greywolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_male_skinlight",
+      "filename": "body_dom_male_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeremy",
+      "filename": "head_jeremy.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_skullsword",
+      "filename": "weapon_skullsword.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

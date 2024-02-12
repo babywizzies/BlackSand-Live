@@ -1,0 +1,39 @@
+{
+  "id": "3081",
+  "name": "Bralin Grifter of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3081",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_blue",
+      "filename": "companion_raptor_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skinlight",
+      "filename": "body_judo_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glorn",
+      "filename": "head_glorn.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bamboo",
+      "filename": "weapon_bamboo.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

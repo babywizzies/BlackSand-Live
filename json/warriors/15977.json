@@ -1,0 +1,39 @@
+{
+  "id": "15977",
+  "name": "Donley Impaler of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15977",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spikeBarb_skinlight",
+      "filename": "body_spikeBarb_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_speargold",
+      "filename": "weapon_speargold.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

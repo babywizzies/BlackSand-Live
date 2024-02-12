@@ -1,0 +1,39 @@
+{
+  "id": "4008",
+  "name": "Nombeko Stormer of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4008",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_macaw",
+      "filename": "companion_macaw.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skindark",
+      "filename": "body_streetpunk_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_grace",
+      "filename": "head_grace.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonsword_blue",
+      "filename": "weapon_dragonsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5981",
+  "name": "Jeetz Vindicator of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5981",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skindark",
+      "filename": "body_judo_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehelmet",
+      "filename": "head_furgnomehelmet.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortbow",
+      "filename": "weapon_shortbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

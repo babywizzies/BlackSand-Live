@@ -1,0 +1,44 @@
+{
+  "id": "4526",
+  "name": "Andrea Protector of the Realm",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4526",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_tritops_green",
+      "filename": "companion_tritops_green.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_woodfem_skindark",
+      "filename": "body_woodfem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pippa",
+      "filename": "head_pippa.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_lotus",
+      "filename": "shield_lotus.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_pluto",
+      "filename": "rune_pluto.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6435",
+  "name": "Millicent of the Back Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6435",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_white",
+      "filename": "companion_goat_white.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skindark",
+      "filename": "body_streetpunk_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sloanna",
+      "filename": "head_sloanna.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_green",
+      "filename": "item_beer_green.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

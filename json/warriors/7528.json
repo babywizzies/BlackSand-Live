@@ -1,0 +1,39 @@
+{
+  "id": "7528",
+  "name": "Wyatt Antihero of the Road",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/7528",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_baboon",
+      "filename": "companion_baboon.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_brown_skinlight",
+      "filename": "body_streetpunk_brown_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocky",
+      "filename": "head_rocky.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bomb_black",
+      "filename": "weapon_bomb_black.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_neptune",
+      "filename": "rune_neptune.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

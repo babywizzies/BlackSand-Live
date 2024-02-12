@@ -1,0 +1,29 @@
+{
+  "id": "9723",
+  "name": "Damon Shadow of Kobolds",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9723",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_purple",
+      "filename": "body_sharp_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_polarman",
+      "filename": "head_polarman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chakram",
+      "filename": "weapon_chakram.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

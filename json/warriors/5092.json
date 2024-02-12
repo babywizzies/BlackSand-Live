@@ -1,0 +1,39 @@
+{
+  "id": "5092",
+  "name": "Doyle Eidolon of Rats",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5092",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_sharp_purple",
+      "filename": "body_sharp_purple.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_polarman",
+      "filename": "head_polarman.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_blue",
+      "filename": "weapon_longsword_blue.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

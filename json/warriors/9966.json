@@ -1,0 +1,44 @@
+{
+  "id": "9966",
+  "name": "Blake Champion of the Desert",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9966",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hawk",
+      "filename": "companion_hawk.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_yellow_skinlight",
+      "filename": "body_amazon_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pari",
+      "filename": "head_pari.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_blue",
+      "filename": "shield_circle_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_dragonpike_gold",
+      "filename": "weapon_dragonpike_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_venus",
+      "filename": "rune_venus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

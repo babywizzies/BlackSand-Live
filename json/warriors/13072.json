@@ -1,0 +1,39 @@
+{
+  "id": "13072",
+  "name": "Gorgah Bifurcator of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13072",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_mandrill",
+      "filename": "companion_mandrill.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_blue",
+      "filename": "body_auraknight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_helmet",
+      "filename": "head_helmet.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_heart",
+      "filename": "shield_heart.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_chainsaw_blue",
+      "filename": "weapon_chainsaw_blue.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

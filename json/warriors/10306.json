@@ -1,0 +1,34 @@
+{
+  "id": "10306",
+  "name": "Rauros Sword of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10306",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightair",
+      "filename": "body_knightair.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_lion",
+      "filename": "head_lion.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_3tri",
+      "filename": "shield_3tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "8261",
+  "name": "Dozer Dicer of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8261",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_purple",
+      "filename": "bg_purple.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_griffin",
+      "filename": "companion_griffin.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_white",
+      "filename": "body_knight_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_visorman",
+      "filename": "head_visorman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_rainbow",
+      "filename": "weapon_sword_rainbow.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_protection",
+      "filename": "rune_protection.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

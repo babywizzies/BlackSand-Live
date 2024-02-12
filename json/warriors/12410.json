@@ -1,0 +1,39 @@
+{
+  "id": "12410",
+  "name": "Oula Dismantler of Rainbows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12410",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_black",
+      "filename": "companion_raptor_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_fem_skinlight",
+      "filename": "body_dom_fem_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_mello",
+      "filename": "head_mello.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_crowbar",
+      "filename": "weapon_crowbar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

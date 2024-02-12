@@ -1,0 +1,39 @@
+{
+  "id": "2717",
+  "name": "Ruin Vanquisher of Runes",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2717",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_megasuit",
+      "filename": "body_megasuit.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_metabot",
+      "filename": "head_metabot.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

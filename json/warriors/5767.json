@@ -1,0 +1,39 @@
+{
+  "id": "5767",
+  "name": "Erik Guardian of Devils",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5767",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_red",
+      "filename": "companion_raptor_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_auraknight_blue",
+      "filename": "body_auraknight_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_glorn",
+      "filename": "head_glorn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_red",
+      "filename": "shield_widex_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

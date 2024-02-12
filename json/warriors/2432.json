@@ -1,0 +1,44 @@
+{
+  "id": "2432",
+  "name": "Haruko Impaler of the Mountain",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2432",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cassowary",
+      "filename": "companion_cassowary.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_black_skinlight",
+      "filename": "body_onepiece_black_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rin",
+      "filename": "head_rin.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_skullspear",
+      "filename": "weapon_skullspear.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

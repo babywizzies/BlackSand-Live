@@ -1,0 +1,39 @@
+{
+  "id": "3220",
+  "name": "Lich Cyborg Dr. Death of Phantasmagoria",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Conquest",
+      "filename": "bg_red_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Paranormal Phantasmal Body",
+      "filename": "body_phantasm_paranormal.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Cyborog",
+      "filename": "head_lich_vr.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Soul Reaper Scythe",
+      "filename": "staff_scythe_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Earth",
+      "filename": "rune_earth.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Cockatrice Skeleton",
+      "filename": "familiar_cockatrice_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

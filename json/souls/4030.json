@@ -1,0 +1,39 @@
+{
+  "id": "4030",
+  "name": "Grim Ghoul Zubin of the Thorn",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Dark Mantle",
+      "filename": "body_lich_mantle.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Pale Ghoul",
+      "filename": "head_ghoul_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "A dumb stick... on fire",
+      "filename": "item_stick_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Mars",
+      "filename": "rune_mars.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Snake",
+      "filename": "familiar_snake_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

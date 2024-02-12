@@ -1,0 +1,39 @@
+{
+  "id": "12218",
+  "name": "Rizzo Menace of the Fist",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12218",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_drone",
+      "filename": "companion_drone.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_judo_skindark",
+      "filename": "body_judo_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_furgnomehorn",
+      "filename": "head_furgnomehorn.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_axe_cyber",
+      "filename": "weapon_axe_cyber.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_lime",
+      "filename": "rune_lime.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

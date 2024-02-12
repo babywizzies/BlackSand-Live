@@ -1,0 +1,29 @@
+{
+  "id": "1667",
+  "name": "Grave Robbing Kobold of the Hell Chamber",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Corporeal Body",
+      "filename": "body_wraith_four.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Kobold Skull",
+      "filename": "head_woomba_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Shroom",
+      "filename": "item_mushroom_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

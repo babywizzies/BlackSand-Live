@@ -1,0 +1,39 @@
+{
+  "id": "6642",
+  "name": "Ectoplasmic Spectre Thana of the Death Cloud",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ecto Spectral Body",
+      "filename": "body_spectre_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ecto Spectre",
+      "filename": "head_spectre_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Pixie's Dance: the Razzle Spell",
+      "filename": "spell_dazzle_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Lime",
+      "filename": "rune_lime.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Monkey",
+      "filename": "familiar_monkey_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "9993",
+  "name": "Thrug Flagellator of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9993",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_yellow",
+      "filename": "body_shirtarmor_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_ewo",
+      "filename": "head_ewo.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballbat",
+      "filename": "weapon_ballbat.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

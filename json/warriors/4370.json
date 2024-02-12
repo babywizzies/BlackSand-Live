@@ -1,0 +1,44 @@
+{
+  "id": "4370",
+  "name": "Buffy Doom of Giants",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4370",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_black",
+      "filename": "companion_raptor_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_black_skinlight",
+      "filename": "body_onepiece_black_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_buffy",
+      "filename": "head_buffy.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_lotus",
+      "filename": "shield_lotus.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_jade",
+      "filename": "weapon_sword_jade.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,29 @@
+{
+  "id": "1",
+  "name": "Gligamesh",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_meso_skinmid",
+      "filename": "body_meso_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gilgamish",
+      "filename": "head_gilgamish.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_swordBabylon",
+      "filename": "weapon_swordBabylon.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

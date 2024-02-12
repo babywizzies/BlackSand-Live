@@ -1,0 +1,44 @@
+{
+  "id": "8431",
+  "name": "Falkes Champion of Glory",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8431",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_bandArmor_green",
+      "filename": "body_bandArmor_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_knight_green",
+      "filename": "head_knight_green.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sai",
+      "filename": "weapon_sai.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_saturn",
+      "filename": "rune_saturn.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

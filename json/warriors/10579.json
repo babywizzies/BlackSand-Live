@@ -1,0 +1,39 @@
+{
+  "id": "10579",
+  "name": "Aurelia Champion of Wizards",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10579",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_yellow_skinlight",
+      "filename": "body_fem_knight_yellow_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_brianne",
+      "filename": "head_brianne.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_boomerang_yellow",
+      "filename": "weapon_boomerang_yellow.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

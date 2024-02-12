@@ -1,0 +1,34 @@
+{
+  "id": "3263",
+  "name": "Wraith Captain Alizam of the Spooklight",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Vest",
+      "filename": "body_vest_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Captain",
+      "filename": "head_wraith_four.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Candle of Clairvoyance",
+      "filename": "item_candle_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Resurrected Thylacine",
+      "filename": "familiar_thylacine.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6629",
+  "name": "Wraith Knight Setsuko of the Spooklight",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton in Spandex",
+      "filename": "body_claire_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Wraith Knight",
+      "filename": "head_wraith_three.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Skeleton Key",
+      "filename": "item_key_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Fire",
+      "filename": "rune_fire.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "5301",
+  "name": "Donovan Disintegrator of the Cockatrice",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5301",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_cobra_black",
+      "filename": "companion_cobra_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_byzantine",
+      "filename": "body_byzantine.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeff",
+      "filename": "head_jeff.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_kusanagi",
+      "filename": "weapon_kusanagi.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

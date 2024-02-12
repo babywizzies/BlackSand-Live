@@ -1,0 +1,39 @@
+{
+  "id": "1230",
+  "name": "Night Ghoul Iris of the Death Cloud",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton in Spandex",
+      "filename": "body_claire_soul.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ghoul of Shade",
+      "filename": "head_ghoul_purple.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Howl of Cerberus: the Black Flame Spell",
+      "filename": "spell_fire_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Brass",
+      "filename": "rune_brass.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "385",
+  "name": "Hakim Rapscallion of the Citadel",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/385",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_wolverine",
+      "filename": "companion_wolverine.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_roadwarrior_skindark",
+      "filename": "body_roadwarrior_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_armok",
+      "filename": "head_armok.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_knife",
+      "filename": "weapon_knife.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

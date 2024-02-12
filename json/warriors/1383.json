@@ -1,0 +1,39 @@
+{
+  "id": "1383",
+  "name": "Luna Protector of Rainbows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1383",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_fem_skindark",
+      "filename": "body_dom_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_velbeh",
+      "filename": "head_velbeh.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

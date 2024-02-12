@@ -1,0 +1,44 @@
+{
+  "id": "4188",
+  "name": "Nombeko Blaster of Shadows",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4188",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_brown_skindark",
+      "filename": "body_fem_knight_brown_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_maude",
+      "filename": "head_maude.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_ballbat",
+      "filename": "weapon_ballbat.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_earth",
+      "filename": "rune_earth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

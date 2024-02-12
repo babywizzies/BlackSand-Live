@@ -1,0 +1,44 @@
+{
+  "id": "8419",
+  "name": "Jojo of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8419",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_turtle",
+      "filename": "companion_turtle.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_yellow_skindark",
+      "filename": "body_onepiece_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_nala",
+      "filename": "head_nala.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_beer_purple",
+      "filename": "item_beer_purple.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

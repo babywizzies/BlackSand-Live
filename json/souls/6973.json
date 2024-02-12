@@ -1,0 +1,39 @@
+{
+  "id": "6973",
+  "name": "Gangrenous Zombie Thana of the Plague Lands",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Lascivious Body of Sickness",
+      "filename": "body_ghoul_green_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Gangrene Zombie",
+      "filename": "head_zombie_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Cockatrice hatchling",
+      "filename": "item_egg_cockatrice_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Fire",
+      "filename": "rune_fire.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Rat",
+      "filename": "familiar_rat_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

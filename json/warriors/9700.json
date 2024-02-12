@@ -1,0 +1,39 @@
+{
+  "id": "9700",
+  "name": "Brianne of Destiny",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9700",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_red_skindark",
+      "filename": "body_amazon_red_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_velbeh",
+      "filename": "head_velbeh.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_circle_cross_green",
+      "filename": "shield_circle_cross_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_hambone",
+      "filename": "item_hambone.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

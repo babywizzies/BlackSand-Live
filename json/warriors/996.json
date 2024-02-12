@@ -1,0 +1,44 @@
+{
+  "id": "996",
+  "name": "Joan Savior of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/996",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_boar_brown",
+      "filename": "companion_boar_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fembarian_skinlight",
+      "filename": "body_fembarian_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shellah",
+      "filename": "head_shellah.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_horseshoe",
+      "filename": "shield_horseshoe.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

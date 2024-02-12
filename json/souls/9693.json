@@ -1,0 +1,39 @@
+{
+  "id": "9693",
+  "name": "Death Shroom Amanita of the Nightmare Dominion",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pestilence",
+      "filename": "bg_green_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton with Sash",
+      "filename": "body_revenant.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Death Shroom",
+      "filename": "head_mushroom_soul.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Shroom",
+      "filename": "item_mushroom_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Venus",
+      "filename": "rune_venus.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Snake",
+      "filename": "familiar_snake_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "8843",
+  "name": "Bundo Bruiser of Magic",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8843",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_cyberviking",
+      "filename": "body_cyberviking.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_puzu",
+      "filename": "head_puzu.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_fire",
+      "filename": "shield_fire.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_morningstar",
+      "filename": "weapon_morningstar.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_cinnabar",
+      "filename": "rune_cinnabar.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

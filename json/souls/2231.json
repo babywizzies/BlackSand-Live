@@ -1,0 +1,39 @@
+{
+  "id": "2231",
+  "name": "Grim Ghoul Cassius of the Brimstone Havens",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton",
+      "filename": "body_skeleton.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Pale Ghoul",
+      "filename": "head_ghoul_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Trapped Soul Staff",
+      "filename": "staff_ball_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Rune of Souls",
+      "filename": "rune_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "12168",
+  "name": "Dormok Render of the Penthouse",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/12168",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_red",
+      "filename": "companion_jaguar_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_darkAssasin",
+      "filename": "body_darkAssasin.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_rocketman",
+      "filename": "head_rocketman.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_red",
+      "filename": "weapon_longsword_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

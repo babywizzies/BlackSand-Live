@@ -1,0 +1,34 @@
+{
+  "id": "1187",
+  "name": "Buffy Striker of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1187",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femguard_skinlight",
+      "filename": "body_femguard_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_piper",
+      "filename": "head_piper.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_down",
+      "filename": "shield_kite_down.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,44 @@
+{
+  "id": "5425",
+  "name": "Sandy Stormer of the Wild",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5425",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_nightwolf",
+      "filename": "companion_nightwolf.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_amazon_green_skinlight",
+      "filename": "body_amazon_green_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_riona",
+      "filename": "head_riona.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_tri",
+      "filename": "shield_tri.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_red",
+      "filename": "weapon_shortsword_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

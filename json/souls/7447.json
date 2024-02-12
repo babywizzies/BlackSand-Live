@@ -1,0 +1,39 @@
+{
+  "id": "7447",
+  "name": "Lich Marquis Maia of the Shell",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Channel 1 Robe",
+      "filename": "body_poltergeist_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Marquis",
+      "filename": "head_lich_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Shroom",
+      "filename": "item_mushroom_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Sigma",
+      "filename": "rune_steel.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

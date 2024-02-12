@@ -1,0 +1,34 @@
+{
+  "id": "10202",
+  "name": "Valen Adventurer of Scoundrels",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10202",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_gloryKnight_skindark",
+      "filename": "body_gloryKnight_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_willson",
+      "filename": "head_willson.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "5356",
+  "name": "Tracy Champion of the West",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/5356",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_robodog",
+      "filename": "companion_robodog.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_lea_skinlight",
+      "filename": "body_lea_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_pari",
+      "filename": "head_pari.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_samurai",
+      "filename": "shield_samurai.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_falchion_red",
+      "filename": "weapon_sword_falchion_red.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

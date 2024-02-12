@@ -1,0 +1,34 @@
+{
+  "id": "10535",
+  "name": "Barret Champion of the Hall",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10535",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knight_brown",
+      "filename": "body_knight_brown.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shawn",
+      "filename": "head_shawn.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_brown",
+      "filename": "weapon_longsword_brown.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

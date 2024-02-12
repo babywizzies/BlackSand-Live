@@ -1,0 +1,39 @@
+{
+  "id": "14854",
+  "name": "Fia Eidolon of the Sea",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/14854",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fempirateWar",
+      "filename": "body_fempirateWar.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sharyl",
+      "filename": "head_sharyl.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_partisan",
+      "filename": "weapon_partisan.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mercury",
+      "filename": "rune_mercury.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

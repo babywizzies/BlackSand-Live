@@ -1,0 +1,34 @@
+{
+  "id": "697",
+  "name": "Shaded Spectre Sabina of the Ectoplasmic Horizon",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Shade Spectral Body",
+      "filename": "body_spectre_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Shade Spectre",
+      "filename": "head_spectre_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Crook",
+      "filename": "staff_crook_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Resurrected Smilodon Kitten",
+      "filename": "familiar_sabertooth.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

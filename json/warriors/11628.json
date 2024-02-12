@@ -1,0 +1,44 @@
+{
+  "id": "11628",
+  "name": "Masika of the Wood",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11628",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_white_skindark",
+      "filename": "body_fem_knight_white_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shelley",
+      "filename": "head_shelley.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_chevron_yellow",
+      "filename": "shield_chevron_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "item_ale",
+      "filename": "item_ale.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_fire",
+      "filename": "rune_fire.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

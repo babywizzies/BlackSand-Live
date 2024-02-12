@@ -1,0 +1,39 @@
+{
+  "id": "9789",
+  "name": "Zalika Punisher of the Alley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/9789",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_demonHound",
+      "filename": "companion_demonHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_streetpunk_fem_skindark",
+      "filename": "body_streetpunk_fem_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_nala",
+      "filename": "head_nala.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_whip",
+      "filename": "weapon_whip.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_sun",
+      "filename": "rune_sun.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

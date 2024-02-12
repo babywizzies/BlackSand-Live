@@ -1,0 +1,39 @@
+{
+  "id": "248",
+  "name": "Horned Phantasm Uvlius of Phantasmagoria",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasm Sash",
+      "filename": "body_phantasm_sash.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Horned Phantasm",
+      "filename": "head_phantasm_horned.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Medusa's Eye",
+      "filename": "item_eyeball_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Steel",
+      "filename": "rune_sun.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ladybug Ghost",
+      "filename": "familair_ladybug_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

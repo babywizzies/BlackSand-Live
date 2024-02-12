@@ -1,0 +1,34 @@
+{
+  "id": "2493",
+  "name": "Winchester Ravager of Light",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/2493",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_clericknight_skinlight",
+      "filename": "body_clericknight_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_victor",
+      "filename": "head_victor.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_up",
+      "filename": "shield_kite_up.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sabre",
+      "filename": "weapon_sabre.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

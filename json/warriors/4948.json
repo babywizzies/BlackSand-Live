@@ -1,0 +1,39 @@
+{
+  "id": "4948",
+  "name": "Weebe Antagonist of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4948",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_jaguar_yellow",
+      "filename": "companion_jaguar_yellow.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_spartan_silver_skinmid",
+      "filename": "body_spartan_silver_skinmid.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_metabot",
+      "filename": "head_metabot.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_holy_cyber",
+      "filename": "shield_holy_cyber.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_cleaver_green",
+      "filename": "weapon_cleaver_green.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

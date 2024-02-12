@@ -1,0 +1,29 @@
+{
+  "id": "6721",
+  "name": "Puddle Waster of the Arena",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/6721",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_knightair",
+      "filename": "body_knightair.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_womble",
+      "filename": "head_womble.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

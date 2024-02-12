@@ -1,0 +1,34 @@
+{
+  "id": "1208",
+  "name": "Subira Traveler of the Coliseum",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1208",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_fem_knight_purple_skindark",
+      "filename": "body_fem_knight_purple_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_shelley",
+      "filename": "head_shelley.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_white",
+      "filename": "shield_kite_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

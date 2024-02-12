@@ -1,0 +1,44 @@
+{
+  "id": "8153",
+  "name": "Maud Sword of the Grass",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8153",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_rattlesnake",
+      "filename": "companion_rattlesnake.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_yellow_skindark",
+      "filename": "body_onepiece_yellow_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_tora",
+      "filename": "head_tora.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_widex_yellow",
+      "filename": "shield_widex_yellow.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_longsword_white",
+      "filename": "weapon_longsword_white.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_mars",
+      "filename": "rune_mars.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

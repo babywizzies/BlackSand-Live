@@ -1,0 +1,34 @@
+{
+  "id": "1123",
+  "name": "Porter Annihilator of Warlocks",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1123",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_yellow",
+      "filename": "body_shirtarmor_yellow.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_base_skinlight",
+      "filename": "head_base_skinlight.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_bolt",
+      "filename": "shield_bolt.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_shortsword_blue",
+      "filename": "weapon_shortsword_blue.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "10413",
+  "name": "Miles Champion of the Dojo",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/10413",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_panther",
+      "filename": "companion_panther.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_martial_skinlight",
+      "filename": "body_martial_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_jeff",
+      "filename": "head_jeff.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sai",
+      "filename": "weapon_sai.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_protection",
+      "filename": "rune_protection.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

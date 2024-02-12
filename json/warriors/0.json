@@ -1,0 +1,44 @@
+{
+  "id": "0",
+  "name": "The Emissary",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/0",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_goat_black",
+      "filename": "companion_goat_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_plateArmor_black",
+      "filename": "body_plateArmor_black.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_voideth",
+      "filename": "head_voideth.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_eye",
+      "filename": "shield_eye.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_sword_eye_meta",
+      "filename": "weapon_sword_eye_meta.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_omega",
+      "filename": "rune_omega.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

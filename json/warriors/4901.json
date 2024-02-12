@@ -1,0 +1,39 @@
+{
+  "id": "4901",
+  "name": "Maya Guardian of Bugbears",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4901",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wildbone_fem",
+      "filename": "body_wildbone_fem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_marci",
+      "filename": "head_marci.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_magic",
+      "filename": "shield_magic.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_byzantine",
+      "filename": "weapon_spear_byzantine.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

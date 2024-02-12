@@ -1,0 +1,39 @@
+{
+  "id": "3468",
+  "name": "Ectoplasmic Spectre Zolona of the Slime Pits",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Famine",
+      "filename": "bg_blue_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Gangrene Rags",
+      "filename": "body_zombie_green.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Ecto Spectre",
+      "filename": "head_spectre_green.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Bugbear's Flame: the Discombobulation Spell",
+      "filename": "spell_greenflame_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Cinnabar",
+      "filename": "rune_cinnabar.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Skeleton Frog",
+      "filename": "familiar_frog_skeleton.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

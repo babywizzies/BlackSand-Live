@@ -1,0 +1,39 @@
+{
+  "id": "1275",
+  "name": "Channel 3 Poltergeist Basil of the Dread Tower",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Skeleton",
+      "filename": "body_skeleton.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Channel 3 Poltergeist",
+      "filename": "head_poltergeist_grey.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Joker Card",
+      "filename": "item_card_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Uranus",
+      "filename": "rune_uranus.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Cat",
+      "filename": "familiar_cat_zombie.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

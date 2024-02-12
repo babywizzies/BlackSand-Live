@@ -1,0 +1,44 @@
+{
+  "id": "4691",
+  "name": "Ayana Eidolon of the Valley",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/4691",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_red",
+      "filename": "bg_red.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_red",
+      "filename": "companion_raptor_red.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_wildfem",
+      "filename": "body_wildfem.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_sol",
+      "filename": "head_sol.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_sun",
+      "filename": "shield_sun.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_spear_wild",
+      "filename": "weapon_spear_wild.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

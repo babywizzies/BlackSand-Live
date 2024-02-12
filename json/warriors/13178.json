@@ -1,0 +1,39 @@
+{
+  "id": "13178",
+  "name": "Ethan Scissor of Mount Titan",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/13178",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_raptor_black",
+      "filename": "companion_raptor_black.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_suspenders_skinlight",
+      "filename": "body_suspenders_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_barga",
+      "filename": "head_barga.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_buckler",
+      "filename": "shield_buckler.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "6993",
+  "name": "Paranormal Phantasm Sondra of the Fuliginous Fog",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Conquest",
+      "filename": "bg_red_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Phantasm Sash",
+      "filename": "body_phantasm_sash.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Paranormal Phantasm",
+      "filename": "head_phantasm_paranormal.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Death Shroom",
+      "filename": "item_mushroom_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Brass",
+      "filename": "rune_brass.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Frog",
+      "filename": "familiar_frog_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

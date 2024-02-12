@@ -1,0 +1,39 @@
+{
+  "id": "9252",
+  "name": "Lich Marquis Celah of the Worms",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Aristocrat",
+      "filename": "body_twopiecesuit_purple_zombie.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Lich Marquis",
+      "filename": "head_lich_white.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Dragon hatchling",
+      "filename": "item_egg_dragon_soul.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "Soul Rune of Brass",
+      "filename": "rune_brass.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Ghost Slime",
+      "filename": "familiar_slime_ghost.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

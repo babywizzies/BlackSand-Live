@@ -1,0 +1,76 @@
+@keyframes spin1 { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+@keyframes spin2 { 100% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
+
+.oppressorHolder {
+  z-index: 1;
+  position: absolute;
+  /* margin: -110px 196px; */
+  margin: -60px auto;
+  /* width: 100%; */
+  /* overflow: scroll; */
+}
+
+.oppressorAnimator {
+animation: spin2 12s linear infinite;
+}
+
+.oppressor {
+  position: absolute;
+  margin: -110px -100px;
+  height: 200px;
+  width: 200px;
+  /* border-radius: 50%; */
+  animation: spin1 12s linear infinite;
+}
+
+.authenticator {
+  width: 100%;
+  max-width: 400px;
+  padding: 1rem 2rem;
+  /* border-radius: 300px; */
+  border-radius: 24px;
+  text-align: center;
+  margin: 0 0.5rem;
+  line-height: 1.5rem;
+}
+
+.authenticatorHolder {
+  margin-top: 25vh;
+  display: flex;
+  justify-content: center;
+  /* max-width: 400px; */
+}
+
+.h1 {
+  font-size: 40px;
+}
+
+.wonderLogoHolder {
+  position: absolute;
+  opacity: 25%;
+  width: fit-content;
+  left: 50%;
+  bottom: 0;
+  transform:translate(-50%, -25%);
+  align-items: center;
+  display: flex;
+  transition: all 0.5s;
+  padding: 0.2rem;
+  border-radius: 24px;
+  border: 1px solid #141921;
+}
+
+.wonderLogoHolder:hover {
+  opacity: 50%;
+  box-shadow: -2px 15px 15px #141921;
+  transition: all 0.5s;
+}
+
+.wonderLogoHolder:active {
+  opacity: 100%;
+  transition: all 0.25s;
+}
+
+.wonderLogo {
+  width: 50px;
+}

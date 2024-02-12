@@ -1,0 +1,39 @@
+{
+  "id": "11125",
+  "name": "Miles Exploder of the City",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11125",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_green",
+      "filename": "bg_green.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_pitHound",
+      "filename": "companion_pitHound.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_dom_male_skindark",
+      "filename": "body_dom_male_skindark.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_whartel",
+      "filename": "head_whartel.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_bomb_red",
+      "filename": "weapon_bomb_red.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_water",
+      "filename": "rune_water.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

@@ -1,0 +1,34 @@
+{
+  "id": "8210",
+  "name": "Shaded Spectre Apollo of the Bleep",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Shade Spectral Body",
+      "filename": "body_spectre_blue.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Shade Spectre",
+      "filename": "head_spectre_blue.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Soul Reaper Scythe",
+      "filename": "staff_scythe_soul.png"
+    },
+    {
+      "trait_type": "familiar",
+      "value": "Zombie Wolf",
+      "filename": "familiar_wolf_zombie.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

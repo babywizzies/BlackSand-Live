@@ -1,0 +1,44 @@
+{
+  "id": "8906",
+  "name": "Urhamsi Hero of the Sun",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/8906",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_eagle_brown",
+      "filename": "companion_eagle_brown.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_shirtarmor_white",
+      "filename": "body_shirtarmor_white.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_gilgamish",
+      "filename": "head_gilgamish.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_moon",
+      "filename": "shield_moon.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_estoc",
+      "filename": "weapon_estoc.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_uranus",
+      "filename": "rune_uranus.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

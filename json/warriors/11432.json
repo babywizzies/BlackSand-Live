@@ -1,0 +1,44 @@
+{
+  "id": "11432",
+  "name": "Kazuko Battler of all that is Evil",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/11432",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_ratel",
+      "filename": "companion_ratel.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_onepiece_black_skinlight",
+      "filename": "body_onepiece_black_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_catgirl",
+      "filename": "head_catgirl.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_kite_red",
+      "filename": "shield_kite_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_katana",
+      "filename": "weapon_katana.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_jupiter",
+      "filename": "rune_jupiter.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

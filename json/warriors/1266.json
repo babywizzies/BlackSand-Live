@@ -1,0 +1,34 @@
+{
+  "id": "1266",
+  "name": "Bruiser Battler of Komodi",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/1266",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_martial_skinlight",
+      "filename": "body_martial_skinlight.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_bill",
+      "filename": "head_bill.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_doubleblade_gold",
+      "filename": "weapon_doubleblade_gold.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brimstone",
+      "filename": "rune_brimstone.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

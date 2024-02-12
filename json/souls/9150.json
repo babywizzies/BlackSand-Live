@@ -1,0 +1,29 @@
+{
+  "id": "9150",
+  "name": "Putrid Zombie Fark of the Slime Pits",
+  "image": null,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Death",
+      "filename": "bg_black_soul.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "Ethereal Aristocrat",
+      "filename": "body_twopiecesuit_purple_zombie.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "Putrid Zombie",
+      "filename": "head_zombie_red.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "Inverted Horseshoe",
+      "filename": "item_horseshoe_soul.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

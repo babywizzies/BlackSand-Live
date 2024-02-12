@@ -1,0 +1,39 @@
+{
+  "id": "15513",
+  "name": "Corvus Wanderer of Sorrow",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/15513",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_black",
+      "filename": "bg_black.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_magpie",
+      "filename": "companion_magpie.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_femofficer",
+      "filename": "body_femofficer.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_margaret",
+      "filename": "head_margaret.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_rapier",
+      "filename": "weapon_rapier.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_steel",
+      "filename": "rune_steel.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}

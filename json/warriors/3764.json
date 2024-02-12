@@ -1,0 +1,44 @@
+{
+  "id": "3764",
+  "name": "Lorcan Madcap of the Savannah",
+  "image": "https://portal.forgottenrunes.com/api/warriors/img/3764",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "bg_blue",
+      "filename": "bg_blue.png"
+    },
+    {
+      "trait_type": "companion",
+      "value": "companion_hyena",
+      "filename": "companion_hyena.png"
+    },
+    {
+      "trait_type": "body",
+      "value": "body_desert",
+      "filename": "body_desert.png"
+    },
+    {
+      "trait_type": "head",
+      "value": "head_darell",
+      "filename": "head_darell.png"
+    },
+    {
+      "trait_type": "shield",
+      "value": "shield_butterfly",
+      "filename": "shield_butterfly.png"
+    },
+    {
+      "trait_type": "prop",
+      "value": "weapon_needle",
+      "filename": "weapon_needle.png"
+    },
+    {
+      "trait_type": "rune",
+      "value": "rune_brass",
+      "filename": "rune_brass.png"
+    }
+  ],
+  "compiler": null,
+  "background_color": null
+}
