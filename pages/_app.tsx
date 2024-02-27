@@ -5,7 +5,6 @@ import "react-tooltip/dist/react-tooltip.css";
 import type { AppProps } from "next/app";
 import { RainbowKitProvider, getDefaultWallets } from "@rainbow-me/rainbowkit";
 import { configureChains, createClient, WagmiConfig } from "wagmi";
-import { ActorContextProvider } from "../components/actorContext";
 
 import { mainnet, goerli } from "wagmi/chains";
 
@@ -19,7 +18,7 @@ import { AudioContext } from "../context/AudioContext";
 import AudioControl from "../components/AudioControl";
 import { useEffect, useState } from "react";
 
-const HOST = process.env.NEXT_PUBLIC_HOST || "http://localhost:3000";
+const HOST = process.env.NEXT_PUBLIC_HOST || "https://blacksand.app";
 
 const { chains, provider, webSocketProvider } = configureChains(
   [
@@ -59,7 +58,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   }, []);
 
   return (
-    <ActorContextProvider>
+   
       <SWRConfig
         value={{
           fetcher: (resource, init) =>
@@ -98,7 +97,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           </RainbowKitProvider>
         </WagmiConfig>
       </SWRConfig>
-    </ActorContextProvider>
+    
   );
 }
 

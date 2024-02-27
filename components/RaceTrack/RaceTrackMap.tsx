@@ -7,7 +7,7 @@ type Participants = ReturnType<typeof createParticipants>;
 
 let canvasWidth = 1000;
 let canvasHeight = 600;
-let lapPoints = 500;
+let lapPoints = 250;
 let margin = 50;
 const tileSize = 10;
 const noiseScale = 1;
@@ -22,7 +22,7 @@ const bgFrameRate = 5;
 
 function preload(p5: p5) {
   background = [
-    p5.loadImage("./img/race-track-map/Cumberland.png")
+    p5.loadImage("./img/race-track-map/shadows_race_2.png")
   ];
 
   if (!images.length) {
@@ -120,18 +120,14 @@ function createRaceTrack(p5: p5, numPoints: number) {
 function createGrandTourTrack(p5: p5) {
   let points = [];
   
-  points.push(p5.createVector(770, 240));
-  points.push(p5.createVector(570, 130));
-  points.push(p5.createVector(500, 170));
-  points.push(p5.createVector(400, 190));
-  points.push(p5.createVector(170, 140));
-  points.push(p5.createVector(170, 400));
-  points.push(p5.createVector(420, 520));
-  points.push(p5.createVector(600, 500));
-  points.push(p5.createVector(770, 240));
-  points.push(p5.createVector(770, 240));
- 
+  points.push(p5.createVector(850, 50));
+  points.push(p5.createVector(950, 100));
+  points.push(p5.createVector(900, 500));
+  points.push(p5.createVector(420, 550));
+  points.push(p5.createVector(120, 440));
+  points.push(p5.createVector(120, 320));
 
+  points.push(p5.createVector(120, 220));
 
   return points;
 }

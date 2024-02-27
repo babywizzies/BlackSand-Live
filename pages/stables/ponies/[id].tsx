@@ -28,11 +28,11 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
   const data2 = JSON.parse(fs.readFileSync(filePath2, "utf8"));
   const ranking = data2.find((p: any) => p["Pony ID"] === parseInt(id));
   const { data: diceRollData } = await axios.get(
-    `https://blacksand.city/gameengine/dice-rolls`
+    `https://blacksand.app/gameengine/dice-rolls`
   );
   const treatRolls = diceRollData.filter((p: any) => p["id"] === id);
   const engineResponse = await axios.get(
-    `https://blacksand.city/gameengine/engine`
+    `https://blacksand.app/gameengine/engine`
   );
   const engineData: EnginePoints[] = engineResponse.data;
   const enginePoints =

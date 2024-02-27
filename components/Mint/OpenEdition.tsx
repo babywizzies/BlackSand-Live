@@ -17,7 +17,7 @@ import { ConnectButton } from "@rainbow-me/rainbowkit";
 import Image from "next/image";
 
 const contractConfig = {
-  address: "0x9C4437bb194672b5fd75A4731F603cFBa8941505",
+  address: "0x5f43F78b657C9AF9C84B4F4C47f94650F47DadEc",
   abi: contractInterface,
 };
 

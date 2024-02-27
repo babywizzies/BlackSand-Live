@@ -486,7 +486,7 @@ const Paddock = () => {
                       const racerPieces = selectedRacer.split(":");
                      
                       const response = await axios.post(
-                        "https://blacksand.city/api/blacksand/registration/create",
+                        "https://blacksand.app/api/blacksand/registration/create",
                         {
                           id: racerPieces[1],
                           collection: racerPieces[0],
