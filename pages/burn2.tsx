@@ -1,8 +1,9 @@
 import { useState } from 'react';
 import axios from 'axios';
 import type { NextPage } from "next";
-import BurnPony from '../components/burnpony.tsx';
-import BurnMech from '../components/burnmech.tsx';
+import BurnPony from '../components/burnpony'
+import BurnMech from '../components/burnmech';
+import React from 'react';
 
 const BurnPage: NextPage = () => {
   const [ponyName, setPonyName] = useState('');

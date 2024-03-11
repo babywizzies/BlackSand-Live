@@ -1,9 +1,8 @@
 import React, { useEffect, useState, useRef } from "react";
 import { AnimatedSprite, Container, Sprite, Stage } from "@pixi/react";
-
 import useIsMounted from "../../hooks/useIsMounted";
-import ViewPort from "./ViewPort";
-import styles from "../../styles/css/burn.module.css";
+import ViewPort from './ViewPort'
+import styles from '../../styles/css/burn.module.css'
 import { HiOutlineArrowRight } from "react-icons/hi";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import { Polygon } from "pixi.js";

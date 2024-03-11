@@ -1,4 +1,5 @@
 import React from "react";
+import { DisplayObject } from "pixi.js";
 import { Viewport as PixiViewport } from "pixi-viewport";
 import { PixiComponent } from "@pixi/react";
 import { useApp } from "@pixi/react";
@@ -22,7 +23,7 @@ interface PixiComponentProps {
 }
 
 const PixiComponentViewport = PixiComponent("Viewport", {
-  create: (props: PixiComponentProps & Props) => {
+  create: (props: PixiComponentProps & Props): DisplayObject => {
     if (!("events" in props.app.renderer)) {
       //@ts-ignore
       props.app.renderer.addSystem(EventSystem, "events");
@@ -72,7 +73,7 @@ const PixiComponentViewport = PixiComponent("Viewport", {
       .moveCenter(props.worldWidth / 2, props.worldHeight / 2)
       .setZoom(0.5, true);
 
-    return viewport;
+    return viewport as DisplayObject;
   },
   applyProps: (instance, oldProps, newProps) => {
     console.log("applyProps");

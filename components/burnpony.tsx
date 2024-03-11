@@ -1,7 +1,23 @@
 import { useState } from 'react';
 import axios from 'axios';
 
-const BurnPony = ({ apiUrl }) => {
+interface Attribute {
+  trait_type: string;
+  value: string;
+}
+
+type TraitMappings = {
+  pony: { [key: string]: string };
+  clothes: { [key: string]: string };
+  head: { [key: string]: string };
+  mouth: { [key: string]: string };
+};
+
+type BurnPonyProps = {
+  apiUrl: string; // Assuming apiUrl is a string
+};
+
+const BurnPony = ({ apiUrl }: BurnPonyProps) => {
   const [ponyName, setPonyName] = useState('');
   const [ponyId, setPonyId] = useState('');
   const [ponyImage, setPonyImage] = useState('');
@@ -11,7 +27,7 @@ const BurnPony = ({ apiUrl }) => {
       .then(function (response) {
         const { name, attributes } = response.data;
 
-        const traitMappings = {
+        const traitMappings: TraitMappings = {
             pony: {
               soul_pony: 'soul_pony',
               fell_pony: 'soul_fell_pony',
@@ -76,86 +92,86 @@ const BurnPony = ({ apiUrl }) => {
             },
           };
 
-        const traitsToInclude = ['background', 'pony', 'clothes', 'mouth', 'head'];
+          const traitsToInclude = ['background', 'pony', 'clothes', 'mouth', 'head'];
 
-        const buildObject = attributes
-          .filter(attribute => traitsToInclude.includes(attribute.trait_type))
-          .map(attribute => ({
-            name: attribute.trait_type,
-            item: traitMappings[attribute.trait_type] && traitMappings[attribute.trait_type][attribute.value.replace(/ /g, '_').toLowerCase()] || attribute.value,
-          }));
+          const buildObject = attributes
+    .filter((attribute: Attribute) => traitsToInclude.includes(attribute.trait_type))
+    .map((attribute: Attribute) => ({
+      name: attribute.trait_type,
+      item: traitMappings[attribute.trait_type as keyof TraitMappings][attribute.value.replace(/ /g, '_').toLowerCase()] || attribute.value,
+    }));
+  
+          const requestModel = {
+            name: name || ponyName,
+            tokenId: ponyId,
+            buildObject,
+          };
+  
+          axios
+            .post('http://localhost:5555/art', requestModel)
+            .then(function (response) {
+              const storedImageLocation = response.data;
+              const cleanImage = storedImageLocation.replace(/\\/g, '/');
+              setPonyImage(cleanImage + '?rand=' + Math.random());
+            });
+        });
+    };
 
-        const requestModel = {
-          name: name || ponyName,
-          tokenId: ponyId,
-          buildObject,
-        };
-
-        axios
-          .post('http://localhost:5555/art', requestModel)
-          .then(function (response) {
-            const storedImageLocation = response.data;
-            const cleanImage = storedImageLocation.replace(/\\/g, '/');
-            setPonyImage(cleanImage + '?rand=' + Math.random());
-          });
-      });
-  };
-
-  return (
+    return (
     
-    <div className="container">
-      {/* Nav */}
-      <nav className="navbar navbar-light bg-light">
-        <div className="container-fluid">
-          <span className="navbar-brand mb-0 h1">Pony Maker</span>
+      <div className="container">
+        {/* Nav */}
+        <nav className="navbar navbar-light bg-light">
+          <div className="container-fluid">
+            <span className="navbar-brand mb-0 h1">Pony Maker</span>
+          </div>
+        </nav>
+  
+        {/* Body */}
+        <div className="row">
+          <div className="col-md-12">
+            <div className="input-group mb-3">
+              <span className="input-group-text" id="inputGroup-sizing-default">
+                Ponys Name
+              </span>
+              <input
+                type="text"
+                value={ponyName}
+                onChange={(e) => setPonyName(e.target.value)}
+                className="form-control"
+                aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default"
+              />
+            </div>
+  
+            <div className="input-group mb-3">
+              <span className="input-group-text" id="inputGroup-sizing-default">
+                Ponys ID
+              </span>
+              <input
+                type="text"
+                value={ponyId}
+                onChange={(e) => setPonyId(e.target.value)}
+                className="form-control"
+                aria-label="Sizing example input"
+                aria-describedby="inputGroup-sizing-default"
+              />
+            </div>
+  
+            <button onClick={() => handleSubmit()} type="button" className="btn btn-primary">
+              Create
+            </button>
+          </div>
         </div>
-      </nav>
-
-      {/* Body */}
-      <div className="row">
-        <div className="col-md-12">
-          <div className="input-group mb-3">
-            <span className="input-group-text" id="inputGroup-sizing-default">
-              Pony Name
-            </span>
-            <input
-              type="text"
-              value={ponyName}
-              onChange={(e) => setPonyName(e.target.value)}
-              className="form-control"
-              aria-label="Sizing example input"
-              aria-describedby="inputGroup-sizing-default"
-            />
+  
+        <div className="row justify-content-md-center">
+          <div className="col-md-6">
+            <img id="ponyImage" src={ponyImage} height="512" />
           </div>
-
-          <div className="input-group mb-3">
-            <span className="input-group-text" id="inputGroup-sizing-default">
-              Pony ID
-            </span>
-            <input
-              type="text"
-              value={ponyId}
-              onChange={(e) => setPonyId(e.target.value)}
-              className="form-control"
-              aria-label="Sizing example input"
-              aria-describedby="inputGroup-sizing-default"
-            />
-          </div>
-
-          <button onClick={() => handleSubmit()} type="button" className="btn btn-primary">
-            Create
-          </button>
         </div>
       </div>
-
-      <div className="row justify-content-md-center">
-        <div className="col-md-6">
-          <img id="ponyImage" src={ponyImage} height="512" />
-        </div>
-      </div>
-    </div>
-    
-  );
+      
+    );
 };
 
 export default BurnPony;

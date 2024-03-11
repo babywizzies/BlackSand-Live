@@ -1,7 +1,23 @@
 import { useState } from 'react';
 import axios from 'axios';
 
-const BurnMech = ({ apiUrl }) => {
+interface Attribute {
+  trait_type: string;
+  value: string;
+}
+
+type TraitMappings = {
+  pony: { [key: string]: string };
+  clothes: { [key: string]: string };
+  head: { [key: string]: string };
+  mouth: { [key: string]: string };
+};
+
+type BurnMechProps = {
+  apiUrl: string; // Assuming apiUrl is a string
+};
+
+const BurnMech = ({ apiUrl }: BurnMechProps) => {
   const [ponyName, setPonyName] = useState('');
   const [ponyId, setPonyId] = useState('');
   const [ponyImage, setPonyImage] = useState('');
@@ -11,7 +27,7 @@ const BurnMech = ({ apiUrl }) => {
       .then(function (response) {
         const { name, attributes } = response.data;
 
-        const traitMappings = {
+        const traitMappings: TraitMappings = {
             pony: {
               "mecha pony": "soul pony",
               brown_cyborg_pony: "blue_crystal_pony",
@@ -105,11 +121,11 @@ const BurnMech = ({ apiUrl }) => {
         const traitsToInclude = ['background', 'pony', 'clothes', 'mouth', 'head'];
 
         const buildObject = attributes
-          .filter(attribute => traitsToInclude.includes(attribute.trait_type))
-          .map(attribute => ({
-            name: attribute.trait_type,
-            item: traitMappings[attribute.trait_type] && traitMappings[attribute.trait_type][attribute.value.replace(/ /g, '_').toLowerCase()] || attribute.value,
-          }));
+  .filter((attribute: Attribute) => traitsToInclude.includes(attribute.trait_type))
+  .map((attribute: Attribute) => ({
+    name: attribute.trait_type,
+    item: traitMappings[attribute.trait_type as keyof TraitMappings][attribute.value.replace(/ /g, '_').toLowerCase()] || attribute.value,
+  }));
 
         const requestModel = {
           name: name || ponyName,
@@ -133,7 +149,7 @@ const BurnMech = ({ apiUrl }) => {
       {/* Nav */}
       <nav className="navbar navbar-light bg-light">
         <div className="container-fluid">
-          <span className="navbar-brand mb-0 h1">Pony Maker</span>
+          <span className="navbar-brand mb-0 h1">Mech Maker</span>
         </div>
       </nav>
 

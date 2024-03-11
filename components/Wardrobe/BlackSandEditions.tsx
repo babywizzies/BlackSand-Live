@@ -1,6 +1,12 @@
 import React from 'react';
 import styles from "../../styles/css/wardrobe2.module.css"
 
+interface YourItemType {
+  id: string;
+  name: string;
+  // Add other properties as needed
+}
+
 interface BlackSandEditionsItemProps {
     item: YourItemType;  
     handleEquipItem: (itemName: string, type: string) => void;
