@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from "react";
-import { Stage, Sprite, AnimatedSprite } from "@inlet/react-pixi";
+import { Stage, Sprite, AnimatedSprite } from "@pixi/react";
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
 import { GlowFilter } from "@pixi/filter-glow";

@@ -116,7 +116,7 @@ const BurnPony = ({ apiUrl }) => {
         <div className="col-md-12">
           <div className="input-group mb-3">
             <span className="input-group-text" id="inputGroup-sizing-default">
-              Pony's Name
+              Pony Name
             </span>
             <input
               type="text"
@@ -130,7 +130,7 @@ const BurnPony = ({ apiUrl }) => {
 
           <div className="input-group mb-3">
             <span className="input-group-text" id="inputGroup-sizing-default">
-              Pony's ID
+              Pony ID
             </span>
             <input
               type="text"

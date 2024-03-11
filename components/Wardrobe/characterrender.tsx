@@ -1,5 +1,6 @@
 import React from 'react';
-import styles from "../../styles/css/wardrobe2.module.css"
+import Image from 'next/image'; // Import the Image component
+import styles from "../../styles/css/wardrobe2.module.css";
 
 interface Trait {
   trait_type: string;
@@ -21,7 +22,6 @@ const orderTraits = (traits: Trait[]): Trait[] => {
 const generateImagePath = (type: string, value: string, filename?: string | null, collection: string): string => {
   let finalFilename;
 
-  // If filename is provided in the attribute, use the 'warriors' folder
   if (collection === 'warriors') {
     finalFilename = `${filename}`;
     return `/assets/warriors/${finalFilename}`;
@@ -30,23 +30,26 @@ const generateImagePath = (type: string, value: string, filename?: string | null
     finalFilename = `${filename}`;
     return `/assets/souls/${finalFilename}`;
   }
-  // Otherwise, generate the filename based on the trait value
   finalFilename = value.replace(/\s+/g, '_').replace(/'/g, '').toLowerCase().replace(/,/g, '') + '.png';
   return `/assets/${type}/${finalFilename}`;
 };
 
-const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection }) => {  const orderedTraits = orderTraits(traits);
+const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection }) => {
+  const orderedTraits = orderTraits(traits);
 
   return (
     <div className={styles.adventurer_container}>
       {orderedTraits.map((trait, index) => (
-        <div className={styles.adventurer_item}>
-        <img
-          className={styles.adventurer_img}
-          key={index}
-          src={generateImagePath(trait.trait_type, trait.value, trait.filename, collection)}
-          alt={trait.value}
-        />
+        // Add the key prop here
+        <div key={index} className={styles.adventurer_item}>
+          <Image
+            className={styles.adventurer_img}
+            src={generateImagePath(trait.trait_type, trait.value, trait.filename, collection)}
+            alt={trait.value}
+            width={500} // Set appropriate width
+            height={500} // Set appropriate height
+            layout="responsive" // Optional: Adjust layout as needed
+          />
         </div>
       ))}
     </div>

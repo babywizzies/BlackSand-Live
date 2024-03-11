@@ -142,7 +142,7 @@ const BurnMech = ({ apiUrl }) => {
         <div className="col-md-12">
           <div className="input-group mb-3">
             <span className="input-group-text" id="inputGroup-sizing-default">
-              Pony's Name
+              Ponys Name
             </span>
             <input
               type="text"
@@ -156,7 +156,7 @@ const BurnMech = ({ apiUrl }) => {
 
           <div className="input-group mb-3">
             <span className="input-group-text" id="inputGroup-sizing-default">
-              Pony's ID
+              Ponys ID
             </span>
             <input
               type="text"

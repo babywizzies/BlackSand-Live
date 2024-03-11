@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from "react";
-import { Stage, AnimatedSprite, Container, Sprite } from "@inlet/react-pixi";
-import { BlurFilter } from 'pixi.js';
+import { AnimatedSprite, Container, Sprite, Stage } from "@pixi/react";
+
 import useIsMounted from "../../hooks/useIsMounted";
 import ViewPort from "./ViewPort";
 import styles from "../../styles/css/burn.module.css";
@@ -244,7 +244,7 @@ const Burn = () => {
             {tokens.map((token, i) => (
               <CharacterSelect
                 id={token?.token?.tokenId as string}
-                contract={token?.token?.contract}
+                contract={token?.token?.contract || "defaultContractValue"} // Provide a default value
                 key={i}
                 onSelect={handleCharacterSelect}
                 isSelected={selectedCharacter?.id === token?.token?.tokenId}

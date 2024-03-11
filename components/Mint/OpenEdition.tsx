@@ -304,7 +304,7 @@ const Home: NextPage = () => {
           <br/>
           <br/>
         
-          The “Baby Racer's Anthem”  is an Open Edition that showcases the first ever collaboration between two phenomenal artists: <span>Leif Dojang</span> (music) and <span>Acideater</span> (visual). It will be available to mint until <span>October 1, 2023</span> for <span>0.01 eth</span> per token.
+          The “Baby Racers Anthem”  is an Open Edition that showcases the first ever collaboration between two phenomenal artists: <span>Leif Dojang</span> (music) and <span>Acideater</span> (visual). It will be available to mint until <span>October 1, 2023</span> for <span>0.01 eth</span> per token.
           <br/>
           <br/>
           The BlackSand Editions are fully integrated in the BlackSand ecosystem, and will be an ongoing showcase  of some of the incredible work created by the Artists of the BlackSand Academy
