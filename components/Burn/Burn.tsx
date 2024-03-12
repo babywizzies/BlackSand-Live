@@ -334,8 +334,9 @@ const Burn = () => {
        </div>
       </>
       )}
+      <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
       {isSecondStage && (
-        <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
+        
         <Stage
             width={windowSize[0]}
             height={2600}
@@ -351,8 +352,9 @@ const Burn = () => {
           </ViewPort>
           
         </Stage>
-      </div>
+      
       )}
+      </div>
     </div>
 
   );
