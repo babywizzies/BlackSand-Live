@@ -19,7 +19,7 @@ const orderTraits = (traits: Trait[]): Trait[] => {
   return traitOrder.map((order) => traits.find((trait) => trait.trait_type.toLowerCase() === order) || { trait_type: order, value: '' });
 };
 
-const generateImagePath = (type: string, value: string, filename?: string | null, collection: string): string => {
+const generateImagePath = (type: string, value: string, filename: string, collection: string): string => {
   let finalFilename;
 
   if (collection === 'warriors') {
@@ -34,6 +34,7 @@ const generateImagePath = (type: string, value: string, filename?: string | null
   return `/assets/${type}/${finalFilename}`;
 };
 
+
 const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection }) => {
   const orderedTraits = orderTraits(traits);
 
@@ -43,13 +44,14 @@ const CharacterRender: React.FC<CharacterRenderProps> = ({ traits, collection })
         // Add the key prop here
         <div key={index} className={styles.adventurer_item}>
           <Image
-            className={styles.adventurer_img}
-            src={generateImagePath(trait.trait_type, trait.value, trait.filename, collection)}
-            alt={trait.value}
-            width={500} // Set appropriate width
-            height={500} // Set appropriate height
-            layout="responsive" // Optional: Adjust layout as needed
-          />
+  className={styles.adventurer_img}
+  src={generateImagePath(trait.trait_type, trait.value, trait.filename || '', collection)}
+  alt={trait.value}
+  width={500} // Set appropriate width
+  height={500} // Set appropriate height
+  layout="responsive" // Optional: Adjust layout as needed
+/>
+
         </div>
       ))}
     </div>
