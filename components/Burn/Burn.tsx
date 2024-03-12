@@ -146,7 +146,7 @@ const Burn = () => {
   }
 
   return (
-    <>
+
     <div className={styles.container}>
       {burnScreen === BurnScreen.Start && (
         <div className={styles["video-hero"]}>
@@ -262,8 +262,9 @@ const Burn = () => {
                         </button>
         </div>
       )}
+      <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
       {burnScreen === BurnScreen.Portal && !isTransitioning && (
-        <div style={{ position: "relative", overflow: "hidden", height: 600 }}>
+        
         <Stage
             width={windowSize[0]}
             height={2400}
@@ -322,8 +323,9 @@ const Burn = () => {
           </ViewPort>
           
         </Stage>
-      </div>
+      
       )}
+      </div>
       {isTransitioning && !isSecondStage && (
       <>
        <div className={styles.container2}>
@@ -352,12 +354,7 @@ const Burn = () => {
       </div>
       )}
     </div>
-    <input
-          type="number"
-          value={characterNumber}
-          onChange={handleCharacterNumberChange}
-        />
-    </>
+
   );
 };
 
